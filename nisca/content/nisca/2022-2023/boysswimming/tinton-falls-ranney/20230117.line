@@ -1,0 +1,14 @@
+lineup,hdr,3,1563
+lineup,dat,R,RE200,1,jack-renaud-1,daren-chen,allen-zhao,karsten-sima-1,107.14,297
+lineup,dat,R,RE200,2,vincent-sajkowski,matthew-banks,lawrence-royce-1,michael-uzzi,147.09,30
+lineup,dat,I,A200,1,jack-renaud-1,124.47,54,2,lawrence-royce-1,170.3,0,3,vincent-sajkowski,156.15,0
+lineup,dat,I,E200,1,daren-chen,121.97,103
+lineup,dat,I,A50,1,lukas-davis-1,24.9,74,2,karsten-sima-1,24.76,76
+lineup,dat,I,D100,1,lukas-davis-1,64.2,52
+lineup,dat,I,A100,1,karsten-sima-1,59.42,43,2,jack-renaud-1,52.62,85,3,mason-wrigley,88.32,0
+lineup,dat,I,A500,1,vincent-sajkowski,476.08,0,2,allen-zhao,322.02,71
+lineup,dat,R,RA200,1,michael-uzzi,matthew-banks,karsten-sima-1,lukas-davis-1,107.58,198
+lineup,dat,I,B100,1,mason-wrigley,112.58,0,2,daren-chen,60.01,84,3,lawrence-royce-1,97.03,0
+lineup,dat,I,C100,1,matthew-banks,91.33,0,2,allen-zhao,66.55,84
+lineup,dat,R,RA400,1,daren-chen,lukas-davis-1,jack-renaud-1,allen-zhao,208.1,312
+lineup,dat,R,RA400,2,vincent-sajkowski,matthew-banks,michael-uzzi,lawrence-royce-1,290.64,0

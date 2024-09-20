@@ -1,0 +1,15 @@
+lineup,hdr,3,2616
+lineup,dat,R,RE200,1,dmitry-halaburda,aaron-w-lee,aaron-g-lee,james-lombardi-2,99.39,375
+lineup,dat,R,RE200,2,julian-lo,matteo-fabbricatore,michael-kretov,vincent-fazio,117.1,216
+lineup,dat,I,A200,1,dmitry-halaburda,120.36,66,2,matteo-fabbricatore,123.06,58,3,reuben-kinsbruner,143.49,6
+lineup,dat,I,E200,1,raymond-leung,126.75,88,2,aaron-g-lee,142.88,43,3,nathan-chertog,159.19,6
+lineup,dat,I,A50,1,max-niu,24.9,74,2,julian-lo,25.25,69
+lineup,dat,I,D100,1,aaron-w-lee,54.5,108,2,lasha-tchigladze,80.73,0
+lineup,dat,I,A100,1,james-lombardi-2,55.62,65,2,max-niu,55.8,64,3,vincent-fazio,58.91,45
+lineup,dat,I,A500,1,dmitry-halaburda,318.86,75,2,samuel-pass,413.74,0
+lineup,dat,R,RA200,1,james-lombardi-2,raymond-leung,aaron-g-lee,aaron-w-lee,95.21,315
+lineup,dat,R,RA200,2,michael-kretov,vincent-fazio,matteo-fabbricatore,max-niu,105.4,216
+lineup,dat,I,B100,1,raymond-leung,59.88,85,2,michael-kretov,64.69,62,3,julian-lo,65.59,58
+lineup,dat,I,C100,1,james-lombardi-2,59,128,2,matteo-fabbricatore,68.5,74,3,paul-bordieri,84.93,8
+lineup,dat,R,RA400,1,aaron-w-lee,aaron-g-lee,raymond-leung,dmitry-halaburda,236.17,177
+lineup,dat,R,RA400,2,vincent-fazio,julian-lo,michael-kretov,max-niu,246.27,135

@@ -1,0 +1,15 @@
+lineup,hdr,3,1939
+lineup,dat,R,RE200,1,greg-farnum,joey-lu,brian-mulligan-604459,ian-ensuncho,104.01,327
+lineup,dat,R,RE200,2,tristan-sherritt,ben-lu,michael-gemelli,evan-tortora,124.69,159
+lineup,dat,I,A200,1,brian-mulligan-604459,115.8,81,2,tristan-sherritt,126.76,47,3,alexander-jimenez-2,151.75,0
+lineup,dat,I,E200,1,joey-lu,139.08,52,2,evan-tortora,152.69,20
+lineup,dat,I,A50,1,ian-ensuncho,23.62,93,2,michael-gemelli,27.15,45,3,cuya-khan,30.11,13
+lineup,dat,I,D100,1,ian-ensuncho,59.38,77,2,michael-gemelli,71.94,18,3,ben-lu,74.15,9
+lineup,dat,I,A100,1,greg-farnum,51.48,93,2,cuya-khan,69.84,0,3,abhijoy-shome,72.91,0
+lineup,dat,I,A500,1,greg-farnum,316.52,78,2,evan-tortora,380.73,12,3,alexander-jimenez-2,401.66,0
+lineup,dat,R,RA200,1,brian-mulligan-604459,joey-lu,ian-ensuncho,greg-farnum,96.64,300
+lineup,dat,R,RA200,2,abhijoy-shome,william-bush-1,cuya-khan,alexander-jimenez-2,119.43,111
+lineup,dat,I,B100,1,brian-mulligan-604459,60.39,82,2,tristan-sherritt,68.42,47
+lineup,dat,I,C100,1,joey-lu,63.78,99,2,ben-lu,73.06,53,3,william-bush-1,81.88,18
+lineup,dat,R,RA400,1,evan-tortora,alexander-jimenez-2,tristan-sherritt,ben-lu,254.53,105
+lineup,dat,R,RA400,2,michael-gemelli,william-bush-1,abhijoy-shome,cuya-khan,291.77,0

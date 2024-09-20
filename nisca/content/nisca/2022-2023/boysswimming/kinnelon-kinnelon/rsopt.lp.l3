@@ -1,0 +1,13 @@
+lineup,hdr,3,1606.0
+lineup,dat,I,A200,1,david-zoltek,109.96,101.0,2.0,john-papendick,111.88,94.0,3,denbleyker-sully,128.44,43.0
+lineup,dat,I,E200,1,connelly-max,123.88,97.0,2.0,will-kilponen,124.94,94.0,3,benjamin-papendick,126.09,90.0
+lineup,dat,I,A50,1,marco-lucci,23.14,101.0,2.0,curreri-william,24.03,87.0,3,denbleyker-sully,25.3,68.0
+lineup,dat,I,D100,1,will-kilponen,52.38,123.0,2.0,ron-feldman,67.19,38.0,3,kyle-barsch,67.92,34.0
+lineup,dat,I,A100,1,david-zoltek,49.82,106.0,2.0,john-papendick,51.15,96.0,3,curreri-william,57.56,53.0
+lineup,dat,I,A500,1,everett-feinhals,383.31,10.0,,,,,,,,
+lineup,dat,I,B100,1,benjamin-papendick,60.21,83.0,2.0,ron-feldman,72.34,32.0,3,noah-montalvo,75.37,22.0
+lineup,dat,I,C100,1,connelly-max,58.25,133.0,2.0,marco-lucci,66.65,83.0,3,everett-feinhals,81.9,18.0
+relay,hdr,1605.0
+relay,RA200YM,2,connelly-max,marco-lucci,john-papendick,david-zoltek,91.56,354.0,kyle-barsch,ron-feldman,everett-feinhals,denbleyker-sully,107.08,204.0,558.0
+relay,RE200YM,2,will-kilponen,connelly-max,benjamin-papendick,marco-lucci,102.14,345.0,noah-montalvo,curreri-william,kyle-barsch,everett-feinhals,118.95,201.0,546.0
+relay,RA400YM,2,david-zoltek,john-papendick,benjamin-papendick,will-kilponen,203.7,336.0,curreri-william,kyle-barsch,ron-feldman,denbleyker-sully,238.92,165.0,501.0

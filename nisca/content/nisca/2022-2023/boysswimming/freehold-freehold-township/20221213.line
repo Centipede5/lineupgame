@@ -1,0 +1,14 @@
+lineup,hdr,3,1861
+lineup,dat,R,RE200,1,alexander-berlinski,kevin-carr-1,dom-cardace,thomas-myler,110.03,273
+lineup,dat,I,A200,1,michael-carter-3,119.94,67,2,kevin-oshea-1,136.65,22,3,joseph-musto,167.94,0
+lineup,dat,I,E200,1,kevin-carr-1,128.29,83,2,evan-richelson,157.82,9
+lineup,dat,I,A50,1,thomas-myler,22.47,112,2,tyler-scher,25.87,61,3,jeremy-carr,29.75,16
+lineup,dat,I,D100,1,dom-cardace,62.37,61,2,jacob-dill,68.39,32
+lineup,dat,I,A100,1,alexander-berlinski,53.52,79,2,thomas-myler,53.22,81,3,tyler-scher,64.5,16
+lineup,dat,I,A500,1,michael-carter-3,340.26,51,2,kevin-oshea-1,409,0,3,evan-richelson,390.13,4
+lineup,dat,R,RA200,1,tyler-scher,dom-cardace,kevin-carr-1,michael-carter-3,103.91,231
+lineup,dat,R,RA200,2,jacob-dill,evan-richelson,jeremy-carr,kevin-oshea-1,116.03,135
+lineup,dat,I,B100,1,alexander-berlinski,63.15,69,2,jacob-dill,72.45,32,3,sahil-maher,87.25,0
+lineup,dat,I,C100,1,kevin-carr-1,68,76,2,dom-cardace,69.5,69,3,jeremy-carr,77.84,33
+lineup,dat,R,RA400,1,michael-carter-3,tyler-scher,alexander-berlinski,thomas-myler,230.75,201
+lineup,dat,R,RA400,2,kevin-oshea-1,evan-richelson,jacob-dill,sahil-maher,271.34,48

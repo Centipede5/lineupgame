@@ -1,0 +1,14 @@
+lineup,hdr,3,330
+lineup,dat,R,RE200,1,camryn-lewis,emma-swenson,emma-straub,stephanie-guan,148.75,63
+lineup,dat,R,RE200,2,risha-dinesh,nishka-maheshwari,anastasia-lee,priya-vishnoi,222.29,0
+lineup,dat,I,A200,1,stephanie-guan,184.41,0,2,risha-dinesh,201.56,0,3,anastasia-lee,223.89,0
+lineup,dat,I,E200,1,camryn-lewis,166.67,15,2,evelyn-chung,223.6,0
+lineup,dat,I,A50,1,emma-straub,29.37,50,2,nishka-maheshwari,43.51,0,3,priya-vishnoi,49.07,0
+lineup,dat,I,D100,1,emma-swenson,90.24,0,2,anastasia-lee,132.04,0
+lineup,dat,I,A100,1,evelyn-chung,88.44,0,2,dviti-patel,94.39,0
+lineup,dat,I,A500,1,emma-straub,401.77,11,2,stephanie-guan,517.28,0
+lineup,dat,R,RA200,1,camryn-lewis,stephanie-guan,emma-swenson,emma-straub,129.37,108
+lineup,dat,R,RA200,2,priya-vishnoi,anastasia-lee,dviti-patel,evelyn-chung,185.58,0
+lineup,dat,I,B100,1,camryn-lewis,71.53,44,2,risha-dinesh,101.16,0,3,dviti-patel,112.96,0
+lineup,dat,I,C100,1,emma-swenson,83.66,39,2,nishka-maheshwari,114.34,0
+lineup,dat,R,RA400,1,risha-dinesh,nishka-maheshwari,dviti-patel,evelyn-chung,430.8,0

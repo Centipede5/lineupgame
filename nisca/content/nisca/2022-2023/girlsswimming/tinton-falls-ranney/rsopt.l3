@@ -1,0 +1,16 @@
+lineup,hdr,3,447
+lineup,dat,I,A200,1,kylie-newton,135.84,50
+lineup,dat,I,E200,1,micheala-darcy,142.34,78,2,alexandra-pressuti,164.91,19
+lineup,dat,I,A50,1,julia-stobie-1,29.12,53,2,izzy-chagares,30.06,41,3,elle-brandt,33.81,1
+lineup,dat,I,D100,1,micheala-darcy,65.65,79,2,ava-ansell,83.3,5
+lineup,dat,I,A100
+lineup,dat,I,A500,1,kylie-newton,366.23,46
+lineup,dat,I,B100,1,julia-stobie-1,72.53,40,2,jackie-pohl-1,78.25,14
+lineup,dat,I,C100,1,alexandra-pressuti,88.45,21
+relay,hdr,558
+relay,RE200YF,2,jackie-pohl-1,micheala-darcy,kylie-newton,julia-stobie-1,117.03,3.1200000000000000e+02,maddie-renaud,izzy-chagares,sophia-behar,yasmeen-kahn,145.89,8.1000000000000000e+01
+relay,RA200YF,2,sophia-behar,ava-garcia,jackie-pohl-1,micheala-darcy,131.01,9.6000000000000000e+01,ava-ansell,alexandra-pressuti,izzy-chagares-1,yasmeen-kahn,134.83,6.9000000000000000e+01
+relay,hdr,843
+relay,RE200YF,2,jackie-pohl-1,micheala-darcy,kylie-newton,julia-stobie-1,117.03,3.1200000000000000e+02,maddie-renaud,izzy-chagares,sophia-behar,yasmeen-kahn,145.89,8.1000000000000000e+01
+relay,RA200YF,2,ava-ansell,ava-garcia,jackie-pohl-1,izzy-chagares,130.79,9.9000000000000000e+01,elle-brandt,sophia-behar,alexandra-pressuti,ilana-kasner,137.95,5.1000000000000000e+01
+relay,RA400YF,1,jackie-pohl-1,micheala-darcy,kylie-newton,julia-stobie-1,230.6,3.0000000000000000e+02

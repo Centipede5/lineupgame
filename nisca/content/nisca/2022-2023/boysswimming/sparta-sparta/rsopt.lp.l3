@@ -1,0 +1,13 @@
+lineup,hdr,3,279.0
+lineup,dat,I,A200,1,jack-mcgurrin,132.88,31.0,2.0,max-russell-1,140.12,13.0,,,,
+lineup,dat,I,E200,1,jelphis-joaquin,149.69,27.0,2.0,matthew-flanz,156.69,11.0,,,,
+lineup,dat,I,A50,1,jeremy-cruise,29.99,14.0,2.0,josh-levine-603031,30.73,7.0,3.0,nick-panaite,31.0,4.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,max-russell-1,63.36,22.0,2.0,dylan-lee-5,65.2,13.0,,,,
+lineup,dat,I,A500,1,jack-mcgurrin,358.42,32.0,,,,,,,,
+lineup,dat,I,B100,1,jelphis-joaquin,70.34,39.0,2.0,dylan-lee-5,78.93,11.0,,,,
+lineup,dat,I,C100,1,matthew-flanz,77.09,36.0,2.0,michael-gaines-4,81.75,19.0,,,,
+relay,hdr,435.0
+relay,RA400YM,1,jelphis-joaquin,max-russell-1,jack-mcgurrin,matthew-flanz,238.23,168.0,,,,,,,168.0
+relay,RA200YM,1,jack-mcgurrin,max-russell-1,jeremy-cruise,michael-gaines-4,112.41,162.0,,,,,,,162.0
+relay,RE200YM,1,dylan-lee-5,michael-gaines-4,jelphis-joaquin,jeremy-cruise,133.56,105.0,,,,,,,105.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,753.0
+lineup,dat,I,A200,1,peter-jarzab,114.02,87.0,,,,,,,,
+lineup,dat,I,E200,1,gabriel-dudley,159.43,6.0,,,,,,,,
+lineup,dat,I,A50,1,amadeusz-komajda,26.03,59.0,2.0,adam-zieba,28.99,24.0,3,dylan-garcia-1,28.97,24.0
+lineup,dat,I,D100,1,peter-jarzab,55.21,103.0,2.0,filip-salek,58.38,83.0,,,,
+lineup,dat,I,A100,1,marleigh-mcdonald,61.44,32.0,2.0,amadeusz-komajda,61.63,31.0,3,alejandro-quesada,62.0,29.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,gabriel-ferreira-541290,60.2,83.0,2.0,marleigh-mcdonald,70.3,39.0,3,gabriela-martinez,80.22,7.0
+lineup,dat,I,C100,1,filip-salek,61.84,110.0,2.0,alejandro-quesada,77.18,36.0,,,,
+relay,hdr,798.0
+relay,RA200YM,2,gabriel-ferreira-541290,amadeusz-komajda,peter-jarzab,filip-salek,99.78,267.0,andrew-velarde,adam-zieba,alejandro-quesada,dylan-garcia-1,119.62,111.0,378.0
+relay,RE200YM,2,marleigh-mcdonald,alejandro-quesada,filip-salek,gabriel-ferreira-541290,115.36,228.0,gabriela-martinez,amadeusz-komajda,andrew-velarde,dylan-garcia-1,137.34,81.0,309.0
+relay,RA400YM,1,marleigh-mcdonald,gabriel-ferreira-541290,simon-malek,peter-jarzab,252.76,111.0,,,,,,,111.0

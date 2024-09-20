@@ -1,0 +1,15 @@
+lineup,hdr,3,2657
+lineup,dat,R,RE200,1,eric-zhu-2,allen-liu-1,felix-wu,aj-benowitz,108.8,285
+lineup,dat,R,RE200,2,keith-huang,andrew-machurov,sean-chen-2,austin-ing,114.49,237
+lineup,dat,I,A200,1,garrett-umbach,122.94,58,2,austin-ing,128.49,42,3,arunank-bhattacharya,152.53,0
+lineup,dat,I,E200,1,peter-obrien,134.69,64,2,andrew-machurov,140.24,49,3,cole-eastep,147.12,32
+lineup,dat,I,A50,1,dylan-ing,23.83,90,2,brenden-zheng,26.46,53,3,kevin-may-1,28.73,27
+lineup,dat,I,D100,1,felix-wu,59.61,76,2,garrett-umbach,62.95,58,3,sean-chen-2,67.45,36
+lineup,dat,I,A100,1,cole-eastep,56.2,61,2,peter-obrien,57.69,52,3,kaiwen-zhou,64.95,14
+lineup,dat,I,A500,1,aj-benowitz,325.67,67,2,benjamin-furry,327.69,65,3,aaron-furry,367.11,24
+lineup,dat,R,RA200,1,eric-zhu-2,cole-eastep,garrett-umbach,dylan-ing,100.84,258
+lineup,dat,R,RA200,2,allen-liu-1,kaiwen-zhou,brenden-zheng,felix-wu,108.64,189
+lineup,dat,I,B100,1,eric-zhu-2,59.83,85,2,keith-huang,63.54,67,3,jinu-chun,72.42,32
+lineup,dat,I,C100,1,allen-liu-1,63.5,100,2,andrew-machurov,67.36,79,3,austin-ing,71.94,58
+lineup,dat,R,RA400,1,cole-eastep,aj-benowitz,garrett-umbach,dylan-ing,225.38,225
+lineup,dat,R,RA400,2,keith-huang,austin-ing,andrew-machurov,peter-obrien,236.85,174

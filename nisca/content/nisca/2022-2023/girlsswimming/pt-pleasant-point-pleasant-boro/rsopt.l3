@@ -1,0 +1,13 @@
+lineup,hdr,3,535
+lineup,dat,I,A200,1,ivy-slavinski,120.49,100,2,olivia-bruno-3,151.36,9,3,jessica-delong,153.32,5
+lineup,dat,I,E200
+lineup,dat,I,A50,1,riley-minnig,27.14,80,2,kelly-doles,29.82,44,3,nicolette-connors,31.45,25
+lineup,dat,I,D100
+lineup,dat,I,A100,1,ivy-slavinski,56.51,95,2,riley-minnig,61.8,58,3,leah-gerdes,63.73,46
+lineup,dat,I,A500,1,jessica-delong,413.41,1
+lineup,dat,I,B100,1,olivia-bruno-3,74.56,30
+lineup,dat,I,C100,1,kiley-hill,86.91,27,2,kelly-doles,90.01,15
+relay,hdr,765
+relay,RE200YF,2,olivia-bruno-3,kelly-doles,ivy-slavinski,riley-minnig,127.06,2.1900000000000000e+02,robyn-kajewski,kiley-hill,jessica-delong,nicolette-connors,139.39,1.2300000000000000e+02
+relay,RA200YF,2,eden-saenz,kelly-doles,kiera-michigan,riley-minnig,103.51,3.4200000000000000e+02,grace-pistolakis,carrie-rothman,sarah-schrader,hannah-ricker,145.42,3.0000000000000000e+00
+relay,RA400YF,2,grace-pistolakis,kiera-michigan,carrie-rothman,hannah-ricker,283.17,5.4000000000000000e+01,olivia-bruno-3,eden-saenz,kiley-hill,ivy-slavinski,290.79,2.4000000000000000e+01

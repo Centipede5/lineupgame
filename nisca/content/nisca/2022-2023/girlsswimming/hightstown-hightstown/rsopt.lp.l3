@@ -1,0 +1,13 @@
+lineup,hdr,3,618.0
+lineup,dat,I,A200,1,riya-patel-502109,147.66,18.0,2.0,kelly-lindner,149.71,13.0,,,,
+lineup,dat,I,E200,1,andrea-lopez-2,148.0,61.0,2.0,ashmi-mehta,166.21,16.0,,,,
+lineup,dat,I,A50,1,brianna-saragih,25.14,112.0,2.0,jazmin-urgiles,28.63,59.0,3,kelly-lindner,28.66,59.0
+lineup,dat,I,D100,1,ashmi-mehta,78.2,23.0,2.0,aaneya-patel,79.23,19.0,,,,
+lineup,dat,I,A100,1,elizabeth-molinelli,57.94,84.0,2.0,samantha-acque,66.76,28.0,3,riya-patel-502109,69.0,16.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,elizabeth-molinelli,77.92,64.0,2.0,samantha-acque,82.12,46.0,,,,
+relay,hdr,591.0
+relay,RE200YF,2,elizabeth-molinelli,samantha-acque,andrea-lopez-2,brianna-saragih,133.59,168.0,prisha-patel-1,ashmi-mehta,riya-patel-502109,kelly-lindner,148.61,63.0,231.0
+relay,RA200YF,2,aaneya-patel,samantha-acque,andrea-lopez-2,brianna-saragih,125.45,138.0,prisha-patel-1,kelly-lindner,jazmin-urgiles,ashmi-mehta,135.49,66.0,204.0
+relay,RA400YF,2,elizabeth-molinelli,brianna-saragih,riya-patel-502109,andrea-lopez-2,266.02,123.0,lillian-fleming,samantha-tenezaca-sasaguay,melannie-acuria,aaneya-patel,288.75,33.0,156.0

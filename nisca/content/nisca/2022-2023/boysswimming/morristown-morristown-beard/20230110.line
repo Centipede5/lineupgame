@@ -1,0 +1,14 @@
+lineup,hdr,3,1021
+lineup,dat,R,RE200,1,john-hannah,colin-faraher,william-lestrange,charlie-gibbs,114.9,231
+lineup,dat,I,A200,1,ian-patchett,131.4,35,2,nicholas-hanna-1,146.29,0,3,noah-gehrmann,163.58,0
+lineup,dat,I,E200,1,william-lestrange,138.88,53
+lineup,dat,I,A50,1,charlie-gibbs,27,47,2,ronnie-schreier,34.71,0
+lineup,dat,I,D100,1,colin-faraher,54.64,107
+lineup,dat,I,A100,1,william-lestrange,55.5,66,2,noah-gehrmann,69.44,0,3,ronnie-schreier,80.29,0
+lineup,dat,I,A500,1,ian-patchett,366.56,24,2,ethan-kothavale,458.11,0
+lineup,dat,R,RA200,1,charlie-gibbs,nicholas-hanna-1,john-hannah,ian-patchett,110.92,171
+lineup,dat,R,RA200,2,noah-gehrmann,ronnie-schreier,christopher-yermack,daniel-raimer,131.31,39
+lineup,dat,I,B100,1,nicholas-hanna-1,73.81,27
+lineup,dat,I,C100,1,colin-faraher,66.14,86,2,daniel-raimer,91.4,0,3,ethan-kothavale,112.13,0
+lineup,dat,R,RA400,1,william-lestrange,ian-patchett,nicholas-hanna-1,colin-faraher,246.36,135
+lineup,dat,R,RA400,2,charlie-gibbs,ronnie-schreier,christopher-yermack,john-hannah,296.45,0

@@ -1,0 +1,13 @@
+lineup,hdr,3,518.0
+lineup,dat,I,A200,1,aidan-denham,118.96,70.0,,,,,,,,
+lineup,dat,I,E200,1,daniel-listor,122.9,100.0,,,,,,,,
+lineup,dat,I,A50,1,daniel-vaquez-1,25.1,71.0,2.0,max-rosen-5,26.0,59.0,3,phil-kerwin,28.76,27.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,max-rosen-5,60.32,38.0,2.0,daniel-vaquez-1,63.6,21.0,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,daniel-listor,59.04,128.0,2.0,phil-kerwin,86.3,4.0,,,,
+relay,hdr,687.0
+relay,RA200YM,2,aidan-denham,ryan-spencer,max-rosen-5,daniel-listor,94.21,324.0,cristian-hernandez-3,ayush-sinha,nate-kowalewski,phil-kerwin,126.9,63.0,387.0
+relay,RE200YM,1,daniel-vaquez-1,daniel-listor,aidan-denham,ryan-spencer,117.7,210.0,,,,,,,210.0
+relay,RA400YM,1,max-rosen-5,ayush-sinha,cristian-hernandez-3,aidan-denham,258.52,90.0,,,,,,,90.0

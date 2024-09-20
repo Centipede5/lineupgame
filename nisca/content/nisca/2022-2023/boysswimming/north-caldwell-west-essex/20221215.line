@@ -1,0 +1,15 @@
+lineup,hdr,3,1211
+lineup,dat,R,RE200,1,visruth-kanchamreddy,colin-ko,matthew-czerwinski,leonardo-palescandolo,111.87,258
+lineup,dat,R,RE200,2,ishan-goti-1,jonah-ng,aidan-scalera,paul-khitiri,135.1,96
+lineup,dat,I,A200,1,jack-holinstat,158.41,0,2,john-moss-1,170.08,0,3,dominick-turano,192.33,0
+lineup,dat,I,E200,1,colin-ko,134.16,66,2,ishan-goti-1,179.14,0,3,aidan-scalera,183.3,0
+lineup,dat,I,A50,1,leonardo-palescandolo,26.03,59,2,paul-khitiri,32.1,0
+lineup,dat,I,D100,1,matthew-czerwinski,57.71,87,2,visruth-kanchamreddy,67.38,37
+lineup,dat,I,A100,1,paul-khitiri,77.69,0,2,luke-romano-1,73.81,0
+lineup,dat,I,A500,1,jack-holinstat,454.24,0,2,john-moss-1,479.55,0
+lineup,dat,R,RA200,1,colin-ko,visruth-kanchamreddy,leonardo-palescandolo,matthew-czerwinski,102.46,243
+lineup,dat,R,RA200,2,aidan-scalera,ishan-goti-1,joseph-bogert,paul-khitiri,122.84,90
+lineup,dat,I,B100,1,matthew-czerwinski,64.83,61,2,joseph-bogert,84.69,0,3,aidan-scalera,79.27,10
+lineup,dat,I,C100,1,colin-ko,63,103,2,leonardo-palescandolo,73.39,51,3,visruth-kanchamreddy,73.56,50
+lineup,dat,R,RA400,1,joseph-bogert,john-moss-1,jack-holinstat,luke-romano-1,296.98,0
+lineup,dat,R,RA400,2,dominick-turano,marcus-wojcik,christopher-keenan,william-keenan,340.09,0

@@ -1,0 +1,15 @@
+lineup,hdr,3,3015
+lineup,dat,R,RE200,1,owen-markowitz,will-crall,ian-bell,jasper-schnieders-smith,103.08,336
+lineup,dat,R,RE200,2,eric-yao-1,ted-crall,leon-sarkissian,david-rodin,119.12,201
+lineup,dat,I,A200,1,will-wong,114.72,84,2,alejandro-rodriguez-596231,120.4,66,3,brody-linenberg,125.36,51
+lineup,dat,I,E200,1,will-crall,123.78,97,2,brett-matlosz,130.86,75,3,eric-yao-1,137.96,55
+lineup,dat,I,A50,1,jasper-schnieders-smith,23.52,95,2,ian-bell,24.41,81,3,leon-sarkissian,26.88,48
+lineup,dat,I,D100,1,owen-markowitz,53.05,118,2,ted-crall,59.1,79,3,leon-sarkissian,77.3,0
+lineup,dat,I,A100,1,ian-bell,54.84,70,2,brett-matlosz,53.85,77,3,kabir-srivastav,76.67,0
+lineup,dat,I,A500,1,will-wong,322.58,71,2,alejandro-rodriguez-596231,341.67,49,3,brody-linenberg,345.02,46
+lineup,dat,R,RA200,1,ted-crall,jasper-schnieders-smith,brett-matlosz,ian-bell,96.18,303
+lineup,dat,R,RA200,2,leon-sarkissian,will-wong,alejandro-rodriguez-596231,brody-linenberg,102.95,240
+lineup,dat,I,B100,1,owen-markowitz,55.38,110,2,eric-yao-1,64.98,61,3,david-rodin,79.13,10
+lineup,dat,I,C100,1,will-crall,64.77,93,2,ted-crall,67.95,76,3,kabir-srivastav,92.23,0
+lineup,dat,R,RA400,1,brett-matlosz,will-wong,owen-markowitz,will-crall,218.85,255
+lineup,dat,R,RA400,2,eric-yao-1,david-rodin,brody-linenberg,alejandro-rodriguez-596231,238.13,168

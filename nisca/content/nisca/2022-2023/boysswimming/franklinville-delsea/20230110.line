@@ -1,0 +1,14 @@
+lineup,hdr,3,1225
+lineup,dat,R,RE200,1,ryan-hampton,vincenzo-macrino,thomas-fry,john-weyhmiller,118.52,204
+lineup,dat,I,A200,1,vincent-cervini,129.35,40,2,judah-sausman,133.43,30,3,darren-reis,144.36,4
+lineup,dat,I,E200,1,thomas-fry,158.29,8,2,vincenzo-macrino,165.45,0
+lineup,dat,I,A50,1,john-weyhmiller,27,47,2,josh-seiler,28.09,34,3,evan-smith-13,30.6,8
+lineup,dat,I,D100,1,thomas-fry,62.06,63,2,john-weyhmiller,77.73,0
+lineup,dat,I,A100,1,ryan-hampton,55.84,64,2,darren-reis,62.74,25,3,logan-cordero,78.09,0
+lineup,dat,I,A500,1,vincent-cervini,349.82,41,2,judah-sausman,374.97,17
+lineup,dat,R,RA200,1,thomas-fry,vincenzo-macrino,vincent-cervini,judah-sausman,104.87,222
+lineup,dat,R,RA200,2,josh-seiler,logan-cordero,evan-smith-13,darren-reis,120.55,105
+lineup,dat,I,B100,1,ryan-hampton,62.53,72,2,josh-seiler,64.06,65
+lineup,dat,I,C100,1,vincenzo-macrino,80.51,23,2,malachi-harden,104.28,0
+lineup,dat,R,RA400,1,ryan-hampton,john-weyhmiller,judah-sausman,vincent-cervini,241.95,153
+lineup,dat,R,RA400,2,darren-reis,evan-smith-13,josh-seiler,logan-cordero,292.53,0

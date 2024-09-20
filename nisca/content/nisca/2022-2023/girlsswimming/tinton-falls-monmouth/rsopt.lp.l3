@@ -1,0 +1,13 @@
+lineup,hdr,3,647.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,elisabeth-weiss,145.94,67.0,2.0,allison-nickerson,147.84,62.0,,,,
+lineup,dat,I,A50,1,ashley-smith,27.68,72.0,2.0,alexa-vassor,27.93,69.0,3.0,kaitlin-hintelmann,32.47,14.0
+lineup,dat,I,D100,1,allison-nickerson,63.91,88.0,,,,,,,,
+lineup,dat,I,A100,1,ashley-smith,60.36,67.0,2.0,alexa-vassor,63.19,49.0,3.0,julia-basch,68.48,19.0
+lineup,dat,I,A500,1,elisabeth-weiss,346.19,69.0,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,julia-basch,76.55,71.0,,,,,,,,
+relay,hdr,570.0
+relay,RE200YF,1,alexa-vassor,elisabeth-weiss,allison-nickerson,ashley-smith,118.33,300.0,,,,,,,300.0
+relay,RA400YF,1,allison-nickerson,alexa-vassor,ashley-smith,elisabeth-weiss,248.25,204.0,,,,,,,204.0
+relay,RA200YF,1,kaitlin-hintelmann,hadarah-deabreu,andreina-chipana,julia-basch,135.28,66.0,,,,,,,66.0

@@ -1,0 +1,17 @@
+lineup,hdr,3,1752
+lineup,dat,I,A200,1,sabrina-reed,128.16,73,2,savana-levi,132.58,59,3,katie-kaminsky,135,52
+lineup,dat,I,E200,1,grace-lee-6,132.31,110,2,meghan-rourke,133.51,106,3,elle-st-pierre,149.38,58
+lineup,dat,I,A50,1,emma-paccione,26.25,94,2,sanja-radan,27.41,76,3,rylee-hulack,27.66,73
+lineup,dat,I,D100,1,meghan-rourke,59.62,113,2,sabrina-reed,64.43,85,3,alexa-guevara,69.02,62
+lineup,dat,I,A100,1,jessie-wolf,54.41,112,2,emma-paccione,58.9,78,3,rebecca-hoffer,62.72,52
+lineup,dat,I,A500,1,jessie-wolf,330.41,89,2,savana-levi,357.65,56,3,zainab-mahrach,381.05,31
+lineup,dat,I,B100,1,grace-lee-6,61.97,99,2,katie-kaminsky,69.67,54,3,grace-mckenna-1,71.98,42
+lineup,dat,I,C100,1,elle-st-pierre,76.22,72,2,grace-mckenna-1,79.92,55,3,sanja-radan,80.78,51
+relay,hdr,1605
+relay,RE200YF,2,jessie-wolf,meghan-rourke,grace-lee-6,savana-levi,116.23,3.2100000000000000e+02,katie-kaminsky,elle-st-pierre,sabrina-reed,anna-bryan-jones,124.44,2.4300000000000000e+02
+relay,RA200YF,2,sanja-radan,grace-lee-6,emma-paccione,meghan-rourke,103.28,3.4500000000000000e+02,rebecca-hoffer,anna-bryan-jones,rylee-hulack,jessie-wolf,111.3,2.6100000000000000e+02
+relay,RA400YF,2,katie-kaminsky,emma-paccione,rylee-hulack,rylee-hulack,238.34,2.5800000000000000e+02,gabriella-hoffman,zainab-mahrach,allison-reilly-1,candice-massimi,254.14,1.7700000000000000e+02
+relay,hdr,1617
+relay,RE200YF,2,katie-kaminsky,ava-kearl,sabrina-reed,grace-lee-6,124.15,2.4600000000000000e+02,candice-massimi,grace-mckenna-1,alexa-guevara,rylee-hulack,127.74,2.1300000000000000e+02
+relay,RA200YF,2,sanja-radan,grace-lee-6,emma-paccione,meghan-rourke,103.28,3.4500000000000000e+02,rebecca-hoffer,anna-bryan-jones,rylee-hulack,jessie-wolf,111.3,2.6100000000000000e+02
+relay,RA400YF,2,sabrina-reed,rebecca-hoffer,jessie-wolf,meghan-rourke,231.46,2.9400000000000000e+02,katie-kaminsky,emma-paccione,rylee-hulack,rylee-hulack,238.34,2.5800000000000000e+02

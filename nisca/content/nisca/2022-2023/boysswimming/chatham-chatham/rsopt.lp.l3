@@ -1,0 +1,13 @@
+lineup,hdr,3,2543.0
+lineup,dat,I,A200,1,charlie-kulp,102.93,129.0,2.0,simon-strysak,110.53,99.0,3,jack-kulp,111.61,95.0
+lineup,dat,I,E200,1,eric-hoie,119.33,113.0,2.0,jack-bigham,119.48,112.0,3,adi-kattumuri,135.44,62.0
+lineup,dat,I,A50,1,atticus-chang,22.12,118.0,2.0,ransom-chang,22.9,105.0,3,charles-powers,23.27,99.0
+lineup,dat,I,D100,1,charlie-kulp,50.57,136.0,2.0,ryan-snarr,51.07,133.0,3,ryan-oday-1,52.03,125.0
+lineup,dat,I,A100,1,eric-hoie,48.87,114.0,2.0,charles-powers,52.21,88.0,3,tirian-chang,52.43,87.0
+lineup,dat,I,A500,1,simon-strysak,296.18,105.0,2.0,jack-kulp,303.87,94.0,3,andrew-gaba,311.12,85.0
+lineup,dat,I,B100,1,ryan-oday-1,53.71,120.0,2.0,ryan-snarr,56.87,101.0,3,tirian-chang,57.81,96.0
+lineup,dat,I,C100,1,jack-bigham,60.1,121.0,2.0,atticus-chang,62.67,105.0,3,ransom-chang,63.46,101.0
+relay,hdr,2070.0
+relay,RE200YM,2,ryan-oday-1,jack-bigham,ryan-snarr,atticus-chang,96.9,402.0,tirian-chang,ransom-chang,charles-powers,dylan-mulligan,104.95,318.0,720.0
+relay,RA400YM,2,eric-hoie,ryan-snarr,jack-bigham,charlie-kulp,197.31,372.0,simon-strysak,jack-kulp,ryan-oday-1,tirian-chang,208.09,312.0,684.0
+relay,RA200YM,2,eric-hoie,atticus-chang,charles-powers,charlie-kulp,90.21,369.0,ransom-chang,dylan-mulligan,adi-kattumuri,simon-strysak,96.95,297.0,666.0

@@ -1,0 +1,12 @@
+lineup,hdr,3,534
+lineup,dat,I,A200
+lineup,dat,I,E200
+lineup,dat,I,A50,1,gabriel-burgos,23.46,96,2,ethan-sumiquiab,26.65,51,3,aidan-maxemow,28.63,28
+lineup,dat,I,D100,1,arian-betances,62.82,59,2,patrick-abesamis,71.06,21
+lineup,dat,I,A100,1,ryu-javate,54.7,71,2,gabriel-burgos,61.64,31,3,ethan-sumiquiab,61.69,30
+lineup,dat,I,A500
+lineup,dat,I,B100,1,ryu-javate,61.18,78,2,arian-betances,64.12,65,3,laila-tomlinson,81.12,4
+lineup,dat,I,C100
+relay,hdr,531
+relay,RE200YM,2,frances-batulan,ryu-javate,arian-betances,gabriel-burgos,123.66,1.6800000000000000e+02,aidan-maxemow,ethan-sumiquiab,patrick-abesamis,nguyen-adam,141.34,6.0000000000000000e+01
+relay,RA200YM,2,ethan-sumiquiab,arian-betances,gabriel-burgos,ryu-javate,103.56,2.3400000000000000e+02,aidan-maxemow,adam-nguyen-2,gabriel-bernui,patrick-abesamis,125.91,6.9000000000000000e+01

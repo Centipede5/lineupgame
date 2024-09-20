@@ -1,0 +1,13 @@
+lineup,hdr,3,435.0
+lineup,dat,I,A200,1,abigail-simko,126.19,49.0,2.0,cooper-eastlack,141.6,10.0,,,,
+lineup,dat,I,E200,1,april-avila,133.38,68.0,,,,,,,,
+lineup,dat,I,A50,1,ryan-mcdonald,27.8,37.0,2.0,tyler-mcaleer-1,28.96,24.0,3,andrew-bergin,30.48,9.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,emma-harverson,63.29,22.0,2.0,ryan-mcdonald,64.69,16.0,3,cooper-eastlack,65.08,14.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,abigail-simko,66.81,53.0,2.0,emma-harverson,71.09,36.0,,,,
+lineup,dat,I,C100,1,april-avila,66.36,85.0,2.0,tyler-mcaleer-1,84.98,8.0,3,katelyn-lee-551549,86.24,4.0
+relay,hdr,429.0
+relay,RE200YM,2,abigail-simko,april-avila,katelyn-lee-551549,andrew-bergin,130.15,126.0,emma-harverson,tyler-mcaleer-1,ryan-mcdonald,makayla-laxton,142.76,54.0,180.0
+relay,RA400YM,1,abigail-simko,cooper-eastlack,emma-harverson,april-avila,244.56,141.0,,,,,,,141.0
+relay,RA200YM,1,cooper-eastlack,makayla-laxton,michael-monte-carlo,ryan-mcdonald,119.89,108.0,,,,,,,108.0

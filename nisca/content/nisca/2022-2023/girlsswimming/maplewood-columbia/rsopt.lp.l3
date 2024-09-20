@@ -1,0 +1,13 @@
+lineup,hdr,3,1478.0
+lineup,dat,I,A200,1,feinberg-julia,129.66,68.0,2.0,ellie-broughton,135.78,50.0,3,stella-williams,144.62,26.0
+lineup,dat,I,E200,1,secher-lilah,143.26,75.0,2.0,feinberg-julia,146.27,66.0,3,sophia-jones,152.47,49.0
+lineup,dat,I,A50,1,emma-robinson-654428,26.12,96.0,2.0,kamaria-graham,28.13,66.0,3,norah-brown,30.38,37.0
+lineup,dat,I,D100,1,secher-lilah,59.07,117.0,2.0,ava-lee-2,63.54,90.0,3,sophia-jones,67.03,72.0
+lineup,dat,I,A100,1,sofia-kopytek,59.07,76.0,2.0,ellie-broughton,61.95,57.0,3,emerson-meda,66.23,31.0
+lineup,dat,I,A500,1,amina-jones,334.75,83.0,2.0,stella-williams,381.11,31.0,3,emerson-meda,393.16,19.0
+lineup,dat,I,B100,1,ava-lee-2,64.87,81.0,2.0,sofia-kopytek,66.06,74.0,3,margot-rosenband,75.45,26.0
+lineup,dat,I,C100,1,amina-jones,72.84,89.0,2.0,emma-robinson-654428,75.45,76.0,3,tabby-barnes,87.89,23.0
+relay,hdr,1323.0
+relay,RA200YF,2,ava-lee-2,emma-robinson-654428,sofia-kopytek,amina-jones,107.02,306.0,ellie-broughton,emerson-meda,maya-ezell,tabby-barnes,112.27,252.0,558.0
+relay,RE200YF,2,secher-lilah,emma-robinson-654428,ava-lee-2,amina-jones,117.08,312.0,tabby-barnes,mila-wyrick-1,kamaria-graham,emina-dedovic,137.62,135.0,447.0
+relay,RA400YF,2,sophia-jones,secher-lilah,ellie-broughton,feinberg-julia,249.26,201.0,maya-ezell,sofia-kopytek,tabby-barnes,kamaria-graham,267.61,117.0,318.0

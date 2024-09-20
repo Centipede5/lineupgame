@@ -1,0 +1,14 @@
+lineup,hdr,3,2478
+lineup,dat,R,RE200,1,johnathon-cheng,matthew-young-3,anthony-cheng-1,cole-asplund-1,110.92,264
+lineup,dat,R,RE200,2,jack-reilly-5,henry-fisher,zach-lenge,ryan-rourke,127.44,141
+lineup,dat,I,A200,1,harrison-lee-652405,109.98,101,2,matthew-young-3,124.23,54
+lineup,dat,I,E200,1,ethan-young-5,131.19,74,2,anthony-cheng-1,127.96,84
+lineup,dat,I,A50,1,cole-asplund-1,24.03,87,2,zach-lenge,25.24,69,3,ryan-rourke,27.88,36
+lineup,dat,I,D100,1,harrison-lee-652405,53.03,118,2,ethan-young-5,56.22,96
+lineup,dat,I,A100,1,johnathon-cheng,49.85,106,2,cole-asplund-1,54.03,76,3,zach-lenge,57.71,52
+lineup,dat,I,A500,1,henry-fisher,339.21,52,2,jake-hascup,462.4,0
+lineup,dat,R,RA200,1,zach-lenge,cole-asplund-1,harrison-lee-652405,ethan-young-5,97.5,291
+lineup,dat,R,RA200,2,ryan-rourke,matthew-young-3,anthony-cheng-1,henry-fisher,103.44,234
+lineup,dat,I,B100,1,johnathon-cheng,55.65,108
+lineup,dat,I,C100,1,anthony-cheng-1,64.45,95,2,matthew-young-3,66.22,85,3,jake-hascup,91.41,0
+lineup,dat,R,RA400,1,harrison-lee-652405,johnathon-cheng,henry-fisher,ethan-young-5,219.22,255

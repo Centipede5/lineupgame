@@ -1,0 +1,12 @@
+lineup,hdr,3,263.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,drew-bancroft,140.41,49.0,,,,,,,,
+lineup,dat,I,A50,1,anthony-white-4,27.42,42.0,2.0,liam-murphy-10,28.53,29.0,3,ismael-gavino,30.7,7.0
+lineup,dat,I,D100,1,drew-bancroft,63.65,54.0,,,,,,,,
+lineup,dat,I,A100,1,anthony-white-4,62.47,26.0,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,liam-murphy-10,76.41,18.0,,,,,,,,
+lineup,dat,I,C100,1,william-ruiz-1,76.48,38.0,,,,,,,,
+relay,hdr,279.0
+relay,RE200YM,1,liam-murphy-10,william-ruiz-1,drew-bancroft,anthony-white-4,127.65,141.0,,,,,,,141.0
+relay,RA200YM,2,drew-bancroft,liam-murphy-10,anthony-white-4,jacob-peraza-1,120.58,102.0,william-ruiz-1,ismael-gavino,drake-mabasa,baney-montoya,131.71,36.0,138.0

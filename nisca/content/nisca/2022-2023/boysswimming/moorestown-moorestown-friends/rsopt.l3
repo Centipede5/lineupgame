@@ -1,0 +1,12 @@
+lineup,hdr,3,235
+lineup,dat,I,A200,1,julia-brown-3,135.69,24
+lineup,dat,I,E200,1,logan-shields-1,144,40,2,aarav-shah-1,151.06,23
+lineup,dat,I,A50
+lineup,dat,I,D100,1,julia-brown-3,66.84,39
+lineup,dat,I,A100,1,ava-ellis-2,62.46,26
+lineup,dat,I,A500
+lineup,dat,I,B100
+lineup,dat,I,C100,1,aarav-shah-1,75.29,43,2,logan-shields-1,76.11,40
+relay,hdr,282
+relay,RE200YM,1,aarav-shah-1,julia-brown-3,ava-ellis-2,logan-shields-1,123.42,1.6800000000000000e+02
+relay,RA400YM,1,julia-brown-3,ava-ellis-2,aarav-shah-1,logan-shields-1,252.24,1.1400000000000000e+02

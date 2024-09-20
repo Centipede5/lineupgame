@@ -1,0 +1,17 @@
+lineup,hdr,3,488
+lineup,dat,I,A200,1,michael-charney,142.66,8
+lineup,dat,I,E200
+lineup,dat,I,A50,1,evan-torres-3,23.78,91,2,ronnie-navas,24.51,80,3,thomas-kulesza,25.01,72
+lineup,dat,I,D100
+lineup,dat,I,A100,1,evan-torres-3,58.7,47,2,thomas-kulesza,59.54,42,3,matias-chiafalo,65.92,10
+lineup,dat,I,A500
+lineup,dat,I,B100,1,kevin-gosnell,67.31,51
+lineup,dat,I,C100,1,ronnie-navas,77.09,36,2,kevin-gosnell,78.34,31,3,mikael-fernandez,81.39,20
+relay,hdr,780
+relay,RE200YM,2,kevin-gosnell,ronnie-navas,mikael-fernandez,evan-torres-3,119.56,1.9800000000000000e+02,joshua-gutierrez-1,antonio-velez,matias-chiafalo,matheo-santos,137.77,8.1000000000000000e+01
+relay,RA200YM,2,kevin-gosnell,ronnie-navas,thomas-kulesza,evan-torres-3,102,2.4600000000000000e+02,matheo-santos,joshua-gutierrez-1,antonio-velez,mikael-fernandez,113.02,1.5600000000000000e+02
+relay,RA400YM,2,leo-tantalean,colin-capobianco,matheo-santos,antonio-velez,269.86,5.1000000000000000e+01,thomas-kulesza,mikael-fernandez,matias-chiafalo,michael-charney,270.93,4.8000000000000000e+01
+relay,hdr,783
+relay,RE200YM,2,kevin-gosnell,ronnie-navas,thomas-kulesza,mikael-fernandez,120.87,1.8600000000000000e+02,joshua-gutierrez-1,antonio-velez,matias-chiafalo,matheo-santos,137.77,8.1000000000000000e+01
+relay,RA200YM,2,kevin-gosnell,ronnie-navas,thomas-kulesza,evan-torres-3,102,2.4600000000000000e+02,matheo-santos,joshua-gutierrez-1,antonio-velez,mikael-fernandez,113.02,1.5600000000000000e+02
+relay,RA400YM,1,matias-chiafalo,evan-torres-3,michael-charney,antonio-velez,252.1,1.1400000000000000e+02

@@ -1,0 +1,16 @@
+lineup,hdr,3,82
+lineup,dat,I,A200
+lineup,dat,I,E200
+lineup,dat,I,A50,1,angela-schembri,30.32,38
+lineup,dat,I,D100
+lineup,dat,I,A100,1,angela-schembri,64.06,44
+lineup,dat,I,A500
+lineup,dat,I,B100
+lineup,dat,I,C100
+relay,hdr,198
+relay,RE200YF,1,nora-malone,yuumi-matsuda,angela-schembri,kelly-hinnigan,144,9.3000000000000000e+01
+relay,RA200YF,1,kelly-hinnigan,yuumi-matsuda,nora-malone,angela-schembri,129.94,1.0500000000000000e+02
+relay,hdr,207
+relay,RE200YF,1,nora-malone,yuumi-matsuda,angela-schembri,kelly-hinnigan,144,9.3000000000000000e+01
+relay,RA200YF,1,kelly-hinnigan,yuumi-matsuda,nora-malone,madison-oh,131.46,9.3000000000000000e+01
+relay,RA400YF,1,kelly-hinnigan,madison-oh,nora-malone,angela-schembri,292.25,2.1000000000000000e+01

@@ -1,0 +1,6 @@
+lineup,hdr,3,152.0
+lineup,dat,I,A200,1,nour-jomaa,133.01,31.0,,,,,,,,
+lineup,dat,I,E200,1,frank-coste,133.15,69.0,,,,,,,,
+lineup,dat,I,A50,1,joshua-henry-1,28.34,31.0,2.0,adrian-wilson,29.5,19.0,3,alexander-wilson-2,31.28,2.0
+relay,hdr,504.0
+relay,RE200YM,2,joshua-henry-1,nour-jomaa,matthew-rhodes,frank-coste,103.51,333.0,adrian-wilson,alexander-wilson-2,nicholas-hawran,theodore-balan,123.18,171.0,504.0

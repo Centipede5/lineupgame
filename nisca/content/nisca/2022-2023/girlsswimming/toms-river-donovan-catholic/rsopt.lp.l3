@@ -1,0 +1,13 @@
+lineup,hdr,3,673.0
+lineup,dat,I,A200,1,leah-krompholz,139.1,40.0,2.0,caroline-felser,152.69,6.0,,,,
+lineup,dat,I,E200,1,victoria-calella,164.05,21.0,,,,,,,,
+lineup,dat,I,A50,1,kaylee-mcdermott,26.77,86.0,2.0,julianna-pineda,27.55,74.0,3,emma-conroy-1,28.15,66.0
+lineup,dat,I,D100,1,olivia-armstrong-1,75.42,34.0,2.0,bridget-felser,76.55,30.0,3,shantel-starling,84.54,1.0
+lineup,dat,I,A100,1,julianna-pineda,61.01,63.0,2.0,emma-conroy-1,62.1,56.0,3,leah-krompholz,63.46,47.0
+lineup,dat,I,A500,1,elena-markatos,394.58,18.0,,,,,,,,
+lineup,dat,I,B100,1,sophia-markatos,66.91,69.0,2.0,elena-markatos,74.27,31.0,3,victoria-calella,74.37,31.0
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,945.0
+relay,RA200YF,2,kaylee-mcdermott,leah-krompholz,emma-conroy-1,sophia-markatos,115.31,222.0,caroline-felser,elena-markatos,julianna-pineda,bridget-felser,123.4,153.0,375.0
+relay,RE200YF,2,sophia-markatos,julianna-pineda,elena-markatos,kaylee-mcdermott,126.38,225.0,victoria-calella,caroline-felser,olivia-armstrong-1,bridget-felser,138.92,126.0,351.0
+relay,RA400YF,2,emma-conroy-1,leah-krompholz,kaylee-mcdermott,sophia-markatos,253.8,180.0,victoria-calella,olivia-armstrong-1,bridget-felser,caroline-felser,287.71,39.0,219.0

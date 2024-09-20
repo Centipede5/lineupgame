@@ -1,0 +1,15 @@
+lineup,hdr,3,3179
+lineup,dat,R,RE200,1,caden-wong,ethan-wong-1,troy-mayer,jack-wargaski,103.05,336
+lineup,dat,R,RE200,2,alexander-kasper-1,jake-couto,andrew-couto,ali-iloglu,113.33,246
+lineup,dat,I,A200,1,troy-mayer,113.4,89,2,william-maciejewski,121.13,64,3,lucas-straviou,127.48,45
+lineup,dat,I,E200,1,caden-wong,123.2,99,2,ali-iloglu,131.31,74,3,luke-ahern,148.29,30
+lineup,dat,I,A50,1,jack-wargaski,23.53,94,2,andrew-couto,24.58,79,3,jake-couto,25.16,70
+lineup,dat,I,D100,1,ethan-wong-1,53.73,113,2,alexander-kasper-1,62.68,59,3,andrew-couto,62.61,60
+lineup,dat,I,A100,1,troy-mayer,50.22,103,2,jack-wargaski,54.57,72,3,matt-williams-14,58.15,50
+lineup,dat,I,A500,1,caden-wong,309.42,87,2,ali-iloglu,335.72,56,3,william-maciejewski,347.72,43
+lineup,dat,R,RA200,1,jack-wargaski,ethan-wong-1,andrew-couto,caden-wong,94.78,318
+lineup,dat,R,RA200,2,jake-couto,trey-barnum,tommy-turney,william-maciejewski,105.08,219
+lineup,dat,I,B100,1,alexander-kasper-1,61.32,78,2,lucas-straviou,64.52,63,3,matt-williams-14,68.81,45
+lineup,dat,I,C100,1,ethan-wong-1,61.62,111,2,jake-couto,74.63,46,3,luke-ahern,82.58,16
+lineup,dat,R,RA400,1,troy-mayer,ali-iloglu,william-maciejewski,alexander-kasper-1,221.75,240
+lineup,dat,R,RA400,2,luke-ahern,lucas-straviou,tommy-turney,matt-williams-14,236.93,174

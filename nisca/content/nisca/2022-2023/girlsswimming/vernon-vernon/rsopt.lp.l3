@@ -1,0 +1,13 @@
+lineup,hdr,3,445.0
+lineup,dat,I,A200,1,maureen-lovett,135.4,51.0,2.0,juliette-miller,154.08,3.0,,,,
+lineup,dat,I,E200,1,rylee-keenan,167.53,13.0,,,,,,,,
+lineup,dat,I,A50,1,sophia-randazzo-1,28.88,56.0,2.0,juliette-miller,31.94,20.0,3,carly-amorosi,31.94,20.0
+lineup,dat,I,D100,1,vanessa-cefaloni,75.92,32.0,2.0,rylee-keenan,80.58,15.0,,,,
+lineup,dat,I,A100,1,gabriella-cefaloni,64.23,43.0,2.0,victoria-annunziata,68.3,20.0,3,julie-evanick,71.25,5.0
+lineup,dat,I,A500,1,maureen-lovett,363.54,49.0,,,,,,,,
+lineup,dat,I,B100,1,vanessa-cefaloni,74.05,32.0,2.0,gabriella-cefaloni,74.45,31.0,3,samantha-werner,79.34,10.0
+lineup,dat,I,C100,1,sophia-randazzo-1,84.42,36.0,2.0,victoria-annunziata,91.85,9.0,,,,
+relay,hdr,570.0
+relay,RA200YF,2,vanessa-cefaloni,sophia-randazzo-1,julie-evanick,maureen-lovett,122.53,162.0,victoria-annunziata,ryleigh-bernier,devin-arnold,carly-amorosi,131.29,96.0,258.0
+relay,RE200YF,2,gabriella-cefaloni,sophia-randazzo-1,vanessa-cefaloni,carly-amorosi,137.4,138.0,samantha-werner,victoria-annunziata,rylee-keenan,devin-arnold,146.06,78.0,216.0
+relay,RA400YF,2,maureen-lovett,juliette-miller,rylee-keenan,gabriella-cefaloni,275.67,84.0,carly-amorosi,devin-arnold,christina-ciannella,samantha-werner,294.78,12.0,96.0

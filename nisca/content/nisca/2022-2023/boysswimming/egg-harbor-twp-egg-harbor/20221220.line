@@ -1,0 +1,14 @@
+lineup,hdr,3,3142
+lineup,dat,R,RE200,1,charlie-seiverd,will-nguyen,alex-smilevski,max-smilevski,104.92,318
+lineup,dat,R,RE200,2,charles-schreiner,dj-williams-4,leo-smilevski-1,corey-lin,107.31,297
+lineup,dat,I,A200,1,dylan-dewitt,106.19,116,2,adam-schreiner,130.06,38,3,ethan-tran,131.44,35
+lineup,dat,I,E200,1,corey-lin,128.82,81,2,max-smilevski,128.71,82,3,william-seaman-1,138.66,53
+lineup,dat,I,A50,1,will-nguyen,23.5,95,2,dj-williams-4,24.05,86,3,lawrence-ho,25.29,69
+lineup,dat,I,D100,1,alex-smilevski,53.65,114,2,leo-smilevski-1,55.03,104,3,charlie-seiverd,58.15,84
+lineup,dat,I,A100,1,michael-wojciechowicz,50.25,103,2,ethan-tran,59.96,40,3,corey-lin,52.21,88
+lineup,dat,I,A500,1,sean-corcoran,371.61,20,2,alexandru-constantinescu,442.06,0,3,anel-rojas,375.08,17
+lineup,dat,R,RA200,1,dylan-dewitt,leo-smilevski-1,will-nguyen,michael-wojciechowicz,91.85,351
+lineup,dat,I,B100,1,charlie-seiverd,55.01,112,2,adam-schreiner,58.66,91,3,william-seaman-1,61.87,75
+lineup,dat,I,C100,1,dj-williams-4,71.2,61,2,jacob-garrow,74.81,45,3,lawrence-ho,75.56,42
+lineup,dat,R,RA400,1,corey-lin,dylan-dewitt,max-smilevski,aerick-mallari-1,211.74,291
+lineup,dat,R,RA400,2,sean-corcoran,alexandru-constantinescu,anel-rojas,ethan-tran,223.22,234

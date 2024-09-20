@@ -1,0 +1,15 @@
+lineup,hdr,3,1596
+lineup,dat,R,RE200,1,emily-walden,jessica-hull,jessie-wang-1,nora-chen,135.65,150
+lineup,dat,R,RE200,2,emma-liu,elizabeth-chorba,lola-jimenez,julia-mcgoldrick-1,145.14,84
+lineup,dat,I,A200,1,jessie-wang-1,122.65,92,2,julia-godfrey,136.76,47,3,suri-skomra,152.38,7
+lineup,dat,I,E200,1,lola-jimenez,152.16,50,2,emma-liu,165.57,18
+lineup,dat,I,A50,1,nora-chen,27.87,70,2,muen-li,30.92,31,3,annie-sabatino,35.47,0
+lineup,dat,I,D100,1,nia-zagar,64.33,86,2,julia-godfrey,69.11,61,3,lola-jimenez,78.86,21
+lineup,dat,I,A100,1,suri-skomra,64.43,42,2,emily-walden,67.05,27,3,julia-mcgoldrick-1,77.34,0
+lineup,dat,I,A500,1,jessie-wang-1,324.5,97,2,elizabeth-chorba,394.34,18,3,muen-li,425.81,0
+lineup,dat,R,RA200,1,suri-skomra,nia-zagar,nora-chen,elizabeth-chorba,119.63,186
+lineup,dat,R,RA200,2,emma-liu,muen-li,julia-mcgoldrick-1,julia-godfrey,127.39,123
+lineup,dat,I,B100,1,emma-liu,73.37,36,2,emily-walden,74.23,32,3,ella-hemon,91.78,0
+lineup,dat,I,C100,1,nia-zagar,68.61,113,2,jessica-hull,82.59,44,3,elizabeth-chorba,90.42,14
+lineup,dat,R,RA400,1,nora-chen,suri-skomra,jessie-wang-1,nia-zagar,271.93,99
+lineup,dat,R,RA400,2,muen-li,julia-godfrey,emily-walden,lola-jimenez,284.53,48

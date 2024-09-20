@@ -1,0 +1,13 @@
+lineup,hdr,3,570.0
+lineup,dat,I,A200,1,colin-mejias,116.09,80.0,,,,,,,,
+lineup,dat,I,E200,1,yanovsky-vasily,132.41,71.0,,,,,,,,
+lineup,dat,I,A50,1,malachi-wang,25.08,71.0,2.0,mejias-keegan,28.06,34.0,3,philip-schidlovsky,28.49,29.0
+lineup,dat,I,D100,1,malachi-wang,61.9,63.0,,,,,,,,
+lineup,dat,I,A100,1,maria-madigan,63.27,22.0,,,,,,,,
+lineup,dat,I,A500,1,colin-mejias,310.02,86.0,,,,,,,,
+lineup,dat,I,B100,1,anita-axelson,81.27,4.0,,,,,,,,
+lineup,dat,I,C100,1,yanovsky-vasily,65.94,87.0,2.0,joshua-jen-1,80.48,23.0,,,,
+relay,hdr,612.0
+relay,RE200YM,2,colin-mejias,yanovsky-vasily,malachi-wang,maria-madigan,117.9,210.0,anita-axelson,joshua-jen-1,bella-scannapieco,philip-schidlovsky,140.81,63.0,273.0
+relay,RA400YM,1,colin-mejias,maria-madigan,yanovsky-vasily,malachi-wang,236.97,174.0,,,,,,,174.0
+relay,RA200YM,2,maria-madigan,anita-axelson,philip-schidlovsky,mejias-keegan,115.38,138.0,edwards-adeline,joshua-jen-1,bella-scannapieco,william-lyu,133.69,27.0,165.0

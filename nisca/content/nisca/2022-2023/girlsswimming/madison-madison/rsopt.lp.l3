@@ -1,0 +1,13 @@
+lineup,hdr,3,1203.0
+lineup,dat,I,A200,1,karen-wu,122.46,93.0,2.0,layla-knoll,130.69,65.0,3,evelyn-juliano,142.13,32.0
+lineup,dat,I,E200,1,isabelle-guarino,142.28,78.0,2.0,alexis-lee-2,156.72,39.0,,,,
+lineup,dat,I,A50,1,evelyn-juliano,27.63,73.0,2.0,fiona-beacom,28.63,59.0,3,nina-kornchankul,29.65,46.0
+lineup,dat,I,D100,1,karen-wu,62.25,97.0,2.0,erin-barisonek,63.09,93.0,,,,
+lineup,dat,I,A100,1,layla-knoll,59.2,75.0,2.0,eva-deng,63.83,45.0,3,fiona-beacom,66.66,29.0
+lineup,dat,I,A500,1,emma-dooley,370.86,41.0,,,,,,,,
+lineup,dat,I,B100,1,erin-barisonek,63.46,89.0,2.0,emma-dooley,70.39,50.0,3,eva-deng,71.87,43.0
+lineup,dat,I,C100,1,isabelle-guarino,75.13,78.0,2.0,alexis-lee-2,79.31,58.0,3,stacy-deng,88.65,20.0
+relay,hdr,1191.0
+relay,RE200YF,2,erin-barisonek,isabelle-guarino,karen-wu,layla-knoll,117.46,309.0,emma-dooley,stacy-deng,eva-deng,alexis-lee-2,133.71,165.0,474.0
+relay,RA400YF,2,layla-knoll,karen-wu,erin-barisonek,isabelle-guarino,236.98,264.0,evelyn-juliano,fiona-beacom,eva-deng,emma-dooley,261.28,144.0,408.0
+relay,RA200YF,2,stacy-deng,nina-kornchankul,fiona-beacom,evelyn-juliano,119.84,183.0,louise-nielsen,alexa-leo,anna-kulesa,mackenzie-dickson,126.87,126.0,309.0

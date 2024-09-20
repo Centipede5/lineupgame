@@ -1,0 +1,13 @@
+lineup,hdr,3,460.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,tessa-bendokas,135.77,98.0,,,,,,,,
+lineup,dat,I,A50,1,kaitlyn-buffalino,27.66,73.0,2.0,rachael-oneill,30.35,38.0,3.0,hayden-delanzo,30.62,35.0
+lineup,dat,I,D100,1,tessa-bendokas,60.01,111.0,,,,,,,,
+lineup,dat,I,A100,1,kaitlyn-buffalino,60.89,64.0,2.0,hayden-delanzo,69.54,13.0,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,ashley-fritz,89.24,18.0,2.0,grace-crowther,92.59,7.0,3.0,holly-farro-st-john-vianney,93.7,3.0
+relay,hdr,519.0
+relay,RA400YF,1,kaitlyn-buffalino,hayden-delanzo,ashley-salvesen,ashley-fritz,243.73,228.0,,,,,,,228.0
+relay,RE200YF,1,kaitlyn-buffalino,ashley-fritz,tessa-bendokas,hayden-delanzo,130.47,192.0,,,,,,,192.0
+relay,RA200YF,1,grace-crowther,gabriella-brusca,ashley-fritz,rachael-oneill,130.66,99.0,,,,,,,99.0

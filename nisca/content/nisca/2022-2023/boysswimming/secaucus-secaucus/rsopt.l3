@@ -1,0 +1,13 @@
+lineup,hdr,3,499
+lineup,dat,I,A200,1,minh-huynh,128.35,43,2,derek-deleon,128.35,43
+lineup,dat,I,E200,1,aidan-del-rosario,130.1,78,2,sean-panameno,156.55,12
+lineup,dat,I,A50,1,george-sheffey,27.25,44,2,james-veloro,30.73,7,3,noah-rodriguez-6,30.72,7
+lineup,dat,I,D100,1,sean-panameno,67.25,37
+lineup,dat,I,A100,1,george-sheffey,62.32,27
+lineup,dat,I,A500,1,daniel-furman,338.99,52
+lineup,dat,I,B100,1,aidan-del-rosario,60.78,80
+lineup,dat,I,C100,1,daniel-furman,69.43,69
+relay,hdr,462
+relay,RE200YM,2,aidan-del-rosario,sean-panameno,daniel-furman,george-sheffey,116.02,2.2200000000000000e+02,james-veloro,oliver-buenafe,jayden-altamura,noah-rodriguez-6,145.05,4.2000000000000000e+01
+relay,RA200YM,1,james-veloro,jayden-altamura,noah-rodriguez-6,justin-rowe,135.46,1.5000000000000000e+01
+relay,RA400YM,1,sean-panameno,daniel-furman,george-sheffey,aidan-del-rosario,234.49,1.8300000000000000e+02

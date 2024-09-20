@@ -1,0 +1,14 @@
+lineup,hdr,3,1000
+lineup,dat,R,RE200,1,jonathan-kecskes,justin-kecskes,mateo-callegari,aidan-ablai,124.92,159
+lineup,dat,R,RE200,2,agustin-callegari,teodoro-fernandez,jeremy-sanchez,marko-alimpijevic,146.5,33
+lineup,dat,I,A200,1,agustin-callegari,142.26,9,2,jonathan-kecskes,145.56,1
+lineup,dat,I,E200,1,aidan-ablai,147.38,32,2,justin-kecskes,174.19,0
+lineup,dat,I,A50,1,brendan-lach,25.81,62,2,jonathan-ventura-1,26.76,49,3,matthew-perschetz,34.53,0
+lineup,dat,I,D100,1,mateo-callegari,60.05,73,2,aidan-ablai,72.31,16,3,jeremy-sanchez,75.76,3
+lineup,dat,I,A100,1,jonathan-ventura-1,63.09,23,2,marko-alimpijevic,70.34,0
+lineup,dat,I,A500,1,brendan-lach,325.08,68,2,agustin-callegari,368.98,22,3,teodoro-fernandez,514.7,0
+lineup,dat,R,RA200,1,brendan-lach,jonathan-kecskes,justin-kecskes,jonathan-ventura-1,113.09,156
+lineup,dat,R,RA200,2,marko-alimpijevic,matthew-perschetz,teodoro-fernandez,agustin-callegari,133.41,27
+lineup,dat,I,B100,1,mateo-callegari,65.81,57,2,jonathan-kecskes,76.14,19
+lineup,dat,I,C100,1,justin-kecskes,83.07,14,2,jeremy-sanchez,89.83,0
+lineup,dat,R,RA400,1,brendan-lach,mateo-callegari,jonathan-ventura-1,aidan-ablai,235.94,177

@@ -1,0 +1,12 @@
+lineup,hdr,3,316
+lineup,dat,I,A200
+lineup,dat,I,E200,1,athena-aguero,148.07,61
+lineup,dat,I,A50,1,mia-de-los-santos,28.9,56,2,rylie-miqueli,29.45,49,3,paola-tapia,30.23,39
+lineup,dat,I,D100,1,athena-aguero,65.9,77
+lineup,dat,I,A100,1,rylie-miqueli,70.34,9
+lineup,dat,I,A500
+lineup,dat,I,B100,1,mia-de-los-santos,75.77,25
+lineup,dat,I,C100
+relay,hdr,219
+relay,RE200YF,1,mia-de-los-santos,paola-tapia,athena-aguero,rylie-miqueli,139.68,1.2300000000000000e+02
+relay,RA400YF,1,mia-de-los-santos,paola-tapia,rylie-miqueli,athena-aguero,272.11,9.6000000000000000e+01

@@ -1,0 +1,13 @@
+lineup,hdr,3,1313.0
+lineup,dat,I,A200,1,amelie-bass,125.35,83.0,2.0,anna-wurtz,134.79,53.0,3,caitlin-lynch,147.54,18.0
+lineup,dat,I,E200,1,regan-sherman,153.4,47.0,2.0,claire-christie,160.82,29.0,3,molly-galgano,161.19,28.0
+lineup,dat,I,A50,1,ava-dalessandro,26.52,89.0,2.0,kelley-dwyer,27.06,81.0,3,charlotte-kavanaugh,29.21,52.0
+lineup,dat,I,D100,1,kelley-dwyer,69.01,62.0,2.0,molly-galgano,73.34,43.0,3,claire-christie,73.23,43.0
+lineup,dat,I,A100,1,may-hartog,58.76,79.0,2.0,ruby-schuster,60.24,68.0,3,grace-kunkel,61.02,63.0
+lineup,dat,I,A500,1,regan-sherman,352.34,62.0,2.0,anna-wurtz,354.63,59.0,3,riley-kerr,402.54,11.0
+lineup,dat,I,B100,1,may-hartog,66.34,72.0,2.0,ava-dalessandro,69.54,55.0,3,grace-kunkel,69.97,52.0
+lineup,dat,I,C100,1,amelie-bass,73.22,87.0,2.0,ruby-schuster,80.69,52.0,3,hanna-lvov,87.48,25.0
+relay,hdr,1320.0
+relay,RE200YF,2,may-hartog,amelie-bass,kelley-dwyer,grace-kunkel,118.57,297.0,regan-sherman,anna-wurtz,molly-galgano,charlotte-kavanaugh,132.22,177.0,474.0
+relay,RA200YF,2,amelie-bass,ruby-schuster,kelley-dwyer,ava-dalessandro,109.2,282.0,charlotte-kavanaugh,caitlin-lynch,riley-kerr,anna-wurtz,119.56,186.0,468.0
+relay,RA400YF,2,ava-dalessandro,regan-sherman,may-hartog,ruby-schuster,247.76,207.0,grace-corveleyn,molly-galgano,keira-verdino,grace-kunkel,255.64,171.0,378.0

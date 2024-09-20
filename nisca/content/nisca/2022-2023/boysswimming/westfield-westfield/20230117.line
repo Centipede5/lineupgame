@@ -1,0 +1,15 @@
+lineup,hdr,3,2859
+lineup,dat,R,RE200,1,nathan-welsh-1,charlie-jeckell,artem-dobrovolskyi,wes-young,114.67,234
+lineup,dat,R,RE200,2,michael-fisher-2,dylan-lagrimas,hudson-wilcomes,cameron-linenberg,107.75,294
+lineup,dat,I,A200,1,danny-mcgann-1,120.51,66,2,cole-sharkey,120.43,66,3,liam-mulkeen,142.11,9
+lineup,dat,I,E200,1,ben-nematadzira,139.68,51,2,logan-swenson,131.85,72,3,adam-goddard,152.27,21
+lineup,dat,I,A50,1,dylan-lagrimas,24.65,78,2,danny-pierce,23.33,98,3,flynn-martin-1,26.89,48
+lineup,dat,I,D100,1,nathan-welsh-1,64.45,50,2,michael-fisher-2,59.55,76,3,alejandro-villar,68.58,31
+lineup,dat,I,A100,1,cameron-linenberg,57.71,52,2,cole-sharkey,54.18,74,3,clark-seeder,64.62,16
+lineup,dat,I,A500,1,flynn-martin-1,359.98,31,2,hudson-wilcomes,330.78,61,3,caleb-wiggins,380.19,12
+lineup,dat,R,RA200,1,michael-fisher-2,danny-mcgann-1,adam-goddard,ben-nematadzira,99.39,273
+lineup,dat,R,RA200,2,nathan-welsh-1,dylan-lagrimas,alejandro-villar,cameron-linenberg,101.27,255
+lineup,dat,I,B100,1,charlie-jeckell,59.04,89,2,liam-mulkeen,66.66,54,3,artem-dobrovolskyi,60.82,80
+lineup,dat,I,C100,1,leo-mangiamele,65.92,87,2,wes-young,71.72,59,3,hudson-berg,88.18,0
+lineup,dat,R,RA400,1,flynn-martin-1,logan-swenson,ben-nematadzira,danny-pierce,217.32,264
+lineup,dat,R,RA400,2,nathan-welsh-1,danny-mcgann-1,artem-dobrovolskyi,hudson-wilcomes,218.36,258

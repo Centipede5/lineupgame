@@ -1,0 +1,12 @@
+lineup,hdr,3,320
+lineup,dat,I,A200
+lineup,dat,I,E200
+lineup,dat,I,A50,1,kaya-gumusayak-1,24.35,82
+lineup,dat,I,D100,1,daniel-frenklakh,72.47,16
+lineup,dat,I,A100,1,evan-carlson,54.54,72
+lineup,dat,I,A500
+lineup,dat,I,B100,1,kaya-gumusayak-1,64.72,62,2,elliot-ziebert,81.5,3
+lineup,dat,I,C100,1,evan-carlson,71.37,60,2,elliot-ziebert,79.98,25
+relay,hdr,297
+relay,RE200YM,1,kaya-gumusayak-1,daniel-frenklakh,elliot-ziebert,evan-carlson,118.19,2.0700000000000000e+02
+relay,RA400YM,1,michael-castner,evan-carlson,daniel-frenklakh,kaya-gumusayak-1,258.54,9.0000000000000000e+01

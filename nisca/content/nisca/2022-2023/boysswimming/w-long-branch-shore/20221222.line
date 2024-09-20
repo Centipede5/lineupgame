@@ -1,0 +1,12 @@
+lineup,hdr,3,704
+lineup,dat,R,RE200,1,ben-costello-1,tanner-dinapoli,david-rubio,steven-ferrante,185.19,0
+lineup,dat,R,RE200,2,james-treshock,noah-karaban,billy-nagy,ryan-zalinksi,120.87,186
+lineup,dat,I,A200,1,james-treshock,111.91,94
+lineup,dat,I,E200,1,billy-nagy,134.46,65
+lineup,dat,I,A50,1,ryan-zalinksi,23,103,2,steven-ferrante,37.25,0
+lineup,dat,I,D100,1,billy-nagy,65.39,46
+lineup,dat,I,A100,1,ryan-zalinksi,54.08,75,2,tanner-dinapoli,62,29,3,ben-costello-1,61.53,31
+lineup,dat,I,A500,1,noah-karaban,450.64,0
+lineup,dat,R,RA200,1,ben-costello-1,david-rubio,steven-ferrante,tanner-dinapoli,145.38,0
+lineup,dat,I,B100,1,james-treshock,64.25,64
+lineup,dat,I,C100,1,noah-karaban,84.41,10,2,david-rubio,120.22,0,3,tanner-dinapoli,87.27,1

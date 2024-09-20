@@ -1,0 +1,15 @@
+lineup,hdr,3,1391
+lineup,dat,R,RE200,1,carter-searle,christian-lozanguiez,jack-griffiths-1,sam-fiesseler,121.22,183
+lineup,dat,R,RE200,2,sergey-sachko,colin-brett,aidan-bresney,aidan-oneil-1,147.5,30
+lineup,dat,I,A200,1,dashiell-antonov,119.25,70,2,aidan-bresney,163.47,0,3,sergey-sachko,168.78,0
+lineup,dat,I,E200,1,itay-ben-yoseph,120.79,108,2,sam-fiesseler,166.81,0,3,colin-brett,201.06,0
+lineup,dat,I,A50,1,jack-griffiths-1,25.85,61,2,evan-caulfield,28.52,29,3,sergey-sachko,30.13,13
+lineup,dat,I,D100,1,carter-searle,69.37,28,2,dashiell-antonov,59.19,78,3,aidan-bresney,72.72,15
+lineup,dat,I,A100,1,jack-griffiths-1,59.65,41,2,aidan-oneil-1,66.67,7,3,blake-libert,69.78,0
+lineup,dat,I,A500,1,christian-lozanguiez,342.87,48,2,aidan-oneil-1,416.83,0,3,blake-libert,422.14,0
+lineup,dat,R,RA200,1,blake-libert,colin-brett,charles-charlie-meyer,evan-caulfield,142.6,0
+lineup,dat,R,RA200,2,sam-fiesseler,carter-searle,itay-ben-yoseph,dashiell-antonov,104.74,222
+lineup,dat,I,B100,1,carter-searle,75.92,20,2,itay-ben-yoseph,55.13,111,3,evan-caulfield,91.7,0
+lineup,dat,I,C100,1,sam-fiesseler,85.27,7,2,christian-lozanguiez,66.72,83,3,colin-brett,102.77,0
+lineup,dat,R,RA400,1,dashiell-antonov,jack-griffiths-1,christian-lozanguiez,itay-ben-yoseph,222.89,237
+lineup,dat,R,RA400,2,aidan-oneil-1,blake-libert,aidan-bresney,sergey-sachko,345.15,0

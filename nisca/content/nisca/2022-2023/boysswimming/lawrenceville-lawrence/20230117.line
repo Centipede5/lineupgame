@@ -1,0 +1,15 @@
+lineup,hdr,3,2034
+lineup,dat,R,RE200,1,josh-demarco-1,cole-verga,ethan-wang-1,nick-straka,104.12,327
+lineup,dat,R,RE200,2,fletcher-sisk,liam-carroll-5,thomas-carpinelli-1,milos-uskokovic,119.51,198
+lineup,dat,I,A200,1,liam-carroll-5,137.91,19,2,kian-khojastepour,150.72,0,3,carter-edwards,169.51,0
+lineup,dat,I,E200
+lineup,dat,I,A50,1,cole-verga,22.36,114,2,nick-straka,23.41,96,3,vlado-nikolov,27.49,41
+lineup,dat,I,D100,1,ethan-wang-1,61.84,64
+lineup,dat,I,A100,1,thomas-carpinelli-1,62.27,27,2,kian-khojastepour,63.69,20,3,milos-uskokovic,62.91,24
+lineup,dat,I,A500,1,josh-demarco-1,300.16,99
+lineup,dat,R,RA200,1,milos-uskokovic,liam-carroll-5,thomas-carpinelli-1,ethan-wang-1,107.23,201
+lineup,dat,R,RA200,2,vlado-nikolov,fletcher-sisk,carter-edwards,kian-khojastepour,122.22,93
+lineup,dat,I,B100,1,cole-verga,56.09,106,2,nick-straka,59.13,89,3,fletcher-sisk,80.37,6
+lineup,dat,I,C100,1,josh-demarco-1,61.6,112,2,liam-carroll-5,78.98,29,3,carter-edwards,99.79,0
+lineup,dat,R,RA400,1,ethan-wang-1,josh-demarco-1,nick-straka,cole-verga,211.66,291
+lineup,dat,R,RA400,2,thomas-carpinelli-1,kian-khojastepour,milos-uskokovic,vlado-nikolov,262.39,78

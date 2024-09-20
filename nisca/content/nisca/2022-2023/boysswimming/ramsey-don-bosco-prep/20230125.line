@@ -1,0 +1,15 @@
+lineup,hdr,3,2466
+lineup,dat,R,RE200,1,tristen-moore,maxim-maslov,ryan-locicero,ryder-balay,104.06,327
+lineup,dat,R,RE200,2,leo-park,jonas-emerson,andrew-schalago,alex-maslov,114.43,237
+lineup,dat,I,A200,1,harry-finnegan,125.54,51,2,peter-ritiu,141.97,9
+lineup,dat,I,E200,1,maxim-maslov,131.25,74
+lineup,dat,I,A50,1,ryan-locicero,23.06,102,2,leo-park,24.81,75,3,alex-maslov,24.99,73
+lineup,dat,I,D100,1,ryder-balay,57.06,91,2,andrew-schalago,70.38,24
+lineup,dat,I,A100,1,ryan-locicero,52.69,85,2,finn-coffey,60,39,3,jonas-emerson,59.87,40
+lineup,dat,I,A500,1,tristen-moore,303.79,94,2,harry-finnegan,339.65,51,3,peter-ritiu,401.79,0
+lineup,dat,R,RA200,1,alex-maslov,finn-coffey,jonas-emerson,leo-park,108.31,192
+lineup,dat,R,RA200,2,logan-pakonis,dominic-cannao,andrew-schalago,daniel-sadiline,120.34,105
+lineup,dat,I,B100,1,tristen-moore,55.67,108,2,leo-park,64.69,62,3,finn-coffey,74.31,25
+lineup,dat,I,C100,1,maxim-maslov,65.39,90,2,alex-maslov,68.17,75,3,jonas-emerson,69.03,71
+lineup,dat,R,RA400,1,ryder-balay,ryan-locicero,maxim-maslov,tristen-moore,210,300
+lineup,dat,R,RA400,2,finn-coffey,peter-ritiu,logan-pakonis,harry-finnegan,265.81,66

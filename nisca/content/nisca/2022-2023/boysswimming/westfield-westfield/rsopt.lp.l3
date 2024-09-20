@@ -1,0 +1,13 @@
+lineup,hdr,3,2649.0
+lineup,dat,I,A200,1,logan-swenson,104.82,121.0,2.0,michael-fisher-2,109.1,104.0,3,charlie-jeckell,109.4,103.0
+lineup,dat,I,E200,1,colin-kavanagh-1,112.84,137.0,2.0,danny-pierce,120.21,110.0,3,hudson-wilcomes,125.71,91.0
+lineup,dat,I,A50,1,owen-waibel,20.87,142.0,2.0,leo-mangiamele,22.49,112.0,3,dylan-altman,22.78,107.0
+lineup,dat,I,D100,1,logan-swenson,54.23,110.0,2.0,cole-sharkey,56.2,97.0,3,ben-nematadzira,56.3,96.0
+lineup,dat,I,A100,1,owen-waibel,46.29,136.0,2.0,christian-tedesco,49.07,112.0,3,danny-mcgann-1,50.13,104.0
+lineup,dat,I,A500,1,artem-dobrovolskyi,296.5,105.0,2.0,charlie-jeckell,303.14,95.0,3,wes-young,303.77,94.0
+lineup,dat,I,B100,1,colin-kavanagh-1,51.81,133.0,2.0,danny-pierce,53.27,123.0,3,michael-fisher-2,56.69,102.0
+lineup,dat,I,C100,1,dylan-lagrimas,61.33,113.0,2.0,christian-tedesco,62.52,106.0,3,hudson-wilcomes,64.29,96.0
+relay,hdr,2229.0
+relay,RA200YM,2,logan-swenson,leo-mangiamele,dylan-altman,owen-waibel,87.23,405.0,christian-tedesco,ben-nematadzira,charlie-jeckell,danny-mcgann-1,90.91,360.0,765.0
+relay,RE200YM,2,colin-kavanagh-1,christian-tedesco,ben-nematadzira,leo-mangiamele,96.99,402.0,danny-pierce,hudson-wilcomes,cole-sharkey,danny-mcgann-1,102.57,342.0,744.0
+relay,RA400YM,2,owen-waibel,logan-swenson,danny-pierce,colin-kavanagh-1,193.82,396.0,danny-mcgann-1,ben-nematadzira,charlie-jeckell,michael-fisher-2,205.94,324.0,720.0

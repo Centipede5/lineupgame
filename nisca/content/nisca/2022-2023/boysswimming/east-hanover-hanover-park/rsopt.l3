@@ -1,0 +1,17 @@
+lineup,hdr,3,980
+lineup,dat,I,A200,1,alexander-amoresano,135.84,24,2,jonathan-callanan,139.97,14
+lineup,dat,I,E200,1,thien-tran,127.43,86,2,alex-fu,137.4,57
+lineup,dat,I,A50,1,adam-trinh,23.91,89,2,grant-nelson,26.05,58,3,grant-zou,26.68,50
+lineup,dat,I,D100,1,thien-tran,54.84,105,2,jonathan-callanan,64.77,49,3,francis-murray,65.56,45
+lineup,dat,I,A100,1,neal-maheshwart,58.61,47,2,jack-lowinger,58.81,46,3,alexander-amoresano,59.17,44
+lineup,dat,I,A500
+lineup,dat,I,B100,1,neal-maheshwart,65.31,59,2,grant-zou,71.84,34,3,jack-lowinger,78.44,12
+lineup,dat,I,C100,1,alex-fu,69.69,68,2,adam-trinh,72.38,56,3,francis-murray,76.93,37
+relay,hdr,936
+relay,RE200YM,2,francis-murray,adam-trinh,jonathan-callanan,thien-tran,110.35,2.7000000000000000e+02,grant-zou,alex-fu,ian-cynk,grant-nelson,122.7,1.7400000000000000e+02
+relay,RA200YM,2,adam-trinh,jonathan-callanan,alex-fu,thien-tran,100.42,2.6100000000000000e+02,alexander-amoresano,ian-cynk,ryan-haberman,jack-lowinger,109.99,1.8000000000000000e+02
+relay,RA400YM,1,nicolas-mixich,grant-nelson,jack-lowinger,grant-zou,269.93,5.1000000000000000e+01
+relay,hdr,1008
+relay,RE200YM,2,francis-murray,adam-trinh,jonathan-callanan,thien-tran,110.35,2.7000000000000000e+02,grant-zou,alex-fu,ian-cynk,grant-nelson,122.7,1.7400000000000000e+02
+relay,RA200YM,2,alex-fu,francis-murray,adam-trinh,thien-tran,100.9,2.5800000000000000e+02,alexander-amoresano,ian-cynk,ryan-haberman,jack-lowinger,109.99,1.8000000000000000e+02
+relay,RA400YM,2,neal-maheshwart,ian-cynk,alexander-amoresano,jonathan-callanan,263.03,7.5000000000000000e+01,nicolas-mixich,grant-nelson,jack-lowinger,grant-zou,269.93,5.1000000000000000e+01

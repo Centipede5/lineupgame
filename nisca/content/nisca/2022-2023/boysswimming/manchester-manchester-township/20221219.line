@@ -1,0 +1,14 @@
+lineup,hdr,3,209
+lineup,dat,R,RE200,1,aiden-schultz,jacob-delucca,ian-spicer,todd-poepk,145.48,39
+lineup,dat,R,RE200,2,paul-ferriola,dale-weiner,andrejs-zakar,matthew-perez-10,168.46,0
+lineup,dat,I,A200,1,lincoln-smith,151.29,0
+lineup,dat,I,E200,1,todd-poepk,145.36,37,2,jacob-delucca,217,0
+lineup,dat,I,A50,1,ian-spicer,28.15,33,2,andrejs-zakar,28.35,31,3,azhra-ramos,35.4,0
+lineup,dat,I,D100,1,lincoln-smith,82.27,0,2,matthew-perez-10,81.12,0
+lineup,dat,I,A100,1,dale-weiner,79.45,0,2,ian-spicer,67.15,4,3,matthew-perez-10,83.79,0
+lineup,dat,I,A500,1,todd-poepk,327.38,65
+lineup,dat,R,RA200,1,aiden-schultz,azhra-ramos,matthew-perez-10,andrejs-zakar,143.14,0
+lineup,dat,R,RA200,2,dale-weiner,paul-ferriola,jacob-delucca,lincoln-smith,145.42,0
+lineup,dat,I,B100,1,aiden-schultz,95.7,0,2,paul-ferriola,105.06,0
+lineup,dat,I,C100,1,jacob-delucca,95.52,0,2,dale-weiner,95.33,0,3,azhra-ramos,99.37,0
+lineup,dat,R,RA400,1,ian-spicer,lincoln-smith,aiden-schultz,todd-poepk,294.61,0

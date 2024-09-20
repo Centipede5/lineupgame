@@ -1,0 +1,15 @@
+lineup,hdr,3,2071
+lineup,dat,R,RE200,1,brandon-sutherland,will-hyde,billy-legates,alex-frame,110.91,264
+lineup,dat,R,RE200,2,joe-white-1,zain-khashan,derek-manchester-1,nick-vallo-1,138.78,75
+lineup,dat,I,A200,1,nick-vallo-1,159.09,0,2,alex-frame,117.01,77,3,brandon-sutherland,125.73,50
+lineup,dat,I,E200,1,will-hyde,128.78,82,2,billy-legates,145.09,37
+lineup,dat,I,A50,1,zain-khashan,27.95,35,2,chas-messina,24.62,78,3,sean-irwin,27.27,43
+lineup,dat,I,D100,1,mathew-waters,60.66,70,2,billy-legates,62.3,61
+lineup,dat,I,A100,1,derek-manchester-1,61.17,33,2,alex-frame,53.11,82,3,chas-messina,54.95,69
+lineup,dat,I,A500,1,joe-white-1,471.6,0,2,thomas-pownall-1,322.94,70,3,mathew-waters,342.7,48
+lineup,dat,R,RA200,1,will-hyde,thomas-pownall-1,mathew-waters,chas-messina,104.07,228
+lineup,dat,R,RA200,2,brandon-sutherland,billy-legates,derek-manchester-1,sean-irwin,109.67,183
+lineup,dat,I,B100,1,brandon-sutherland,59.7,86,2,thomas-pownall-1,60.31,83
+lineup,dat,I,C100,1,joe-white-1,80.03,25,2,will-hyde,66.59,83,3,zain-khashan,80.68,23
+lineup,dat,R,RA400,1,alex-frame,thomas-pownall-1,mathew-waters,chas-messina,233.97,186
+lineup,dat,R,RA400,2,zain-khashan,nick-vallo-1,sean-irwin,derek-manchester-1,294.91,0

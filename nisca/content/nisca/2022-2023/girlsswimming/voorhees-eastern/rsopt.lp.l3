@@ -1,0 +1,13 @@
+lineup,hdr,3,805.0
+lineup,dat,I,A200,1,catie-krug,148.41,16.0,2.0,natalie-sullivan,150.66,11.0,,,,
+lineup,dat,I,E200,1,christina-beggs,132.78,109.0,2.0,cassie-straub,172.5,3.0,,,,
+lineup,dat,I,A50,1,emma-baron,27.73,72.0,2.0,samantha-levy-1,30.28,39.0,3,monica-pham,31.56,24.0
+lineup,dat,I,D100,1,christina-beggs,59.52,114.0,2.0,elyse-schwartz,67.42,70.0,3,karli-faraldo,74.86,36.0
+lineup,dat,I,A100,1,mattea-dieckmann,62.62,53.0,2.0,maria-hourihan,68.66,18.0,3,chloe-chang,70.19,10.0
+lineup,dat,I,A500,1,catie-krug,389.57,22.0,2.0,natalie-sullivan,413.63,1.0,,,,
+lineup,dat,I,B100,1,emma-baron,66.89,69.0,2.0,lorena-jimenez,78.52,13.0,3,hannah-escritor,80.81,4.0
+lineup,dat,I,C100,1,mattea-dieckmann,77.86,64.0,2.0,chloe-chang,85.63,32.0,3,cassie-straub,87.36,25.0
+relay,hdr,939.0
+relay,RA200YF,2,elyse-schwartz,mattea-dieckmann,christina-beggs,emma-baron,113.47,240.0,karli-faraldo,maria-hourihan,samantha-levy-1,monica-pham,125.14,141.0,381.0
+relay,RE200YF,2,emma-baron,mattea-dieckmann,elyse-schwartz,samantha-levy-1,127.09,219.0,lorena-jimenez,chloe-chang,karli-faraldo,maria-hourihan,136.8,141.0,360.0
+relay,RA400YF,2,tess-baron,elyse-schwartz,karli-faraldo,christina-beggs,262.51,138.0,natalie-sullivan,maria-hourihan,samantha-levy-1,hannah-escritor,281.19,60.0,198.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,1047.0
+lineup,dat,I,A200,1,brian-hu,123.92,55.0,2.0,jalen-hu,129.72,39.0,,,,
+lineup,dat,I,E200,1,adam-lao,143.72,41.0,2.0,john-pawlik,149.61,27.0,,,,
+lineup,dat,I,A50,1,hojin-nam,24.65,78.0,2.0,jonathan-plavnik,24.73,76.0,3,luke-auty,25.25,69.0
+lineup,dat,I,D100,1,hojin-nam,64.13,52.0,2.0,timothy-lee-1,66.0,43.0,3,krish-govindani,67.08,38.0
+lineup,dat,I,A100,1,jonathan-plavnik,57.43,54.0,2.0,krish-govindani,59.73,41.0,3,luke-auty,60.07,39.0
+lineup,dat,I,A500,1,brian-hu,338.46,53.0,2.0,jalen-hu,346.73,44.0,3,adam-lao,357.22,33.0
+lineup,dat,I,B100,1,timothy-lee-1,63.2,69.0,2.0,paul-pawlik,75.84,20.0,3,yuto-takeda,77.56,15.0
+lineup,dat,I,C100,1,john-pawlik,69.5,69.0,2.0,lucas-steele-1,71.09,61.0,3,paul-pawlik,78.5,31.0
+relay,hdr,1167.0
+relay,RE200YM,2,timothy-lee-1,john-pawlik,hojin-nam,jonathan-plavnik,109.32,279.0,luke-auty,lucas-steele-1,krish-govindani,adam-lao,122.48,177.0,456.0
+relay,RA200YM,2,luke-auty,hojin-nam,krish-govindani,timothy-lee-1,104.31,228.0,paul-pawlik,lucas-steele-1,jalen-hu,brian-hu,108.02,195.0,423.0
+relay,RA400YM,2,jonathan-plavnik,jalen-hu,brian-hu,adam-lao,226.0,222.0,paul-pawlik,james-lepori,lucas-steele-1,john-pawlik,265.74,66.0,288.0

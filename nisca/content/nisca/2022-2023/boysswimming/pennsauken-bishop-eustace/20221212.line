@@ -1,0 +1,15 @@
+lineup,hdr,3,1232
+lineup,dat,R,RE200,1,thomas-gamble,samuel-morris-1,daniel-waldhauser,ella-axelson,114.21,237
+lineup,dat,R,RE200,2,laurel-montuori,chris-threston,nick-pasquini,sophia-fichera,141.97,57
+lineup,dat,I,A200,1,ava-montuori,150.47,0,2,thomas-azelby-1,144.41,4
+lineup,dat,I,E200,1,daniel-waldhauser,126,90,2,logan-watkins-2,181.46,0,3,sophia-fichera,209.03,0
+lineup,dat,I,A50,1,samuel-morris-1,25.63,64,2,kelly-walsh,28.19,33,3,ana-mora-1,32.68,0
+lineup,dat,I,D100,1,nick-pasquini,59.53,76,2,thomas-azelby-1,75.27,5
+lineup,dat,I,A100,1,thomas-gamble,55.88,63,2,ella-axelson,65,14,3,amanda-klitchko,70.73,0
+lineup,dat,I,A500,1,daniel-waldhauser,315.33,79,2,logan-watkins-2,438.41,0
+lineup,dat,R,RA200,1,nick-pasquini,ella-axelson,thomas-azelby-1,thomas-gamble,112.04,165
+lineup,dat,R,RA200,2,ana-mora-1,amanda-klitchko,sophia-fichera,ava-montuori,133.46,27
+lineup,dat,I,B100,1,kelly-walsh,67.2,51,2,laurel-montuori,97.32,0,3,morgan-burdette,90.57,0
+lineup,dat,I,C100,1,samuel-morris-1,71.7,59,2,chris-threston,71.2,61,3,ava-montuori,89.59,0
+lineup,dat,R,RA400,1,thomas-azelby-1,samuel-morris-1,thomas-gamble,daniel-waldhauser,245.94,138
+lineup,dat,R,RA400,2,kelly-walsh,amanda-klitchko,logan-watkins-2,ella-axelson,283.29,9

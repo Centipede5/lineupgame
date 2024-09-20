@@ -1,0 +1,15 @@
+lineup,hdr,3,2120
+lineup,dat,R,RE200,1,simeon-leung,alex-ho-1,luke-weingaertner-1,kent-hong,109.98,273
+lineup,dat,R,RE200,2,bhargav-shah,alan-zheng-3,pranshu-agarwal,shiven-patel-1,137.08,84
+lineup,dat,I,A200,1,pranshu-agarwal,135.26,25,2,jayden-shah,144.12,5,3,max-lin-1,142.93,7
+lineup,dat,I,E200,1,simeon-leung,138.53,54,2,john-agogliati,139.32,52,3,jack-wang-2,156.82,11
+lineup,dat,I,A50,1,alex-ho-1,22.02,120,2,will-bashore,24.79,76,3,areeb-khan-1,31.14,3
+lineup,dat,I,D100,1,timothy-wong,65.48,45,2,andy-mann-1,60.16,73,3,samhith-karpakula,69.87,26
+lineup,dat,I,A100,1,luke-weingaertner-1,56.27,61,2,shreyus-vadhavkar,60.53,36,3,shiven-patel-1,71.77,0
+lineup,dat,I,A500,1,sri-srikanth,333.96,57,2,bhargav-shah,388.91,5,3,samhith-karpakula,377.44,15
+lineup,dat,R,RA200,1,max-domantay,andy-mann-1,luke-weingaertner-1,alex-ho-1,100.11,264
+lineup,dat,R,RA200,2,sriven-chittamuru,kritin-rane,jayden-shah,shreyus-vadhavkar,109.76,180
+lineup,dat,I,B100,1,will-bashore,62.71,71,2,kent-hong,65.03,61,3,nayan-saini,76.39,18
+lineup,dat,I,C100,1,max-domantay,67.2,80,2,sriven-chittamuru,76.59,38,3,kritin-rane,79.72,26
+lineup,dat,R,RA400,1,will-bashore,kent-hong,john-agogliati,timothy-wong,223.91,231
+lineup,dat,R,RA400,2,andy-mann-1,sri-srikanth,jayden-shah,shreyus-vadhavkar,249.87,123

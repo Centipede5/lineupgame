@@ -1,0 +1,15 @@
+lineup,hdr,3,3779
+lineup,dat,R,RE200,1,hunter-kuenzel,gregory-lin,brandon-cheng-1,andrew-sellinger,101.16,357
+lineup,dat,R,RE200,2,adam-azzaoui,debdeep-mazumder,harrison-eng,skyler-kang,111.06,264
+lineup,dat,I,A200,1,christopher-hall-649421,113.1,90,2,adam-azzaoui,117.6,75,3,debdeep-mazumder,123.25,57
+lineup,dat,I,E200,1,gregory-lin,115.14,128,2,hunter-kuenzel,118.99,114,3,andrew-sellinger,130.57,76
+lineup,dat,I,A50,1,brandon-cheng-1,23.34,98,2,andrew-wang-548660,23.06,102,3,skyler-kang,23.91,89
+lineup,dat,I,D100,1,mark-milgram,59.56,76,2,christopher-hall-649421,55.48,101,3,harrison-eng,60.2,73
+lineup,dat,I,A100,1,brandon-cheng-1,51.11,96,2,andrew-sellinger,51.88,91,3,andrew-wang-548660,52.47,86
+lineup,dat,I,A500,1,hunter-kuenzel,293.33,109,2,gregory-lin,300.26,99,3,john-chang-1,325.67,67
+lineup,dat,R,RA200,1,christopher-hall-649421,andrew-sellinger,hunter-kuenzel,andrew-wang-548660,94.97,315
+lineup,dat,R,RA200,2,brandon-cheng-1,john-chang-1,skyler-kang,ethan-tai,101.86,249
+lineup,dat,I,B100,1,adam-azzaoui,62.81,71,2,mark-milgram,64.13,65,3,elvin-tai,63.76,66
+lineup,dat,I,C100,1,debdeep-mazumder,66.7,83,2,matthew-elsayegh,67.72,78,3,ethan-tai,69.36,70
+lineup,dat,R,RA400,1,adam-azzaoui,gregory-lin,skyler-kang,debdeep-mazumder,212.06,291
+lineup,dat,R,RA400,2,andrew-wang-548660,elvin-tai,christopher-hall-649421,john-chang-1,221.34,243

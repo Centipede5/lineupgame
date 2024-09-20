@@ -1,0 +1,13 @@
+lineup,hdr,3,1888.0
+lineup,dat,I,A200,1,matthew-woodside,107.21,112.0,2.0,michael-kelly-501924,122.22,60.0,3,mitchell-zappone,127.59,45.0
+lineup,dat,I,E200,1,pat-armstrong,121.45,105.0,2.0,colin-abbott,138.13,55.0,3,alex-hanson-1,150.31,25.0
+lineup,dat,I,A50,1,jackson-agnellini,22.87,105.0,2.0,matthew-bell,23.75,91.0,3,mo-levin,24.9,74.0
+lineup,dat,I,D100,1,pat-armstrong,52.53,122.0,2.0,cj-denn,57.16,90.0,3,nico-eafrati,68.38,32.0
+lineup,dat,I,A100,1,gavin-neal,49.77,107.0,2.0,jackson-agnellini,52.03,89.0,3,michael-kelly-501924,54.28,74.0
+lineup,dat,I,A500,1,matthew-woodside,289.94,114.0,2.0,tommy-armstrong-1,313.2,82.0,3,mitchell-zappone,340.63,50.0
+lineup,dat,I,B100,1,tommy-armstrong-1,56.36,104.0,2.0,cj-denn,57.17,99.0,3,ryan-slaven,69.66,42.0
+lineup,dat,I,C100,1,gavin-neal,65.75,88.0,2.0,colin-abbott,69.63,68.0,3,matthew-bell,72.59,55.0
+relay,hdr,1770.0
+relay,RE200YM,2,tommy-armstrong-1,gavin-neal,pat-armstrong,jackson-agnellini,99.16,378.0,michael-kelly-501924,colin-abbott,cj-denn,matthew-bell,109.67,276.0,654.0
+relay,RA200YM,2,pat-armstrong,jackson-agnellini,matthew-woodside,gavin-neal,89.24,381.0,colin-abbott,teddy-leeds,dustin-laricks,chris-garrabrant,102.11,246.0,627.0
+relay,RA400YM,2,matthew-woodside,matthew-bell,cj-denn,tommy-armstrong-1,208.94,306.0,thorne-swift,mitchell-zappone,colin-schweim,teddy-leeds,234.93,183.0,489.0

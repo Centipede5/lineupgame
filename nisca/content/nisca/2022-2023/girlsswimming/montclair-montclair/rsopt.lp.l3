@@ -1,0 +1,13 @@
+lineup,hdr,3,2068.0
+lineup,dat,I,A200,1,keria-gilligan,127.2,76.0,2.0,madeline-young,128.04,74.0,3,sefina-morrison,132.16,61.0
+lineup,dat,I,E200,1,reagan-gilligan,137.49,93.0,2.0,madeline-young,146.03,67.0,3,sefina-morrison,148.81,59.0
+lineup,dat,I,A50,1,lily-miklaszewski,25.67,103.0,2.0,caitlin-foung,26.04,97.0,3,lauren-wall,27.0,82.0
+lineup,dat,I,D100,1,avery-dollard,60.48,108.0,2.0,carly-frank-2,60.79,106.0,3,caitlin-foung,62.44,96.0
+lineup,dat,I,A100,1,lily-miklaszewski,56.57,95.0,2.0,lauren-wall,58.82,78.0,3,keria-gilligan,58.91,77.0
+lineup,dat,I,A500,1,ela-habjan,324.77,96.0,2.0,sophie-merrifield,341.28,75.0,3,sarah-miller-11,356.18,57.0
+lineup,dat,I,B100,1,ela-habjan,61.27,103.0,2.0,sophie-merrifield,65.56,77.0,3,sarah-miller-11,66.06,74.0
+lineup,dat,I,C100,1,reagan-gilligan,65.94,130.0,2.0,carly-frank-2,72.34,92.0,3,alexandra-jacobstein,72.34,92.0
+relay,hdr,1782.0
+relay,RE200YF,2,ela-habjan,carly-frank-2,avery-dollard,lily-miklaszewski,112.67,357.0,sarah-miller-11,keria-gilligan,madison-daynes,sefina-morrison,123.16,255.0,612.0
+relay,RA400YF,2,caitlin-foung,lily-miklaszewski,carly-frank-2,ela-habjan,229.1,309.0,madeline-young,keria-gilligan,reagan-gilligan,avery-dollard,233.99,279.0,588.0
+relay,RA200YF,2,caitlin-foung,reagan-gilligan,lauren-wall,avery-dollard,107.51,300.0,isabella-mastromarino,oona-mcnamara,maya-gutierrez,sefina-morrison,109.13,282.0,582.0

@@ -1,0 +1,15 @@
+lineup,hdr,3,2928
+lineup,dat,R,RE200,1,amira-washington,vienna-eckerstrom-1,maya-freeman,anna-haggerty,114.97,333
+lineup,dat,R,RE200,2,ellison-barrows,syndney-vandeboe,sofia-schweers,avery-guild,123.16,255
+lineup,dat,I,A200,1,amira-washington,130.63,65,2,sofia-schweers,124.15,87,3,syndney-vandeboe,137.04,46
+lineup,dat,I,E200,1,ellison-barrows,143.04,76,2,maya-freeman,137.25,94,3,sophie-masonius,156.08,40
+lineup,dat,I,A50,1,avery-guild,26.22,94,2,vienna-eckerstrom-1,25.81,101,3,olivia-marrin,27.31,78
+lineup,dat,I,D100,1,anna-haggerty,62.29,97,2,amira-washington,61.32,103,3,syndney-vandeboe,72.95,44
+lineup,dat,I,A100,1,sofia-schweers,56.4,96,2,vienna-eckerstrom-1,57.66,86,3,grace-porter-1,61.31,61
+lineup,dat,I,A500,1,anna-haggerty,346.79,68,2,ellison-barrows,346.78,68,3,sophie-masonius,386.28,26
+lineup,dat,R,RA200,1,grace-porter-1,sophie-masonius,reagan-morton,olivia-marrin,114.9,228
+lineup,dat,R,RA200,2,sofia-schweers,avery-guild,syndney-vandeboe,vienna-eckerstrom-1,109.99,273
+lineup,dat,I,B100,1,avery-guild,69.68,54,2,grace-porter-1,71.81,43
+lineup,dat,I,C100,1,reagan-morton,92.88,6,2,katherine-bikker,90.35,14,3,maya-freeman,75.91,74
+lineup,dat,R,RA400,1,olivia-marrin,sophie-masonius,reagan-morton,ellison-barrows,267.34,117
+lineup,dat,R,RA400,2,anna-haggerty,grace-porter-1,maya-freeman,amira-washington,248.97,201

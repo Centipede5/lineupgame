@@ -1,0 +1,13 @@
+lineup,hdr,3,671.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,katie-duryea,129.22,80.0,,,,,,,,
+lineup,dat,I,A50,1,andrew-durr,25.5,66.0,2.0,julia-hubert-1,28.59,28.0,3,wyatt-richardson,28.68,27.0
+lineup,dat,I,D100,1,daniil-klimko,57.16,90.0,2.0,luke-tipton,61.0,68.0,,,,
+lineup,dat,I,A100,1,andrew-durr,57.76,52.0,2.0,maddie-durr,62.07,28.0,3,julia-hubert-1,64.73,15.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,daniil-klimko,58.66,91.0,2.0,maddie-durr,71.88,34.0,3,ashley-postma,81.9,2.0
+lineup,dat,I,C100,1,matthew-beaney,65.59,89.0,2.0,luke-liszeski,87.22,1.0,,,,
+relay,hdr,816.0
+relay,RE200YM,2,daniil-klimko,matthew-beaney,luke-tipton,andrew-durr,109.5,276.0,ella-stanski,luke-liszeski,violet-anglum,wyatt-richardson,139.59,69.0,345.0
+relay,RA200YM,2,violet-anglum,ashley-postma,luke-tipton,matthew-beaney,108.56,192.0,vivian-drescher-1,israel-fierro,ella-stanski,luke-liszeski,127.63,60.0,252.0
+relay,RA400YM,1,luke-tipton,andrew-durr,daniil-klimko,matthew-beaney,226.81,219.0,,,,,,,219.0

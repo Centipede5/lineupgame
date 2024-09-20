@@ -1,0 +1,12 @@
+lineup,hdr,3,0
+lineup,dat,R,RE200,1,sydney-mahan,amelia-washington,sarah-ashenfelter,rebecca-perez-616824,169.81,0
+lineup,dat,I,A200,1,michelle-frolio,177.28,0,2,lauren-nelson-2,181.58,0
+lineup,dat,I,E200,1,ethan-willuski,166.97,0
+lineup,dat,I,A50,1,sydney-mahan,34.04,0,2,amelia-washington,37.45,0,3,rebecca-perez-616824,38.33,0
+lineup,dat,I,D100,1,ethan-willuski,80.63,0
+lineup,dat,I,A100,1,sydney-mahan,83.3,0,2,rebecca-perez-616824,83.11,0
+lineup,dat,I,A500,1,sarah-ashenfelter,525.17,0
+lineup,dat,R,RA200,1,amelia-washington,rebecca-perez-616824,sydney-mahan,ethan-willuski,144.49,0
+lineup,dat,I,B100,1,michelle-frolio,100.8,0,2,lauren-nelson-2,108.4,0
+lineup,dat,I,C100,1,amelia-washington,95.29,0,2,sarah-ashenfelter,100.98,0
+lineup,dat,R,RA400,1,ethan-willuski,lauren-nelson-2,michelle-frolio,sarah-ashenfelter,330.04,0

@@ -1,0 +1,15 @@
+lineup,hdr,3,2483
+lineup,dat,R,RE200,1,zachary-guan,henry-xu,david-brophy,david-xu-1,111,264
+lineup,dat,R,RE200,2,jaiden-xu,shawn-chuang,alex-aprikian,bill-ni,120.59,189
+lineup,dat,I,A200,1,mark-lackner,123.71,56,2,sawyer-kinney,130.32,38
+lineup,dat,I,E200,1,david-brophy,133.13,69,2,jaden-jung,144.44,39,3,matias-da-costa,139.63,51
+lineup,dat,I,A50,1,david-xu-1,23.44,96,2,daniel-guo,23.09,102,3,shawn-elwood-1,26.18,57
+lineup,dat,I,D100,1,zachary-guan,55.54,101,2,tyler-censi,61.65,65,3,alex-aprikian,64.7,49
+lineup,dat,I,A100,1,julian-velazquez,53.96,76,2,michael-tang-607025,61.26,33,3,anirvinya-joshi,61.35,32
+lineup,dat,I,A500,1,tyler-censi,345.22,45,2,bill-ni,393.03,1
+lineup,dat,R,RA200,1,tyler-censi,david-brophy,daniel-guo,julian-velazquez,101.57,252
+lineup,dat,R,RA200,2,alex-aprikian,anirvinya-joshi,sawyer-kinney,shawn-chuang,107.93,195
+lineup,dat,I,B100,1,jaden-jung,60.71,81,2,mark-lackner,65.23,60,3,elija-meier,78.7,11
+lineup,dat,I,C100,1,jaiden-xu,64.97,92,2,sawyer-kinney,80.06,25,3,shawn-chuang,83.16,14
+lineup,dat,R,RA400,1,david-xu-1,julian-velazquez,jaiden-xu,henry-xu,227.99,213
+lineup,dat,R,RA400,2,shawn-elwood-1,mark-lackner,elija-meier,tyler-censi,236.35,177

@@ -1,0 +1,13 @@
+lineup,hdr,3,447.0
+lineup,dat,I,A200,1,kylie-newton,135.84,50.0,,,,,,,,
+lineup,dat,I,E200,1,micheala-darcy,142.34,78.0,2.0,alexandra-pressuti,164.91,19.0,,,,
+lineup,dat,I,A50,1,julia-stobie-1,29.12,53.0,2.0,izzy-chagares,30.06,41.0,3,ilana-kasner,33.78,1.0
+lineup,dat,I,D100,1,micheala-darcy,65.65,79.0,2.0,ava-ansell,83.3,5.0,,,,
+lineup,dat,I,A100,,,,,,,,,,,,
+lineup,dat,I,A500,1,kylie-newton,366.23,46.0,,,,,,,,
+lineup,dat,I,B100,1,julia-stobie-1,72.53,40.0,2.0,jackie-pohl-1,78.25,14.0,,,,
+lineup,dat,I,C100,1,alexandra-pressuti,88.45,21.0,,,,,,,,
+relay,hdr,843.0
+relay,RE200YF,2,jackie-pohl-1,micheala-darcy,kylie-newton,julia-stobie-1,117.03,312.0,maddie-renaud,izzy-chagares,sophia-behar,yasmeen-kahn,145.89,81.0,393.0
+relay,RA400YF,1,jackie-pohl-1,micheala-darcy,kylie-newton,julia-stobie-1,230.6,300.0,,,,,,,300.0
+relay,RA200YF,2,ava-ansell,ava-garcia,jackie-pohl-1,izzy-chagares,130.79,99.0,elle-brandt,sophia-behar,alexandra-pressuti,ilana-kasner,137.95,51.0,150.0

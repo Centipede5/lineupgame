@@ -1,0 +1,13 @@
+lineup,hdr,3,1629.0
+lineup,dat,I,A200,1,gabe-czrnecki,112.75,91.0,2.0,james-macissac,113.81,88.0,3,zach-duck,119.52,69.0
+lineup,dat,I,E200,1,gennaro-dito,126.24,89.0,2.0,finn-schmitz,146.05,35.0,3,jacob-stinson,146.79,33.0
+lineup,dat,I,A50,1,owen-bossio,23.99,87.0,2.0,talon-arbizu,25.09,71.0,3,jamison-tormey,25.67,63.0
+lineup,dat,I,D100,1,gennaro-dito,56.28,96.0,2.0,chris-valentino,61.17,67.0,3,jacob-stinson,66.63,40.0
+lineup,dat,I,A100,1,gabe-czrnecki,50.16,104.0,2.0,gavin-bossio,51.98,90.0,3,talon-arbizu,56.79,58.0
+lineup,dat,I,A500,1,james-macissac,306.64,91.0,2.0,shaun-appert,353.17,37.0,3,chris-valentino,352.96,37.0
+lineup,dat,I,B100,1,zach-duck,62.79,71.0,2.0,matt-weaverling,65.52,58.0,3,jamison-tormey,67.69,49.0
+lineup,dat,I,C100,1,gavin-bossio,64.7,94.0,2.0,owen-bossio,69.73,68.0,3,nolan-schmitz,75.29,43.0
+relay,hdr,1500.0
+relay,RE200YM,2,gabe-czrnecki,gavin-bossio,gennaro-dito,owen-bossio,103.58,333.0,matt-weaverling,nolan-schmitz,jacob-stinson,jamison-tormey,117.47,213.0,546.0
+relay,RA200YM,2,owen-bossio,gavin-bossio,zach-duck,james-macissac,99.96,267.0,shaun-appert,talon-arbizu,jacob-stinson,chris-valentino,105.12,219.0,486.0
+relay,RA400YM,2,zach-duck,james-macissac,gennaro-dito,gabe-czrnecki,213.1,285.0,talon-arbizu,shaun-appert,matt-weaverling,chris-valentino,234.75,183.0,468.0

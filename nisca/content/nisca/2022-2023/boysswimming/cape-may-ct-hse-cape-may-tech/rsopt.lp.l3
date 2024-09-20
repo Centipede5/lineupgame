@@ -1,0 +1,13 @@
+lineup,hdr,3,482.0
+lineup,dat,I,A200,1,trevor-magill,136.53,22.0,2.0,lindsay-devol-1,145.13,2.0,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,teddy-woolery,25.1,71.0,2.0,collin-geiger,25.3,68.0,3,john-jt-matthews,27.33,43.0
+lineup,dat,I,D100,1,jarrod-carlson,72.14,17.0,,,,,,,,
+lineup,dat,I,A100,1,teddy-woolery,55.98,63.0,2.0,douglas-taverner,63.09,23.0,3,noah-wenker,64.64,16.0
+lineup,dat,I,A500,1,collin-geiger,355.08,35.0,2.0,trevor-magill,378.03,14.0,,,,
+lineup,dat,I,B100,1,douglas-taverner,73.61,28.0,2.0,laura-schweizer,75.58,21.0,3,dempsey-ryan,78.16,13.0
+lineup,dat,I,C100,1,nate-wenker,79.87,25.0,2.0,dempsey-ryan,81.26,21.0,,,,
+relay,hdr,621.0
+relay,RA200YM,2,teddy-woolery,dempsey-ryan,jarrod-carlson,collin-geiger,111.29,168.0,amelia-worthington,douglas-taverner,noah-wenker,jack-wurtz,118.01,120.0,288.0
+relay,RE200YM,2,collin-geiger,teddy-woolery,jarrod-carlson,john-jt-matthews,121.86,180.0,laura-schweizer,dempsey-ryan,jack-wurtz,noah-wenker,136.39,87.0,267.0
+relay,RA400YM,1,john-jt-matthews,douglas-taverner,jarrod-carlson,trevor-magill,265.17,66.0,,,,,,,66.0

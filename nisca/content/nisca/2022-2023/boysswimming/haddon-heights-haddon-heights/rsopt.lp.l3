@@ -1,0 +1,13 @@
+lineup,hdr,3,1524.0
+lineup,dat,I,A200,1,timothy-hannigan,115.87,80.0,2.0,luke-martone,125.69,50.0,,,,
+lineup,dat,I,E200,1,spencer-swanholm,120.78,108.0,2.0,jeffrey-schmidt,130.69,76.0,,,,
+lineup,dat,I,A50,1,travis-schriber,23.54,94.0,2.0,nick-kipp-1,24.31,83.0,3,graham-dubusoar,27.64,39.0
+lineup,dat,I,D100,1,declan-mcglynn,56.22,96.0,2.0,quinn-mccann-2,64.98,48.0,3,riley-bygott,67.23,37.0
+lineup,dat,I,A100,1,travis-schriber,52.34,87.0,2.0,nick-kipp-1,53.75,77.0,3,jake-vassell,56.15,62.0
+lineup,dat,I,A500,1,timothy-hannigan,307.0,90.0,2.0,luke-martone,346.38,44.0,3,andrew-campbell-5,361.54,29.0
+lineup,dat,I,B100,1,spencer-swanholm,54.88,113.0,2.0,riley-bygott,70.04,40.0,3,andrew-campbell-5,71.23,36.0
+lineup,dat,I,C100,1,declan-mcglynn,63.05,103.0,2.0,jake-vassell,67.4,79.0,3,quinn-mccann-2,73.02,53.0
+relay,hdr,1386.0
+relay,RE200YM,2,spencer-swanholm,declan-mcglynn,nick-kipp-1,travis-schriber,104.01,327.0,jeffrey-schmidt,jake-vassell,andrew-campbell-5,graham-dubusoar,118.1,207.0,534.0
+relay,RA200YM,2,jeffrey-schmidt,jake-vassell,nick-kipp-1,timothy-hannigan,99.08,276.0,graham-dubusoar,riley-bygott,quinn-mccann-2,luke-martone,112.52,159.0,435.0
+relay,RA400YM,2,timothy-hannigan,travis-schriber,declan-mcglynn,spencer-swanholm,219.54,252.0,riley-bygott,andrew-campbell-5,jeffrey-schmidt,luke-martone,239.1,165.0,417.0

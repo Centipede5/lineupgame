@@ -1,0 +1,12 @@
+lineup,hdr,3,306
+lineup,dat,R,RE200,1,tyler-khassanov,aarnav-hariamani,neel-chandwani,abhinav-toti,131.1,120
+lineup,dat,I,A200
+lineup,dat,I,E200,1,tyler-khassanov,165.86,0
+lineup,dat,I,A50,1,dakshil-saini,52.16,0,2,rehaan-patel,31.85,0,3,anurag-kolla,53.09,0
+lineup,dat,I,D100,1,prathik-lingampally,94.03,0
+lineup,dat,I,A100,1,tyler-khassanov,64.93,14,2,rehaan-patel,71,0,3,abhinav-toti,90.9,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,rehaan-patel,anurag-kolla,neel-chandwani,tyler-khassanov,123.31,87
+lineup,dat,R,RA200,2,aarnav-hariamani,prathik-lingampally,dakshil-saini,anurag-kolla,157.71,0
+lineup,dat,I,B100,1,abhinav-toti,98.92,0,2,dakshil-saini,124,0,3,anurag-kolla,165.34,0
+lineup,dat,I,C100,1,neel-chandwani,66.44,84,2,aarnav-hariamani,87.07,1

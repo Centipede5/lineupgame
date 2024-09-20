@@ -1,0 +1,13 @@
+lineup,hdr,3,1566.0
+lineup,dat,I,A200,1,maria-schnabel,126.92,77.0,2.0,kaycie-falcone-1,139.27,40.0,3,victoria-zurawski,141.6,34.0
+lineup,dat,I,E200,1,charlotte-feng,144.34,72.0,2.0,julianna-kuznar,145.47,69.0,3,sofia-keller,146.96,64.0
+lineup,dat,I,A50,1,abby-panzarella-1,26.0,98.0,2.0,leah-bauder-1,26.48,90.0,3,alexandra-acito,28.0,68.0
+lineup,dat,I,D100,1,leah-bauder-1,62.76,95.0,2.0,kaycie-falcone-1,71.79,49.0,3,maddie-kappelmeier,74.02,40.0
+lineup,dat,I,A100,1,abby-panzarella-1,58.54,80.0,2.0,alexandra-acito,63.0,50.0,3,natalia-kuznar,63.32,48.0
+lineup,dat,I,A500,1,maria-schnabel,338.56,78.0,2.0,madelyn-ball,352.43,62.0,3,julianna-kuznar,352.96,61.0
+lineup,dat,I,B100,1,madelyn-ball,64.06,86.0,2.0,natalia-kuznar,71.63,44.0,3,madeleine-leonard,71.93,43.0
+lineup,dat,I,C100,1,sofia-keller,72.2,93.0,2.0,charlotte-feng,74.66,80.0,3,summer-guerini,82.31,45.0
+relay,hdr,1419.0
+relay,RE200YF,2,madelyn-ball,sofia-keller,leah-bauder-1,charlotte-feng,119.22,291.0,julianna-kuznar,maria-schnabel,victoria-zurawski,alexandra-acito,124.41,243.0,534.0
+relay,RA200YF,2,sofia-keller,abby-panzarella-1,charlotte-feng,leah-bauder-1,108.26,291.0,kaycie-falcone-1,summer-guerini,victoria-zurawski,alexandra-acito,115.41,222.0,513.0
+relay,RA400YF,2,maria-schnabel,julianna-kuznar,madelyn-ball,abby-panzarella-1,239.22,252.0,victoria-zurawski,natalia-kuznar,summer-guerini,kaycie-falcone-1,266.75,120.0,372.0

@@ -1,0 +1,12 @@
+lineup,hdr,3,168
+lineup,dat,R,RE200,1,mike-rodriguez-550972,gavin-grant,andrew-krumaker,nolan-bradley,153.22,3
+lineup,dat,I,A200,1,kevin-bradberry,157.72,0,2,gavin-grant,154,0
+lineup,dat,I,E200,1,andrew-krumaker,171.11,0
+lineup,dat,I,A50,1,anthony-garufi,44.08,0,2,phillip-cappuccio,31.08,4,3,nolan-bradley,30.98,5
+lineup,dat,I,D100
+lineup,dat,I,A100,1,andrew-krumaker,60.12,39,2,mike-rodriguez-550972,72.87,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,gavin-grant,nolan-bradley,kevin-bradberry,andrew-krumaker,121.92,96
+lineup,dat,I,B100
+lineup,dat,I,C100,1,gavin-grant,81.23,21
+lineup,dat,R,RA400,1,kevin-bradberry,nolan-bradley,phillip-cappuccio,anthony-garufi,360.57,0

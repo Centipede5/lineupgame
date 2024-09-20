@@ -1,0 +1,15 @@
+lineup,hdr,3,1431
+lineup,dat,R,RE200,1,laszlo-gecsey,maxwell-hack,jonathan-moore-3,moore-james,138.05,78
+lineup,dat,R,RE200,2,ryan-melendez-1,owen-mordue,dylan-malave,sean-wooster,108.02,291
+lineup,dat,I,A200,1,thomaz-honda,178.83,0,2,santhosh-yanumula,135.57,24,3,moore-james,160.38,0
+lineup,dat,I,E200,1,ryan-melendez-1,148.5,29,2,dylan-malave,130.21,77,3,laszlo-gecsey,157,11
+lineup,dat,I,A50,1,maxwell-hack,25.25,69,2,sean-wooster,23.42,96,3,jackson-lynar,30.53,9
+lineup,dat,I,D100,1,sean-wooster,63.74,54,2,dylan-malave,56.35,96
+lineup,dat,I,A100,1,jonathan-moore-3,71.94,0,2,owen-mordue,59.45,42,3,peter-pineros,67.43,3
+lineup,dat,I,A500,1,thomaz-honda,486.33,0,2,laszlo-gecsey,410.67,0,3,peter-pineros,455.63,0
+lineup,dat,R,RA200,1,santhosh-yanumula,mathias-cadenillas,jonathan-moore-3,jackson-lynar,160.38,0
+lineup,dat,R,RA200,2,owen-mordue,moore-james,maxwell-hack,sean-wooster,106.83,204
+lineup,dat,I,B100,1,santhosh-yanumula,70.36,39,2,ryan-melendez-1,64.31,64
+lineup,dat,I,C100,1,maxwell-hack,71.23,61,2,owen-mordue,71.19,61
+lineup,dat,R,RA400,1,jackson-lynar,peter-pineros,thomaz-honda,moore-james,292.95,0
+lineup,dat,R,RA400,2,laszlo-gecsey,ryan-melendez-1,santhosh-yanumula,dylan-malave,249.42,123

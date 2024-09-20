@@ -1,0 +1,15 @@
+lineup,hdr,3,3553
+lineup,dat,R,RE200,1,alyssa-mchale,lilliana-kuball,julia-mchale,audrey-seiger,111.76,366
+lineup,dat,R,RE200,2,kouser-kaitlyn,molly-mcdonnell,maeve-kirwan,anna-stolarick,117.86,303
+lineup,dat,I,A200,1,lilliana-kuball,123.16,90,2,olivia-hogan,125,84,3,sydney-rudder,131.91,61
+lineup,dat,I,E200,1,molly-mcdonnell,139.58,86,2,kate-barone,145.1,70,3,sophia-lapointe,162.55,25
+lineup,dat,I,A50,1,alyssa-mchale,24.98,115,2,audrey-seiger,25.49,106,3,alexandra-brown-1,27.43,76
+lineup,dat,I,D100,1,audrey-seiger,66.55,74,2,julia-mchale,67.91,67,3,maeve-kirwan,72.55,46
+lineup,dat,I,A100,1,alexandra-brown-1,59.87,71,2,anna-stolarick,60.33,68,3,ellie-mcfadden,61.1,63
+lineup,dat,I,A500,1,olivia-hogan,332.26,86,2,kate-barone,352.47,62,3,kouser-kaitlyn,365.39,47
+lineup,dat,R,RA200,1,audrey-seiger,alexandra-brown-1,ellie-mcfadden,olivia-hogan,107.84,297
+lineup,dat,R,RA200,2,anna-stolarick,maeve-kirwan,sydney-rudder,kate-barone,112.04,255
+lineup,dat,I,B100,1,alyssa-mchale,60.32,110,2,kouser-kaitlyn,66.05,74,3,julia-mchale,66.88,69
+lineup,dat,I,C100,1,lilliana-kuball,68,117,2,molly-mcdonnell,71,99,3,anna-stolarick,76.5,71
+lineup,dat,R,RA400,1,olivia-hogan,alyssa-mchale,lilliana-kuball,molly-mcdonnell,230.85,297
+lineup,dat,R,RA400,2,alexandra-brown-1,ellie-mcfadden,kouser-kaitlyn,julia-mchale,250,198

@@ -1,0 +1,13 @@
+lineup,hdr,3,887.0
+lineup,dat,I,A200,1,miranda-abarca,135.47,51.0,2.0,stephanie-teipel,142.19,32.0,,,,
+lineup,dat,I,E200,1,bella-hoffman,135.19,100.0,2.0,veronica-peterson,146.46,66.0,3,miranda-abarca,149.03,59.0
+lineup,dat,I,A50,1,pamela-kobylski,31.37,26.0,2.0,lily-robinson,31.57,24.0,3,ava-komorowski,31.81,21.0
+lineup,dat,I,D100,1,ella-voorhees,63.32,91.0,2.0,veronica-peterson,63.8,89.0,3,izzy-maher,82.23,9.0
+lineup,dat,I,A100,1,darcy-repmann,63.8,45.0,2.0,ella-voorhees,66.63,29.0,3,megan-cathro,70.44,9.0
+lineup,dat,I,A500,1,stephanie-teipel,380.56,31.0,2.0,michelle-woodring,405.27,8.0,,,,
+lineup,dat,I,B100,1,bella-hoffman,62.82,93.0,2.0,darcy-repmann,64.09,85.0,3,michelle-woodring,77.11,19.0
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,612.0
+relay,RE200YF,2,ella-voorhees,stephanie-teipel,veronica-peterson,bella-hoffman,128.78,204.0,michelle-woodring,megan-cathro,izzy-maher,pamela-kobylski,149.08,60.0,264.0
+relay,RA200YF,2,darcy-repmann,lily-robinson,michelle-woodring,stephanie-teipel,123.11,156.0,danica-chakroborty,pamela-kobylski,ava-komorowski,miranda-abarca,139.31,42.0,198.0
+relay,RA400YF,1,ella-voorhees,darcy-repmann,veronica-peterson,bella-hoffman,259.74,150.0,,,,,,,150.0

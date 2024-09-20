@@ -1,0 +1,14 @@
+lineup,hdr,3,2946
+lineup,dat,R,RE200,1,lucas-foung,glassman-ari,max-pearson,finn-tobin,107.96,291
+lineup,dat,R,RE200,2,harris-conk,olin-webb,ronan-groves,rylan-gorman-zaldo,119.15,201
+lineup,dat,I,A200,1,troy-dibble,113.47,89,2,logan-driever,114.18,86,3,ronan-groves,129.54,40
+lineup,dat,I,E200,1,lucas-foung,123.73,98,2,glassman-ari,133.63,67
+lineup,dat,I,A50,1,kal-soiber,23.03,103,2,finn-tobin,24.3,83,3,max-pearson,26.33,55
+lineup,dat,I,D100,1,eli-muldoon,53.99,111,2,max-pearson,66.15,42,3,sam-safirstein,73.23,13
+lineup,dat,I,A100,1,troy-dibble,50.58,100,2,kal-soiber,50.32,102,3,harris-conk,56.77,58
+lineup,dat,I,A500,1,logan-driever,312.44,83,2,olin-webb,368.99,22,3,rylan-gorman-zaldo,349.61,41
+lineup,dat,R,RA200,1,kal-soiber,troy-dibble,logan-driever,eli-muldoon,96.13,303
+lineup,dat,I,B100,1,lucas-foung,57.3,99,2,finn-tobin,61.29,78,3,harris-conk,62.37,73
+lineup,dat,I,C100,1,eli-muldoon,65.97,87,2,glassman-ari,67.04,81,3,olin-webb,75.62,42
+lineup,dat,R,RA400,1,logan-driever,kal-soiber,eli-muldoon,troy-dibble,212.74,285
+lineup,dat,R,RA400,2,max-pearson,glassman-ari,harris-conk,lucas-foung,227.91,213

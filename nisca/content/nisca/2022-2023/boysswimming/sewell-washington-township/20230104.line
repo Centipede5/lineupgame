@@ -1,0 +1,15 @@
+lineup,hdr,3,1068
+lineup,dat,R,RE200,1,geoffrey-redrup,sean-parchesky,daniel-hillig,ryan-palmer-546693,117.06,216
+lineup,dat,R,RE200,2,marcus-glenn,evan-shaw,brison-woods,tristan-kulis,156.72,0
+lineup,dat,I,A200,1,geoffrey-redrup,128.35,43,2,spencer-cade,160.19,0,3,jake-devereaux,164.93,0
+lineup,dat,I,E200,1,mason-givens,144.69,38,2,ryan-palmer-546693,155.52,14,3,evan-shaw,164.64,0
+lineup,dat,I,A50,1,justin-zuzulock,26.7,50,2,marcus-glenn,28.5,29,3,tristan-kulis,31.21,3
+lineup,dat,I,D100,1,daniel-hillig,66.31,42,2,sean-parchesky,68.48,32,3,ryan-palmer-546693,78.56,0
+lineup,dat,I,A100,1,geoffrey-redrup,57.39,54,2,spencer-cade,66.73,6,3,tristan-kulis,68.17,0
+lineup,dat,I,A500,1,mason-givens,341.75,49,2,justin-zuzulock,365.97,25
+lineup,dat,R,RA200,1,ryan-palmer-546693,daniel-hillig,justin-zuzulock,mason-givens,111,171
+lineup,dat,R,RA200,2,jake-devereaux,tristan-kulis,brison-woods,spencer-cade,127,63
+lineup,dat,I,B100,1,daniel-hillig,69.09,44,2,marcus-glenn,84.99,0,3,jake-devereaux,89.97,0
+lineup,dat,I,C100
+lineup,dat,R,RA400,1,geoffrey-redrup,justin-zuzulock,sean-parchesky,mason-givens,232.9,189
+lineup,dat,R,RA400,2,spencer-cade,jake-devereaux,evan-shaw,marcus-glenn,286.48,0

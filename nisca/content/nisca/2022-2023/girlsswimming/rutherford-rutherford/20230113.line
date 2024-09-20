@@ -1,0 +1,15 @@
+lineup,hdr,3,1234
+lineup,dat,R,RE200,1,caroline-gemelli,isabella-soto,delilah-rango,ava-stadler,127.73,213
+lineup,dat,R,RE200,2,kari-augustefer,francesca-perotti,grace-farnum,hannah-kane,140.87,114
+lineup,dat,I,A200,1,caroline-gemelli,134.54,53,2,delilah-rango,145.03,25,3,gabriella-pakovics,158.19,0
+lineup,dat,I,E200,1,isabella-soto,147.27,63,2,francesca-perotti,167.54,13,3,hannah-kane,174.78,0
+lineup,dat,I,A50,1,ava-stadler,27.63,73,2,grace-farnum,30.36,38,3,olivia-walker-1,33.97,0
+lineup,dat,I,D100,1,francesca-perotti,82.22,9,2,madison-williams-1,90.15,0
+lineup,dat,I,A100,1,ava-stadler,61.78,58,2,kari-augustefer,71.05,6,3,hannah-kane,70.15,10
+lineup,dat,I,A500,1,caroline-gemelli,357.06,56,2,gabriella-pakovics,434.43,0,3,abigail-moller,488.27,0
+lineup,dat,R,RA200,1,kari-augustefer,grace-farnum,francesca-perotti,hannah-kane,124.01,150
+lineup,dat,R,RA200,2,salma-el-sherbiny,ellie-schmit,madison-williams-1,gabriella-pakovics,136.27,60
+lineup,dat,I,B100,1,grace-farnum,76.4,22,2,kari-augustefer,76.93,20,3,abigail-moller,102.89,0
+lineup,dat,I,C100,1,isabella-soto,75.4,76,2,salma-el-sherbiny,90.17,15,3,ellie-schmit,90.78,13
+lineup,dat,R,RA400,1,gabriella-pakovics,ava-stadler,caroline-gemelli,isabella-soto,260.48,147
+lineup,dat,R,RA400,2,olivia-walker-1,abigail-moller,ellie-schmit,salma-el-sherbiny,328.19,0

@@ -1,0 +1,13 @@
+lineup,hdr,3,713.0
+lineup,dat,I,A200,1,aishee-gosewamni,129.47,69.0,2.0,sarasi-dedhiya,141.94,33.0,3,sophia-morse,141.86,33.0
+lineup,dat,I,E200,1,alyssa-stump,148.27,61.0,2.0,jenevieve-warner,154.83,43.0,,,,
+lineup,dat,I,A50,1,jorden-sowards-barnett,27.91,69.0,2.0,sophia-morse,28.48,61.0,3,emily-soliman,31.2,28.0
+lineup,dat,I,D100,1,sarasi-dedhiya,71.52,50.0,,,,,,,,
+lineup,dat,I,A100,1,aishee-gosewamni,60.1,69.0,2.0,avani-hedge,68.25,20.0,3,emily-soliman,69.34,15.0
+lineup,dat,I,A500,1,alyssa-stump,341.07,75.0,,,,,,,,
+lineup,dat,I,B100,1,avani-hedge,75.41,26.0,2.0,jayani-dutta,80.98,3.0,,,,
+lineup,dat,I,C100,1,jenevieve-warner,79.25,58.0,,,,,,,,
+relay,hdr,717.0
+relay,RA200YF,2,aishee-gosewamni,jorden-sowards-barnett,alyssa-stump,jenevieve-warner,111.36,261.0,emily-soliman,avani-hedge,krisha-soneji,sarasi-dedhiya,137.35,54.0,315.0
+relay,RE200YF,2,emily-soliman,sarasi-dedhiya,jenevieve-warner,jorden-sowards-barnett,134.58,159.0,varshini-kommareddy,suhani-jhaveri,manya-vij,jayani-dutta,149.35,57.0,216.0
+relay,RA400YF,1,alyssa-stump,jorden-sowards-barnett,aishee-gosewamni,avani-hedge,252.51,186.0,,,,,,,186.0

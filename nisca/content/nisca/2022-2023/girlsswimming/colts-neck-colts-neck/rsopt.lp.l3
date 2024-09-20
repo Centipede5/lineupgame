@@ -1,0 +1,13 @@
+lineup,hdr,3,1249.0
+lineup,dat,I,A200,1,catherine-vota,128.03,74.0,2.0,julianna-sciacca,133.83,56.0,3,raegan-cleary,138.57,42.0
+lineup,dat,I,E200,1,lauren-zeni,142.38,78.0,2.0,sophia-dasilva,143.44,75.0,3,arianna-lalli,156.76,38.0
+lineup,dat,I,A50,1,kaitlyn-tannenhaus,28.39,63.0,2.0,lauren-jarmon,28.9,56.0,3,katherine-doerrier,30.88,32.0
+lineup,dat,I,D100,1,zoe-midura,65.0,82.0,2.0,julianna-sciacca,67.86,67.0,3,julia-rigatti-1,71.58,50.0
+lineup,dat,I,A100,1,zoe-midura,58.42,81.0,2.0,catherine-vota,60.25,68.0,3,nicole-cheung,64.98,38.0
+lineup,dat,I,A500,1,arianna-lalli,365.96,46.0,,,,,,,,
+lineup,dat,I,B100,1,sophia-dasilva,65.76,75.0,2.0,julia-rigatti-1,73.17,37.0,3,nicole-cheung,80.39,5.0
+lineup,dat,I,C100,1,lauren-zeni,69.95,105.0,2.0,raegan-cleary,78.23,63.0,3,victoria-iacobino,89.29,18.0
+relay,hdr,1236.0
+relay,RE200YF,2,kaitlyn-tannenhaus,sophia-dasilva,lauren-zeni,zoe-midura,118.39,297.0,raegan-cleary,lauren-jarmon,julianna-sciacca,julia-rigatti-1,129.94,195.0,492.0
+relay,RA200YF,2,julianna-sciacca,arianna-lalli,lauren-jarmon,katherine-doerrier,115.88,219.0,kaitlyn-tannenhaus,catherine-vota,nicole-cheung,mackenzie-lyons,117.01,207.0,426.0
+relay,RA400YF,2,arianna-lalli,nicole-cheung,sophia-dasilva,zoe-midura,257.29,162.0,kaitlyn-tannenhaus,raegan-cleary,lauren-jarmon,catherine-vota,258.75,156.0,318.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,153.0
+lineup,dat,I,A200,1,logan-mcguire,144.9,3.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,alex-ceballos,26.83,49.0,2.0,jack-ford-3,28.09,34.0,,,,
+lineup,dat,I,D100,1,alex-ceballos,70.02,25.0,,,,,,,,
+lineup,dat,I,A100,1,vanessa-bryk-1,66.06,9.0,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,vanessa-bryk-1,77.78,14.0,2.0,ethan-wiebesiek,81.22,4.0,,,,
+lineup,dat,I,C100,1,mark-tezak,82.91,15.0,,,,,,,,
+relay,hdr,399.0
+relay,RE200YM,2,ethan-wiebesiek,mark-tezak,alex-ceballos,jack-ford-3,122.55,174.0,logan-mcguire,tim-babkowski,harrison-bomm,george-barry,151.62,9.0,183.0
+relay,RA200YM,2,vanessa-bryk-1,george-barry,alex-ceballos,audrey-ford-1,121.23,99.0,jack-ford-3,nick-chiorello,mark-tezak,logan-mcguire,125.56,72.0,171.0
+relay,RA400YM,1,george-barry,audrey-ford-1,jack-ford-3,logan-mcguire,272.23,45.0,,,,,,,45.0

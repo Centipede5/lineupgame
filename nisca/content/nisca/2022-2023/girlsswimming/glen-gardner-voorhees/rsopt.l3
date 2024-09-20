@@ -1,0 +1,17 @@
+lineup,hdr,3,885
+lineup,dat,I,A200,1,olimpia-lake,131.96,61,2,natalie-mason,133.91,55
+lineup,dat,I,E200,1,olimpia-lake,133.16,107,2,melanie-rajewski,157.33,37,3,amelia-weldon,157.69,36
+lineup,dat,I,A50,1,elizabeth-hamilton,28.29,64,2,delaney-beck,28.59,60,3,madeleine-gamm,32.25,17
+lineup,dat,I,D100,1,amelia-weldon,68.45,65,2,meredith-whitlock,73.22,43
+lineup,dat,I,A100,1,faith-hamilton,60.14,69,2,natalie-mason,62.17,56,3,melanie-rajewski,64.67,40
+lineup,dat,I,A500,1,elizabeth-hamilton,363.47,49
+lineup,dat,I,B100,1,faith-hamilton,64.95,80,2,delaney-beck,74.45,31,3,madeleine-gamm,80.93,3
+lineup,dat,I,C100,1,meredith-whitlock,91.14,12
+relay,hdr,810
+relay,RE200YF,2,natalie-mason,faith-hamilton,olimpia-lake,elizabeth-hamilton,131.97,1.8000000000000000e+02,delaney-beck,melanie-rajewski,meredith-whitlock,amelia-weldon,134.48,1.5900000000000000e+02
+relay,RA200YF,2,faith-hamilton,elizabeth-hamilton,amelia-weldon,olimpia-lake,114.45,2.3100000000000000e+02,faith-del-polito,madeleine-gamm,elisa-boothe,natalie-mason,126.15,1.3200000000000000e+02
+relay,RA400YF,1,faith-del-polito,elisa-boothe,madeleine-gamm,meredith-whitlock,269.69,1.0800000000000000e+02
+relay,hdr,852
+relay,RE200YF,1,faith-hamilton,melanie-rajewski,amelia-weldon,elizabeth-hamilton,125.46,2.3400000000000000e+02
+relay,RA200YF,2,faith-hamilton,olimpia-lake,elizabeth-hamilton,natalie-mason,112.83,2.4600000000000000e+02,delaney-beck,madeleine-gamm,elisa-boothe,meredith-whitlock,128.49,1.1400000000000000e+02
+relay,RA400YF,2,delaney-beck,amelia-weldon,olimpia-lake,natalie-mason,260.29,1.5000000000000000e+02,faith-del-polito,elisa-boothe,madeleine-gamm,meredith-whitlock,269.69,1.0800000000000000e+02

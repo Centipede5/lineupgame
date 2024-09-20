@@ -1,0 +1,13 @@
+lineup,hdr,3,1584
+lineup,dat,R,RE200,1,nathan-jeong,brian-yang,kyle-hanna,harry-fominykh,112.17,255
+lineup,dat,I,A200,1,juan-zapateiro,130.06,38,2,william-bramley,137.22,20
+lineup,dat,I,E200,1,brian-yang,132.46,71,2,nathan-jeong,140.43,49
+lineup,dat,I,A50,1,harry-fominykh,22.59,110,2,jack-svorec,25.26,69,3,stephen-sammarco,31.59,0
+lineup,dat,I,D100,1,kyle-hanna,66.83,39,2,sean-bramley,65.79,44
+lineup,dat,I,A100,1,alex-monastersky-1,54.26,74,2,jack-svorec,64.23,18,3,stephen-sammarco,66.77,6
+lineup,dat,I,A500,1,juan-zapateiro,372.85,19,2,sean-bramley,357.76,33
+lineup,dat,R,RA200,1,jack-svorec,alex-monastersky-1,juan-zapateiro,harry-fominykh,104.53,225
+lineup,dat,I,B100,1,nathan-jeong,62.37,73,2,kyle-hanna,72.92,30,3,alex-monastersky-1,80.84,5
+lineup,dat,I,C100,1,harry-fominykh,68.31,75,2,brian-yang,68.01,76,3,william-bramley,106.09,0
+lineup,dat,R,RA400,1,juan-zapateiro,brian-yang,kyle-hanna,alex-monastersky-1,239.65,162
+lineup,dat,R,RA400,2,nathan-jeong,sean-bramley,william-bramley,jack-svorec,257.49,93

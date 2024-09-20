@@ -1,0 +1,13 @@
+lineup,hdr,3,706.0
+lineup,dat,I,A200,1,joe-sozer,131.22,35.0,2.0,dane-casey,140.46,13.0,,,,
+lineup,dat,I,E200,1,lucas-tsaoys,157.22,10.0,,,,,,,,
+lineup,dat,I,A50,1,dan-mahoney-1,24.72,77.0,2.0,cooper-harmon,25.47,66.0,3,brayden-oneill,25.8,62.0
+lineup,dat,I,D100,1,brendan-lovasz,61.33,66.0,2.0,joe-sozer,63.28,56.0,,,,
+lineup,dat,I,A100,1,dan-mahoney-1,56.64,59.0,2.0,brayden-oneill,58.08,50.0,3,cooper-harmon,58.71,47.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,brendan-lovasz,63.58,67.0,2.0,gavyn-lynch,67.69,49.0,,,,
+lineup,dat,I,C100,1,lucas-tsaoys,77.2,36.0,2.0,logan-sy,83.33,13.0,,,,
+relay,hdr,798.0
+relay,RE200YM,2,gavyn-lynch,brendan-lovasz,cooper-harmon,dan-mahoney-1,117.0,216.0,charles-clark-3,lucas-tsaoys,joe-sozer,brayden-oneill,129.06,132.0,348.0
+relay,RA400YM,2,dan-mahoney-1,brendan-lovasz,joe-sozer,gavyn-lynch,236.76,174.0,dane-casey,logan-sy,chase-gellington,lucas-tsaoys,264.23,69.0,243.0
+relay,RA200YM,2,cooper-harmon,dane-casey,gavyn-lynch,brayden-oneill,109.54,183.0,steven-pham-1,sean-cartinella,charles-clark-3,tanner-sabolewski,134.22,24.0,207.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,502
+lineup,dat,I,A200,1,lily-abbadessa,127.78,74,2,malvina-kolodziej,149.46,14
+lineup,dat,I,E200
+lineup,dat,I,A50,1,audrey-sousa,27.97,68,2,maria-dreizin,28.55,60,3,manrique-julianna,29.94,43
+lineup,dat,I,D100,1,olivia-ying,80.03,17
+lineup,dat,I,A100,1,lehar-mishra,63.19,49,2,audrey-sousa,68.06,21,3,emilie-tomko,70.09,11
+lineup,dat,I,A500,1,prisha-jain,394.31,18
+lineup,dat,I,B100,1,lehar-mishra,74.95,28,2,maria-dreizin,78.9,11,3,malvina-kolodziej,81.3,2
+lineup,dat,I,C100,1,prisha-jain,83.15,41,2,olivia-ying,84.3,37,3,layla-haddad,92.09,8
+relay,hdr,618
+relay,RE200YF,2,lehar-mishra,prisha-jain,maria-dreizin,audrey-sousa,136.46,1.4400000000000000e+02,layla-haddad,sam-ngo,olivia-ying,emilie-tomko,149.36,5.7000000000000000e+01
+relay,RA200YF,2,prisha-jain,audrey-sousa,olivia-ying,lehar-mishra,107.85,2.9700000000000000e+02,layla-haddad,madison-coble,sam-ngo,malvina-kolodziej,128.05,1.1700000000000000e+02
+relay,RA400YF,1,manrique-julianna,maria-dreizin,layla-haddad,sam-ngo,296.91,3.0000000000000000e+00

@@ -1,0 +1,11 @@
+lineup,hdr,3,37.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,ethan-willuski,27.85,37.0,,,,,,,,
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,,,,,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,33.0
+relay,RA200YM,1,sydney-mahan,sarah-ashenfelter,michelle-frolio,ethan-willuski,132.4,33.0,,,,,,,33.0

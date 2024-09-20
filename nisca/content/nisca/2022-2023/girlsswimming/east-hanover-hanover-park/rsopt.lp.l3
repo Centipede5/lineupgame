@@ -1,0 +1,13 @@
+lineup,hdr,3,1192.0
+lineup,dat,I,A200,1,ashley-yanovak,138.1,43.0,,,,,,,,
+lineup,dat,I,E200,1,thi-tran,132.56,109.0,2.0,michelle-zhao,147.25,64.0,,,,
+lineup,dat,I,A50,1,sarah-rossi-601658,27.46,75.0,2.0,natalie-gorthey,27.98,68.0,3,chinwe-orjekwe,28.32,63.0
+lineup,dat,I,D100,1,thi-tran,57.8,125.0,2.0,lindsay-baitinger,68.2,66.0,3,natalie-gorthey,82.52,8.0
+lineup,dat,I,A100,1,abigail-bernstein,62.44,54.0,2.0,angela-liu-3,63.63,46.0,3,chinwe-orjekwe,67.37,25.0
+lineup,dat,I,A500,1,krystina-zhao,364.15,48.0,2.0,sarah-rossi-601658,365.15,47.0,3,ashley-yanovak,383.64,28.0
+lineup,dat,I,B100,1,michelle-zhao,65.69,76.0,2.0,krystina-zhao,67.88,63.0,3,kelly-stephen,78.15,14.0
+lineup,dat,I,C100,1,lindsay-baitinger,78.13,63.0,2.0,abigail-bernstein,79.34,58.0,3,angela-liu-3,81.27,49.0
+relay,hdr,1164.0
+relay,RA200YF,2,lindsay-baitinger,sarah-rossi-601658,ashley-yanovak,thi-tran,110.23,273.0,chinwe-orjekwe,angela-liu-3,sienna-smith-1,abigail-bernstein,121.42,171.0,444.0
+relay,RE200YF,2,michelle-zhao,angela-liu-3,lindsay-baitinger,chinwe-orjekwe,125.45,234.0,krystina-zhao,abigail-bernstein,kayleigh-mcardle-1,gabriella-messana,137.61,138.0,372.0
+relay,RA400YF,2,krystina-zhao,thi-tran,michelle-zhao,sarah-rossi-601658,242.59,234.0,ashley-yanovak,maris-day-1,sienna-smith-1,kelly-stephen,268.33,114.0,348.0

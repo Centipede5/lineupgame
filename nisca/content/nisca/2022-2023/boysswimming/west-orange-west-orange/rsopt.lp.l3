@@ -1,0 +1,13 @@
+lineup,hdr,3,364.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,marlon-bravo-1,27.5,41.0,2.0,michael-greco-1,28.34,31.0,3,byron-alvarez,30.32,11.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,leo-mccormick,56.89,57.0,2.0,noah-wadih,59.28,43.0,3,kourosh-karimi,67.31,4.0
+lineup,dat,I,A500,1,leo-mccormick,333.79,58.0,,,,,,,,
+lineup,dat,I,B100,1,justin-risco-1,65.47,59.0,,,,,,,,
+lineup,dat,I,C100,1,lance-zeligson,73.63,50.0,2.0,cooper-niculescu,84.46,10.0,,,,
+relay,hdr,807.0
+relay,RE200YM,2,justin-risco-1,lance-zeligson,leo-mccormick,noah-wadih,119.37,198.0,marlon-bravo-1,cooper-niculescu,michael-greco-1,kourosh-karimi,135.22,93.0,291.0
+relay,RA200YM,2,michael-greco-1,justin-risco-1,noah-wadih,lance-zeligson,106.9,204.0,byron-alvarez,kourosh-karimi,marlon-bravo-1,cooper-niculescu,124.93,75.0,279.0
+relay,RA400YM,2,noah-wadih,justin-risco-1,leo-mccormick,lance-zeligson,234.38,183.0,byron-alvarez,kourosh-karimi,michael-greco-1,marlon-bravo-1,268.84,54.0,237.0

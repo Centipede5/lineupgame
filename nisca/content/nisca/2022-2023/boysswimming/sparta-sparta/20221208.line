@@ -1,0 +1,14 @@
+lineup,hdr,3,476
+lineup,dat,R,RE200,1,dylan-lee-5,michael-gaines-4,jack-mcgurrin,jeremy-cruise,135.49,93
+lineup,dat,R,RE200,2,nick-panaite,charlie-pasquariello,farrell-bednarick-1,josh-levine-603031,160.26,0
+lineup,dat,I,A200,1,max-russell-1,140.12,13,2,dylan-lee-5,147.05,0
+lineup,dat,I,E200,1,jelphis-joaquin,149.69,27,2,michael-gaines-4,173.92,0
+lineup,dat,I,A50,1,josh-levine-603031,30.73,7,2,jeremy-cruise,29.99,14,3,farrell-bednarick-1,38.61,0
+lineup,dat,I,D100,1,jack-mcgurrin,76.58,1
+lineup,dat,I,A100,1,max-russell-1,63.36,22,2,nick-panaite,70.7,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,jelphis-joaquin,dylan-lee-5,jeremy-cruise,michael-gaines-4,115.59,138
+lineup,dat,R,RA200,2,josh-levine-603031,nick-panaite,farrell-bednarick-1,charlie-pasquariello,140.2,0
+lineup,dat,I,B100,1,jelphis-joaquin,70.34,39,2,jack-mcgurrin,73.09,29,3,dylan-lee-5,78.93,11
+lineup,dat,I,C100,1,michael-gaines-4,81.75,19,2,nick-panaite,89.4,0,3,charlie-pasquariello,109.95,0
+lineup,dat,R,RA400,1,jelphis-joaquin,josh-levine-603031,max-russell-1,jack-mcgurrin,266.38,63

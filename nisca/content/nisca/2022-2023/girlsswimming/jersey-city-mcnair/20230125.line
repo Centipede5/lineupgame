@@ -1,0 +1,14 @@
+lineup,hdr,3,403
+lineup,dat,R,RE200,1,sydney-chung-1,jolie-wong-1,gwen-chung-1,molly-brown-652954,140.53,117
+lineup,dat,R,RE200,2,lara-gandre,suhani-kollisetty,manjiri-salunkhe,lola-lam-1,168.06,0
+lineup,dat,I,A200,1,morgan-cahill-1,173.48,0,2,gwen-chung-1,140.8,36,3,sydney-chung-1,146.51,21
+lineup,dat,I,E200,1,lara-gandre,208.77,0,2,vianca-villalobos,184.18,0
+lineup,dat,I,A50,1,manjiri-salunkhe,34.33,0,2,molly-brown-652954,28.8,57,3,suhani-kollisetty,35.53,0
+lineup,dat,I,D100,1,gwen-chung-1,78.47,22,2,molly-brown-652954,86.28,0
+lineup,dat,I,A100,1,suhani-kollisetty,84.38,0,2,sydney-chung-1,66.44,30,3,lola-lam-1,84.85,0
+lineup,dat,I,A500,1,jolie-wong-1,441.38,0,2,morgan-cahill-1,483.27,0
+lineup,dat,R,RA200,1,vianca-villalobos,lara-gandre,morgan-cahill-1,manjiri-salunkhe,142.84,21
+lineup,dat,I,B100,1,manjiri-salunkhe,100.01,0,2,lola-lam-1,93.47,0
+lineup,dat,I,C100,1,lara-gandre,102.1,0,2,jolie-wong-1,86.68,28,3,vianca-villalobos,89.63,17
+lineup,dat,R,RA400,1,gwen-chung-1,sydney-chung-1,molly-brown-652954,jolie-wong-1,283.22,54
+lineup,dat,R,RA400,2,morgan-cahill-1,lola-lam-1,vianca-villalobos,suhani-kollisetty,337.1,0

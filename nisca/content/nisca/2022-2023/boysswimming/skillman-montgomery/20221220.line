@@ -1,0 +1,15 @@
+lineup,hdr,3,3031
+lineup,dat,R,RE200,1,luis-molinar-sanchez,antoni-tadych,mathivanth-veerachamy,elliot-tanalski-1,110.16,273
+lineup,dat,R,RE200,2,ryan-formica,tyler-kimm,arhan-kondala,jacob-schick,113.61,243
+lineup,dat,I,A200,1,anton-kondratyev,113.2,90,2,sriram-reddy,127.11,46,3,elves-huang,125.39,51
+lineup,dat,I,E200,1,henry-liang-gilman,127.31,86,2,antoni-tadych,128.38,83,3,vishan-patel,146.59,34
+lineup,dat,I,A50,1,kaleb-jurado-garcia-1,23.85,89,2,mathivanth-veerachamy,23.12,101,3,luis-molinar-sanchez,24.81,75
+lineup,dat,I,D100,1,ryan-kang,56.93,92,2,ryan-formica,67.5,36,3,arhan-kondala,60.73,70
+lineup,dat,I,A100,1,elliot-tanalski-1,51.96,90,2,jacob-schick,57.24,55,3,humza-shaikh,59.57,42
+lineup,dat,I,A500,1,anton-kondratyev,301.97,97,2,sriram-reddy,361.64,29
+lineup,dat,R,RA200,1,mathivanth-veerachamy,henry-liang-gilman,luis-molinar-sanchez,kaleb-jurado-garcia-1,99.22,273
+lineup,dat,R,RA200,2,arhan-kondala,tyler-kimm,kevin-kolesar-1,elves-huang,108.36,192
+lineup,dat,I,B100,1,ryan-kang,60.16,84,2,ryan-formica,65.12,60,3,vishan-patel,59.43,87
+lineup,dat,I,C100,1,antoni-tadych,63.4,101,2,tyler-kimm,67.11,81,3,nirmal-reddy,80.33,24
+lineup,dat,R,RA400,1,kaleb-jurado-garcia-1,anton-kondratyev,henry-liang-gilman,elliot-tanalski-1,207.67,312
+lineup,dat,R,RA400,2,humza-shaikh,arhan-kondala,ryan-kang,tyler-kimm,246.13,135

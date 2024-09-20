@@ -1,0 +1,13 @@
+lineup,hdr,3,2176.0
+lineup,dat,I,A200,1,robert-alexy,102.83,129.0,2.0,michael-fialcowitz,110.28,100.0,3,makovsky-alex,118.62,72.0
+lineup,dat,I,E200,1,dalton-brooks,119.36,113.0,2.0,joseph-narduzzi,124.45,95.0,3,merric-hu,138.71,53.0
+lineup,dat,I,A50,1,jonah-kim-1,22.91,105.0,2.0,femi-oshodi,23.04,102.0,3,emmet-price,23.93,88.0
+lineup,dat,I,D100,1,robert-alexy,53.93,112.0,2.0,femi-oshodi,53.92,112.0,3,nicholas-yoo-1,59.67,76.0
+lineup,dat,I,A100,1,jonah-kim-1,52.3,88.0,2.0,emmet-price,52.27,88.0,3,makovsky-alex,53.34,80.0
+lineup,dat,I,A500,1,michael-fialcowitz,291.74,111.0,2.0,nicholas-yoo-1,320.48,73.0,3,kevin-lee-11,327.19,65.0
+lineup,dat,I,B100,1,mark-sebastian,58.6,92.0,2.0,brandon-low,64.36,64.0,3,kevin-lee-11,65.16,60.0
+lineup,dat,I,C100,1,joseph-narduzzi,62.27,108.0,2.0,dalton-brooks,62.67,105.0,3,merric-hu,66.29,85.0
+relay,hdr,1866.0
+relay,RE200YM,2,mark-sebastian,dalton-brooks,femi-oshodi,jonah-kim-1,101.09,357.0,nicholas-yoo-1,merric-hu,emmet-price,brandon-low,108.28,288.0,645.0
+relay,RA200YM,2,joseph-narduzzi,emmet-price,jonah-kim-1,robert-alexy,90.91,360.0,makovsky-alex,jeffery-liu,finn-maguire,jonny-lang,99.5,270.0,630.0
+relay,RA400YM,2,michael-fialcowitz,femi-oshodi,dalton-brooks,robert-alexy,201.85,345.0,nicholas-yoo-1,jonny-lang,makovsky-alex,mark-sebastian,220.65,246.0,591.0

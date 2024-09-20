@@ -1,0 +1,13 @@
+lineup,hdr,3,1025.0
+lineup,dat,I,A200,1,sebastian-mendoza-1,142.69,8.0,2.0,alex-longo-502762,142.91,7.0,,,,
+lineup,dat,I,E200,1,jon-limberis,131.88,72.0,2.0,liam-kelleher-4,133.57,67.0,3,frank-giarratano,139.99,50.0
+lineup,dat,I,A50,1,jake-danish,25.33,68.0,2.0,martin-jelonek,26.08,58.0,3,christian-garcia-9,28.77,26.0
+lineup,dat,I,D100,1,calvin-chen-1,58.63,82.0,2.0,jake-danish,63.9,53.0,3,dylan-marfiewicz,67.23,37.0
+lineup,dat,I,A100,1,calvin-chen-1,55.83,64.0,2.0,alex-longo-502762,63.87,19.0,3,sebastian-mendoza-1,64.38,17.0
+lineup,dat,I,A500,1,nicholas-tecchio,336.35,55.0,,,,,,,,
+lineup,dat,I,B100,1,liam-kelleher-4,57.39,98.0,2.0,nicholas-tecchio,62.85,70.0,3,martin-jelonek,71.25,36.0
+lineup,dat,I,C100,1,jon-limberis,66.89,82.0,2.0,frank-giarratano,72.23,56.0,,,,
+relay,hdr,1095.0
+relay,RE200YM,2,liam-kelleher-4,jon-limberis,jake-danish,nicholas-tecchio,109.02,282.0,martin-jelonek,frank-giarratano,dylan-marfiewicz,christian-garcia-9,119.92,195.0,477.0
+relay,RA200YM,2,jon-limberis,frank-giarratano,dylan-marfiewicz,calvin-chen-1,104.99,222.0,martin-jelonek,aiden-cana,christian-garcia-9,sebastian-mendoza-1,116.56,132.0,354.0
+relay,RA400YM,2,calvin-chen-1,jake-danish,nicholas-tecchio,liam-kelleher-4,234.82,183.0,sebastian-mendoza-1,alex-longo-502762,christian-garcia-9,dylan-marfiewicz,261.37,81.0,264.0

@@ -1,0 +1,15 @@
+lineup,hdr,3,2416
+lineup,dat,R,RE200,1,jude-maute,andrew-macallaro,timothy-lee-2,isacc-ibarrado,128.91,132
+lineup,dat,R,RE200,2,evan-park,david-xu,jacob-sun,zachary-joyal-1,108.39,288
+lineup,dat,I,A200,1,roey-paglingayen,123.15,58,2,justin-flynn,119.69,68,3,morgan-wrobel,149.4,0
+lineup,dat,I,E200,1,logan-pfarrer,148.02,30,2,jacob-sun,127.59,85,3,andrew-macallaro,148.38,30
+lineup,dat,I,A50,1,connor-bourdon,25.18,70,2,evan-park,23.91,89,3,isacc-ibarrado,27.07,46
+lineup,dat,I,D100,1,zachary-joyal-1,60.09,73,2,roey-paglingayen,60.22,73,3,syon-gupta,72.15,17
+lineup,dat,I,A100,1,david-xu,55.07,69,2,jacob-sun,53.27,81,3,connor-bourdon,58.22,49
+lineup,dat,I,A500,1,zachary-joyal-1,330.69,61,2,justin-flynn,317,77,3,jude-maute,356.74,34
+lineup,dat,R,RA200,1,logan-pfarrer,roey-paglingayen,justin-flynn,zachary-joyal-1,106.97,204
+lineup,dat,R,RA200,2,jacob-sun,connor-bourdon,evan-park,david-xu,109.36,183
+lineup,dat,I,B100,1,logan-pfarrer,62.23,73,2,evan-park,59.17,89,3,timothy-lee-2,76.63,18
+lineup,dat,I,C100,1,andrew-macallaro,73.78,50,2,david-xu,67.87,77,3,jude-maute,83.48,13
+lineup,dat,R,RA400,1,isacc-ibarrado,timothy-lee-2,jude-maute,andrew-macallaro,259.44,87
+lineup,dat,R,RA400,2,justin-flynn,roey-paglingayen,logan-pfarrer,connor-bourdon,232.61,192

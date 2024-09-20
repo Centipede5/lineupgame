@@ -1,0 +1,13 @@
+lineup,hdr,3,960.0
+lineup,dat,I,A200,1,camryn-bedder,123.31,90.0,2.0,saule-mikaliunaite,133.59,56.0,3,maya-sternberg,135.06,52.0
+lineup,dat,I,E200,1,saniya-malik,151.88,51.0,,,,,,,,
+lineup,dat,I,A50,1,larissa-kavanagh,26.84,85.0,2.0,corinne-walsh-1,29.57,47.0,3,sophie-mctigue,31.07,30.0
+lineup,dat,I,D100,1,saniya-malik,66.64,74.0,2.0,keira-lawlor,66.69,73.0,3,sabine-silva,84.33,2.0
+lineup,dat,I,A100,1,saule-mikaliunaite,62.16,56.0,,,,,,,,
+lineup,dat,I,A500,1,camryn-bedder,329.44,90.0,2.0,maya-sternberg,365.5,47.0,,,,
+lineup,dat,I,B100,1,keira-lawlor,66.39,72.0,2.0,larissa-kavanagh,68.23,62.0,3,avery-lee,78.11,15.0
+lineup,dat,I,C100,1,christina-kalliaras,83.36,41.0,2.0,sabine-silva,91.41,11.0,3,cathrine-conover,92.93,6.0
+relay,hdr,912.0
+relay,RE200YF,2,keira-lawlor,camryn-bedder,saniya-malik,larissa-kavanagh,119.79,285.0,corinne-walsh-1,christina-kalliaras,sophie-mctigue,sarah-dwyer-602552,141.26,111.0,396.0
+relay,RA200YF,2,larissa-kavanagh,keira-lawlor,saule-mikaliunaite,camryn-bedder,109.84,276.0,carina-pang,grace-policarpio,sarah-dwyer-602552,corinne-walsh-1,131.11,96.0,372.0
+relay,RA400YF,1,corinne-walsh-1,saniya-malik,maya-sternberg,saule-mikaliunaite,261.63,144.0,,,,,,,144.0

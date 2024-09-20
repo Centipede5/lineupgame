@@ -1,0 +1,15 @@
+lineup,hdr,3,2857
+lineup,dat,R,RE200,1,samantha-benzija,zoe-davies,anna-kilponen,ellie-de-keukelaere,110.44,381
+lineup,dat,R,RE200,2,stephanie-warnica,katherine-fritz,elena-ivosevic,julia-mieczkowski,136.7,144
+lineup,dat,I,A200,1,anna-kilponen,123.57,89,2,jianna-sartorio,130.63,65,3,haley-klouse,154.78,1
+lineup,dat,I,E200,1,ellie-de-keukelaere,137.26,94,2,charlotte-mcnamara-1,146.46,66,3,elena-ivosevic,148.25,61
+lineup,dat,I,A50,1,zoe-davies,26.37,92,2,grace-bohan,27.33,77,3,stephanie-warnica,28.23,65
+lineup,dat,I,D100,1,jianna-sartorio,65.01,82,2,grace-bohan,69.16,61
+lineup,dat,I,A100,1,samantha-benzija,58.27,82,2,charlotte-mcnamara-1,58.25,82,3,katherine-fritz,67.19,26
+lineup,dat,I,A500,1,ellie-de-keukelaere,327.5,93,2,zoe-davies,335.58,82
+lineup,dat,R,RA200,1,samantha-benzija,charlotte-mcnamara-1,grace-mougalian,jianna-sartorio,109.46,279
+lineup,dat,R,RA200,2,grace-bohan,haley-klouse,katherine-fritz,julia-montalvo,123.34,156
+lineup,dat,I,B100,1,anna-kilponen,63.27,91,2,elena-ivosevic,65.72,76,3,stephanie-warnica,75.68,25
+lineup,dat,I,C100,1,samantha-benzija,70.45,103,2,grace-mougalian,79.34,58,3,katherine-fritz,101.51,0
+lineup,dat,R,RA400,1,ellie-de-keukelaere,charlotte-mcnamara-1,anna-kilponen,zoe-davies,240.88,243
+lineup,dat,R,RA400,2,grace-bohan,jianna-sartorio,stephanie-warnica,elena-ivosevic,253.16,183

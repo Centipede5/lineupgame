@@ -1,0 +1,13 @@
+lineup,hdr,3,1854.0
+lineup,dat,I,A200,1,noam-berkovsky,114.38,86.0,2.0,matteo-fabbricatore,123.06,58.0,3,michael-kretov,126.81,47.0
+lineup,dat,I,E200,1,aaron-w-lee,121.16,106.0,2.0,raymond-leung,126.75,88.0,3,matteo-fabbricatore,132.33,71.0
+lineup,dat,I,A50,1,dmitry-halaburda,21.84,123.0,2.0,michael-kretov,24.6,78.0,3,vincent-fazio,26.4,54.0
+lineup,dat,I,D100,1,james-lombardi-2,52.64,121.0,2.0,aaron-w-lee,54.5,108.0,3,aaron-g-lee,55.09,104.0
+lineup,dat,I,A100,1,max-niu,55.8,64.0,2.0,vincent-fazio,58.91,45.0,3,lasha-tchigladze,61.04,34.0
+lineup,dat,I,A500,1,aaron-g-lee,314.27,81.0,,,,,,,,
+lineup,dat,I,B100,1,dmitry-halaburda,54.68,114.0,2.0,raymond-leung,59.88,85.0,3,max-niu,61.12,79.0
+lineup,dat,I,C100,1,james-lombardi-2,59.0,128.0,2.0,noam-berkovsky,62.88,104.0,3,julian-lo,68.09,76.0
+relay,hdr,1563.0
+relay,RE200YM,2,dmitry-halaburda,aaron-w-lee,aaron-g-lee,james-lombardi-2,99.39,375.0,max-niu,julian-lo,matteo-fabbricatore,vincent-fazio,114.75,234.0,609.0
+relay,RA200YM,2,noam-berkovsky,raymond-leung,aaron-g-lee,james-lombardi-2,93.99,327.0,vincent-fazio,julian-lo,matteo-fabbricatore,michael-kretov,106.13,210.0,537.0
+relay,RA400YM,2,dmitry-halaburda,raymond-leung,noam-berkovsky,aaron-w-lee,218.29,258.0,max-niu,reuben-kinsbruner,michael-kretov,julian-lo,240.24,159.0,417.0

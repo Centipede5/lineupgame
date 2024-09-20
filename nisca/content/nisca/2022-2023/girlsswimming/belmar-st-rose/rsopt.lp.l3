@@ -1,0 +1,13 @@
+lineup,hdr,3,758.0
+lineup,dat,I,A200,1,molly-mulcahy,139.08,40.0,2.0,winkelman-gabrielle,151.03,10.0,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,abby-condon,25.97,98.0,2.0,lucy-annitto,28.48,61.0,3,maura-kerr,29.97,42.0
+lineup,dat,I,D100,1,abby-condon,62.2,98.0,2.0,marian-moore,72.03,48.0,3,maura-kerr,80.11,16.0
+lineup,dat,I,A100,1,molyy-cullen,57.08,91.0,2.0,lucy-annitto,66.45,30.0,3,emilee-rible,70.41,9.0
+lineup,dat,I,A500,1,molyy-cullen,336.08,81.0,2.0,marian-moore,366.35,46.0,,,,
+lineup,dat,I,B100,1,molly-mulcahy,72.53,40.0,2.0,winkelman-gabrielle,75.42,26.0,,,,
+lineup,dat,I,C100,1,elissa-oliveri,88.27,22.0,,,,,,,,
+relay,hdr,882.0
+relay,RA200YF,2,molyy-cullen,lucy-annitto,maura-kerr,abby-condon,113.0,246.0,rian-baluyut,annie-reilly-1,grace-bergmann,sophia-lukowiak-1,125.34,138.0,384.0
+relay,RE200YF,2,winkelman-gabrielle,molly-mulcahy,abby-condon,lucy-annitto,129.15,201.0,davis-dugan,elissa-oliveri,kirsten-boehmcke,emilee-rible,144.01,93.0,294.0
+relay,RA400YF,2,molly-mulcahy,marian-moore,molyy-cullen,winkelman-gabrielle,253.85,177.0,maura-kerr,kirsten-boehmcke,emilee-rible,annie-reilly-1,290.17,27.0,204.0

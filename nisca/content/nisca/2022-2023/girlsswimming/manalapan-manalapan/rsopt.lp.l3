@@ -1,0 +1,13 @@
+lineup,hdr,3,221.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,sanvi-singh,28.64,59.0,2.0,kelsey-myler,29.04,54.0,3.0,ella-odonell,33.22,7.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,kelsey-myler,64.02,44.0,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,sanvi-singh,69.25,56.0,,,,,,,,
+lineup,dat,I,C100,1,geetha-muthukrishnan,94.32,1.0,,,,,,,,
+relay,hdr,138.0
+relay,RE200YF,1,sabrina-dimaggio,sanvi-singh,kelsey-myler,lauren-gorelick,146.84,75.0,,,,,,,75.0
+relay,RA400YF,1,kelsey-myler,geetha-muthukrishnan,ella-odonell,sanvi-singh,285.55,45.0,,,,,,,45.0
+relay,RA200YF,1,lauren-gorelick,anastayia-lytvyn,geetha-muthukrishnan,ella-odonell,143.19,18.0,,,,,,,18.0

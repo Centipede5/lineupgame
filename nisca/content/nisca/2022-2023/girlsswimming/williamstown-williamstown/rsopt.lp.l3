@@ -1,0 +1,12 @@
+lineup,hdr,3,438.0
+lineup,dat,I,A200,1,chloe-morris-1,122.96,91.0,2.0,olivia-morrison,151.37,9.0,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,lily-pushkar,25.58,105.0,2.0,jaelyn-davis,31.34,27.0,3,delaney-harbison,33.04,9.0
+lineup,dat,I,D100,1,lily-pushkar,61.07,104.0,,,,,,,,
+lineup,dat,I,A100,1,addison-saber,71.55,4.0,,,,,,,,
+lineup,dat,I,A500,1,chloe-morris-1,334.6,83.0,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,angelina-silcox,92.77,6.0,,,,,,,,
+relay,hdr,363.0
+relay,RA200YF,1,chloe-morris-1,jaelyn-davis,ava-edison,lily-pushkar,119.59,186.0,,,,,,,186.0
+relay,RE200YF,2,lily-pushkar,chloe-morris-1,addison-saber,alyssa-kahrmann,137.31,138.0,olivia-morrison,leah-renshaw,angelina-silcox,jaelyn-davis,152.35,39.0,177.0

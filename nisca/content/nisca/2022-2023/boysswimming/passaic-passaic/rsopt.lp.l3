@@ -1,0 +1,11 @@
+lineup,hdr,3,86.0
+lineup,dat,I,A200,1,steeven-martinez,138.88,16.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,kevin-gervario,28.48,30.0,,,,,,,,
+lineup,dat,I,D100,1,steeven-martinez,74.94,6.0,,,,,,,,
+lineup,dat,I,A100,1,damien-guiterrez,63.06,23.0,,,,,,,,
+lineup,dat,I,B100,1,damien-guiterrez,79.09,10.0,,,,,,,,
+lineup,dat,I,C100,1,christian-soto-3,87.28,1.0,,,,,,,,
+relay,hdr,243.0
+relay,RA200YM,1,damien-guiterrez,brandon-juarez,christian-soto-3,steeven-martinez,113.97,150.0,,,,,,,150.0
+relay,RE200YM,1,brandon-juarez,christian-soto-3,steeven-martinez,damien-guiterrez,135.56,93.0,,,,,,,93.0

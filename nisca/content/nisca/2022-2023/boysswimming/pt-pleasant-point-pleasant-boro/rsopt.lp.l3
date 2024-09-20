@@ -1,0 +1,13 @@
+lineup,hdr,3,948.0
+lineup,dat,I,A200,1,collin-najdzinowicz,121.0,64.0,,,,,,,,
+lineup,dat,I,E200,1,milo-stefanowicz,130.79,75.0,2.0,michael-sleys,154.01,17.0,,,,
+lineup,dat,I,A50,1,sean-cleveland-1,22.61,110.0,2.0,nick-jankovich,24.5,80.0,3,matt-woit,24.92,74.0
+lineup,dat,I,D100,1,nick-pistolakis,61.99,63.0,,,,,,,,
+lineup,dat,I,A100,1,sean-cleveland-1,51.68,92.0,2.0,timmy-stamm,60.56,36.0,3,david-fisahn,62.36,27.0
+lineup,dat,I,A500,1,milo-stefanowicz,320.99,73.0,2.0,collin-najdzinowicz,327.02,65.0,,,,
+lineup,dat,I,B100,1,michael-sleys,72.91,30.0,2.0,joe-pillsbury,73.06,29.0,3,conor-blessing,81.11,4.0
+lineup,dat,I,C100,1,nick-jankovich,75.41,43.0,2.0,kyle-najdzinowicz,75.47,42.0,3,ryan-sabia,80.27,24.0
+relay,hdr,1059.0
+relay,RE200YM,2,collin-najdzinowicz,milo-stefanowicz,sean-cleveland-1,nick-jankovich,110.62,267.0,joe-pillsbury,ryan-sabia,andrew-michigan,timmy-stamm,126.05,150.0,417.0
+relay,RA200YM,2,nick-pistolakis,michael-sleys,timmy-stamm,nick-jankovich,103.69,231.0,robert-cooper-2,matt-oliphant,connor-cilento,sam-muraglia-1,115.06,141.0,372.0
+relay,RA400YM,2,nick-pistolakis,collin-najdzinowicz,sean-cleveland-1,milo-stefanowicz,221.0,246.0,conor-blessing,nick-prendeville,joe-mcnally-604409,dylan-johnson-11,278.39,24.0,270.0

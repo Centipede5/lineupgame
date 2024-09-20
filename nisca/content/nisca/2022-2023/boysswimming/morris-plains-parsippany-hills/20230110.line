@@ -1,0 +1,15 @@
+lineup,hdr,3,1583
+lineup,dat,R,RE200,1,connor-johnson-11,nicholas-iannucci,cooper-moffatt,finley-stevens,105.11,318
+lineup,dat,R,RE200,2,mikey-mcgrath,spark-yu,eric-yang,haroon-afzal,137.65,81
+lineup,dat,I,A200,1,cooper-moffatt,119.47,69,2,atharv-kulkarni,158.33,0,3,charles-hilgendorff,147.97,0
+lineup,dat,I,E200,1,connor-johnson-11,120.75,108,2,finley-stevens,152.02,21,3,eric-yang,196.22,0
+lineup,dat,I,A50,1,william-duffy,27.49,41,2,haroon-afzal,28.5,29,3,mikey-mcgrath,26.39,54
+lineup,dat,I,D100,1,eric-yang,78.06,0,2,spark-yu,76.06,2,3,samuel-lau,75.54,4
+lineup,dat,I,A100,1,nicholas-iannucci,57.97,51,2,william-duffy,65.89,10,3,priyesh-mistry,69.72,0
+lineup,dat,I,A500,1,finley-stevens,377.68,14,2,charles-hilgendorff,404.95,0,3,atharv-kulkarni,463.73,0
+lineup,dat,R,RA200,1,eric-yang,mikey-mcgrath,haroon-afzal,samuel-lau,114.16,147
+lineup,dat,R,RA200,2,william-duffy,atharv-kulkarni,samir-saha,spark-yu,122.1,93
+lineup,dat,I,B100,1,cooper-moffatt,60.57,81,2,priyesh-mistry,86.53,0,3,haroon-afzal,88.26,0
+lineup,dat,I,C100,1,connor-johnson-11,61.61,112,2,nicholas-iannucci,65.87,87,3,samir-saha,107.72,0
+lineup,dat,R,RA400,1,finley-stevens,cooper-moffatt,nicholas-iannucci,connor-johnson-11,223.93,231
+lineup,dat,R,RA400,2,mikey-mcgrath,priyesh-mistry,samuel-lau,charles-hilgendorff,276.44,30

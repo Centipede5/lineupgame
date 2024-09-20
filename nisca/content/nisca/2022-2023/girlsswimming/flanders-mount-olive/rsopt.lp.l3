@@ -1,0 +1,13 @@
+lineup,hdr,3,860.0
+lineup,dat,I,A200,1,laure-thomas,131.16,64.0,2.0,sophia-trombley,147.21,19.0,3,katelyn-melendez,153.53,4.0
+lineup,dat,I,E200,1,haily-tiu,140.59,83.0,,,,,,,,
+lineup,dat,I,A50,1,angela-tobin,28.38,63.0,2.0,cecelia-puello,30.68,34.0,3,zenobia-thulin,31.03,30.0
+lineup,dat,I,D100,1,danielle-casaba,64.48,85.0,2.0,kellie-carpentier,72.22,47.0,3,hannah-tashjian,79.34,19.0
+lineup,dat,I,A100,1,kellie-carpentier,60.72,65.0,2.0,hannah-tashjian,67.42,25.0,3,katelyn-melendez,69.38,14.0
+lineup,dat,I,A500,1,laure-thomas,356.99,56.0,2.0,sophia-trombley,404.48,9.0,,,,
+lineup,dat,I,B100,1,danielle-casaba,61.72,101.0,2.0,kimberly-ginalski,79.34,10.0,,,,
+lineup,dat,I,C100,1,haily-tiu,72.15,93.0,2.0,tashjian-delaney,87.27,25.0,3,zenobia-thulin,90.51,14.0
+relay,hdr,1056.0
+relay,RA200YF,2,laure-thomas,tashjian-delaney,kellie-carpentier,angela-tobin,114.78,228.0,hannah-tashjian,zenobia-thulin,cecelia-puello,katelyn-melendez,123.67,153.0,381.0
+relay,RE200YF,2,danielle-casaba,haily-tiu,kellie-carpentier,hannah-tashjian,123.09,255.0,kimberly-ginalski,tashjian-delaney,jillian-moscatello,angela-tobin,140.81,114.0,369.0
+relay,RA400YF,2,danielle-casaba,laure-thomas,carpentier-kellie,haily-tiu,242.98,231.0,cecelia-puello,sophia-trombley,angela-tobin,tashjian-delaney,278.0,75.0,306.0

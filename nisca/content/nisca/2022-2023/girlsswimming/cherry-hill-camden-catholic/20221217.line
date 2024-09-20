@@ -1,0 +1,14 @@
+lineup,hdr,3,1119
+lineup,dat,R,RE200,1,maxine-fisher,sydney-van-istendal,addison-finn,kaitlyn-ronkowski,134.06,162
+lineup,dat,R,RE200,2,emma-schultz,katie-balint,annabelle-gallagher,gabrielle-bosco,177.33,0
+lineup,dat,I,A200,1,kaitlyn-wagner,133.94,55,2,maggie-ronkowski,176.44,0,3,katie-balint,207.8,0
+lineup,dat,I,E200,1,addison-finn,150.18,55,2,sydney-van-istendal,191.63,0,3,kaitlyn-ronkowski,141.35,81
+lineup,dat,I,A50,1,emma-schultz,32.47,14,2,gabrielle-bosco,42.38,0
+lineup,dat,I,D100,1,maggie-ronkowski,80.61,15,2,maxine-fisher,69.68,59
+lineup,dat,I,A100,1,addison-finn,58.49,80,2,annabelle-gallagher,81.95,0,3,kaitlyn-ronkowski,66.36,30
+lineup,dat,I,A500,1,julia-kopcho,331.66,87,2,kaitlyn-wagner,364.52,48
+lineup,dat,R,RA200,1,kaitlyn-ronkowski,emma-schultz,maggie-ronkowski,addison-finn,123.29,156
+lineup,dat,R,RA200,2,miranda-marsan,katie-balint,gabrielle-bosco,morgan-marsan,155.84,0
+lineup,dat,I,B100,1,maxine-fisher,66.25,73,2,julia-kopcho,67.12,68
+lineup,dat,I,C100,1,sydney-van-istendal,93.36,4,2,emma-schultz,96.86,0,3,katie-balint,125.96,0
+lineup,dat,R,RA400,1,maxine-fisher,kaitlyn-wagner,julia-kopcho,sydney-van-istendal,263.7,132

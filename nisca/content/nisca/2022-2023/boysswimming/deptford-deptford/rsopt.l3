@@ -1,0 +1,13 @@
+lineup,hdr,3,74
+lineup,dat,I,A200
+lineup,dat,I,E200
+lineup,dat,I,A50,1,sean-cooper-499686,28.83,26,2,charlie-marsteller,31.3,2
+lineup,dat,I,D100
+lineup,dat,I,A100,1,sean-cooper-499686,63.19,23
+lineup,dat,I,A500
+lineup,dat,I,B100,1,ava-yelverton,80.59,6
+lineup,dat,I,C100,1,julia-rafferty,84.33,10,2,delaney-fahey,85.15,7
+relay,hdr,402
+relay,RE200YM,1,ethan-tamayo,julia-rafferty,hanna-shein,sean-cooper-499686,137,8.4000000000000000e+01
+relay,RA200YM,2,yameenah-tazewell-babb,mya-baylor,sydney-jackson-648632,brihanna-caccavelli,105.42,2.1600000000000000e+02,ava-yelverton,cheyann-cooper,rogan-dean,charlie-marsteller,126.42,6.6000000000000000e+01
+relay,RA400YM,1,sean-cooper-499686,delaney-fahey,julia-rafferty,ethan-tamayo,274.41,3.6000000000000000e+01

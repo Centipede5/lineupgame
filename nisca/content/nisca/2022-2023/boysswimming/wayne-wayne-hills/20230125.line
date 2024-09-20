@@ -1,0 +1,15 @@
+lineup,hdr,3,1946
+lineup,dat,R,RE200,1,alex-buftea,evan-hablitz,william-lebron-1,liam-pakonis,111.24,261
+lineup,dat,R,RE200,2,marcello-dugdale,tomas-gonzalez,matheus-campos,jace-kim-1,127.92,138
+lineup,dat,I,A200,1,thomas-emeric,138.77,17,2,akram-qabartai,136.46,22,3,benjamin-siegel,163.12,0
+lineup,dat,I,E200,1,ryan-cioletti,170.35,0,2,ved-patel-1,192.06,0,3,evan-hablitz,151.41,23
+lineup,dat,I,A50,1,liam-pakonis,24.66,77,2,jace-kim-1,25.9,60,3,tomas-gonzalez,26.92,47
+lineup,dat,I,D100,1,william-lebron-1,58.74,81,2,ved-patel-1,85.33,0,3,matthew-anevski,84.34,0
+lineup,dat,I,A100,1,matheus-campos,54.85,70,2,akram-qabartai,59.82,40,3,jace-kim-1,59.95,40
+lineup,dat,I,A500,1,tyler-kwon,475.92,0,2,evan-biller,486.3,0,3,benjamin-siegel,463.6,0
+lineup,dat,R,RA200,1,alex-buftea,liam-pakonis,matheus-campos,william-lebron-1,97.4,291
+lineup,dat,R,RA200,2,akram-qabartai,thomas-emeric,marcello-dugdale,jace-kim-1,113.15,156
+lineup,dat,I,B100,1,alex-buftea,57.77,96,2,marcello-dugdale,74.09,26,3,thomas-emeric,77.37,15
+lineup,dat,I,C100,1,evan-hablitz,71.64,59,2,tomas-gonzalez,76.84,37,3,ryan-cioletti,94.06,0
+lineup,dat,R,RA400,1,liam-pakonis,matheus-campos,alex-buftea,william-lebron-1,215.01,276
+lineup,dat,R,RA400,2,akram-qabartai,thomas-emeric,tomas-gonzalez,evan-hablitz,252.2,114

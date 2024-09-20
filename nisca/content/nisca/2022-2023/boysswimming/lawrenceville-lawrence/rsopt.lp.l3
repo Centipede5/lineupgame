@@ -1,0 +1,13 @@
+lineup,hdr,3,940.0
+lineup,dat,I,A200,1,ethan-wang-1,124.81,53.0,,,,,,,,
+lineup,dat,I,E200,1,cole-verga,125.56,92.0,,,,,,,,
+lineup,dat,I,A50,1,nick-straka,23.41,96.0,2.0,vlado-nikolov,27.49,41.0,3,kian-khojastepour,29.19,22.0
+lineup,dat,I,D100,1,ethan-wang-1,61.84,64.0,2.0,paige-van-hise-2,76.41,1.0,,,,
+lineup,dat,I,A100,1,thomas-carpinelli-1,62.27,27.0,2.0,milos-uskokovic,62.91,24.0,3,kian-khojastepour,63.69,20.0
+lineup,dat,I,A500,1,josh-demarco-1,300.16,99.0,2.0,katie-sullivan-5,341.53,49.0,3,olivia-yuchmow,390.93,3.0
+lineup,dat,I,B100,1,cole-verga,56.09,106.0,2.0,nick-straka,59.13,89.0,3,alexandra-cherry,78.16,13.0
+lineup,dat,I,C100,1,josh-demarco-1,61.6,112.0,2.0,liam-carroll-5,78.98,29.0,,,,
+relay,hdr,1218.0
+relay,RE200YM,2,josh-demarco-1,cole-verga,ethan-wang-1,nick-straka,104.12,327.0,fletcher-sisk,liam-carroll-5,thomas-carpinelli-1,milos-uskokovic,119.51,198.0,525.0
+relay,RA400YM,2,ethan-wang-1,liam-carroll-5,kian-khojastepour,cole-verga,229.93,204.0,thomas-carpinelli-1,nick-straka,vlado-nikolov,josh-demarco-1,230.62,201.0,405.0
+relay,RA200YM,2,liam-carroll-5,milos-uskokovic,vlado-nikolov,thomas-carpinelli-1,113.37,153.0,megan-simpson-1,paige-van-hise-2,alexandra-cherry,katie-sullivan-5,116.0,135.0,288.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,636
+lineup,dat,I,A200,1,abby-hogan,140.18,37,2,ryleigh-lamela-1,151.4,9
+lineup,dat,I,E200,1,gina-yip-1,137.22,94,2,emily-jelleme,171.86,4
+lineup,dat,I,A50,1,victoria-espinosa,28.94,55,2,ryleigh-lamela-1,29.35,50,3,callie-hanbridge,30.11,41
+lineup,dat,I,D100,1,katie-chen,71.31,51,2,mia-decerbo-1,74.31,38
+lineup,dat,I,A100,1,victoria-espinosa,64.97,38
+lineup,dat,I,A500,1,katie-chen,391.43,21
+lineup,dat,I,B100,1,abby-hogan,70.56,49,2,mia-decerbo-1,77.15,19
+lineup,dat,I,C100,1,gina-yip-1,70.47,102,2,emily-jelleme,87.31,25,3,swetangeli-patel,93.76,3
+relay,hdr,708
+relay,RE200YF,2,abby-hogan,gina-yip-1,mia-decerbo-1,victoria-espinosa,123.71,2.4900000000000000e+02,emily-jelleme,swetangeli-patel,gaby-sagona,katy-donohue,156.25,1.8000000000000000e+01
+relay,RA200YF,2,ryleigh-lamela-1,emily-jelleme,callie-hanbridge,katie-chen,123.01,1.5600000000000000e+02,ashley-chen-657293,katy-donohue,anna-weisblum,priya-aggarwal,135.4,6.6000000000000000e+01
+relay,RA400YF,2,victoria-espinosa,abby-hogan,mia-decerbo-1,gina-yip-1,250,1.9800000000000000e+02,katy-donohue,callie-hanbridge,ryleigh-lamela-1,katie-chen,291.76,2.1000000000000000e+01

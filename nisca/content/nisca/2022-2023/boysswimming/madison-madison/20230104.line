@@ -1,0 +1,15 @@
+lineup,hdr,3,1956
+lineup,dat,R,RE200,1,owen-weller,anuthra-abeysinghe,spencer-rosenbaum,jacques-chemaly,105.48,315
+lineup,dat,R,RE200,2,evan-katz-1,peter-falcone,ethan-simms,justin-dickson-598333,122.75,174
+lineup,dat,I,A200,1,owen-weller,115.9,80,2,kaden-chou,133.03,31,3,evan-katz-1,145.35,2
+lineup,dat,I,E200,1,anuthra-abeysinghe,131.53,73,2,ethan-simms,143.41,41,3,peter-falcone,172.77,0
+lineup,dat,I,A50,1,jacques-chemaly,23.09,102,2,justin-dickson-598333,26.93,47,3,jake-terry-1,28.35,31
+lineup,dat,I,D100,1,spencer-rosenbaum,65.38,46,2,ethan-simms,69.87,26,3,martin-bria,78.89,0
+lineup,dat,I,A100,1,kaden-chou,57.57,53,2,justin-dickson-598333,64.34,17,3,adam-haydoutov,69.4,0
+lineup,dat,I,A500,1,jacques-chemaly,309,88,2,evan-katz-1,375.34,16,3,john-davidson-2,432.63,0
+lineup,dat,R,RA200,1,peter-falcone,justin-dickson-598333,kaden-chou,john-davidson-2,117.81,123
+lineup,dat,R,RA200,2,rehan-kurukulasuriya,tony-moreira,martin-bria,teddy-barisonek,237.81,0
+lineup,dat,I,B100,1,owen-weller,56.27,105,2,jake-terry-1,74.53,24,3,adam-haydoutov,79.26,10
+lineup,dat,I,C100,1,anuthra-abeysinghe,63.46,101,2,spencer-rosenbaum,70.97,62,3,peter-falcone,77.45,35
+lineup,dat,R,RA400,1,jacques-chemaly,spencer-rosenbaum,owen-weller,anuthra-abeysinghe,213.38,282
+lineup,dat,R,RA400,2,ethan-simms,john-davidson-2,kaden-chou,evan-katz-1,263.38,72

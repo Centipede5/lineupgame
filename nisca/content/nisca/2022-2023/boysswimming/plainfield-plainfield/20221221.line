@@ -1,0 +1,13 @@
+lineup,hdr,3,155
+lineup,dat,R,RE200,1,alejandro-quiceno,juan-chang,asim-emory,jourdan-bartlett,161.68,0
+lineup,dat,I,A200,1,joel-sanchez-5,132.4,32
+lineup,dat,I,E200
+lineup,dat,I,A50,1,fernando-rodriguez-1,29.62,18,2,leonardo-sanchez-655078,34.03,0,3,jourdan-bartlett,30.6,8
+lineup,dat,I,D100
+lineup,dat,I,A100,1,asim-emory,71.11,0,2,fernando-rodriguez-1,70.5,0,3,leonardo-sanchez-655078,78.19,0
+lineup,dat,I,A500,1,joel-sanchez-5,359.25,31,2,juan-chang,548.04,0
+lineup,dat,R,RA200,1,asim-emory,leonardo-sanchez-655078,fernando-rodriguez-1,joel-sanchez-5,126.66,66
+lineup,dat,R,RA200,2,alejandro-quiceno,noah-munoz,juan-chang,jourdan-bartlett,146.47,0
+lineup,dat,I,B100,1,alejandro-quiceno,97.69,0,2,asim-emory,106.48,0
+lineup,dat,I,C100,1,juan-chang,131.3,0
+lineup,dat,R,RA400,1,joel-sanchez-5,leonardo-sanchez-655078,asim-emory,noah-munoz,317.29,0

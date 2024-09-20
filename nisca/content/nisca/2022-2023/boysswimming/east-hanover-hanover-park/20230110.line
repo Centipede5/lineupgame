@@ -1,0 +1,15 @@
+lineup,hdr,3,1742
+lineup,dat,R,RE200,1,grant-zou,ricky-sannito,grant-nelson,jack-lowinger,130.54,123
+lineup,dat,R,RE200,2,neal-maheshwart,alex-fu,francis-murray,adam-trinh,113.95,240
+lineup,dat,I,A200,1,grant-nelson,154.54,0,2,alexander-amoresano,135.84,24,3,nicolas-mixich,171.02,0
+lineup,dat,I,E200,1,ian-cynk,163.28,0,2,alex-fu,137.4,57,3,grant-zou,157.29,10
+lineup,dat,I,A50,1,adam-trinh,23.91,89,2,thien-tran,22.73,108,3,grant-nelson,26.05,58
+lineup,dat,I,D100,1,scott-hunter,90.04,0,2,thien-tran,54.84,105,3,francis-murray,65.56,45
+lineup,dat,I,A100,1,jack-lowinger,58.81,46,2,alexander-amoresano,59.17,44,3,ian-cynk,66.75,6
+lineup,dat,I,A500,1,ricky-sannito,430.84,0,2,neal-maheshwart,382.89,10
+lineup,dat,R,RA200,1,ian-cynk,scott-hunter,nicolas-mixich,grant-nelson,118.63,117
+lineup,dat,R,RA200,2,adam-trinh,francis-murray,alexander-amoresano,thien-tran,100.48,261
+lineup,dat,I,B100,1,grant-zou,71.84,34,2,jack-lowinger,78.44,12,3,roderick-chu,101.18,0
+lineup,dat,I,C100,1,adam-trinh,72.38,56,2,alex-fu,69.69,68,3,francis-murray,76.93,37
+lineup,dat,R,RA400,1,ricky-sannito,grant-zou,jack-lowinger,neal-maheshwart,276.4,30
+lineup,dat,R,RA400,2,ian-cynk,alexander-amoresano,alex-fu,thien-tran,239.95,162

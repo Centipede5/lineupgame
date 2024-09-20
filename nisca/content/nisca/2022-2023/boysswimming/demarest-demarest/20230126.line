@@ -1,0 +1,12 @@
+lineup,hdr,3,1147
+lineup,dat,R,RE200,1,jacob-kim-1,junta-tani,eric-hwang,andrew-lee-16,112.94,249
+lineup,dat,I,A200,1,mustafa-elgalad,142.32,8,2,juhun-gwak,149.13,0,3,yali-twito,174.67,0
+lineup,dat,I,E200,1,jacob-kim-1,127.12,87,2,junta-tani,140.5,49
+lineup,dat,I,A50,1,yoav-redhef,25.5,66,2,hugo-gardner,34.25,0,3,arhaan-gandhi,36,0
+lineup,dat,I,D100,1,eric-hwang,53.24,116
+lineup,dat,I,A100,1,jacob-kim-1,55.37,67,2,andrew-lee-16,60.19,38,3,yali-twito,79.34,0
+lineup,dat,I,A500,1,juhun-gwak,429.56,0
+lineup,dat,R,RA200,1,yoav-redhef,junta-tani,andrew-lee-16,jacob-kim-1,103.31,234
+lineup,dat,I,B100,1,eric-hwang,68.06,48,2,yoav-redhef,76.44,18
+lineup,dat,I,C100,1,junta-tani,72.94,53,2,andrew-lee-16,84.56,9
+lineup,dat,R,RA400,1,eric-hwang,mustafa-elgalad,juhun-gwak,yoav-redhef,254.31,105

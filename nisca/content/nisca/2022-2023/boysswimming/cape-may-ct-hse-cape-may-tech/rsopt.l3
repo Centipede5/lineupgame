@@ -1,0 +1,17 @@
+lineup,hdr,3,485
+lineup,dat,I,A200,1,trevor-magill,136.53,22,2,lindsay-devol-1,145.13,2
+lineup,dat,I,E200,1,dempsey-ryan,161.9,1
+lineup,dat,I,A50,1,teddy-woolery,25.1,71,2,collin-geiger,25.3,68,3,john-jt-matthews,27.33,43
+lineup,dat,I,D100,1,jarrod-carlson,72.14,17
+lineup,dat,I,A100,1,teddy-woolery,55.98,63,2,douglas-taverner,63.09,23,3,noah-wenker,64.64,16
+lineup,dat,I,A500,1,collin-geiger,355.08,35,2,trevor-magill,378.03,14
+lineup,dat,I,B100,1,douglas-taverner,73.61,28,2,laura-schweizer,75.58,21,3,jarrod-carlson,77.33,15
+lineup,dat,I,C100,1,nate-wenker,79.87,25,2,dempsey-ryan,81.26,21
+relay,hdr,570
+relay,RE200YM,2,collin-geiger,teddy-woolery,jarrod-carlson,john-jt-matthews,121.86,1.8000000000000000e+02,laura-schweizer,dempsey-ryan,jack-wurtz,noah-wenker,136.39,8.7000000000000000e+01
+relay,RA200YM,2,teddy-woolery,dempsey-ryan,jarrod-carlson,collin-geiger,111.29,1.6800000000000000e+02,amelia-worthington,douglas-taverner,noah-wenker,jack-wurtz,118.01,1.2000000000000000e+02
+relay,RA400YM,1,douglas-taverner,jack-wurtz,trevor-magill,noah-wenker,281.54,1.5000000000000000e+01
+relay,hdr,603
+relay,RE200YM,2,collin-geiger,teddy-woolery,jarrod-carlson,john-jt-matthews,121.86,1.8000000000000000e+02,laura-schweizer,dempsey-ryan,jack-wurtz,noah-wenker,136.39,8.7000000000000000e+01
+relay,RA200YM,2,laura-schweizer,dempsey-ryan,john-jt-matthews,teddy-woolery,114,1.5000000000000000e+02,amelia-worthington,douglas-taverner,noah-wenker,jack-wurtz,118.01,1.2000000000000000e+02
+relay,RA400YM,1,john-jt-matthews,douglas-taverner,jarrod-carlson,trevor-magill,265.17,6.6000000000000000e+01

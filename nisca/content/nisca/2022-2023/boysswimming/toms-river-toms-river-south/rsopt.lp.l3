@@ -1,0 +1,13 @@
+lineup,hdr,3,1005.0
+lineup,dat,I,A200,1,trevor-kalb,125.7,50.0,2.0,aiden-padham,126.78,47.0,3,colin-speedy,135.9,23.0
+lineup,dat,I,E200,1,brady-krohn,150.34,25.0,2.0,joseph-flores-502369,157.19,10.0,3,andrew-cagliostro,160.72,3.0
+lineup,dat,I,A50,1,brady-krohn,24.42,81.0,2.0,robert-boemio,24.79,76.0,3,cannon-sharo-cocca,26.69,50.0
+lineup,dat,I,D100,1,noah-thompson,56.42,95.0,2.0,cal-narvaez,59.51,77.0,3,curren-thumm,73.34,12.0
+lineup,dat,I,A100,1,aiden-padham,55.86,64.0,2.0,trevor-kalb,58.49,48.0,3,colin-speedy,58.66,47.0
+lineup,dat,I,A500,1,noah-thompson,314.77,80.0,,,,,,,,
+lineup,dat,I,B100,1,joseph-flores-502369,68.61,46.0,2.0,curren-thumm,72.56,31.0,3,matthew-hartzfeld,74.79,24.0
+lineup,dat,I,C100,1,cal-narvaez,68.06,76.0,2.0,cannon-sharo-cocca,80.48,23.0,3,lee-scott,82.31,17.0
+relay,hdr,1299.0
+relay,RA200YM,2,cal-narvaez,aiden-padham,brady-krohn,noah-thompson,96.74,297.0,cannon-sharo-cocca,trevor-kalb,nick-romaine,robert-boemio,108.37,192.0,489.0
+relay,RE200YM,2,curren-thumm,cal-narvaez,noah-thompson,brady-krohn,108.42,288.0,joseph-flores-502369,cannon-sharo-cocca,robert-boemio,colin-speedy,120.1,192.0,480.0
+relay,RA400YM,2,trevor-kalb,robert-boemio,colin-speedy,aiden-padham,229.6,204.0,curren-thumm,william-mundy,ethan-godlesky,andrew-cagliostro,248.87,126.0,330.0

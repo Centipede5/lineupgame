@@ -1,0 +1,13 @@
+lineup,hdr,3,881.0
+lineup,dat,I,A200,1,yahsir-mcneal,131.08,36.0,2.0,tiffany-tran-521412,140.52,13.0,3,kyla-richardson,142.16,9.0
+lineup,dat,I,E200,1,nick-kuctanidze,137.8,56.0,2.0,carina-costa,154.75,15.0,3,abagale-ranger,159.11,6.0
+lineup,dat,I,A50,1,logan-barnes-2,23.77,91.0,2.0,angel-alameda,26.09,58.0,3,aiden-oldfield,27.78,37.0
+lineup,dat,I,D100,1,brian-tran,60.01,74.0,,,,,,,,
+lineup,dat,I,A100,1,logan-barnes-2,53.75,77.0,2.0,mathew-walden,61.47,32.0,3,angel-alameda,61.97,29.0
+lineup,dat,I,A500,1,nathan-ranger,329.23,63.0,2.0,yahsir-mcneal,357.18,33.0,,,,
+lineup,dat,I,B100,1,nathan-ranger,61.15,79.0,2.0,hunter-oldfield,71.94,33.0,3,jade-mccoy,72.15,33.0
+lineup,dat,I,C100,1,nick-kuctanidze,70.79,63.0,2.0,carina-costa,75.95,41.0,3,mathew-walden,86.59,3.0
+relay,hdr,1149.0
+relay,RE200YM,2,nathan-ranger,nick-kuctanidze,brian-tran,logan-barnes-2,102.5,342.0,jade-mccoy,carina-costa,cate-laroche,tiffany-tran-521412,131.25,117.0,459.0
+relay,RA200YM,2,brian-tran,nick-kuctanidze,angel-alameda,logan-barnes-2,97.89,285.0,aiden-oldfield,vincent-ta,aydan-hauta,andrew-moratelli,125.02,75.0,360.0
+relay,RA400YM,2,nathan-ranger,angel-alameda,yahsir-mcneal,brian-tran,225.1,225.0,aiden-oldfield,andrew-moratelli,hunter-oldfield,aydan-hauta,254.67,105.0,330.0

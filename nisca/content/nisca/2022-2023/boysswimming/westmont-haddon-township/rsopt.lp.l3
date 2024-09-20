@@ -1,0 +1,13 @@
+lineup,hdr,3,1096.0
+lineup,dat,I,A200,1,alex-pasquini,118.32,72.0,2.0,brendan-savell,128.49,42.0,3,hans-geist,131.44,35.0
+lineup,dat,I,E200,1,ryan-quinn-655238,121.18,106.0,2.0,alex-pasquini,131.34,74.0,,,,
+lineup,dat,I,A50,1,henry-fowler,24.35,82.0,2.0,luke-rutkowski,25.82,61.0,3,ryan-gallagher-14,27.28,43.0
+lineup,dat,I,D100,1,ryan-quinn-655238,52.39,123.0,2.0,cole-johnston,63.98,53.0,3,lucas-blatcher,72.12,17.0
+lineup,dat,I,A100,1,henry-fowler,55.74,64.0,2.0,brendan-savell,57.56,53.0,3,ryan-gallagher-14,63.52,21.0
+lineup,dat,I,A500,1,jacob-heilman,371.77,20.0,,,,,,,,
+lineup,dat,I,B100,1,michael-chiroux,69.56,42.0,2.0,hans-geist,70.38,39.0,3,ethan-blatcher,71.88,34.0
+lineup,dat,I,C100,1,cole-johnston,71.56,59.0,2.0,luke-rutkowski,74.27,47.0,3,lucas-blatcher,84.56,9.0
+relay,hdr,1215.0
+relay,RE200YM,2,alex-pasquini,cole-johnston,ryan-quinn-655238,henry-fowler,106.85,300.0,jacob-heilman,lucas-blatcher,michael-chiroux,ethan-blatcher,124.73,159.0,459.0
+relay,RA400YM,2,alex-pasquini,henry-fowler,brendan-savell,ryan-quinn-655238,213.47,282.0,ryan-gallagher-14,ethan-blatcher,jacob-heilman,hans-geist,250.69,120.0,402.0
+relay,RA200YM,2,brendan-savell,cole-johnston,ryan-gallagher-14,hans-geist,105.36,219.0,luke-rutkowski,lucas-blatcher,jacob-heilman,ethan-blatcher,115.82,135.0,354.0

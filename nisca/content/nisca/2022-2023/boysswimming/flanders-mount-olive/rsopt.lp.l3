@@ -1,0 +1,13 @@
+lineup,hdr,3,1110.0
+lineup,dat,I,A200,1,michael-eannone,120.95,64.0,2.0,ryan-melendez-1,131.91,33.0,3,laszlo-gecsey,141.87,9.0
+lineup,dat,I,E200,1,dylan-malave,130.21,77.0,2.0,maxwell-hack,146.8,33.0,3,laszlo-gecsey,157.0,11.0
+lineup,dat,I,A50,1,michael-eannone,23.27,99.0,2.0,sean-wooster,23.42,96.0,3,matthew-eanonne,26.09,58.0
+lineup,dat,I,D100,1,dylan-malave,56.35,96.0,2.0,owen-mordue,61.92,63.0,3,matthew-eanonne,64.73,49.0
+lineup,dat,I,A100,1,sean-wooster,52.94,83.0,2.0,dylan-vatanapradit,60.39,37.0,3,moore-james,61.33,32.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,ryan-melendez-1,64.31,64.0,2.0,santhosh-yanumula,70.36,39.0,3,dylan-vatanapradit,74.55,24.0
+lineup,dat,I,C100,1,maxwell-hack,71.23,61.0,2.0,owen-mordue,71.19,61.0,3,moore-james,81.14,21.0
+relay,hdr,1188.0
+relay,RE200YM,2,ryan-melendez-1,owen-mordue,dylan-malave,sean-wooster,108.02,291.0,santhosh-yanumula,maxwell-hack,dylan-vatanapradit,matthew-eanonne,118.77,201.0,492.0
+relay,RA200YM,2,michael-eannone,moore-james,owen-mordue,sean-wooster,98.65,279.0,santhosh-yanumula,peter-pineros,thomaz-honda,laszlo-gecsey,122.42,90.0,369.0
+relay,RA400YM,2,michael-eannone,maxwell-hack,ryan-melendez-1,dylan-malave,226.05,222.0,dylan-vatanapradit,laszlo-gecsey,moore-james,santhosh-yanumula,254.58,105.0,327.0

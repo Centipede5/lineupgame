@@ -1,0 +1,13 @@
+lineup,hdr,3,819.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,alex-huang-3,131.19,74.0,,,,,,,,
+lineup,dat,I,A50,1,peyton-egg,23.45,96.0,2.0,zachary-oconnell,24.57,79.0,3,wade-barton,28.94,25.0
+lineup,dat,I,D100,1,yesum-lee,57.45,89.0,,,,,,,,
+lineup,dat,I,A100,1,peyton-egg,53.67,78.0,2.0,kiran-aman,58.53,48.0,,,,
+lineup,dat,I,A500,1,yesum-lee,305.57,92.0,,,,,,,,
+lineup,dat,I,B100,1,zachary-oconnell,61.93,75.0,2.0,wade-barton,73.97,26.0,,,,
+lineup,dat,I,C100,1,alex-huang-3,66.47,84.0,2.0,kiran-aman,73.03,53.0,,,,
+relay,hdr,795.0
+relay,RE200YM,2,zachary-oconnell,alex-huang-3,yesum-lee,peyton-egg,109.26,279.0,wade-barton,kiran-aman,aronld-zhang,eugene-lee-5,135.22,93.0,372.0
+relay,RA400YM,1,zachary-oconnell,alex-huang-3,peyton-egg,yesum-lee,217.46,261.0,,,,,,,261.0
+relay,RA200YM,2,kiran-aman,aronld-zhang,matthew-mazzoleni,wade-barton,117.2,126.0,dhruv-tandon,liam-fitzgerald-3,akshat-singh,eugene-lee-5,132.03,36.0,162.0

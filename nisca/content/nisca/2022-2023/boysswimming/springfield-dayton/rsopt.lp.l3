@@ -1,0 +1,13 @@
+lineup,hdr,3,380.0
+lineup,dat,I,A200,1,shalini-ramakrishnan,130.35,37.0,,,,,,,,
+lineup,dat,I,E200,1,aivy-vu,137.54,56.0,2.0,nandita-ramakrishnan,151.63,22.0,3,liz-friedman,151.88,22.0
+lineup,dat,I,A50,1,ethan-vu,27.39,42.0,2.0,adam-zuzarth,27.69,38.0,3,diogo-alves,28.65,28.0
+lineup,dat,I,D100,1,ethan-vu,66.06,43.0,,,,,,,,
+lineup,dat,I,A100,1,shalini-ramakrishnan,61.27,33.0,2.0,ryan-vargas-1,63.72,20.0,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,nandita-ramakrishnan,70.31,39.0,,,,,,,,
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,621.0
+relay,RE200YM,2,nandita-ramakrishnan,aivy-vu,ethan-vu,adam-zuzarth,124.76,159.0,maria-acosta-635051,ines-cruz,mikayla-milos,ella-kestin,131.24,117.0,276.0
+relay,RA200YM,2,ryan-vargas-1,diogo-alves,pearce-krischner,samantha-lipkin,121.48,96.0,adam-zuzarth,daniel-gonzales,aivy-vu,shalini-ramakrishnan,122.48,90.0,186.0
+relay,RA400YM,2,ethan-vu,nandita-ramakrishnan,aivy-vu,shalini-ramakrishnan,256.46,96.0,adam-zuzarth,ella-kestin,pearce-krischner,liz-friedman,266.09,63.0,159.0

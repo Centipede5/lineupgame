@@ -1,0 +1,13 @@
+lineup,hdr,3,236
+lineup,dat,I,A200,1,aden-rella,142.51,8
+lineup,dat,I,E200,1,kyle-kachoogian,159.85,5
+lineup,dat,I,A50,1,asher-cloupe,24.72,77,2,thomas-george-2,28.17,33,3,zachary-hoheb,28.33,31
+lineup,dat,I,D100
+lineup,dat,I,A100,1,asher-cloupe,55.94,63,2,thomas-george-2,66.55,7,3,zachary-hoheb,68.02,1
+lineup,dat,I,A500,1,aden-rella,386.04,7
+lineup,dat,I,B100
+lineup,dat,I,C100,1,thomas-delia-1,86.36,4
+relay,hdr,669
+relay,RE200YM,2,myles-laughlin,asher-cloupe,kyle-kachoogian,zachary-hoheb,127.36,1.4400000000000000e+02,vincent-vargas-1,thomas-delia-1,deaglan-connolly,thomas-george-2,137.76,8.1000000000000000e+01
+relay,RA200YM,2,zachary-hoheb,myles-laughlin,vincent-baracia,asher-cloupe,95.38,3.1200000000000000e+02,george-khalil,aden-rella,thomas-delia-1,deaglan-connolly,123.89,8.1000000000000000e+01
+relay,RA400YM,1,thomas-george-2,vincent-vargas-1,aden-rella,kyle-kachoogian,269.79,5.1000000000000000e+01

@@ -1,0 +1,13 @@
+lineup,hdr,3,835.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,daren-chen,121.97,103.0,,,,,,,,
+lineup,dat,I,A50,1,karsten-sima-1,24.76,76.0,2.0,lukas-davis-1,24.9,74.0,3,michael-uzzi,28.1,34.0
+lineup,dat,I,D100,1,lukas-davis-1,64.2,52.0,,,,,,,,
+lineup,dat,I,A100,1,daren-chen,48.25,119.0,2.0,jack-renaud-1,52.62,85.0,3,karsten-sima-1,59.42,43.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,allen-zhao,57.14,100.0,2.0,jack-renaud-1,64.01,65.0,,,,
+lineup,dat,I,C100,1,allen-zhao,66.55,84.0,,,,,,,,
+relay,hdr,840.0
+relay,RE200YM,2,jack-renaud-1,daren-chen,allen-zhao,karsten-sima-1,107.14,297.0,vincent-sajkowski,matthew-banks,lawrence-royce-1,michael-uzzi,147.09,30.0,327.0
+relay,RA400YM,1,daren-chen,lukas-davis-1,jack-renaud-1,allen-zhao,208.1,312.0,,,,,,,312.0
+relay,RA200YM,1,michael-uzzi,vincent-sajkowski,karsten-sima-1,lukas-davis-1,107.25,201.0,,,,,,,201.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,1106.0
+lineup,dat,I,A200,1,anna-tran-1,124.34,86.0,2.0,lauren-fox-583787,125.03,84.0,3,ixanna-salinas-tores,144.44,26.0
+lineup,dat,I,E200,1,grace-gaskill-1,148.11,61.0,2.0,hannah-gaskill,170.0,8.0,,,,
+lineup,dat,I,A50,1,melissa-tran,27.42,76.0,2.0,maggie-eidt-1,30.85,32.0,3,samantha-pereira-1,31.78,22.0
+lineup,dat,I,D100,1,olivia-kulakowski,65.7,78.0,2.0,grace-gaskill-1,68.43,65.0,,,,
+lineup,dat,I,A100,1,anna-tran-1,55.23,105.0,2.0,kaitlynn-do,60.07,69.0,3,jodie-lynn-pereira,61.89,57.0
+lineup,dat,I,A500,1,lauren-fox-583787,338.75,78.0,2.0,ixanna-salinas-tores,394.6,18.0,,,,
+lineup,dat,I,B100,1,olivia-kulakowski,63.57,89.0,2.0,kaitlynn-do,69.34,56.0,3,maggie-eidt-1,74.87,29.0
+lineup,dat,I,C100,1,jodie-lynn-pereira,82.54,44.0,2.0,hannah-gaskill,88.03,23.0,,,,
+relay,hdr,1257.0
+relay,RA200YF,2,anna-tran-1,kaitlynn-do,melissa-tran,lauren-fox-583787,105.82,318.0,jodie-lynn-pereira,hannah-gaskill,rosie-miltenberger-1,samantha-pereira-1,125.32,138.0,456.0
+relay,RE200YF,2,olivia-kulakowski,anna-tran-1,grace-gaskill-1,kaitlynn-do,120.54,279.0,maggie-eidt-1,melissa-tran,jodie-lynn-pereira,ixanna-salinas-tores,137.25,138.0,417.0
+relay,RA400YF,2,lauren-fox-583787,melissa-tran,grace-gaskill-1,olivia-kulakowski,245.17,222.0,maggie-eidt-1,ixanna-salinas-tores,samantha-pereira-1,maggie-morgan-2,257.43,162.0,384.0

@@ -1,0 +1,12 @@
+lineup,hdr,2,650
+lineup,dat,R,RE200,1,jacob-heilman,henry-fowler,ryan-gallagher-14,ethan-blatcher,124.24,162
+lineup,dat,I,A200,1,brendan-savell,128.49,42
+lineup,dat,I,E200,1,lucas-blatcher,176.33,0
+lineup,dat,I,A50,1,ryan-gallagher-14,27.28,43
+lineup,dat,I,D100,1,henry-fowler,64.72,49,2,jacob-heilman,71.23,20
+lineup,dat,I,A100,1,brendan-savell,57.56,53,2,ryan-gallagher-14,63.52,21
+lineup,dat,I,A500,1,ethan-blatcher,437,0
+lineup,dat,R,RA200,1,henry-fowler,lucas-blatcher,ryan-gallagher-14,brendan-savell,114.53,144
+lineup,dat,I,B100,1,jacob-heilman,75.41,22
+lineup,dat,I,C100,1,henry-fowler,75.41,43
+lineup,dat,R,RA400,1,brendan-savell,ethan-blatcher,lucas-blatcher,henry-fowler,270.15,51

@@ -1,0 +1,15 @@
+lineup,hdr,3,2105
+lineup,dat,R,RE200,1,jacob-king-3,guy-devita,enzo-russino,sean-kahl,111.96,255
+lineup,dat,R,RE200,2,luke-plesniarski,justin-pollina,sean-hanvey,nick-napolitano-1,122.11,177
+lineup,dat,I,A200,1,silas-committee,127.13,46,2,cody-karolkiewicz,133.6,29,3,noah-tallman,140.61,12
+lineup,dat,I,E200,1,jack-delaney-651279,152.56,20,2,owen-dinapoli,155.37,14,3,luke-plesniarski,168.99,0
+lineup,dat,I,A50,1,sean-kahl,23.75,91,2,yaroslav-soria,25.21,70,3,nick-napolitano-1,24.6,78
+lineup,dat,I,D100,1,jacob-werner,63.88,53,2,jacob-king-3,63.77,54,3,enzo-russino,64.4,51
+lineup,dat,I,A100,1,guy-devita,56.87,57,2,yaroslav-soria,56.16,62,3,jack-delaney-651279,58,51
+lineup,dat,I,A500,1,aiden-saropoulos,422.06,0,2,harrison-marti,403.31,0,3,sean-kahl,387.23,6
+lineup,dat,R,RA200,1,guy-devita,jacob-king-3,sean-kahl,jack-delaney-651279,103.08,237
+lineup,dat,R,RA200,2,yaroslav-soria,cody-karolkiewicz,silas-committee,owen-dinapoli,110.4,177
+lineup,dat,I,B100,1,jacob-werner,64.06,65,2,cody-karolkiewicz,67.26,51,3,enzo-russino,69.84,41
+lineup,dat,I,C100,1,justin-pollina,73.48,51,2,sean-hanvey,77.01,36,3,silas-committee,77.04,36
+lineup,dat,R,RA400,1,jack-delaney-651279,yaroslav-soria,nick-napolitano-1,jacob-werner,233.63,186
+lineup,dat,R,RA400,2,noah-tallman,owen-dinapoli,sean-hanvey,justin-pollina,255.98,99

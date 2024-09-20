@@ -1,0 +1,13 @@
+lineup,hdr,3,647
+lineup,dat,I,A200
+lineup,dat,I,E200,1,gabriel-del-fierro,133.44,68,2,john-franciosi,153,19
+lineup,dat,I,A50,1,alex-wolfe-1,26.09,58,2,nicholas-obiedzinski,29,24,3,pj-brown-1,30.12,13
+lineup,dat,I,D100,1,john-franciosi,69.95,26
+lineup,dat,I,A100,1,liam-timbie,62.78,25,2,jake-lo,63.53,21
+lineup,dat,I,A500,1,aly-breikaa,313.89,81
+lineup,dat,I,B100,1,aly-breikaa,56,106,2,alex-wolfe-1,67.23,51,3,jake-lo,69,44
+lineup,dat,I,C100,1,gabriel-del-fierro,66.76,83,2,liam-timbie,80.56,23,3,owen-harris-1,86,5
+relay,hdr,702
+relay,RE200YM,2,aly-breikaa,gabriel-del-fierro,john-franciosi,alex-wolfe-1,113.18,2.4600000000000000e+02,jake-lo,liam-timbie,jerico-bambaren,nicholas-obiedzinski,140,6.9000000000000000e+01
+relay,RA200YM,2,robert-brennan-1,jacob-hernandez-7,owen-harris-1,jake-lo,123.33,8.7000000000000000e+01,pj-brown-1,nicholas-obiedzinski,sael-matute,philip-mawas,127,6.3000000000000000e+01
+relay,RA400YM,2,gabriel-del-fierro,alex-wolfe-1,liam-timbie,aly-breikaa,226.9,2.1600000000000000e+02,robert-brennan-1,nicholas-obiedzinski,jacob-hernandez-7,owen-harris-1,280,2.1000000000000000e+01

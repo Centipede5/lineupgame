@@ -1,0 +1,17 @@
+lineup,hdr,3,730
+lineup,dat,I,A200,1,tyler-mcgeehen,109.14,104
+lineup,dat,I,E200
+lineup,dat,I,A50,1,alexander-nowak,24.94,73,2,kyan-mccormick-1,25.03,72,3,filip-stephin,27.13,45
+lineup,dat,I,D100,1,tyler-mcgeehen,57,91,2,zachary-mcgeehan,63.45,55
+lineup,dat,I,A100,1,alexander-nowak,57.52,53,2,kyan-mccormick-1,60.19,38,3,jayden-serrano,64.97,14
+lineup,dat,I,A500,1,malia-calitis,388.83,5
+lineup,dat,I,B100,1,paulina-nowak,72.4,32,2,brianna-ortega-1,78.37,12,3,jayden-serrano,78.78,11
+lineup,dat,I,C100,1,zachary-mcgeehan,60.92,116,2,paulina-nowak,85.34,7,3,brianna-ortega-1,87,2
+relay,hdr,738
+relay,RE200YM,2,paulina-nowak,zachary-mcgeehan,aryan-ghariwala,tyler-mcgeehen,119.72,1.9500000000000000e+02,malia-calitis,atharv-kawle,brianna-ortega-1,filip-stephin,138.13,7.8000000000000000e+01
+relay,RA200YM,2,kyan-mccormick-1,jayden-serrano,zachary-mcgeehan,tyler-mcgeehen,104.39,2.2500000000000000e+02,filip-stephin,snehil-manendrakar,brianna-ortega-1,alexander-nowak,115.53,1.3800000000000000e+02
+relay,RA400YM,1,kyan-mccormick-1,jayden-serrano,paulina-nowak,alexander-nowak,254.78,1.0200000000000000e+02
+relay,hdr,750
+relay,RE200YM,2,paulina-nowak,zachary-mcgeehan,aryan-ghariwala,tyler-mcgeehen,119.72,1.9500000000000000e+02,malia-calitis,atharv-kawle,brianna-ortega-1,filip-stephin,138.13,7.8000000000000000e+01
+relay,RA200YM,2,filip-stephin,snehil-manendrakar,brianna-ortega-1,alexander-nowak,115.53,1.3800000000000000e+02,kyan-mccormick-1,nicholas-sanchez,jayden-serrano,malia-calitis,117.9,1.2000000000000000e+02
+relay,RA400YM,2,alexander-nowak,kyan-mccormick-1,zachary-mcgeehan,tyler-mcgeehen,230.25,2.0100000000000000e+02,paulina-nowak,jayden-serrano,malia-calitis,michelle-stankiewicz,280.37,1.8000000000000000e+01

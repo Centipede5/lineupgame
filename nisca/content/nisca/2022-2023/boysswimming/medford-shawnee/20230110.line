@@ -1,0 +1,15 @@
+lineup,hdr,3,3068
+lineup,dat,R,RE200,1,alexander-reihl,paul-romano-1,jack-mckenna-5,luke-masters,103.49,333
+lineup,dat,R,RE200,2,liam-broderick-1,william-christianson,lucas-pearson-1,owen-reed,111.72,258
+lineup,dat,I,A200,1,andrew-hill-1,107.73,110,2,tj-byrne,122.56,59,3,brenden-deely,126.94,47
+lineup,dat,I,E200,1,jack-mckenna-5,126.04,90,2,paul-romano-1,131.76,73,3,william-christianson,135.03,63
+lineup,dat,I,A50,1,alexander-reihl,22.12,118,2,luke-masters,23.67,92,3,sean-mccartney-1,25.28,69
+lineup,dat,I,D100,1,alexander-reihl,55.49,101,2,lucas-pearson-1,59.58,76,3,brenden-deely,64.41,51
+lineup,dat,I,A100,1,jack-mckenna-5,53.93,76,2,liam-broderick-1,55.2,68,3,luke-masters,54.44,73
+lineup,dat,I,A500,1,andrew-hill-1,294.64,107,2,tj-byrne,373.45,18,3,luke-grabowski,379.96,12
+lineup,dat,R,RA200,1,alexander-reihl,luke-masters,owen-reed,andrew-hill-1,97.88,288
+lineup,dat,R,RA200,2,sean-mccartney-1,brenden-deely,luke-grabowski,tj-byrne,110.4,177
+lineup,dat,I,B100,1,liam-broderick-1,63.83,66,2,lucas-pearson-1,61.17,78,3,owen-harris,75.55,21
+lineup,dat,I,C100,1,paul-romano-1,65.44,90,2,william-christianson,69.69,68,3,daniel-nugent-1,78.81,29
+lineup,dat,R,RA400,1,jack-mckenna-5,liam-broderick-1,william-christianson,andrew-hill-1,225.67,222
+lineup,dat,R,RA400,2,lucas-pearson-1,brenden-deely,tj-byrne,paul-romano-1,246.31,135

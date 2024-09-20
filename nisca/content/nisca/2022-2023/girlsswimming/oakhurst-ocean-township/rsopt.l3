@@ -1,0 +1,13 @@
+lineup,hdr,3,531
+lineup,dat,I,A200,1,mallory-mitchell-1,150.47,11
+lineup,dat,I,E200,1,alex-burke-2,153.97,45
+lineup,dat,I,A50,1,imani-kiss,26.55,89,2,chelsea-kipnis,29.19,52,3,taylor-cerco,29.82,44
+lineup,dat,I,D100,1,alex-burke-2,66,77
+lineup,dat,I,A100,1,luella-fetter,59.87,71,2,maria-dmitriyeva,69.73,13,3,jane-alto,72,1
+lineup,dat,I,A500
+lineup,dat,I,B100,1,imani-kiss,69.59,54
+lineup,dat,I,C100,1,luella-fetter,83.87,38,2,jane-alto,88.19,22,3,taylor-cerco,90.42,14
+relay,hdr,666
+relay,RE200YF,2,imani-kiss,taylor-cerco,alex-burke-2,luella-fetter,128.81,2.0400000000000000e+02,carlota-aragonmoya,jane-alto,chelsea-kipnis,maria-dmitriyeva,147.07,7.2000000000000000e+01
+relay,RA200YF,2,taylor-cerco,maria-dmitriyeva,luella-fetter,jane-alto,119.94,1.8300000000000000e+02,sophia-manganiello-1,lucy-wood,anna-pittarelli,alexandra-revolinsky,125.49,1.3800000000000000e+02
+relay,RA400YF,1,carlota-aragonmoya,chelsea-kipnis,alexandra-revolinsky,maria-dmitriyeva,278.85,6.9000000000000000e+01

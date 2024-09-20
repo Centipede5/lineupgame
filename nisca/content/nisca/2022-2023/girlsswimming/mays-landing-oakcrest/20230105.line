@@ -1,0 +1,12 @@
+lineup,hdr,3,1065
+lineup,dat,I,A200,1,kyla-richardson,140.02,38,2,ava-mokienko,157.22,0
+lineup,dat,I,E200,1,carina-costa,148.88,59,2,abagale-ranger,156.94,38
+lineup,dat,I,A50,1,tiffany-tran-521412,28.03,67,2,cate-laroche,29.32,50,3,melanie-barahona,36.2,0
+lineup,dat,I,D100,1,abagale-ranger,74.66,37,2,ava-mokienko,90.28,0
+lineup,dat,I,A100,1,tiffany-tran-521412,63.33,48,2,jade-mccoy,63.87,45,3,alexandria-simons,75.48,0
+lineup,dat,I,A500,1,kyla-richardson,384.09,28,2,cece-capone,425.16,0
+lineup,dat,R,RA200,1,tiffany-tran-521412,abagale-ranger,carina-costa,kyla-richardson,100.4,381
+lineup,dat,R,RA200,2,alexandria-simons,adrienna-foo,melanie-barahona,ava-mokienko,143.36,15
+lineup,dat,I,B100,1,jade-mccoy,72.16,41
+lineup,dat,I,C100,1,carina-costa,75.33,77
+lineup,dat,R,RA400,1,kyla-richardson,abagale-ranger,cate-laroche,jade-mccoy,262.12,141

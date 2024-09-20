@@ -1,0 +1,13 @@
+lineup,hdr,3,339
+lineup,dat,R,RE200,1,nate-oconnor,cj-tumminelli,ari-schaffer,austin-ruppel,125.88,153
+lineup,dat,R,RE200,2,kygan-garletts,luke-dodge,nick-moscagiuri,michael-wurtemberg,156.25,0
+lineup,dat,I,A200,1,michael-wurtemberg,149.54,0,2,austin-ruppel,161.62,0
+lineup,dat,I,E200,1,cj-tumminelli,148.93,28
+lineup,dat,I,A50,1,nate-oconnor,29.04,24,2,luke-dodge,33.6,0,3,kai-azemar,37.22,0
+lineup,dat,I,D100,1,austin-ruppel,82.55,0
+lineup,dat,I,A100,1,nate-oconnor,68.19,0,2,kygan-garletts,69.9,0,3,kai-azemar,88.12,0
+lineup,dat,I,A500,1,cj-tumminelli,376.46,15,2,nick-moscagiuri,501.12,0
+lineup,dat,R,RA200,1,kai-azemar,luke-dodge,nick-moscagiuri,kygan-garletts,145.2,0
+lineup,dat,I,B100,1,kygan-garletts,90.03,0,2,nick-moscagiuri,99.59,0
+lineup,dat,I,C100,1,ari-schaffer,75.95,41,2,michael-wurtemberg,94.12,0,3,luke-dodge,99.14,0
+lineup,dat,R,RA400,1,austin-ruppel,ari-schaffer,michael-wurtemberg,cj-tumminelli,262.03,78

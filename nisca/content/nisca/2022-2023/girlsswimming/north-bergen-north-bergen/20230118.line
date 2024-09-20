@@ -1,0 +1,12 @@
+lineup,hdr,2,15
+lineup,dat,R,RE200,1,melanie-cacho,shannon-anderson,nyla-baclay,angie-ortega,165.57,0
+lineup,dat,I,A200,1,melanie-cacho,160.63,0
+lineup,dat,I,E200,1,angie-ortega,229.55,0
+lineup,dat,I,A50,1,maria-torres-635797,43.38,0,2,nancy-cuamani,43.35,0
+lineup,dat,I,D100,1,nyla-baclay,103.15,0,2,kamila-parodi,134.97,0
+lineup,dat,I,A100,1,nancy-cuamani,98.62,0,2,dora-jarama,103.9,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,angie-ortega,kamila-parodi,dora-jarama,nyla-baclay,159.64,0
+lineup,dat,I,B100,1,melanie-cacho,80.56,5,2,dora-jarama,134.37,0
+lineup,dat,I,C100,1,shannon-anderson,91.56,10
+lineup,dat,R,RA400,1,melanie-cacho,shannon-anderson,nyla-baclay,angie-ortega,321.17,0

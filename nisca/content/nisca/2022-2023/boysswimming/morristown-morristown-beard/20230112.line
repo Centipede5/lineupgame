@@ -1,0 +1,15 @@
+lineup,hdr,3,1287
+lineup,dat,R,RE200,1,nick-troiano-1,colin-faraher,william-lestrange,charlie-gibbs,113.51,243
+lineup,dat,R,RE200,2,ethan-kothavale,noah-gehrmann,daniel-raimer,bennett-gross,149.03,21
+lineup,dat,I,A200,1,john-hannah,118.16,73,2,ian-patchett,131.4,35
+lineup,dat,I,E200,1,daniel-raimer,174.91,0,2,nicholas-hanna-1,168.79,0
+lineup,dat,I,A50,1,charlie-gibbs,27,47,2,colin-faraher,22.84,106,3,bennett-gross,30.05,13
+lineup,dat,I,D100,1,william-lestrange,59.67,76,2,nick-troiano-1,76.75,0
+lineup,dat,I,A100,1,john-hannah,59.83,40,2,noah-gehrmann,69.44,0,3,ronnie-schreier,80.29,0
+lineup,dat,I,A500,1,ian-patchett,366.56,24,2,ethan-kothavale,458.11,0
+lineup,dat,R,RA200,1,colin-faraher,nicholas-hanna-1,john-hannah,ian-patchett,104.73,222
+lineup,dat,R,RA200,2,noah-gehrmann,ronnie-schreier,bennett-gross,daniel-raimer,137.53,6
+lineup,dat,I,B100,1,nick-troiano-1,71.92,33,2,john-hannah,76.9,17
+lineup,dat,I,C100,1,noah-gehrmann,93.04,0,2,william-lestrange,73.98,49
+lineup,dat,R,RA400,1,william-lestrange,ian-patchett,nick-troiano-1,charlie-gibbs,238.2,168
+lineup,dat,R,RA400,2,john-hannah,ethan-kothavale,bennett-gross,ronnie-schreier,252.1,114

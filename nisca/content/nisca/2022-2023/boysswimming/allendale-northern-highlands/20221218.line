@@ -1,0 +1,13 @@
+lineup,hdr,3,1838
+lineup,dat,R,RE200,1,johnathon-cheng,anthony-cheng-1,harrison-lee-652405,ryan-rourke,107.95,291
+lineup,dat,I,A200,1,ethan-young-5,114.95,84,2,maximus-punla,185.34,0
+lineup,dat,I,E200,1,anthony-cheng-1,127.96,84,2,henry-fisher,137.22,57
+lineup,dat,I,A50,1,harrison-lee-652405,22.19,117,2,cole-asplund-1,24.03,87,3,ryan-rourke,27.88,36
+lineup,dat,I,D100,1,johnathon-cheng,59.56,76,2,ethan-young-5,56.22,96
+lineup,dat,I,A100,1,harrison-lee-652405,50.74,99,2,cole-asplund-1,54.03,76
+lineup,dat,I,A500,1,henry-fisher,339.21,52,2,maximus-punla,528.45,0
+lineup,dat,R,RA200,1,anthony-cheng-1,ethan-young-5,henry-fisher,cole-asplund-1,102.41,243
+lineup,dat,I,B100,1,johnathon-cheng,55.65,108,2,ryan-rourke,84.42,0
+lineup,dat,I,C100,1,anthony-cheng-1,64.45,95,2,jack-reilly-5,90.66,0
+lineup,dat,R,RA400,1,harrison-lee-652405,johnathon-cheng,cole-asplund-1,ethan-young-5,222.47,237
+lineup,dat,R,RA400,2,jack-reilly-5,maximus-punla,henry-fisher,ryan-rourke,303.02,0

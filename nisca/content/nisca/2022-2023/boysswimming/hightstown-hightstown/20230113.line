@@ -1,0 +1,15 @@
+lineup,hdr,3,1601
+lineup,dat,R,RE200,1,brendan-lach,justin-kecskes,mateo-callegari,jonathan-ventura-1,121.32,183
+lineup,dat,R,RE200,2,jonathan-kecskes,arnav-raval,jake-demian,marko-alimpijevic,141.71,60
+lineup,dat,I,A200,1,max-peterson,103.81,125,2,ameya-keertikar,142.86,7,3,sahaan-shyam,177.43,0
+lineup,dat,I,E200,1,mateo-callegari,135.4,62
+lineup,dat,I,A50,1,brendan-lach,25.81,62,2,marko-alimpijevic,31.68,0
+lineup,dat,I,D100,1,max-peterson,51.42,130,2,mateo-callegari,60.05,73
+lineup,dat,I,A100,1,aidan-ablai,52.86,84,2,justin-kecskes,62.5,26,3,jonathan-ventura-1,63.09,23
+lineup,dat,I,A500,1,ameya-keertikar,388.57,5,2,jonathan-kecskes,394.86,0
+lineup,dat,R,RA200,1,aidan-ablai,jonathan-ventura-1,mateo-callegari,max-peterson,102.19,246
+lineup,dat,R,RA200,2,jake-demian,jeremy-sanchez,jonathan-kecskes,ameya-keertikar,116.33,132
+lineup,dat,I,B100,1,brendan-lach,64.81,62,2,jake-demian,75.8,20,3,jonathan-kecskes,76.14,19
+lineup,dat,I,C100,1,aidan-ablai,73.18,52,2,justin-kecskes,83.07,14,3,jeremy-sanchez,89.83,0
+lineup,dat,R,RA400,1,brendan-lach,justin-kecskes,aidan-ablai,max-peterson,227.3,216
+lineup,dat,R,RA400,2,ameya-keertikar,arnav-raval,teodoro-fernandez,jeremy-sanchez,293.76,0

@@ -1,0 +1,15 @@
+lineup,hdr,3,1748
+lineup,dat,R,RE200,1,ben-goroway,jack-macmillan,lincoln-stuek-1,owen-barone,102.32,345
+lineup,dat,R,RE200,2,joshua-susanto,nate-miller-3,james-rodas-2,andrew-alexopoulas,135.63,93
+lineup,dat,I,A200,1,paul-eberhardt,139.47,15,2,jack-macmillan,112.32,93,3,nicholas-heusel,166.38,0
+lineup,dat,I,E200,1,owen-barone,148.77,29,2,andrew-alexopoulas,155.28,14
+lineup,dat,I,A50,1,nicholas-heusel,26.95,47,2,lincoln-stuek-1,22.38,114,3,sean-forsell,37.83,0
+lineup,dat,I,D100,1,ben-goroway,65.09,47,2,james-rodas-2,70.33,24,3,owen-barone,74.5,8
+lineup,dat,I,A100,1,joshua-susanto,65.03,14,2,paul-eberhardt,61.85,30,3,sean-forsell,91.24,0
+lineup,dat,I,A500,1,andrew-kosiak,374.23,17,2,ben-goroway,342.43,48
+lineup,dat,R,RA200,1,james-rodas-2,nate-miller-3,andrew-kosiak,paul-eberhardt,111.43,168
+lineup,dat,R,RA200,2,andrew-alexopoulas,nicholas-heusel,joshua-susanto,sean-forsell,121.49,96
+lineup,dat,I,B100,1,james-rodas-2,74.02,26,2,lincoln-stuek-1,65.98,57,3,joshua-susanto,78.11,13
+lineup,dat,I,C100,1,andrew-kosiak,75.89,41,2,jack-macmillan,65.67,88,3,andrew-alexopoulas,82.78,15
+lineup,dat,R,RA400,1,lincoln-stuek-1,owen-barone,ben-goroway,jack-macmillan,217.97,261
+lineup,dat,R,RA400,2,paul-eberhardt,nate-miller-3,nicholas-heusel,andrew-kosiak,271.55,45

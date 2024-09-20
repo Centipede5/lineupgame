@@ -1,0 +1,12 @@
+lineup,hdr,3,230.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,gavin-grant,142.52,44.0,,,,,,,,
+lineup,dat,I,A50,1,andrew-krumaker,27.08,46.0,2.0,jordan-finnerty-1,27.7,38.0,3,tess-roman,28.51,29.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,andrew-krumaker,60.12,39.0,2.0,tess-roman,67.12,5.0,3,jordan-constantino,67.98,1.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,gavin-grant,81.23,21.0,2.0,jordan-finnerty-1,85.13,7.0,,,,
+relay,hdr,222.0
+relay,RA200YM,2,gavin-grant,nolan-bradley,kevin-bradberry,andrew-krumaker,121.92,96.0,lulu-rynk-1,tess-roman,melanie-torres,phillip-cappuccio,132.13,33.0,129.0
+relay,RE200YM,1,andrew-krumaker,jordan-constantino,tess-roman,mike-rodriguez-550972,135.23,93.0,,,,,,,93.0

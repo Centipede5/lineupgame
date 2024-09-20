@@ -1,0 +1,15 @@
+lineup,hdr,3,2196
+lineup,dat,R,RE200,1,julia-kopcho,madison-gozdan,ava-moyer,casey-bednarek,115.43,327
+lineup,dat,R,RE200,2,maxine-fisher,sydney-van-istendal,addison-finn,haley-dennis,129.64,198
+lineup,dat,I,A200,1,casey-bednarek,124.41,86,2,ava-moyer,134.03,55
+lineup,dat,I,E200,1,madison-gozdan,139.26,87,2,addison-finn,150.18,55,3,haley-dennis,131.19,114
+lineup,dat,I,A50,1,sydney-van-istendal,29.63,47,2,emma-schultz,32.47,14,3,annabelle-gallagher,31.84,21
+lineup,dat,I,D100,1,ava-moyer,61.77,100,2,maxine-fisher,69.68,59,3,maggie-ronkowski,80.61,15
+lineup,dat,I,A100,1,addison-finn,58.49,80,2,kaitlyn-ronkowski,66.36,30
+lineup,dat,I,A500,1,casey-bednarek,333.38,85,2,julia-kopcho,331.66,87,3,katie-balint,527.12,0
+lineup,dat,R,RA200,1,addison-finn,haley-dennis,kaitlyn-ronkowski,maxine-fisher,117.11,207
+lineup,dat,R,RA200,2,emma-schultz,gabrielle-bosco,angelina-le,annabelle-gallagher,138.84,45
+lineup,dat,I,B100,1,julia-kopcho,67.12,68,2,maxine-fisher,66.25,73,3,maggie-ronkowski,86.47,0
+lineup,dat,I,C100,1,madison-gozdan,71.93,94,2,emma-schultz,96.86,0
+lineup,dat,R,RA400,1,julia-kopcho,ava-moyer,casey-bednarek,madison-gozdan,239.89,249
+lineup,dat,R,RA400,2,maggie-ronkowski,annabelle-gallagher,katie-balint,angelina-le,335.78,0

@@ -1,0 +1,12 @@
+lineup,hdr,3,84
+lineup,dat,I,A200
+lineup,dat,I,E200,1,christopher-ulloa-1,156,13
+lineup,dat,I,A50,1,joshua-de-oliveira,28,35,2,brian-marques,30,14,3,kelvin-grady-1,31,4
+lineup,dat,I,D100
+lineup,dat,I,A100,1,joshua-de-oliveira,66,10
+lineup,dat,I,A500
+lineup,dat,I,B100
+lineup,dat,I,C100,1,christopher-ulloa-1,85,8
+relay,hdr,225
+relay,RE200YM,2,emily-tapia-3,julissa-rocca,christopher-ulloa-1,joshua-de-oliveira,144,4.8000000000000000e+01,alejandro-araujo-aguirre,kelvin-grady-1,michael-castillo-1,michael-castillo-1,148,2.7000000000000000e+01
+relay,RA200YM,1,kelvin-grady-1,brian-marques,joshua-de-oliveira,christopher-ulloa-1,114,1.5000000000000000e+02

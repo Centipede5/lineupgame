@@ -1,0 +1,12 @@
+lineup,hdr,3,0
+lineup,dat,I,A200,1,julaicey-acevado,207.85,0,2,jose-avendano,210.84,0,3,juan-rivera-660760,213.11,0
+lineup,dat,I,E200
+lineup,dat,I,A50,1,keven-rodriquez-velez,32.82,0,2,jinell-reaid-green,40.5,0,3,lauren-huerta,35.79,0
+lineup,dat,I,D100,1,diana-ramirez,115.3,0
+lineup,dat,I,A100,1,keven-rodriquez-velez,88.03,0,2,deanmary-sanchez,142.12,0
+lineup,dat,I,A500,1,diana-ramirez,557.95,0,2,julaicey-acevado,599.59,0,3,jose-avendano,599.59,0
+lineup,dat,R,RA200,1,jinell-reaid-green,lauren-huerta,diana-ramirez,keven-rodriquez-velez,162.47,0
+lineup,dat,I,B100,1,lauren-huerta,104.87,0,2,jinell-reaid-green,124.36,0,3,viangely-vera-montijo,128.6,0
+lineup,dat,I,C100
+lineup,dat,R,RA400,1,julaicey-acevado,diana-ramirez,lauren-huerta,jinell-reaid-green,393,0
+lineup,dat,R,RA400,2,jose-avendano,juan-rivera-660760,keven-rodriquez-velez,deanmary-sanchez,490.63,0

@@ -1,0 +1,17 @@
+lineup,hdr,3,352
+lineup,dat,I,A200,1,adrian-jimenez-500154,140.22,13
+lineup,dat,I,E200
+lineup,dat,I,A50,1,luiz-santos-silva,24.75,76,2,denzel-melendez,25.35,68,3,raphael-sardinha,25.75,62
+lineup,dat,I,D100,1,denzel-melendez,75.19,5
+lineup,dat,I,A100,1,raphael-sardinha,57.94,51,2,luiz-santos-silva,60.94,34,3,leander-parra,63.58,21
+lineup,dat,I,A500
+lineup,dat,I,B100,1,angelo-roxas,77.06,16,2,lucas-burgo,80.59,6
+lineup,dat,I,C100
+relay,hdr,594
+relay,RE200YM,2,luiz-santos-silva,murilo-santos,denzel-melendez,moises-bueso,135.02,9.6000000000000000e+01,lucas-burgo,angelo-roxas,angelo-herrera-492712,adrian-jimenez-500154,144,4.8000000000000000e+01
+relay,RA200YM,2,lucas-burgo,adrian-jimenez-500154,denzel-melendez,luiz-santos-silva,109.38,1.8300000000000000e+02,angelo-herrera-492712,raphael-sardinha,angelo-roxas,gerry-olmedo,111.73,1.6500000000000000e+02
+relay,RA400YM,1,gerry-olmedo,angelo-roxas,angelo-herrera-492712,raphael-sardinha,254.76,1.0200000000000000e+02
+relay,hdr,627
+relay,RE200YM,2,leander-parra,murilo-santos,matias-sarango,luiz-santos-silva,140.28,6.6000000000000000e+01,lucas-burgo,angelo-roxas,angelo-herrera-492712,adrian-jimenez-500154,144,4.8000000000000000e+01
+relay,RA200YM,2,lucas-burgo,adrian-jimenez-500154,denzel-melendez,luiz-santos-silva,109.38,1.8300000000000000e+02,angelo-herrera-492712,raphael-sardinha,angelo-roxas,gerry-olmedo,111.73,1.6500000000000000e+02
+relay,RA400YM,2,leander-parra,denzel-melendez,adrian-jimenez-500154,raphael-sardinha,248.54,1.2600000000000000e+02,lucas-burgo,rodrigo-burgo,angelo-roxas,angelo-herrera-492712,273.34,3.9000000000000000e+01

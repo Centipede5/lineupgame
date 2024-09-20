@@ -1,0 +1,15 @@
+lineup,hdr,3,2721
+lineup,dat,R,RE200,1,siddharth-shankar,nicholas-foong,vihaari-garimalla,boris-zhosan,109.61,276
+lineup,dat,R,RE200,2,adrian-foong,neil-deshpande-1,amogh-rane,tejas-chaudhari,117.93,210
+lineup,dat,I,A200,1,ronin-pal,121.1,64,2,oliver-chen,125.61,50,3,joshua-de-jesus,126.47,48
+lineup,dat,I,E200,1,nicholas-foong,141.86,45,2,neil-deshpande-1,148.3,30,3,ravindu-gunaskara,144.03,40
+lineup,dat,I,A50,1,boris-zhosan,23.99,87,2,tejas-chaudhari,24.76,76,3,codey-sheng,25.36,68
+lineup,dat,I,D100,1,vihaari-garimalla,56.96,92,2,siddharth-shankar,63.81,54,3,adrian-foong,70.09,25
+lineup,dat,I,A100,1,boris-zhosan,53.34,80,2,codey-sheng,54.78,71,3,ravindu-gunaskara,57.65,53
+lineup,dat,I,A500,1,oliver-chen,330.15,62,2,ronin-pal,350.23,40,3,amogh-rane,403.27,0
+lineup,dat,R,RA200,1,vihaari-garimalla,codey-sheng,tejas-chaudhari,ronin-pal,101.35,252
+lineup,dat,R,RA200,2,neil-deshpande-1,prasham-joshi,ravindu-gunaskara,arnav-patil,109.2,186
+lineup,dat,I,B100,1,siddharth-shankar,62.57,72,2,adrian-foong,64.22,64,3,joshua-de-jesus,65.97,57
+lineup,dat,I,C100,1,nicholas-foong,69.66,68,2,neil-deshpande-1,72.51,55,3,arjun-gilhotra,75.38,43
+lineup,dat,R,RA400,1,ronin-pal,codey-sheng,vihaari-garimalla,boris-zhosan,219.77,252
+lineup,dat,R,RA400,2,ravindu-gunaskara,tejas-chaudhari,oliver-chen,joshua-de-jesus,230.18,201

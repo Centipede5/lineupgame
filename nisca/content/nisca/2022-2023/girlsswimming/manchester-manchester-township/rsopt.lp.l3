@@ -1,0 +1,13 @@
+lineup,hdr,3,615.0
+lineup,dat,I,A200,1,addison-both,145.52,23.0,,,,,,,,
+lineup,dat,I,E200,1,alexandra-villanueva,143.62,74.0,,,,,,,,
+lineup,dat,I,A50,1,neva-child,27.87,70.0,2.0,samantha-villanueva-1,28.84,57.0,3,emma-waite,31.89,21.0
+lineup,dat,I,D100,1,alexandra-villanueva,63.63,90.0,,,,,,,,
+lineup,dat,I,A100,1,cassandra-villanueva,63.4,48.0,,,,,,,,
+lineup,dat,I,A500,1,addison-both,387.47,24.0,,,,,,,,
+lineup,dat,I,B100,1,samantha-villanueva-1,68.0,63.0,,,,,,,,
+lineup,dat,I,C100,1,neva-child,76.16,73.0,2.0,cassandra-villanueva,76.23,72.0,,,,
+relay,hdr,600.0
+relay,RE200YF,1,samantha-villanueva-1,neva-child,alexandra-villanueva,cassandra-villanueva,120.53,279.0,,,,,,,279.0
+relay,RA200YF,2,cassandra-villanueva,alexis-cervenak-1,neva-child,addison-both,123.64,153.0,emma-waite,riley-hayes-2,olivia-cugliari,mia-marsango,138.74,45.0,198.0
+relay,RA400YF,1,addison-both,samantha-villanueva-1,mia-marsango,alexandra-villanueva,266.1,123.0,,,,,,,123.0

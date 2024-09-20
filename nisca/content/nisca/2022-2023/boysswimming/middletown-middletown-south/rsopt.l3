@@ -1,0 +1,13 @@
+lineup,hdr,3,764
+lineup,dat,I,A200,1,christian-destounis,121.66,62,2,jordan-lefkowitz,135.72,24
+lineup,dat,I,E200,1,nick-celetano,142.02,45,2,greg-noll-1,146.99,33,3,declan-turbitt,157.13,10
+lineup,dat,I,A50,1,john-zeveney,23.35,97,2,dylan-bucci,26.7,50,3,aidan-parry,27.21,44
+lineup,dat,I,D100,1,christian-destounis,59.02,79,2,declan-turbitt,66.65,40,3,luke-mcgrath,76.48,1
+lineup,dat,I,A100,1,john-zeveney,52.54,86,2,aidan-parry,61.95,29,3,devin-parry,62.35,27
+lineup,dat,I,A500
+lineup,dat,I,B100,1,nick-celetano,64.75,62,2,jordan-lefkowitz,74.09,26,3,james-finkel,78.27,13
+lineup,dat,I,C100,1,greg-noll-1,79.02,29,2,joseph-doughney,85.35,7
+relay,hdr,1056
+relay,RE200YM,2,nick-celetano,greg-noll-1,christian-destounis,john-zeveney,118.86,2.0100000000000000e+02,jordan-lefkowitz,joseph-doughney,declan-turbitt,devin-parry,125.31,1.5600000000000000e+02
+relay,RA200YM,2,declan-turbitt,aidan-parry,devin-parry,ben-eventov,108.03,1.9500000000000000e+02,conor-mulharen,anthony-petrucci,ben-ens,luke-mcgrath,117.11,1.2600000000000000e+02
+relay,RA400YM,2,christian-destounis,nick-celetano,greg-noll-1,john-zeveney,226.1,2.2200000000000000e+02,luke-mcgrath,ben-eventov,harrison-gelpke-1,james-finkel,240.97,1.5600000000000000e+02

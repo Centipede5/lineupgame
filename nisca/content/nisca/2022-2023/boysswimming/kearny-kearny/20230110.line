@@ -1,0 +1,15 @@
+lineup,hdr,3,740
+lineup,dat,R,RE200,1,joshua-gutierrez-1,kevin-gosnell,michael-charney,ronnie-navas,132.43,111
+lineup,dat,R,RE200,2,oscar-almerco,antonio-velez,pietro-cascardo,leo-tantalean,157.72,0
+lineup,dat,I,A200,1,colin-capobianco,159.19,0,2,oscar-almerco,172.97,0
+lineup,dat,I,E200,1,pietro-cascardo,217.16,0,2,matias-chiafalo,179.94,0
+lineup,dat,I,A50,1,ronnie-navas,24.51,80,2,evan-torres-3,23.78,91
+lineup,dat,I,D100,1,matias-chiafalo,93.58,0,2,oscar-almerco,97.75,0
+lineup,dat,I,A100,1,evan-torres-3,58.7,47,2,joshua-gutierrez-1,68.69,0
+lineup,dat,I,A500,1,michael-charney,422.71,0,2,leo-tantalean,474.18,0
+lineup,dat,R,RA200,1,evan-torres-3,ronnie-navas,michael-charney,matias-chiafalo,111.97,165
+lineup,dat,R,RA200,2,leo-tantalean,joshua-gutierrez-1,colin-capobianco,antonio-velez,122.9,87
+lineup,dat,I,B100,1,pietro-cascardo,100.65,0,2,oscar-almerco,90.66,0
+lineup,dat,I,C100,1,kevin-gosnell,78.34,31,2,antonio-velez,83.24,14
+lineup,dat,R,RA400,1,matias-chiafalo,evan-torres-3,michael-charney,antonio-velez,252.1,114
+lineup,dat,R,RA400,2,leo-tantalean,colin-capobianco,pietro-cascardo,joshua-gutierrez-1,302.3,0

@@ -1,0 +1,15 @@
+lineup,hdr,3,1845
+lineup,dat,R,RE200,1,henry-herbst-1,william-yarde,luke-robinson-1,roman-sullivan,116.1,222
+lineup,dat,R,RE200,2,sky-woods-1,nic-stellini,rod-martin,samuel-asimolowo,139.34,72
+lineup,dat,I,A200,1,finn-ryan-1,144.1,5,2,henry-herbst-1,131.04,36,3,jacob-schafer,165.33,0
+lineup,dat,I,E200,1,lucas-dupre,152.34,21,2,yael-ben-aldi,137.51,57,3,rod-martin,169.97,0
+lineup,dat,I,A50,1,william-yarde,25.3,68,2,mason-keith-1,22.81,106,3,joseph-kerner,26.35,55
+lineup,dat,I,D100,1,roman-sullivan,73.08,13,2,hamish-wilson-webb,59.02,79,3,lucas-dupre,95.05,0
+lineup,dat,I,A100,1,joseph-kerner,60.76,35,2,mason-keith-1,49.88,106,3,luke-robinson-1,53.48,79
+lineup,dat,I,A500,1,finn-ryan-1,403.84,0,2,hamish-wilson-webb,320.91,73,3,egan-ryan,473.19,0
+lineup,dat,R,RA200,1,henry-blezard,egan-ryan,samuel-asimolowo,sky-woods-1,115.96,135
+lineup,dat,R,RA200,2,hamish-wilson-webb,yael-ben-aldi,luke-robinson-1,mason-keith-1,95.24,312
+lineup,dat,I,B100,1,roman-sullivan,73.72,27,2,yael-ben-aldi,60.07,84,3,rod-martin,94.43,0
+lineup,dat,I,C100,1,jacob-schafer,92.05,0,2,henry-herbst-1,69.27,70,3,nic-stellini,85.43,7
+lineup,dat,R,RA400,1,henry-blezard,egan-ryan,samuel-asimolowo,sky-woods-1,324.12,0
+lineup,dat,R,RA400,2,hamish-wilson-webb,henry-herbst-1,yael-ben-aldi,mason-keith-1,234.86,183

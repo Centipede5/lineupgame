@@ -1,0 +1,13 @@
+lineup,hdr,3,2017.0
+lineup,dat,I,A200,1,ben-nguyen-1,110.88,98.0,2.0,micheal-cruz,113.42,89.0,3,adrian-page,128.08,44.0
+lineup,dat,I,E200,1,ben-nguyen-1,125.8,91.0,2.0,hunter-streitz,134.63,64.0,3,angelo-batario,139.21,52.0
+lineup,dat,I,A50,1,luc-streitz,22.31,115.0,2.0,brian-lowry-2,22.98,103.0,3,ethan-guinaugh,23.05,102.0
+lineup,dat,I,D100,1,gabe-condit,55.53,101.0,2.0,brian-lowry-2,58.11,85.0,3,garett-danze,64.17,52.0
+lineup,dat,I,A100,1,luc-streitz,46.85,131.0,2.0,ethan-guinaugh,52.01,90.0,3,ryan-lynch-15,56.16,62.0
+lineup,dat,I,A500,1,garett-danze,295.2,106.0,2.0,gavin-danze,298.98,101.0,3,micheal-cruz,318.69,75.0
+lineup,dat,I,B100,1,gabe-condit,54.66,114.0,2.0,nick-tranquillo-1,68.59,46.0,3,adrian-page,69.45,43.0
+lineup,dat,I,C100,1,gavin-danze,64.13,97.0,2.0,hunter-streitz,66.31,85.0,3,john-campbell-534309,69.15,71.0
+relay,hdr,1701.0
+relay,RE200YM,2,gabe-condit,gavin-danze,brian-lowry-2,luc-streitz,101.07,357.0,angelo-batario,john-campbell-534309,hunter-streitz,ryan-lynch-15,111.28,261.0,618.0
+relay,RA200YM,2,gabe-condit,brian-lowry-2,ethan-guinaugh,luc-streitz,92.23,345.0,ben-nguyen-1,ryan-lynch-15,angelo-batario,john-campbell-534309,99.96,267.0,612.0
+relay,RA400YM,2,ethan-guinaugh,micheal-cruz,ben-nguyen-1,gavin-danze,217.11,264.0,garett-danze,ryan-lynch-15,angelo-batario,hunter-streitz,229.35,207.0,471.0

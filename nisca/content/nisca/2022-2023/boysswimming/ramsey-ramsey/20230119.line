@@ -1,0 +1,15 @@
+lineup,hdr,3,1361
+lineup,dat,R,RE200,1,timothy-lee-1,john-pawlik,hojin-nam,brian-hu,116.78,216
+lineup,dat,R,RE200,2,paul-pawlik,lucas-steele-1,luke-auty,adam-lao,123.59,168
+lineup,dat,I,A200,1,timothy-lee-1,133.44,29,2,john-pawlik,134.82,26,3,harrison-consor,171.9,0
+lineup,dat,I,E200,1,jalen-hu,147.71,31,2,krish-govindani,156.4,12
+lineup,dat,I,A50,1,luke-auty,25.25,69,2,lucas-steele-1,25.81,62,3,michael-penkrat,29.21,22
+lineup,dat,I,D100,1,brian-hu,62.88,58,2,yuto-takeda,84.28,0,3,harrison-consor,103.96,0
+lineup,dat,I,A100,1,lucas-steele-1,63.38,22,2,adam-lao,59.09,44,3,james-lepori,65.7,11
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,brian-hu,luke-auty,lucas-steele-1,harrison-consor,116.11,135
+lineup,dat,R,RA200,2,jalen-hu,james-lepori,yuto-takeda,michael-penkrat,116.92,129
+lineup,dat,I,B100,1,hojin-nam,69.37,43,2,adam-lao,69.92,41,3,paul-pawlik,75.84,20
+lineup,dat,I,C100,1,yuto-takeda,82.04,18,2,krish-govindani,85.51,6,3,james-lepori,86.22,4
+lineup,dat,R,RA400,1,timothy-lee-1,hojin-nam,luke-auty,adam-lao,236.12,177
+lineup,dat,R,RA400,2,michael-penkrat,yuto-takeda,james-lepori,krish-govindani,281.1,18

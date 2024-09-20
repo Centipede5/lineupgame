@@ -1,0 +1,13 @@
+lineup,hdr,3,1599.0
+lineup,dat,I,A200,1,brady-dougherty,121.14,64.0,2.0,john-falcone-1,128.16,43.0,3,evan-crescenzo,129.52,40.0
+lineup,dat,I,E200,1,ben-turley,126.53,89.0,2.0,matthew-sonn,129.35,80.0,3,vincenzo-lenny,151.91,22.0
+lineup,dat,I,A50,1,cooper-legato-1,23.5,95.0,2.0,brady-dougherty,24.47,80.0,3,lukas-beker,25.3,68.0
+lineup,dat,I,D100,1,ben-turley,54.24,109.0,2.0,mason-woods,56.02,98.0,3,eoin-dougherty,57.96,86.0
+lineup,dat,I,A100,1,thomas-stankus,51.31,95.0,2.0,matthew-sonn,51.46,94.0,3,lukas-beker,56.89,57.0
+lineup,dat,I,A500,1,mason-woods,323.76,69.0,2.0,john-falcone-1,350.74,40.0,3,vincenzo-lenny,354.72,36.0
+lineup,dat,I,B100,1,eoin-dougherty,63.93,65.0,2.0,ethan-turley,64.12,65.0,3,evan-crescenzo,67.88,49.0
+lineup,dat,I,C100,1,thomas-stankus,65.79,88.0,2.0,jonathan-ditrolio,77.7,34.0,3,ben-hess-548700,77.95,33.0
+relay,hdr,1458.0
+relay,RE200YM,2,ben-turley,thomas-stankus,mason-woods,matthew-sonn,102.63,342.0,ethan-turley,vincenzo-lenny,eoin-dougherty,luke-settanni-1,115.35,228.0,570.0
+relay,RA200YM,2,cooper-legato-1,lukas-beker,vincenzo-lenny,matthew-sonn,99.25,273.0,dylan-cooney,luke-settanni-1,james-kleiner,raymer-ramirez,107.76,198.0,471.0
+relay,RA400YM,2,mason-woods,brady-dougherty,thomas-stankus,ben-turley,213.21,285.0,evan-crescenzo,luke-settanni-1,james-kleiner,dylan-cooney,247.12,132.0,417.0

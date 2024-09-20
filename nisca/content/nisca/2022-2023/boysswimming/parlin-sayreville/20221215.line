@@ -1,0 +1,15 @@
+lineup,hdr,3,975
+lineup,dat,R,RE200,1,dimitrios-kakadelis,mitchell-tomaszewski,eric-avallone,sean-spritzer,128.58,135
+lineup,dat,R,RE200,2,stefano-silva,kwabena-adjei,gavin-candelario,elijah-jung,144.58,45
+lineup,dat,I,A200,1,brody-cannan,133.19,30,2,tyler-odeh-abbassi,150.29,0,3,stefano-silva,166.77,0
+lineup,dat,I,E200,1,mitchell-tomaszewski,156.21,12,2,eric-avallone,197.76,0,3,rohit-gummadi,162.18,0
+lineup,dat,I,A50,1,dylan-mackie,24.28,83,2,sean-spritzer,25.65,64,3,gavin-candelario,27.32,43
+lineup,dat,I,D100,1,eric-avallone,78.45,0,2,kwabena-adjei,90.48,0
+lineup,dat,I,A100,1,dylan-mackie,56.26,61,2,dimitrios-kakadelis,59.69,41,3,gavin-candelario,62.78,25
+lineup,dat,I,A500,1,brody-cannan,384.8,8,2,tyler-odeh-abbassi,434.08,0,3,stefano-silva,456.97,0
+lineup,dat,R,RA200,1,dylan-mackie,dimitrios-kakadelis,mitchell-tomaszewski,brody-cannan,111.25,171
+lineup,dat,R,RA200,2,rohit-gummadi,kwabena-adjei,elijah-jung,tyler-odeh-abbassi,123.31,87
+lineup,dat,I,B100,1,dimitrios-kakadelis,73.84,27,2,sean-spritzer,109.48,0,3,rohit-gummadi,81.44,3
+lineup,dat,I,C100,1,mitchell-tomaszewski,77.17,36,2,kwabena-adjei,81.5,20
+lineup,dat,R,RA400,1,dylan-mackie,sean-spritzer,brody-cannan,gavin-candelario,260.53,84
+lineup,dat,R,RA400,2,elijah-jung,stefano-silva,rohit-gummadi,tyler-odeh-abbassi,312.02,0

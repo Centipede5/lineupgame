@@ -1,0 +1,13 @@
+lineup,hdr,3,887.0
+lineup,dat,I,A200,1,kaitlyn-beden,127.09,77.0,2.0,xan-walenhurst,136.41,48.0,3,madison-riley-1,139.07,41.0
+lineup,dat,I,E200,1,madison-riley-1,156.0,40.0,2.0,meghna-parija,165.22,18.0,3,laina-bofahredin,167.9,13.0
+lineup,dat,I,A50,1,sabrina-parikh,28.53,61.0,2.0,emily-huynh,28.72,58.0,3,abigail-harsche,29.72,45.0
+lineup,dat,I,D100,1,aaditi-vinod,75.5,34.0,2.0,meghna-parija,78.15,23.0,,,,
+lineup,dat,I,A100,1,kyra-suleski,61.67,59.0,2.0,abigail-harsche,68.2,20.0,3,emma-bogdan,70.94,6.0
+lineup,dat,I,A500,1,kaitlyn-beden,333.13,85.0,,,,,,,,
+lineup,dat,I,B100,1,kyra-suleski,68.41,61.0,2.0,aaditi-vinod,71.75,43.0,3,sabrina-parikh,72.98,37.0
+lineup,dat,I,C100,1,xan-walenhurst,80.75,51.0,2.0,emily-huynh,83.0,42.0,3,isabella-stibler,87.39,25.0
+relay,hdr,903.0
+relay,RE200YF,2,aaditi-vinod,kaitlyn-beden,meghna-parija,kyra-suleski,131.94,180.0,xan-walenhurst,isabella-stibler,laina-bofahredin,sabrina-parikh,135.37,153.0,333.0
+relay,RA200YF,2,emily-huynh,meghna-parija,abigail-harsche,kaitlyn-beden,117.28,207.0,madison-riley-1,isabella-stibler,emma-bogdan,laina-bofahredin,126.85,126.0,333.0
+relay,RA400YF,2,sabrina-parikh,kyra-suleski,madison-riley-1,xan-walenhurst,258.81,156.0,aaditi-vinod,abigail-harsche,laina-bofahredin,isabella-stibler,275.79,81.0,237.0

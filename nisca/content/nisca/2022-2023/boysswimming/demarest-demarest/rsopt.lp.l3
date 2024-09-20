@@ -1,0 +1,13 @@
+lineup,hdr,3,1855.0
+lineup,dat,I,A200,1,timmy-lee,103.62,126.0,2.0,roy-sung,116.48,78.0,3,leo-carvajal,140.13,13.0
+lineup,dat,I,E200,1,eric-lee-9,118.19,117.0,2.0,zeno-park,140.0,50.0,3,rohan-srinivasan,139.94,50.0
+lineup,dat,I,A50,1,kaan-yaprak-1,22.34,114.0,2.0,eric-slutsky,24.21,84.0,3,yoav-redhef,25.5,66.0
+lineup,dat,I,D100,1,eric-hwang,53.24,116.0,2.0,jacob-kim-1,55.43,101.0,3,yoav-redhef,64.44,50.0
+lineup,dat,I,A100,1,timmy-lee,49.17,111.0,2.0,kaan-yaprak-1,50.63,100.0,3,andrew-lee-16,60.19,38.0
+lineup,dat,I,A500,1,roy-sung,309.74,87.0,2.0,junta-tani,343.64,47.0,,,,
+lineup,dat,I,B100,1,eric-lee-9,51.19,137.0,2.0,eric-slutsky,60.82,80.0,3,rohan-srinivasan,62.84,70.0
+lineup,dat,I,C100,1,eric-hwang,61.26,114.0,2.0,junta-tani,72.94,53.0,3,zeno-park,72.88,53.0
+relay,hdr,1524.0
+relay,RE200YM,2,jacob-kim-1,eric-hwang,eric-lee-9,kaan-yaprak-1,98.94,381.0,eric-slutsky,leo-carvajal,yoav-redhef,andrew-lee-16,121.0,186.0,567.0
+relay,RA200YM,2,timmy-lee,eric-hwang,roy-sung,kaan-yaprak-1,94.76,318.0,yoav-redhef,junta-tani,andrew-lee-16,jacob-kim-1,103.31,234.0,552.0
+relay,RA400YM,2,eric-lee-9,jacob-kim-1,roy-sung,timmy-lee,207.09,318.0,rohan-srinivasan,mustafa-elgalad,juhun-gwak,junta-tani,259.09,87.0,405.0

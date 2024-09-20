@@ -1,0 +1,15 @@
+lineup,hdr,3,1998
+lineup,dat,R,RE200,1,ruairi-oconnor,christopher-jackson-1,jaden-ellis-1,zachary-molos,108.42,288
+lineup,dat,R,RE200,2,garrett-delia,adam-yam,wyatt-janosz,adam-ghazy-1,126.4,150
+lineup,dat,I,A200,1,brian-messar,127.42,45,2,anthony-sierra,132.22,33,3,wyatt-janosz,140.54,12
+lineup,dat,I,E200,1,christopher-jackson-1,130.55,76,2,adam-yam,159.61,5
+lineup,dat,I,A50,1,zachary-molos,26.01,59,2,garrett-delia,26.76,49,3,adam-ghazy-1,27.15,45
+lineup,dat,I,D100,1,christopher-jackson-1,55.33,102,2,ruairi-oconnor,65.26,47
+lineup,dat,I,A100,1,brian-messar,55.25,67,2,jaden-ellis-1,48.96,113,3,zachary-molos,59.42,43
+lineup,dat,I,A500,1,anthony-sierra,363.21,27,2,brandon-pomarico,389.59,4,3,tomas-jimenez,430.4,0
+lineup,dat,R,RA200,1,zachary-molos,garrett-delia,wyatt-janosz,brian-messar,109.55,183
+lineup,dat,R,RA200,2,adam-ghazy-1,tomas-jimenez,brandon-pomarico,anthony-sierra,125.15,75
+lineup,dat,I,B100,1,ruairi-oconnor,63.01,70,2,garrett-delia,73.29,29,3,brandon-pomarico,78.84,11
+lineup,dat,I,C100,1,jaden-ellis-1,68.23,75,2,adam-yam,77.81,33,3,wyatt-janosz,80.23,24
+lineup,dat,R,RA400,1,jaden-ellis-1,ruairi-oconnor,brian-messar,christopher-jackson-1,217.09,264
+lineup,dat,R,RA400,2,adam-ghazy-1,brandon-pomarico,adam-yam,anthony-sierra,264.57,69

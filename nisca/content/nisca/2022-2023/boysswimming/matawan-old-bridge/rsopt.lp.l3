@@ -1,0 +1,13 @@
+lineup,hdr,3,957.0
+lineup,dat,I,A200,1,mohamed-elmokadem,131.62,34.0,,,,,,,,
+lineup,dat,I,E200,1,shereef-ellithy,130.58,76.0,2.0,joseph-lanzafama,154.18,17.0,,,,
+lineup,dat,I,A50,1,thomas-fulton-1,24.18,84.0,2.0,michael-delia-1,25.73,63.0,3,luke-babst,26.19,57.0
+lineup,dat,I,D100,1,ryan-vanbuskirk,62.05,63.0,2.0,michael-delia-1,67.22,37.0,,,,
+lineup,dat,I,A100,1,thomas-fulton-1,53.42,80.0,2.0,mohamed-elmokadem,58.42,48.0,,,,
+lineup,dat,I,A500,1,jacob-piotrowski,334.41,57.0,2.0,ryan-vanbuskirk,352.7,38.0,,,,
+lineup,dat,I,B100,1,jacob-piotrowski,60.33,83.0,2.0,luke-babst,66.47,54.0,3,jake-babst,69.01,44.0
+lineup,dat,I,C100,1,shereef-ellithy,64.68,94.0,2.0,yann-rochelin,79.31,28.0,,,,
+relay,hdr,1041.0
+relay,RE200YM,2,jacob-piotrowski,shereef-ellithy,michael-delia-1,thomas-fulton-1,108.5,285.0,luke-babst,yann-rochelin,joseph-lanzafama,jake-babst,123.96,165.0,450.0
+relay,RA200YM,2,shereef-ellithy,ryan-vanbuskirk,michael-delia-1,mohamed-elmokadem,102.9,240.0,joseph-lanzafama,suhas-gorle,yusuf-samra,jake-babst,119.12,114.0,354.0
+relay,RA400YM,2,jacob-piotrowski,mohamed-elmokadem,luke-babst,thomas-fulton-1,227.96,213.0,jake-babst,yann-rochelin,joseph-lanzafama,yusuf-samra,278.37,24.0,237.0

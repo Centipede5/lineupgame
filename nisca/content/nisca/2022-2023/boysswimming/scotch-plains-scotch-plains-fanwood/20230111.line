@@ -1,0 +1,14 @@
+lineup,hdr,3,2065
+lineup,dat,R,RE200,1,gokul-ramanan,michael-levin,brian-mitchell-7,christian-degennaro,116.47,219
+lineup,dat,R,RE200,2,robert-lambert,eryn-gulbin,kyle-karyczak,christian-degennaro,118.72,204
+lineup,dat,I,A200,1,eryn-gulbin,123.06,58,2,john-buckley-654032,131.93,33,3,benjamin-sohmer,140.91,12
+lineup,dat,I,E200,1,brian-mitchell-7,150.6,24,2,gokul-ramanan,143.22,42
+lineup,dat,I,A50,1,dylan-condell,23.7,92,2,michael-levin,24.13,85,3,christian-degennaro,26.72,50
+lineup,dat,I,D100,1,michael-levin,62.65,59,2,gokul-ramanan,60,74,3,peter-reilly,65.45,46
+lineup,dat,I,A100,1,kyle-karyczak,53.86,77,2,robert-lambert,56.04,62,3,christian-degennaro,62.29,27
+lineup,dat,I,A500,1,john-buckley-654032,354.63,36,2,sean-stuart,388.5,5,3,peter-reilly,377.12,15
+lineup,dat,R,RA200,1,michael-levin,eryn-gulbin,peter-reilly,john-buckley-654032,106.72,207
+lineup,dat,R,RA200,2,gokul-ramanan,sean-stuart,christian-degennaro,benjamin-sohmer,109.51,183
+lineup,dat,I,B100,1,dylan-condell,64.62,62,2,robert-lambert,65.97,57,3,brian-mitchell-7,70.83,37
+lineup,dat,I,C100,1,kyle-karyczak,68.98,71,2,eryn-gulbin,75.16,44,3,aaron-frank,65.16,91
+lineup,dat,R,RA400,1,peter-reilly,brian-mitchell-7,jacob-goykhman,michael-schmidt,257.63,93

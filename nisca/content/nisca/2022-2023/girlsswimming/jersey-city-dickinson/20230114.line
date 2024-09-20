@@ -1,0 +1,11 @@
+lineup,hdr,3,114
+lineup,dat,I,A200,1,fiona-graham,180.77,0,2,norma-sarofiem,245.68,0
+lineup,dat,I,E200,1,briana-zapet,227.61,0
+lineup,dat,I,A50,1,eliana-mendoza,31.4,26,2,ivana-fernandini,38.15,0,3,norma-sarofiem,44.83,0
+lineup,dat,I,D100,1,briana-zapet,100.88,0
+lineup,dat,I,A100,1,astrid-diaz-2,66.2,31
+lineup,dat,I,A500,1,fiona-graham,529.16,0
+lineup,dat,R,RA200,1,eliana-mendoza,ivana-fernandini,briana-zapet,astrid-diaz-2,137.02,57
+lineup,dat,I,B100,1,norma-sarofiem,133.31,0
+lineup,dat,I,C100
+lineup,dat,R,RA400,1,briana-zapet,norma-sarofiem,ivana-fernandini,fiona-graham,378.11,0

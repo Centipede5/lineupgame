@@ -1,0 +1,15 @@
+lineup,hdr,3,3059
+lineup,dat,R,RE200,1,richard-poplawski,kyler-alcebar,kyle-phillips-1,lucas-kopp,104.8,321
+lineup,dat,R,RE200,2,austin-silverman,ian-gonzales,connor-oneill-4,john-bettinger,111.48,261
+lineup,dat,I,A200,1,cormac-rouse,112.96,90,2,vincent-wong,118.65,71,3,matthew-kim-5,129.59,39
+lineup,dat,I,E200,1,karl-burghardt,123.39,99,2,owen-ripley-1,133.56,67,3,aidan-liwanag,138.16,55
+lineup,dat,I,A50,1,george-peralvo,24.16,85,2,patrick-miller-5,24.11,86,3,james-scannella,27.54,40
+lineup,dat,I,D100,1,sean-clark-4,57.57,88,2,george-peralvo,65.41,46,3,john-cooper-651224,65.77,44
+lineup,dat,I,A100,1,francis-jaso,53.52,79,2,lucas-kopp,55.83,64,3,matthew-lynch-2,57.11,56
+lineup,dat,I,A500,1,john-sagui,348.23,42,2,luke-chua,358.26,32,3,kyle-dsouza-1,367.13,24
+lineup,dat,R,RA200,1,connor-oneill-4,owen-ripley-1,vincent-wong,cormac-rouse,93.57,330
+lineup,dat,R,RA200,2,aidan-liwanag,kyler-alcebar,patrick-miller-5,cormac-rouse,96.84,297
+lineup,dat,I,B100,1,francis-jaso,61.79,75,2,austin-silverman,64.7,62,3,omer-korkmaz,67.97,48
+lineup,dat,I,C100,1,kyle-phillips-1,66.09,86,2,ian-gonzales,68.51,74,3,matthew-lynch-2,83.96,11
+lineup,dat,R,RA400,1,sean-clark-4,luke-chua,matthew-kim-5,kyle-dsouza-1,224.58,228
+lineup,dat,R,RA400,2,john-bettinger,john-cooper-651224,james-scannella,john-sagui,240.04,159

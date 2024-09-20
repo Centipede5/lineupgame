@@ -1,0 +1,13 @@
+lineup,hdr,3,2281.0
+lineup,dat,I,A200,1,catherine-ritter,115.3,120.0,2.0,meghan-dwyer-1,118.88,106.0,3,zoe-tseng,123.02,91.0
+lineup,dat,I,E200,1,olivia-chow,126.76,130.0,2.0,sophia-latini-1,134.3,103.0,3,isabella-latini,137.83,92.0
+lineup,dat,I,A50,1,dani-carter,24.09,131.0,2.0,livia-minaides,25.76,102.0,3,emma-brown-2,27.62,73.0
+lineup,dat,I,D100,1,sophia-latini-1,57.61,127.0,2.0,meghan-dwyer-1,60.22,110.0,3,annie-zwally,64.09,87.0
+lineup,dat,I,A100,1,dani-carter,52.67,127.0,2.0,catherine-ritter,54.42,112.0,3,livia-minaides,56.83,93.0
+lineup,dat,I,A500,1,zoe-tseng,333.37,85.0,2.0,annie-zwally,339.73,77.0,3,emily-castela,364.42,48.0
+lineup,dat,I,B100,1,olivia-chow,59.53,115.0,2.0,kayla-marion,62.52,95.0,3,haley-lamont,68.11,62.0
+lineup,dat,I,C100,1,kayla-marion,72.39,92.0,2.0,sofiya-piede,80.67,52.0,3,emily-castela,80.95,51.0
+relay,hdr,1851.0
+relay,RE200YF,2,olivia-chow,dani-carter,sophia-latini-1,catherine-ritter,108.17,408.0,kayla-marion,sofiya-piede,marin-bohlman-2,emma-brown-2,122.09,264.0,672.0
+relay,RA200YF,2,sophia-latini-1,livia-minaides,meghan-dwyer-1,catherine-ritter,101.31,369.0,emma-brown-2,katie-ferris,sophie-waibel,marin-bohlman-2,114.59,231.0,600.0
+relay,RA400YF,2,meghan-dwyer-1,livia-minaides,olivia-chow,dani-carter,223.69,339.0,zoe-tseng,annie-zwally,katie-ferris,kayla-marion,241.26,240.0,579.0

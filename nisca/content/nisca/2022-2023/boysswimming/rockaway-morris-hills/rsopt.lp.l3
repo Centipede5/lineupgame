@@ -1,0 +1,13 @@
+lineup,hdr,3,1407.0
+lineup,dat,I,A200,1,justin-flynn,119.69,68.0,2.0,roey-paglingayen,123.15,58.0,3,andrew-macallaro,132.78,31.0
+lineup,dat,I,E200,1,jacob-sun,127.59,85.0,2.0,david-xu,130.28,77.0,,,,
+lineup,dat,I,A50,1,evan-park,23.91,89.0,2.0,connor-bourdon,25.18,70.0,3,isacc-ibarrado,27.07,46.0
+lineup,dat,I,D100,1,roey-paglingayen,60.22,73.0,2.0,zachary-joyal-1,60.09,73.0,3,syon-gupta,72.15,17.0
+lineup,dat,I,A100,1,logan-pfarrer,57.39,54.0,2.0,connor-bourdon,58.22,49.0,3,timothy-lee-2,59.23,44.0
+lineup,dat,I,A500,1,justin-flynn,317.0,77.0,2.0,zachary-joyal-1,330.69,61.0,3,jude-maute,356.74,34.0
+lineup,dat,I,B100,1,evan-park,59.17,89.0,2.0,logan-pfarrer,62.23,73.0,3,syon-gupta,75.09,23.0
+lineup,dat,I,C100,1,jacob-sun,65.52,89.0,2.0,david-xu,67.87,77.0,3,andrew-macallaro,73.78,50.0
+relay,hdr,1260.0
+relay,RE200YM,2,evan-park,david-xu,jacob-sun,logan-pfarrer,109.89,273.0,jude-maute,andrew-macallaro,zachary-joyal-1,timothy-lee-2,117.92,210.0,483.0
+relay,RA400YM,2,evan-park,roey-paglingayen,justin-flynn,jacob-sun,224.98,225.0,logan-pfarrer,timothy-lee-2,connor-bourdon,zachary-joyal-1,235.9,177.0,402.0
+relay,RA200YM,2,roey-paglingayen,justin-flynn,connor-bourdon,david-xu,104.06,228.0,isacc-ibarrado,morgan-wrobel,timothy-lee-2,jude-maute,114.35,147.0,375.0

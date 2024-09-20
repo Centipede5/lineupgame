@@ -1,0 +1,15 @@
+lineup,hdr,3,2000
+lineup,dat,R,RE200,1,may-hartog,amelie-bass,ava-dalessandro,ruby-schuster,124.09,246
+lineup,dat,R,RE200,2,grace-kunkel,anna-wurtz,claire-christie,regan-sherman,129.61,198
+lineup,dat,I,A200,1,ava-dalessandro,134.37,54,2,claire-christie,151.72,8,3,olivia-doherty-1,149.53,14
+lineup,dat,I,E200,1,regan-sherman,153.4,47,2,may-hartog,152.74,49,3,anna-wurtz,160.61,29
+lineup,dat,I,A50,1,amelie-bass,26.02,97,2,grace-kunkel,28.05,67,3,molly-galgano,30.23,39
+lineup,dat,I,D100,1,ava-dalessandro,68.77,63,2,may-hartog,73.42,42,3,grace-corveleyn,94,0
+lineup,dat,I,A100,1,amelie-bass,57.38,89,2,ruby-schuster,60.24,68,3,molly-galgano,66.34,31
+lineup,dat,I,A500,1,claire-christie,387.28,25,2,grace-kunkel,381.4,30,3,keira-verdino,443.22,0
+lineup,dat,R,RA200,1,regan-sherman,anna-wurtz,claire-christie,grace-kunkel,119.82,183
+lineup,dat,R,RA200,2,charlotte-kavanaugh,molly-galgano,caitlin-lynch,olivia-doherty-1,123.88,150
+lineup,dat,I,B100,1,regan-sherman,73.63,34,2,caitlin-lynch,84.94,0,3,charlotte-kavanaugh,79.76,8
+lineup,dat,I,C100,1,ruby-schuster,80.69,52,2,anna-wurtz,81.37,49,3,hanna-lvov,87.48,25
+lineup,dat,R,RA400,1,ava-dalessandro,ruby-schuster,may-hartog,amelie-bass,244.22,225
+lineup,dat,R,RA400,2,olivia-doherty-1,molly-galgano,charlotte-kavanaugh,caitlin-lynch,277.02,78

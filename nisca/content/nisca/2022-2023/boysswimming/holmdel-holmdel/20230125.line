@@ -1,0 +1,15 @@
+lineup,hdr,3,1458
+lineup,dat,R,RE200,1,harrison-eng,skyler-kang,christopher-hall-649421,andrew-sellinger,112.26,255
+lineup,dat,R,RE200,2,brian-pohl,sean-flanigan,james-garcia-6,akarsh-kollu,152.42,6
+lineup,dat,I,A200,1,skyler-kang,131.34,35,2,daniel-belikov,148.19,0,3,grant-lin-1,145.1,2
+lineup,dat,I,E200,1,mark-milgram,133.86,67,2,adam-azzaoui,133.21,68
+lineup,dat,I,A50,1,andrew-sellinger,23.44,96,2,harrison-eng,25.5,66,3,sean-flanigan,26.45,53
+lineup,dat,I,D100,1,christopher-hall-649421,55.48,101,2,bryce-gestrich,88.07,0,3,brian-pohl,94.65,0
+lineup,dat,I,A100,1,mark-milgram,57.53,53,2,james-garcia-6,59.46,42,3,sean-flanigan,61.56,31
+lineup,dat,I,A500,1,jason-milgram,359.36,31,2,daniel-belikov,436.72,0
+lineup,dat,R,RA200,1,adam-azzaoui,sean-flanigan,james-garcia-6,grant-lin-1,107.68,198
+lineup,dat,R,RA200,2,akarsh-kollu,bryce-gestrich,daniel-belikov,jason-milgram,140.21,0
+lineup,dat,I,B100,1,harrison-eng,63.95,65,2,bryce-gestrich,79.7,8,3,brian-pohl,98.75,0
+lineup,dat,I,C100,1,skyler-kang,67.59,78,2,jason-milgram,104.96,0,3,grant-lin-1,82.21,17
+lineup,dat,R,RA400,1,adam-azzaoui,harrison-eng,christopher-hall-649421,jason-milgram,233.38,186
+lineup,dat,R,RA400,2,jason-milgram,akarsh-kollu,brian-pohl,grant-lin-1,321.14,0

@@ -1,0 +1,13 @@
+lineup,hdr,3,629.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,olivia-willemsen,130.1,118.0,,,,,,,,
+lineup,dat,I,A50,1,taylor-huggup,26.65,87.0,2.0,katie-engels,29.87,44.0,3,charly-blaize-gipson,33.4,5.0
+lineup,dat,I,D100,1,olivia-willemsen,59.42,115.0,,,,,,,,
+lineup,dat,I,A100,1,tara-kehair,65.2,37.0,2.0,katie-engels,68.28,20.0,3,mira-kehair,70.09,11.0
+lineup,dat,I,A500,1,jessica-fernandes,381.77,30.0,,,,,,,,
+lineup,dat,I,B100,1,taylor-huggup,69.04,57.0,2.0,margaret-davis,80.23,6.0,,,,
+lineup,dat,I,C100,1,jessica-fernandes,76.23,72.0,2.0,elitsa-mileva,86.89,27.0,,,,
+relay,hdr,720.0
+relay,RE200YF,2,tara-kehair,jessica-fernandes,taylor-huggup,olivia-willemsen,122.98,255.0,katie-engels,elitsa-mileva,mira-kehair,charly-blaize-gipson,147.72,69.0,324.0
+relay,RA200YF,2,taylor-huggup,mira-kehair,katie-engels,olivia-willemsen,112.9,246.0,elitsa-mileva,gabriekke-williams,ana-brito,tara-kehair,135.86,63.0,309.0
+relay,RA400YF,1,mira-kehair,margaret-davis,tara-kehair,jessica-fernandes,274.46,87.0,,,,,,,87.0

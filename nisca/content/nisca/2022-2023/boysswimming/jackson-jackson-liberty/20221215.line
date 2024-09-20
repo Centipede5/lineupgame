@@ -1,0 +1,15 @@
+lineup,hdr,3,660
+lineup,dat,R,RE200,1,matthew-obrien,brandon-dean-1,russell-volker,sean-landers,126.43,150
+lineup,dat,R,RE200,2,johnathon-debow,joshua-friedman,ethan-schweikert,paul-katko-capozzi,167.24,0
+lineup,dat,I,A200,1,ethan-schweikert,156.74,0,2,octavio-pantoja,162.76,0
+lineup,dat,I,E200,1,matthew-obrien,144.61,38,2,sean-landers,152.02,21
+lineup,dat,I,A50,1,paul-katko-capozzi,26.05,58,2,mateo-sanabria-ramirez,30.34,11,3,anthony-desouza,36.64,0
+lineup,dat,I,D100,1,brandon-dean-1,66.73,40,2,russell-volker,85.98,0
+lineup,dat,I,A100,1,paul-katko-capozzi,72.56,0,2,sean-landers,61.57,31
+lineup,dat,I,A500,1,octavio-pantoja,483.87,0
+lineup,dat,R,RA200,1,joshua-friedman,juan-aguado-lozano,sergio-cardona-lozano,mateo-sanabria-ramirez,135.82,15
+lineup,dat,R,RA200,2,sean-landers,brandon-dean-1,paul-katko-capozzi,matthew-obrien,109.78,180
+lineup,dat,I,B100,1,matthew-obrien,62.86,70,2,johnathon-debow,122.24,0
+lineup,dat,I,C100,1,juan-aguado-lozano,123.14,0,2,brandon-dean-1,74.64,46,3,russell-volker,93.19,0
+lineup,dat,R,RA400,1,joshua-friedman,anthony-desouza,juan-aguado-lozano,sergio-cardona-lozano,376.56,0
+lineup,dat,R,RA400,2,octavio-pantoja,mateo-sanabria-ramirez,russell-volker,ethan-schweikert,302.62,0

@@ -1,0 +1,13 @@
+lineup,hdr,3,1129.0
+lineup,dat,I,A200,1,chris-devizio,135.94,23.0,,,,,,,,
+lineup,dat,I,E200,1,andrew-dascula,134.44,65.0,2.0,mason-liu-1,135.83,61.0,3,thomas-piovoso,143.65,41.0
+lineup,dat,I,A50,1,carsen-tramontin-1,25.05,72.0,2.0,tim-whittington,25.53,65.0,3,jacob-blum,28.34,31.0
+lineup,dat,I,D100,1,andreas-dascula,58.59,82.0,2.0,steven-samome,58.86,80.0,3,andrew-dascula,59.36,77.0
+lineup,dat,I,A100,1,jason-ma-2,52.56,86.0,2.0,steven-samome,52.59,85.0,3,jacob-blum,61.65,31.0
+lineup,dat,I,A500,1,andreas-dascula,334.24,57.0,2.0,chris-devizio,390.0,4.0,,,,
+lineup,dat,I,B100,1,jason-ma-2,57.08,100.0,2.0,carsen-tramontin-1,69.69,42.0,3,tim-whittington,80.15,7.0
+lineup,dat,I,C100,1,mason-liu-1,66.56,84.0,2.0,thomas-piovoso,76.97,36.0,,,,
+relay,hdr,1191.0
+relay,RA400YM,2,steven-samome,andreas-dascula,mason-liu-1,jason-ma-2,204.0,333.0,carsen-tramontin-1,chris-devizio,ben-deangelis,thomas-piovoso,248.02,129.0,462.0
+relay,RA200YM,2,carsen-tramontin-1,thomas-piovoso,steven-samome,jacob-blum,98.85,276.0,elliot-girin,mark-vechnyak,hallison-henry-oreilly,jayden-londono,122.08,93.0,369.0
+relay,RE200YM,2,jason-ma-2,mason-liu-1,andreas-dascula,jacob-blum,112.75,249.0,tim-whittington,harrison-henryoreilly,chris-devizio,ben-deangelis,132.32,111.0,360.0

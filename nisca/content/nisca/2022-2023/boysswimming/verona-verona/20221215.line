@@ -1,0 +1,12 @@
+lineup,hdr,3,430
+lineup,dat,R,RE200,1,michael-castner,kaya-gumusayak-1,demitri-byrne-1,evan-carlson,126.35,150
+lineup,dat,I,A200,1,michael-castner,160.19,0
+lineup,dat,I,E200,1,elliot-ziebert,163.35,0
+lineup,dat,I,A50,1,kaya-gumusayak-1,24.35,82,2,demitri-byrne-1,32.13,0,3,vindhyan-marimuthu,38.54,0
+lineup,dat,I,D100
+lineup,dat,I,A100
+lineup,dat,I,A500,1,michael-castner,475.07,0
+lineup,dat,R,RA200,1,demitri-byrne-1,elliot-ziebert,vindhyan-marimuthu,michael-mchugh-1,149.16,0
+lineup,dat,I,B100,1,kaya-gumusayak-1,64.72,62
+lineup,dat,I,C100,1,evan-carlson,71.37,60,2,elliot-ziebert,79.98,25
+lineup,dat,R,RA400,1,michael-castner,evan-carlson,elliot-ziebert,kaya-gumusayak-1,269.94,51

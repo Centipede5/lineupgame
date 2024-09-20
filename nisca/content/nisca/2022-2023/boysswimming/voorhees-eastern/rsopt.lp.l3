@@ -1,0 +1,13 @@
+lineup,hdr,3,1703.0
+lineup,dat,I,A200,1,aaron-jost,123.13,58.0,2.0,bennett-kutikov,123.53,56.0,3,jonah-richardson,130.08,38.0
+lineup,dat,I,E200,1,josh-seidman,117.01,121.0,2.0,ryan-witts,131.13,74.0,3,jonah-kutikov,139.36,52.0
+lineup,dat,I,A50,1,rocco-mann,22.3,115.0,2.0,thomas-keating,25.47,66.0,3,jayden-ebstein,25.69,63.0
+lineup,dat,I,D100,1,josh-seidman,52.15,124.0,2.0,rocco-mann,55.32,102.0,3,justin-kravitz,62.86,58.0
+lineup,dat,I,A100,1,jayden-ebstein,56.53,59.0,2.0,jonah-richardson,58.41,48.0,3,matt-tenberg,58.84,46.0
+lineup,dat,I,A500,1,riley-smith-6,304.33,94.0,2.0,ryan-witts,320.14,74.0,3,bennett-kutikov,333.05,59.0
+lineup,dat,I,B100,1,aaron-jost,60.83,80.0,2.0,evan-chernyanko,65.75,58.0,3,tristan-schneider,67.22,51.0
+lineup,dat,I,C100,1,riley-smith-6,63.26,102.0,2.0,jonah-kutikov,70.76,63.0,3,daehui-yi,75.48,42.0
+relay,hdr,1557.0
+relay,RE200YM,2,josh-seidman,riley-smith-6,rocco-mann,ryan-witts,101.82,351.0,aaron-jost,daehui-yi,justin-kravitz,thomas-keating,116.93,216.0,567.0
+relay,RA400YM,2,ryan-witts,riley-smith-6,rocco-mann,josh-seidman,202.73,342.0,jonah-kutikov,jonah-richardson,bennett-kutikov,aaron-jost,231.05,198.0,540.0
+relay,RA200YM,2,jayden-ebstein,jonah-richardson,thomas-keating,bennett-kutikov,101.77,249.0,ethan-shekhter,tristan-schneider,justin-kravitz,matt-tenberg,107.35,201.0,450.0

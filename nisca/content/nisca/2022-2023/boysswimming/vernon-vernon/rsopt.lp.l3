@@ -1,0 +1,13 @@
+lineup,hdr,3,386.0
+lineup,dat,I,A200,1,aidan-zachowski,129.86,39.0,2.0,colin-geisen,134.97,26.0,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,ketchell-terzakis,25.41,67.0,2.0,ben-casper-1,27.19,44.0,3,kane-lynch,29.22,22.0
+lineup,dat,I,D100,1,aidan-zachowski,66.05,43.0,2.0,logan-peek,73.34,12.0,,,,
+lineup,dat,I,A100,1,ketchell-terzakis,61.88,29.0,2.0,colin-dignan,64.93,14.0,,,,
+lineup,dat,I,A500,1,colin-geisen,390.65,3.0,,,,,,,,
+lineup,dat,I,B100,1,jack-paladini,76.2,19.0,2.0,logan-peek,77.44,15.0,,,,
+lineup,dat,I,C100,1,sean-allen-poole,76.84,37.0,2.0,colin-dignan,85.11,8.0,3,ty-holden,85.07,8.0
+relay,hdr,513.0
+relay,RA200YM,2,ben-casper-1,sean-allen-poole,colin-dignan,ketchell-terzakis,114.71,144.0,colin-geisen,kane-lynch,ty-holden,jeremy-garcia-2,128.32,57.0,201.0
+relay,RE200YM,2,aidan-zachowski,sean-allen-poole,logan-peek,ketchell-terzakis,123.08,171.0,jack-paladini,tom-amorosi,colin-dignan,kane-lynch,149.58,18.0,189.0
+relay,RA400YM,1,ben-casper-1,colin-geisen,logan-peek,aidan-zachowski,249.78,123.0,,,,,,,123.0

@@ -1,0 +1,17 @@
+lineup,hdr,3,748
+lineup,dat,I,A200,1,jonathan-mcaveety,111.02,97,2,dante-trozzo,144.59,4
+lineup,dat,I,E200,1,jonathan-reilly,132.99,69
+lineup,dat,I,A50,1,nick-furia,23.14,101,2,tyler-stanewick,27.3,43,3,tyler-giancoli,28.61,28
+lineup,dat,I,D100,1,nick-furia,57.8,87
+lineup,dat,I,A100,1,jonathan-mcaveety,50.02,105,2,zachary-zehnder,60.11,39,3,dante-trozzo,62.41,27
+lineup,dat,I,A500,1,jonathan-reilly,316.77,78
+lineup,dat,I,B100,1,zachary-zehnder,68.84,45,2,ethan-harmon,75.25,22
+lineup,dat,I,C100,1,dom-lera,86.5,3
+relay,hdr,765
+relay,RE200YM,2,jonathan-mcaveety,jonathan-reilly,nick-furia,zachary-zehnder,110.86,2.6700000000000000e+02,ethan-harmon,brian-keller-550259,tyler-giancoli,tyler-stanewick,132.44,1.1100000000000000e+02
+relay,RA200YM,2,jonathan-reilly,jonathan-mcaveety,nick-furia,zachary-zehnder,100.87,2.5800000000000000e+02,brian-keller-550259,sawyer-nodine,zakariah-mccoy,tyler-giancoli,119.98,1.0800000000000000e+02
+relay,RA400YM,1,brian-keller-550259,zakariah-mccoy,dom-lera,tyler-giancoli,279.54,2.1000000000000000e+01
+relay,hdr,900
+relay,RE200YM,2,jonathan-mcaveety,jonathan-reilly,nick-furia,zachary-zehnder,110.86,2.6700000000000000e+02,ethan-harmon,brian-keller-550259,tyler-giancoli,tyler-stanewick,132.44,1.1100000000000000e+02
+relay,RA200YM,2,tyler-stanewick,dante-trozzo,jonathan-reilly,nick-furia,103.95,2.3100000000000000e+02,brian-keller-550259,sawyer-nodine,zakariah-mccoy,tyler-giancoli,119.98,1.0800000000000000e+02
+relay,RA400YM,2,dante-trozzo,tyler-stanewick,jonathan-mcaveety,zachary-zehnder,239.87,1.6200000000000000e+02,brian-keller-550259,zakariah-mccoy,dom-lera,tyler-giancoli,279.54,2.1000000000000000e+01

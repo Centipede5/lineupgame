@@ -1,0 +1,13 @@
+lineup,hdr,3,1758.0
+lineup,dat,I,A200,1,cole-eastep,119.97,67.0,2.0,travis-li,122.11,61.0,3,kenny-shao,123.27,57.0
+lineup,dat,I,E200,1,aj-benowitz,133.13,69.0,2.0,eric-zhu-2,133.22,68.0,3,peter-obrien,134.69,64.0
+lineup,dat,I,A50,1,dylan-ing,23.83,90.0,2.0,austin-ing,24.77,76.0,3,garrett-umbach,25.09,71.0
+lineup,dat,I,D100,1,peter-obrien,57.72,87.0,2.0,felix-wu,59.61,76.0,3,cole-eastep,62.07,62.0
+lineup,dat,I,A100,1,daniel-newton,51.26,95.0,2.0,garrett-umbach,54.46,73.0,3,dylan-ing,55.9,63.0
+lineup,dat,I,A500,1,aj-benowitz,325.67,67.0,2.0,benjamin-furry,327.69,65.0,3,kenny-shao,340.56,50.0
+lineup,dat,I,B100,1,eric-zhu-2,59.83,85.0,2.0,keith-huang,63.54,67.0,3,felix-wu,64.7,62.0
+lineup,dat,I,C100,1,daniel-newton,62.95,104.0,2.0,allen-liu-1,63.5,100.0,3,andrew-machurov,67.36,79.0
+relay,hdr,1617.0
+relay,RE200YM,2,eric-zhu-2,daniel-newton,felix-wu,dylan-ing,105.46,315.0,keith-huang,allen-liu-1,peter-obrien,austin-ing,108.33,288.0,603.0
+relay,RA200YM,2,garrett-umbach,cole-eastep,austin-ing,dylan-ing,94.36,324.0,keith-huang,brendan-zheng,peter-obrien,travis-li,103.78,231.0,555.0
+relay,RA400YM,2,garrett-umbach,aj-benowitz,cole-eastep,daniel-newton,216.27,267.0,travis-li,kenny-shao,andrew-machurov,austin-ing,232.52,192.0,459.0

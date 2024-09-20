@@ -1,0 +1,13 @@
+lineup,hdr,3,689.0
+lineup,dat,I,A200,1,dylan-gregg-1,139.59,15.0,,,,,,,,
+lineup,dat,I,E200,1,brian-lee-15,159.56,6.0,,,,,,,,
+lineup,dat,I,A50,1,matt-deary,24.22,84.0,2.0,christopher-kolaritsch,25.71,63.0,3,marlon-soiero,27.0,47.0
+lineup,dat,I,D100,1,matt-deary,65.18,47.0,2.0,curtis-wang-1,68.56,32.0,3,aiden-gregg,72.2,17.0
+lineup,dat,I,A100,1,hayden-abfier,54.4,73.0,2.0,nicholas-breen,64.09,18.0,3,brian-lee-15,65.16,13.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,hayden-abfier,63.47,68.0,2.0,curtis-wang-1,67.83,49.0,3,dylan-gregg-1,74.0,26.0
+lineup,dat,I,C100,1,christopher-kolaritsch,69.27,70.0,2.0,aiden-gregg,75.0,44.0,3,shaan-shah,82.13,17.0
+relay,hdr,873.0
+relay,RE200YM,2,curtis-wang-1,christopher-kolaritsch,hayden-abfier,matt-deary,114.0,240.0,marlon-soiero,shaan-shah,dylan-gregg-1,brian-lee-15,131.74,114.0,354.0
+relay,RA200YM,2,marlon-soiero,aiden-gregg,hayden-abfier,matt-deary,106.64,207.0,owen-chan,dylan-botero,enzo-giordano,brian-lee-15,114.94,141.0,348.0
+relay,RA400YM,2,curtis-wang-1,marlon-soiero,dylan-botero,christopher-kolaritsch,257.43,93.0,aiden-gregg,dylan-gregg-1,matthew-reiss,owen-chan,261.72,78.0,171.0

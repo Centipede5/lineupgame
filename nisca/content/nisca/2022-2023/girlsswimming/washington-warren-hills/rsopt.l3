@@ -1,0 +1,12 @@
+lineup,hdr,3,75
+lineup,dat,I,A200,1,jocelyn-kranicka,153.65,4
+lineup,dat,I,E200
+lineup,dat,I,A50,1,meaghan-oleary-1,31.84,21
+lineup,dat,I,D100
+lineup,dat,I,A100,1,jocelyn-kranicka,69.59,13
+lineup,dat,I,A500
+lineup,dat,I,B100,1,sienna-kachala,76.27,22
+lineup,dat,I,C100,1,ella-pinto,90.07,15
+relay,hdr,129
+relay,RE200YF,1,kapri-delghiaccio,ella-pinto,sienna-kachala,meaghan-oleary-1,147.22,7.2000000000000000e+01
+relay,RA200YF,1,sienna-kachala,ella-pinto,kapri-delghiaccio,meaghan-oleary-1,136.86,5.7000000000000000e+01

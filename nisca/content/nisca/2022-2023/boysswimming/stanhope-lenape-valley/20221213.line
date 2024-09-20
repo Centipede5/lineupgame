@@ -1,0 +1,15 @@
+lineup,hdr,3,1450
+lineup,dat,R,RE200,1,dylan-cotter,timmy-walsh,brendan-lynch-550300,grayson-petrie,119.71,195
+lineup,dat,R,RE200,2,david-sabol-1,jourdan-franco,noah-mcclung,james-shertz,130.85,120
+lineup,dat,I,A200,1,teddy-mills,126.87,47,2,brendan-lynch-550300,129.87,39,3,ben-knehr,161.85,0
+lineup,dat,I,E200,1,grayson-petrie,147.27,32,2,david-sabol-1,149.8,26,3,timmy-walsh,155.28,14
+lineup,dat,I,A50,1,dylan-cotter,26.5,53,2,teddy-mills,26.83,49,3,james-shertz,27.53,40
+lineup,dat,I,D100,1,brendan-lynch-550300,61.65,65,2,noah-mcclung,70.54,23
+lineup,dat,I,A100,1,jourdan-franco,59.22,44,2,james-shertz,61.29,32,3,mathias-alvez,78,0
+lineup,dat,I,A500,1,grayson-petrie,353.26,37,2,devin-pfeifer,481.9,0
+lineup,dat,R,RA200,1,dylan-cotter,brendan-lynch-550300,timmy-walsh,grayson-petrie,106.79,204
+lineup,dat,R,RA200,2,noah-mcclung,tyler-casper,david-sabol-1,mathias-alvez,115.91,135
+lineup,dat,I,B100,1,dylan-cotter,65.27,60,2,david-sabol-1,70.38,39,3,tyler-casper,73.25,29
+lineup,dat,I,C100,1,timmy-walsh,76.19,40,2,jourdan-franco,78.38,31,3,stephen-wszolek,87.5,0
+lineup,dat,R,RA400,1,james-shertz,noah-mcclung,tyler-casper,jourdan-franco,257.15,96
+lineup,dat,R,RA400,2,ben-knehr,mathias-alvez,stephen-wszolek,devin-pfeifer,321.42,0

@@ -1,0 +1,13 @@
+lineup,hdr,3,1230.0
+lineup,dat,I,A200,1,rebekah-jung,121.78,95.0,2.0,sophie-dahiya,134.16,55.0,3,annika-moon,140.16,38.0
+lineup,dat,I,E200,1,rebekah-jung,135.09,101.0,2.0,isabelle-yoo,141.88,79.0,3,sophia-lazarou,153.36,47.0
+lineup,dat,I,A50,1,renee-kim,28.81,57.0,2.0,claire-kwon,30.27,39.0,3,sophia-ustiuzhanin,32.02,19.0
+lineup,dat,I,D100,1,isabelle-yoo,62.74,95.0,2.0,maria-lazarou,64.56,85.0,3,kaitlin-zhang,74.13,39.0
+lineup,dat,I,A100,1,maria-lazarou,60.02,70.0,2.0,annika-moon,63.52,47.0,3,renee-kim,63.8,45.0
+lineup,dat,I,A500,1,lea-lee,336.3,81.0,,,,,,,,
+lineup,dat,I,B100,1,lea-lee,64.04,86.0,2.0,christie-sugiaman,78.09,15.0,,,,
+lineup,dat,I,C100,1,sophie-dahiya,76.81,69.0,2.0,sophia-lazarou,78.52,61.0,3,kaitlin-zhang,92.63,7.0
+relay,hdr,957.0
+relay,RE200YF,2,lea-lee,isabelle-yoo,maria-lazarou,rebekah-jung,118.86,294.0,sophie-dahiya,sophia-lazarou,renee-kim,claire-kwon,131.29,186.0,480.0
+relay,RA200YF,2,sophia-lazarou,isabelle-yoo,kaitlin-zhang,claire-kwon,119.1,189.0,sophia-castellon,valarie-ramirez,audrey-sugiaman,sophia-ustiuzhanin,134.26,75.0,264.0
+relay,RA400YF,1,lea-lee,sophie-dahiya,rebekah-jung,maria-lazarou,246.56,213.0,,,,,,,213.0

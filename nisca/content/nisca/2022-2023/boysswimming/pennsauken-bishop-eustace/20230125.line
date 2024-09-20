@@ -1,0 +1,15 @@
+lineup,hdr,3,1988
+lineup,dat,R,RE200,1,alyce-lehman,samuel-morris-1,nick-pasquini,daniel-waldhauser,108.07,291
+lineup,dat,R,RE200,2,kelly-walsh,chris-threston,thomas-azelby-1,logan-watkins-2,129.65,129
+lineup,dat,I,A200,1,alyce-lehman,116.34,79,2,thomas-gamble,124.49,54,3,ella-axelson,151.86,0
+lineup,dat,I,E200,1,daniel-waldhauser,126,90,2,ava-montuori,150.43,25,3,thomas-azelby-1,161.47,2
+lineup,dat,I,A50,1,nick-pasquini,23.58,94,2,samuel-morris-1,25.63,64,3,logan-watkins-2,25.96,60
+lineup,dat,I,D100,1,alyce-lehman,58.39,83,2,nick-pasquini,59.53,76
+lineup,dat,I,A100,1,daniel-waldhauser,51.13,96,2,logan-watkins-2,59.17,44,3,ella-axelson,65,14
+lineup,dat,I,A500,1,thomas-gamble,346.88,44,2,nick-waldhauser,420.7,0
+lineup,dat,R,RA200,1,kelly-walsh,ava-montuori,logan-watkins-2,samuel-morris-1,110.93,171
+lineup,dat,R,RA200,2,thomas-azelby-1,amanda-klitchko,ella-axelson,thomas-gamble,115.12,141
+lineup,dat,I,B100,1,kelly-walsh,67.2,51,2,ava-montuori,72.08,33,3,nick-waldhauser,78.92,11
+lineup,dat,I,C100,1,chris-threston,71.2,61,2,samuel-morris-1,71.7,59
+lineup,dat,R,RA400,1,thomas-gamble,nick-pasquini,alyce-lehman,daniel-waldhauser,229.86,204
+lineup,dat,R,RA400,2,ella-axelson,ava-montuori,nick-waldhauser,thomas-azelby-1,282.95,12

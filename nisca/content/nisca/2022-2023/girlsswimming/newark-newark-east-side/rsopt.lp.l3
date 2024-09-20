@@ -1,0 +1,12 @@
+lineup,hdr,3,19.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,emily-de-souza-1,32.0,19.0,,,,,,,,
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,,,,,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,117.0
+relay,RA200YF,1,emily-tapia,maya-ratzan-2,emily-de-souza-1,sophia-solivan-1,135.0,69.0,,,,,,,69.0
+relay,RE200YF,1,emily-tapia,sophia-solivan-1,julissa-roca-1,emily-de-souza-1,151.0,48.0,,,,,,,48.0

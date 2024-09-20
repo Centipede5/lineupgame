@@ -1,0 +1,13 @@
+lineup,hdr,3,608.0
+lineup,dat,I,A200,1,kj-bogona,135.8,24.0,2.0,sammy-faust,135.69,24.0,,,,
+lineup,dat,I,E200,1,sophia-fontaine-1,143.44,41.0,2.0,oliver-laskow,161.83,1.0,,,,
+lineup,dat,I,A50,1,aiden-lee,25.46,66.0,2.0,sammy-faust,26.47,53.0,3,maiti-oconnor,27.6,39.0
+lineup,dat,I,D100,1,ethan-guo-1,61.99,63.0,2.0,kj-bogona,70.43,24.0,3,giselle-lee,71.23,20.0
+lineup,dat,I,A100,1,matthew-faust,58.43,48.0,2.0,aiden-lee,60.43,37.0,,,,
+lineup,dat,I,A500,1,sophia-fontaine-1,361.66,29.0,2.0,briana-li,370.93,20.0,,,,
+lineup,dat,I,B100,1,giselle-lee,70.13,40.0,2.0,maiti-oconnor,71.7,34.0,3,kate-wolff,73.5,28.0
+lineup,dat,I,C100,1,oliver-laskow,82.14,17.0,,,,,,,,
+relay,hdr,903.0
+relay,RA200YM,2,sammy-faust,ethan-guo-1,aiden-lee,matthew-faust,95.32,312.0,christian-lee-655835,kj-bogona,briana-li,luca-digirolamo-1,121.34,99.0,411.0
+relay,RE200YM,2,ethan-guo-1,matthew-faust,giselle-lee,aiden-lee,114.85,234.0,maiti-oconnor,arjun-vora,briana-li,luca-digirolamo-1,135.17,96.0,330.0
+relay,RA400YM,2,sophia-fontaine-1,giselle-lee,ethan-guo-1,matthew-faust,243.89,144.0,briana-li,luca-digirolamo-1,chiara-baldi-1,kj-bogona,281.08,18.0,162.0

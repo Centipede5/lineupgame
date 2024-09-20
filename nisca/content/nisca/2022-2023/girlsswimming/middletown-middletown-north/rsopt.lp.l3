@@ -1,0 +1,13 @@
+lineup,hdr,3,362.0
+lineup,dat,I,A200,1,juliana-imbro,133.63,56.0,,,,,,,,
+lineup,dat,I,E200,1,madison-difranco,157.25,37.0,,,,,,,,
+lineup,dat,I,A50,1,grace-gomez,29.03,54.0,2.0,keelin-forkan,29.09,53.0,3,anneliese-godsey,30.71,34.0
+lineup,dat,I,D100,1,madison-difranco,68.28,65.0,,,,,,,,
+lineup,dat,I,A100,1,keelin-forkan,62.63,53.0,2.0,grace-gomez,70.72,8.0,3,anneliese-godsey,71.78,2.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,672.0
+relay,RE200YF,2,chloe-bixby,mary-garby-1,nina-virani,mia-rose-scalice,133.52,168.0,juliana-imbro,grace-gomez,madison-difranco,keelin-forkan,134.52,159.0,327.0
+relay,RA200YF,2,grace-gomez,emma-gomez-1,anneliese-godsey,juliana-imbro,122.62,159.0,natalie-vacca-1,katie-baeder,lauren-robinson-502392,mary-garby-1,135.62,66.0,225.0
+relay,RA400YF,1,madison-difranco,katie-baeder,keelin-forkan,juliana-imbro,266.53,120.0,,,,,,,120.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,2696.0
+lineup,dat,I,A200,1,anthony-mortellite,101.58,135.0,2.0,mike-mccarthy-600873,106.63,114.0,3,massimo-catania,108.96,105.0
+lineup,dat,I,E200,1,dante-bounopon,113.93,133.0,2.0,matt-stanker,120.4,109.0,3,ben-stanker,123.08,100.0
+lineup,dat,I,A50,1,cole-jennings,21.75,125.0,2.0,parker-lapsley-1,21.96,121.0,3,hayden-clay,23.25,99.0
+lineup,dat,I,D100,1,trevor-nolan-1,51.47,129.0,2.0,jonah-alverez,53.89,112.0,3,giavanni-catania,59.12,79.0
+lineup,dat,I,A100,1,cole-jennings,47.8,123.0,2.0,trevor-nolan-1,48.5,117.0,3,parker-lapsley-1,49.66,107.0
+lineup,dat,I,A500,1,mike-mccarthy-600873,280.13,129.0,2.0,anthony-mortellite,283.41,124.0,3,matt-stanker,296.32,105.0
+lineup,dat,I,B100,1,jonah-alverez,56.94,101.0,2.0,john-frangakis,58.27,93.0,3,andrew-nueman,59.94,85.0
+lineup,dat,I,C100,1,dante-bounopon,57.83,136.0,2.0,massimo-catania,61.54,112.0,3,ben-stanker,62.99,103.0
+relay,hdr,2112.0
+relay,RE200YM,2,anthony-mortellite,dante-bounopon,mike-mccarthy-600873,trevor-nolan-1,97.94,390.0,john-frangakis,ben-stanker,giavanni-catania,parker-lapsley-1,103.89,330.0,720.0
+relay,RA200YM,2,anthony-mortellite,parker-lapsley-1,matt-stanker,cole-jennings,88.82,387.0,joe-tortella,noah-calderon,mike-mccarthy-600873,hayden-clay,95.24,312.0,699.0
+relay,RA400YM,2,matt-stanker,cole-jennings,trevor-nolan-1,dante-bounopon,195.1,387.0,frank-ferzetti,hayden-clay,jonah-alverez,massimo-catania,209.28,306.0,693.0

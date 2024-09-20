@@ -1,0 +1,13 @@
+lineup,hdr,3,1938.0
+lineup,dat,I,A200,1,kate-barone,128.54,72.0,2.0,alexandra-brown-1,131.43,63.0,3,sydney-rudder,131.91,61.0
+lineup,dat,I,E200,1,lilliana-kuball,137.27,94.0,2.0,molly-mcdonnell,139.58,86.0,3,kate-barone,145.1,70.0
+lineup,dat,I,A50,1,audrey-seiger,25.49,106.0,2.0,anna-stolarick,26.91,84.0,3,ellie-mcfadden,27.31,78.0
+lineup,dat,I,D100,1,alyssa-mchale,59.24,116.0,2.0,olivia-hogan,64.48,85.0,3,audrey-seiger,66.55,74.0
+lineup,dat,I,A100,1,julia-mchale,58.59,80.0,2.0,erin-maynes,59.65,72.0,3,alexandra-brown-1,59.87,71.0
+lineup,dat,I,A500,1,olivia-hogan,332.26,86.0,2.0,sydney-rudder,359.53,53.0,3,kouser-kaitlyn,365.39,47.0
+lineup,dat,I,B100,1,alyssa-mchale,60.32,110.0,2.0,kouser-kaitlyn,66.05,74.0,3,julia-mchale,66.88,69.0
+lineup,dat,I,C100,1,lilliana-kuball,68.0,117.0,2.0,molly-mcdonnell,71.0,99.0,3,anna-stolarick,76.5,71.0
+relay,hdr,1746.0
+relay,RE200YF,2,alyssa-mchale,lilliana-kuball,julia-mchale,audrey-seiger,111.76,366.0,kouser-kaitlyn,molly-mcdonnell,maeve-kirwan,anna-stolarick,117.86,303.0,669.0
+relay,RA200YF,2,julia-mchale,molly-mcdonnell,anna-stolarick,alexandra-brown-1,105.92,318.0,ellie-mcfadden,lilly-ellis,makayla-cordova-1,olivia-hogan,112.24,252.0,570.0
+relay,RA400YF,2,alyssa-mchale,olivia-hogan,erin-maynes,audrey-seiger,230.89,297.0,alexandra-brown-1,ellie-mcfadden,kate-maynes,kate-barone,247.59,210.0,507.0

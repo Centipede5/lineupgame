@@ -1,0 +1,11 @@
+lineup,hdr,3,639
+lineup,dat,I,A200,1,ryan-miller-19,189.88,0,2,andrew-gonzalez-7,166.65,0,3,josh-recinos,211.95,0
+lineup,dat,I,E200,1,ryan-day-1,202.17,0,2,bryan-reimertz,142.09,45
+lineup,dat,I,A50,1,christopher-sheehan,27.06,46,2,matthew-novak,25.19,70,3,jeremy-morales,29.03,24
+lineup,dat,I,D100,1,chase-rogers,60.19,73
+lineup,dat,I,A100,1,ryan-day-1,80.56,0,2,jackson-florio,66.65,7,3,josh-recinos,85.86,0
+lineup,dat,I,A500,1,matthew-novak,435.6,0,2,christopher-sheehan,419.91,0,3,jeremy-morales,493.18,0
+lineup,dat,R,RA200,1,jackson-florio,josh-recinos,ryan-day-1,ryan-miller-19,135.26,18
+lineup,dat,I,B100,1,chase-rogers,62.23,73,2,bryan-reimertz,65.81,57,3,andrew-gonzalez-7,92.05,0
+lineup,dat,I,C100,1,ryan-miller-19,120.23,0,2,jackson-florio,85.14,7
+lineup,dat,R,RA400,1,chase-rogers,matthew-novak,jeremy-morales,christopher-sheehan,226.71,219

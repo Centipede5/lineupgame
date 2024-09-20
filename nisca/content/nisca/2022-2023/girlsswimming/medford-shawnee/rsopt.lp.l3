@@ -1,0 +1,13 @@
+lineup,hdr,3,2138.0
+lineup,dat,I,A200,1,ellie-walsh-1,121.43,96.0,2.0,emma-hare,123.25,90.0,3,gracie-peterson,129.94,68.0
+lineup,dat,I,E200,1,camryn-tilger,129.24,121.0,2.0,darrah-shuff,141.28,81.0,3,emily-andryca,144.84,70.0
+lineup,dat,I,A50,1,diana-demarco,24.66,120.0,2.0,summer-sky-bontrager,25.54,105.0,3,kalena-gatesman,26.51,90.0
+lineup,dat,I,D100,1,camryn-tilger,58.24,122.0,2.0,gracie-peterson,65.13,81.0,3,leah-christianson,72.73,45.0
+lineup,dat,I,A100,1,summer-sky-bontrager,55.24,105.0,2.0,diana-demarco,57.1,91.0,3,allie-sullivan-1,57.7,86.0
+lineup,dat,I,A500,1,darrah-shuff,319.12,104.0,2.0,ellie-walsh-1,328.47,91.0,3,alaina-allbaugh-heinz,331.14,88.0
+lineup,dat,I,B100,1,emma-hare,60.66,108.0,2.0,emily-andryca,65.42,77.0,3,allie-sullivan-1,66.48,71.0
+lineup,dat,I,C100,1,alaina-allbaugh-heinz,71.54,96.0,2.0,kalena-gatesman,72.84,89.0,3,styliana-kokolis,82.86,43.0
+relay,hdr,1776.0
+relay,RE200YF,2,emma-hare,kalena-gatesman,camryn-tilger,diana-demarco,112.12,363.0,allie-sullivan-1,alaina-allbaugh-heinz,emily-andryca,leah-christianson,120.74,276.0,639.0
+relay,RA200YF,2,darrah-shuff,ellie-walsh-1,summer-sky-bontrager,diana-demarco,102.98,348.0,kalena-gatesman,styliana-kokolis,leah-christianson,gracie-peterson,112.08,255.0,603.0
+relay,RA400YF,2,summer-sky-bontrager,emma-hare,alaina-allbaugh-heinz,camryn-tilger,231.71,294.0,gracie-peterson,emily-andryca,ellie-walsh-1,darrah-shuff,241.24,240.0,534.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,1600.0
+lineup,dat,I,A200,1,sean-gilmore,116.93,77.0,2.0,tessa-devone,126.11,49.0,3,megan-shallow,127.13,46.0
+lineup,dat,I,E200,1,noah-machristie,123.79,97.0,2.0,michael-machristie,131.19,74.0,3,rj-trampe,149.91,26.0
+lineup,dat,I,A50,1,brenden-fratto,23.36,97.0,2.0,mcdevitt-kyle,25.0,73.0,3,kyle-mcdevitt,25.4,67.0
+lineup,dat,I,D100,1,brenden-fratto,56.01,98.0,2.0,conor-gilmore,66.08,43.0,3,carly-trampe,69.67,27.0
+lineup,dat,I,A100,1,mason-dranchak,51.28,95.0,2.0,bryce-bastien,53.76,77.0,3,eli-kern,56.57,59.0
+lineup,dat,I,A500,1,noah-machristie,297.64,103.0,2.0,sean-gilmore,326.12,66.0,3,tessa-devone,357.28,33.0
+lineup,dat,I,B100,1,mason-dranchak,58.53,92.0,2.0,megan-shallow,66.56,54.0,3,hanna-machristie,68.22,47.0
+lineup,dat,I,C100,1,michael-machristie,65.97,87.0,2.0,bryce-bastien,70.39,65.0,3,rj-trampe,74.23,48.0
+relay,hdr,1380.0
+relay,RE200YM,2,mason-dranchak,michael-machristie,noah-machristie,bryce-bastien,106.27,306.0,kyle-mcdevitt,rj-trampe,eli-kern,conor-gilmore,119.85,195.0,501.0
+relay,RA200YM,2,bryce-bastien,michael-machristie,sean-gilmore,brenden-fratto,98.43,282.0,vincent-adonzio,conor-gilmore,rj-trampe,eli-kern,107.27,201.0,483.0
+relay,RA400YM,2,sean-gilmore,brenden-fratto,mason-dranchak,noah-machristie,214.05,279.0,carly-trampe,conor-gilmore,hanna-machristie,eli-kern,251.44,117.0,396.0

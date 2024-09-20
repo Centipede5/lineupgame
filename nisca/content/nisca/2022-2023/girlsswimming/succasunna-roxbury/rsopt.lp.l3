@@ -1,0 +1,13 @@
+lineup,hdr,3,1019.0
+lineup,dat,I,A200,1,isabella-dipasquale-1,125.77,81.0,2.0,grace-hill-3,128.49,72.0,3,olivia-keenan,135.93,49.0
+lineup,dat,I,E200,1,camila-gil,144.02,73.0,2.0,sophie-sanders,150.91,53.0,,,,
+lineup,dat,I,A50,1,caitlyn-kramaritsch,28.11,66.0,2.0,clara-donnelly,29.44,49.0,3,janelle-pratt,31.9,20.0
+lineup,dat,I,D100,1,isabella-dipasquale-1,64.81,83.0,2.0,camila-gil,68.56,64.0,,,,
+lineup,dat,I,A100,1,anna-anikiej,60.83,64.0,2.0,olivia-keenan,61.95,57.0,3,clara-donnelly,68.02,21.0
+lineup,dat,I,A500,1,sophie-sanders,357.28,56.0,,,,,,,,
+lineup,dat,I,B100,1,anna-anikiej,71.25,46.0,,,,,,,,
+lineup,dat,I,C100,1,grace-hill-3,74.65,80.0,2.0,nicole-callahan,81.01,50.0,3,caitlyn-kramaritsch,84.81,35.0
+relay,hdr,1032.0
+relay,RA200YF,2,grace-hill-3,anna-anikiej,olivia-keenan,isabella-dipasquale-1,113.66,240.0,janelle-pratt,sara-imanalieva,nicole-callahan,clara-donnelly,125.46,138.0,378.0
+relay,RE200YF,2,sophie-sanders,grace-hill-3,camila-gil,anna-anikiej,125.07,237.0,anna-bokor,nicole-callahan,caitlyn-kramaritsch,janelle-pratt,140.75,114.0,351.0
+relay,RA400YF,2,sophie-sanders,camila-gil,olivia-keenan,isabella-dipasquale-1,242.16,237.0,caitlyn-kramaritsch,nicole-callahan,nicole-cunha-1,clara-donnelly,279.9,66.0,303.0

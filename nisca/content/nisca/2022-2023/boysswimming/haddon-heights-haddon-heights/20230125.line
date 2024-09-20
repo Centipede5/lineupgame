@@ -1,0 +1,15 @@
+lineup,hdr,3,2500
+lineup,dat,R,RE200,1,luke-martone,jake-vassell,timothy-hannigan,nick-kipp-1,111.55,261
+lineup,dat,R,RE200,2,riley-bygott,quinn-mccann-2,andrew-campbell-5,natalie-schmidt,129.51,129
+lineup,dat,I,A200,1,luke-martone,125.69,50,2,jake-vassell,128.63,42,3,mckayla-duffy-1,152.47,0
+lineup,dat,I,E200,1,spencer-swanholm,120.78,108,2,timothy-hannigan,133.5,68,3,andrew-campbell-5,149.93,26
+lineup,dat,I,A50,1,declan-mcglynn,23.7,92,2,nick-kipp-1,24.31,83,3,graham-dubusoar,27.64,39
+lineup,dat,I,D100,1,declan-mcglynn,56.22,96,2,timothy-hannigan,59.49,77,3,riley-bygott,67.23,37
+lineup,dat,I,A100,1,spencer-swanholm,52.82,84,2,nick-kipp-1,53.75,77,3,jake-vassell,56.15,62
+lineup,dat,I,A500,1,luke-martone,346.38,44,2,andrew-campbell-5,361.54,29,3,caroline-grexa,429.68,0
+lineup,dat,R,RA200,1,spencer-swanholm,nick-kipp-1,declan-mcglynn,travis-schriber,95.96,306
+lineup,dat,R,RA200,2,jeffrey-schmidt,natalie-schmidt,quinn-mccann-2,timothy-hannigan,109.41,183
+lineup,dat,I,B100,1,jeffrey-schmidt,62.57,72,2,travis-schriber,68.91,45,3,riley-bygott,70.04,40
+lineup,dat,I,C100,1,jeffrey-schmidt,71.9,58,2,travis-schriber,74.26,47,3,addie-dillion,89.07,0
+lineup,dat,R,RA400,1,declan-mcglynn,jeffrey-schmidt,travis-schriber,spencer-swanholm,223.01,234
+lineup,dat,R,RA400,2,jake-vassell,luke-martone,graham-dubusoar,riley-bygott,252.41,111

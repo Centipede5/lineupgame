@@ -1,0 +1,13 @@
+lineup,hdr,3,2309
+lineup,dat,I,A200,1,erica-maltsev,113.15,128,2,katie-pestrichelli,115.24,120,3,keeley-rushevics,123.04,91
+lineup,dat,I,E200,1,erica-maltsev,124.61,139,2,alex-enriquez,144.47,71,3,lila-blomquist,146.3,66
+lineup,dat,I,A50,1,marisol-mattia,25.24,110,2,lea-carranza,25.58,105,3,katie-krause-1,26.32,93
+lineup,dat,I,D100,1,lila-blomquist,60.93,105,2,amanda-chau,63.06,93,3,katie-krause-1,64.59,84
+lineup,dat,I,A100,1,marisol-mattia,55.86,100,2,lea-carranza,56.05,99,3,nicolette-newsome,56.12,98
+lineup,dat,I,A500,1,katie-pestrichelli,303.75,127,2,dora-dvorkin,324.16,97,3,alex-enriquez,331.55,87
+lineup,dat,I,B100,1,amanda-chau,61.71,101,2,nicolette-newsome,65.01,80,3,crystal-chen,66.79,70
+lineup,dat,I,C100,1,claire-hegedus,71.9,94,2,dora-dvorkin,73.76,85,3,deborah-he,77.53,66
+relay,hdr,1986
+relay,RE200YF,2,amanda-chau,claire-hegedus,lila-blomquist,jenna-ali,113.97,3.4200000000000000e+02,nicolette-newsome,dora-dvorkin,lea-carranza,marisol-mattia,116.85,3.1500000000000000e+02
+relay,RA200YF,2,lea-carranza,marisol-mattia,katie-pestrichelli,erica-maltsev,100.4,3.8100000000000000e+02,heesoo-kim,jenna-ali,katie-krause-1,keeley-rushevics,105.93,3.1800000000000000e+02
+relay,RA400YF,2,keeley-rushevics,nicolette-newsome,katie-pestrichelli,erica-maltsev,222.52,3.4800000000000000e+02,lila-blomquist,jenna-ali,alex-enriquez,dora-dvorkin,233.87,2.8200000000000000e+02

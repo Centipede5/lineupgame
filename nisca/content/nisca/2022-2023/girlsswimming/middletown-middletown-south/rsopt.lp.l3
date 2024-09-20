@@ -1,0 +1,13 @@
+lineup,hdr,3,908.0
+lineup,dat,I,A200,1,emily-gallo,127.79,74.0,2.0,emma-clausen,150.59,11.0,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,jillian-nunez,29.31,51.0,2.0,samantha-lane,30.4,37.0,3,emily-pantaler,30.92,31.0
+lineup,dat,I,D100,1,amelia-obszarny,62.54,96.0,2.0,emily-gallo,68.01,67.0,3,ava-applegate,78.91,21.0
+lineup,dat,I,A100,1,amelia-obszarny,55.79,101.0,2.0,hailee-rochford,63.8,45.0,3,emma-clausen,68.17,21.0
+lineup,dat,I,A500,1,siara-celentano,336.97,80.0,2.0,isabella-gambirazio,405.87,8.0,,,,
+lineup,dat,I,B100,1,siara-celentano,64.37,84.0,2.0,hailee-rochford,71.34,45.0,3,stephanie-sisler,72.95,38.0
+lineup,dat,I,C100,1,jillian-nunez,82.76,43.0,2.0,elizabeth-smith-1,86.35,29.0,3,krista-kenney,87.01,26.0
+relay,hdr,996.0
+relay,RE200YF,2,siara-celentano,jillian-nunez,emily-gallo,amelia-obszarny,123.73,249.0,stephanie-sisler,krista-kenney,ava-applegate,samantha-lane,136.02,147.0,396.0
+relay,RA400YF,2,hailee-rochford,emily-gallo,siara-celentano,amelia-obszarny,238.63,255.0,stephanie-sisler,mackensie-moyer-1,ava-applegate,samantha-lane,284.58,48.0,303.0
+relay,RA200YF,2,hailee-rochford,emma-clausen,samantha-lane,jillian-nunez,123.57,153.0,krista-kenney,stephanie-sisler,emily-pantaler,mackensie-moyer-1,124.83,144.0,297.0

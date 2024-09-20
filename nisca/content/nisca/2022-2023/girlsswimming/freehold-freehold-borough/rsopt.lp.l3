@@ -1,0 +1,13 @@
+lineup,hdr,3,489.0
+lineup,dat,I,A200,1,lily-abbadessa,127.78,74.0,2.0,malvina-kolodziej,149.46,14.0,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,audrey-sousa,27.97,68.0,2.0,maria-dreizin,28.55,60.0,3,manrique-julianna,29.94,43.0
+lineup,dat,I,D100,1,olivia-ying,80.03,17.0,,,,,,,,
+lineup,dat,I,A100,1,lehar-mishra,63.19,49.0,2.0,prisha-jain,67.13,26.0,3,emilie-tomko,70.09,11.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,lehar-mishra,74.95,28.0,2.0,maria-dreizin,78.9,11.0,3,malvina-kolodziej,81.3,2.0
+lineup,dat,I,C100,1,prisha-jain,83.15,41.0,2.0,olivia-ying,84.3,37.0,3,layla-haddad,92.09,8.0
+relay,hdr,639.0
+relay,RA200YF,2,prisha-jain,audrey-sousa,olivia-ying,lehar-mishra,107.85,297.0,layla-haddad,madison-coble,sam-ngo,malvina-kolodziej,128.05,117.0,414.0
+relay,RE200YF,2,lehar-mishra,prisha-jain,maria-dreizin,audrey-sousa,136.46,144.0,layla-haddad,sam-ngo,olivia-ying,emilie-tomko,149.36,57.0,201.0
+relay,RA400YF,1,audrey-sousa,emilie-tomko,layla-haddad,sam-ngo,291.22,24.0,,,,,,,24.0

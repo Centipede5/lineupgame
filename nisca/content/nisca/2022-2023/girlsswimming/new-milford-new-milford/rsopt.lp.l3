@@ -1,0 +1,13 @@
+lineup,hdr,3,210.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,maya-akselrod,29.31,51.0,2.0,alexa-schmidt-1,29.26,51.0,3.0,kelly-bambach,33.46,5.0
+lineup,dat,I,D100,1,averie-lee,69.59,59.0,,,,,,,,
+lineup,dat,I,A100,,,,,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,maya-nathanson,82.43,44.0,,,,,,,,
+relay,hdr,447.0
+relay,RA200YF,1,averie-lee,alexa-schmidt-1,maya-nathanson,maya-akselrod,119.65,186.0,,,,,,,186.0
+relay,RE200YF,1,maya-akselrod,maya-nathanson,averie-lee,belinda-ein,133.89,165.0,,,,,,,165.0
+relay,RA400YF,1,averie-lee,alexa-schmidt-1,maya-nathanson,maya-akselrod,272.17,96.0,,,,,,,96.0

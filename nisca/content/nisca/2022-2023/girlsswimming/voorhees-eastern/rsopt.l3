@@ -1,0 +1,17 @@
+lineup,hdr,3,879
+lineup,dat,I,A200,1,catie-krug,148.41,16,2,natalie-sullivan,150.66,11
+lineup,dat,I,E200,1,christina-beggs,132.78,109,2,elyse-schwartz,154.9,43,3,cassie-straub,172.5,3
+lineup,dat,I,A50,1,emma-baron,27.73,72,2,karli-faraldo,29.4,49,3,samantha-levy-1,30.28,39
+lineup,dat,I,D100,1,christina-beggs,59.52,114,2,elyse-schwartz,67.42,70,3,karli-faraldo,74.86,36
+lineup,dat,I,A100,1,mattea-dieckmann,62.62,53,2,maria-hourihan,68.66,18,3,chloe-chang,70.19,10
+lineup,dat,I,A500,1,catie-krug,389.57,22,2,samantha-levy-1,407.35,6,3,natalie-sullivan,413.63,1
+lineup,dat,I,B100,1,emma-baron,66.89,69,2,lorena-jimenez,78.52,13,3,hannah-escritor,80.81,4
+lineup,dat,I,C100,1,mattea-dieckmann,77.86,64,2,chloe-chang,85.63,32,3,cassie-straub,87.36,25
+relay,hdr,837
+relay,RE200YF,2,emma-baron,mattea-dieckmann,elyse-schwartz,christina-beggs,122.86,2.5500000000000000e+02,lorena-jimenez,chloe-chang,karli-faraldo,maria-hourihan,136.8,1.4100000000000000e+02
+relay,RA200YF,2,elyse-schwartz,mattea-dieckmann,christina-beggs,emma-baron,113.47,2.4000000000000000e+02,karli-faraldo,maria-hourihan,samantha-levy-1,monica-pham,125.14,1.4100000000000000e+02
+relay,RA400YF,1,natalie-sullivan,maria-hourihan,samantha-levy-1,hannah-escritor,281.19,6.0000000000000000e+01
+relay,hdr,840
+relay,RE200YF,2,emma-baron,mattea-dieckmann,elyse-schwartz,christina-beggs,122.86,2.5500000000000000e+02,lorena-jimenez,chloe-chang,karli-faraldo,maria-hourihan,136.8,1.4100000000000000e+02
+relay,RA200YF,2,karli-faraldo,maria-hourihan,samantha-levy-1,monica-pham,125.14,1.4100000000000000e+02,julianna-ballak,chloe-chang,madeleine-siri,hannah-escritor,133.88,7.8000000000000000e+01
+relay,RA400YF,2,christina-beggs,elyse-schwartz,emma-baron,mattea-dieckmann,256.82,1.6500000000000000e+02,natalie-sullivan,maria-hourihan,samantha-levy-1,hannah-escritor,281.19,6.0000000000000000e+01

@@ -1,0 +1,13 @@
+lineup,hdr,3,2278.0
+lineup,dat,I,A200,1,daniel-guo,109.46,103.0,2.0,david-brophy,110.91,98.0,3,julian-velazquez,111.42,96.0
+lineup,dat,I,E200,1,jaiden-xu,123.45,98.0,2.0,daniel-guo,124.03,97.0,3,henry-xu,130.4,77.0
+lineup,dat,I,A50,1,jerry-liu,24.0,87.0,2.0,alex-aprikian,24.55,79.0,3,tyler-censi,24.55,79.0
+lineup,dat,I,D100,1,david-xu-1,53.86,112.0,2.0,zachary-guan,55.54,101.0,3,julian-velazquez,56.01,98.0
+lineup,dat,I,A100,1,daniel-baytin,49.59,108.0,2.0,tyler-censi,53.99,76.0,3,jerry-liu,53.95,76.0
+lineup,dat,I,A500,1,david-xu-1,296.69,104.0,2.0,david-brophy,298.25,102.0,3,jaden-jung,318.62,75.0
+lineup,dat,I,B100,1,zachary-guan,56.91,101.0,2.0,jaiden-xu,58.27,93.0,3,jaden-jung,60.71,81.0
+lineup,dat,I,C100,1,daniel-baytin,57.22,140.0,2.0,henry-xu,61.55,112.0,3,matias-da-costa,66.36,85.0
+relay,hdr,1878.0
+relay,RE200YM,2,jaiden-xu,daniel-baytin,david-xu-1,jerry-liu,101.89,348.0,jaden-jung,henry-xu,alex-aprikian,tyler-censi,108.78,285.0,633.0
+relay,RA400YM,2,julian-velazquez,david-xu-1,david-brophy,daniel-baytin,197.87,369.0,zachary-guan,jaden-jung,jaiden-xu,alex-aprikian,217.45,261.0,630.0
+relay,RA200YM,2,david-brophy,henry-xu,julian-velazquez,daniel-guo,93.64,330.0,tyler-censi,zachary-guan,alex-aprikian,jerry-liu,98.11,285.0,615.0

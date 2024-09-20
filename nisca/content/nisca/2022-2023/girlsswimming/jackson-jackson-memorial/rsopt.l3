@@ -1,0 +1,12 @@
+lineup,hdr,3,563
+lineup,dat,I,A200
+lineup,dat,I,E200,1,sophia-king-1,173.05,2,2,olesya-myrovych,173.49,1
+lineup,dat,I,A50,1,mckenna-brady,28.46,62,2,julianna-ifantis,28.77,57,3,leylo-lewis,29.96,43
+lineup,dat,I,D100,1,julianna-ifantis,71.34,51,2,elyse-brady,77.94,24
+lineup,dat,I,A100,1,riley-demuth,59.98,70,2,leylo-lewis,64.76,40,3,sophia-king-1,69.23,15
+lineup,dat,I,A500,1,natalie-darrar,399.07,14
+lineup,dat,I,B100,1,mckenna-brady,73.7,34,2,olesya-myrovych,75.95,24
+lineup,dat,I,C100,1,riley-demuth,72.51,91,2,elyse-brady,84.68,35
+relay,hdr,687
+relay,RE200YF,2,mckenna-brady,riley-demuth,elyse-brady,julianna-ifantis,126.18,2.2800000000000000e+02,olesya-myrovych,brianna-halasnik,leylo-lewis,sophia-king-1,141.64,1.0800000000000000e+02
+relay,RA200YF,2,julianna-ifantis,mckenna-brady,leylo-lewis,riley-demuth,113.6,2.4000000000000000e+02,sophia-king-1,olesya-myrovych,natalie-darrar,elizabeth-darrar,129.04,1.1100000000000000e+02

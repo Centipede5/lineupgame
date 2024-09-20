@@ -1,0 +1,15 @@
+lineup,hdr,3,1865
+lineup,dat,R,RE200,1,shreyus-vadhavkar,alex-ho-1,samhith-karpakula,timothy-wong,115.23,231
+lineup,dat,R,RE200,2,bhargav-shah,kent-hong,max-domantay,jack-wang-2,121.75,180
+lineup,dat,I,A200,1,simeon-leung,123.54,56,2,sri-srikanth,133.65,29,3,kritin-rane,147.21,0
+lineup,dat,I,E200,1,will-bashore,131.13,74,2,jack-wang-2,156.82,11,3,alan-zheng-3,170.34,0
+lineup,dat,I,A50,1,luke-weingaertner-1,25.45,66,2,timothy-wong,23.78,91,3,areeb-khan-1,31.14,3
+lineup,dat,I,D100,1,kent-hong,63.93,53,2,andy-mann-1,60.16,73,3,pranshu-agarwal,72.11,17
+lineup,dat,I,A100,1,alex-ho-1,52.43,87,2,jayden-shah,63.08,23,3,alan-zheng-3,67.52,3
+lineup,dat,I,A500,1,john-agogliati,319.02,75,2,reid-weingaertner,344.86,46,3,nayan-saini,463.6,0
+lineup,dat,R,RA200,1,andy-mann-1,simeon-leung,luke-weingaertner-1,areeb-khan-1,109.58,183
+lineup,dat,R,RA200,2,shiven-patel-1,max-lin-1,sri-srikanth,jayden-shah,122.16,93
+lineup,dat,I,B100,1,romit-kundu,67.73,49,2,shreyus-vadhavkar,71.3,36,3,bhargav-shah,63.34,68
+lineup,dat,I,C100,1,max-domantay,67.2,80,2,kritin-rane,79.72,26,3,sriven-chittamuru,76.59,38
+lineup,dat,R,RA400,1,pranshu-agarwal,jack-wang-2,shreyus-vadhavkar,john-agogliati,246.09,135
+lineup,dat,R,RA400,2,max-lin-1,alan-zheng-3,nayan-saini,andy-mann-1,273.66,39

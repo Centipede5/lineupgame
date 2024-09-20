@@ -1,0 +1,15 @@
+lineup,hdr,3,1250
+lineup,dat,R,RE200,1,aly-breikaa,gabriel-del-fierro,john-franciosi,alex-wolfe-1,113.18,246
+lineup,dat,R,RE200,2,jake-lo,liam-timbie,jerico-bambaren,nicholas-obiedzinski,140,69
+lineup,dat,I,A200,1,jacob-hernandez-7,153.41,0,2,philip-mawas,166.64,0
+lineup,dat,I,E200,1,gabriel-del-fierro,133.44,68,2,john-franciosi,153,19
+lineup,dat,I,A50,1,nicholas-obiedzinski,29,24,2,pj-brown-1,30.12,13,3,robert-brennan-1,31,4
+lineup,dat,I,D100,1,alex-wolfe-1,68.9,30,2,john-franciosi,69.95,26
+lineup,dat,I,A100,1,alex-wolfe-1,61.25,33,2,liam-timbie,62.78,25,3,jake-lo,63.53,21
+lineup,dat,I,A500,1,aly-breikaa,313.89,81,2,jerico-bambaren,436,0
+lineup,dat,R,RA200,1,owen-harris-1,nicholas-obiedzinski,pj-brown-1,jacob-hernandez-7,119,114
+lineup,dat,R,RA200,2,robert-brennan-1,jonathan-wengler-1,brent-batac,philip-mawas,140,0
+lineup,dat,I,B100,1,aly-breikaa,56,106,2,jake-lo,69,44,3,rusbells-delacruz,95,0
+lineup,dat,I,C100,1,gabriel-del-fierro,66.76,83,2,liam-timbie,80.56,23,3,owen-harris-1,86,5
+lineup,dat,R,RA400,1,gabriel-del-fierro,alex-wolfe-1,liam-timbie,aly-breikaa,226.9,216
+lineup,dat,R,RA400,2,jake-lo,nicholas-obiedzinski,owen-harris-1,jacob-hernandez-7,290,0

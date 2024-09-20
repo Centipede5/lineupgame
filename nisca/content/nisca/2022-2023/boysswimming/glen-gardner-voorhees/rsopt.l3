@@ -1,0 +1,17 @@
+lineup,hdr,3,484
+lineup,dat,I,A200,1,austin-keeth,118.23,73,2,olimpia-lake,129.82,39,3,natalie-mason,141.66,10
+lineup,dat,I,E200
+lineup,dat,I,A50,1,brendan-hanson,29.6,18,2,jaden-vega,31.35,1
+lineup,dat,I,D100,1,austin-keeth,62.51,60,2,amelia-weldon,65.98,43,3,elizabeth-hamilton,70.2,25
+lineup,dat,I,A100,1,natalie-mason,61.29,32,2,delaney-beck,63.21,23,3,owen-pierro,65.5,12
+lineup,dat,I,A500,1,olimpia-lake,347.11,43
+lineup,dat,I,B100,1,faith-hamilton,63.45,68,2,delaney-beck,76.44,18,3,madeleine-gamm,81.14,4
+lineup,dat,I,C100,1,amelia-weldon,84.58,9,2,melanie-rajewski,85.55,6
+relay,hdr,765
+relay,RE200YM,2,delaney-beck,melanie-rajewski,amelia-weldon,elizabeth-hamilton,128.23,1.3800000000000000e+02,owen-pierro,andrew-caravallo,adrian-decov,austin-keeth,131.53,1.1700000000000000e+02
+relay,RA200YM,2,brendan-hanson,kyle-litwinko,kyle-tansung,landon-socisi,99.23,2.7300000000000000e+02,faith-hamilton,austin-keeth,amelia-weldon,natalie-mason,107.22,2.0100000000000000e+02
+relay,RA400YM,2,elisa-boothe,owen-pierro,faith-del-polito,melanie-rajewski,277.01,3.0000000000000000e+01,kyle-litwinko,andrew-caravallo,adrian-decov,brendan-hanson,284.49,6.0000000000000000e+00
+relay,hdr,795
+relay,RE200YM,2,delaney-beck,melanie-rajewski,amelia-weldon,elizabeth-hamilton,128.23,1.3800000000000000e+02,elisa-boothe,madeleine-gamm,adrian-decov,faith-del-polito,152.46,6.0000000000000000e+00
+relay,RA200YM,2,brendan-hanson,kyle-litwinko,kyle-tansung,landon-socisi,99.23,2.7300000000000000e+02,faith-hamilton,austin-keeth,amelia-weldon,natalie-mason,107.22,2.0100000000000000e+02
+relay,RA400YM,2,olimpia-lake,faith-hamilton,austin-keeth,natalie-mason,243.2,1.4700000000000000e+02,elisa-boothe,owen-pierro,faith-del-polito,melanie-rajewski,277.01,3.0000000000000000e+01

@@ -1,0 +1,15 @@
+lineup,hdr,3,2013
+lineup,dat,R,RE200,1,connor-johnson-11,nicholas-iannucci,brandon-lyubarsky,cooper-moffatt,103.62,333
+lineup,dat,R,RE200,2,priyesh-mistry,finley-stevens,samuel-lau,mikey-mcgrath,134.27,99
+lineup,dat,I,A200,1,brandon-lyubarsky,118.24,73,2,nicholas-iannucci,121.75,62,3,atharv-kulkarni,158.33,0
+lineup,dat,I,E200,1,connor-johnson-11,120.75,108,2,cooper-moffatt,133.12,69,3,samuel-lau,167.21,0
+lineup,dat,I,A50,1,mikey-mcgrath,26.39,54,2,max-zigman,25.31,68,3,william-duffy,27.49,41
+lineup,dat,I,D100,1,brandon-lyubarsky,60.99,68,2,spark-yu,76.06,2,3,eric-yang,78.06,0
+lineup,dat,I,A100,1,finley-stevens,61.68,30,2,william-duffy,65.89,10,3,max-zigman,60.95,34
+lineup,dat,I,A500,1,connor-johnson-11,301,98,2,samuel-lau,412.11,0,3,charles-hilgendorff,404.95,0
+lineup,dat,R,RA200,1,william-duffy,mikey-mcgrath,max-zigman,finley-stevens,108.78,189
+lineup,dat,R,RA200,2,spark-yu,samir-saha,atharv-kulkarni,eric-yang,120.08,108
+lineup,dat,I,B100,1,cooper-moffatt,60.57,81,2,priyesh-mistry,86.53,0,3,haroon-afzal,88.26,0
+lineup,dat,I,C100,1,nicholas-iannucci,65.87,87,2,spark-yu,82.72,15,3,charles-hilgendorff,88.35,0
+lineup,dat,R,RA400,1,brandon-lyubarsky,cooper-moffatt,nicholas-iannucci,connor-johnson-11,213.5,282
+lineup,dat,R,RA400,2,mikey-mcgrath,max-zigman,samuel-lau,finley-stevens,255.01,102

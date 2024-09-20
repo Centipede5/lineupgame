@@ -1,0 +1,12 @@
+lineup,hdr,3,505
+lineup,dat,I,A200
+lineup,dat,I,E200,1,alexandra-nozhenko,141.93,79
+lineup,dat,I,A50,1,marissa-losonczy,26.19,95,2,valeria-ageeva,29.55,48,3,isabella-lubczenko,30.24,39
+lineup,dat,I,D100,1,marissa-losonczy,64.54,85,2,alexandra-nozhenko,68.22,66,3,anisa-matos,81.77,11
+lineup,dat,I,A100,1,valeria-ageeva,68.39,19,2,isabella-lubczenko,70.14,10
+lineup,dat,I,A500
+lineup,dat,I,B100,1,anisa-matos,71.8,43,2,natalie-ramos-1,80.54,5
+lineup,dat,I,C100,1,lyna-baal,93.01,5
+relay,hdr,696
+relay,RE200YF,2,michelle-lin-2,traecy-cena,alyssa-palomino,valeria-ageeva,119.14,2.9100000000000000e+02,anisa-matos,alexandra-nozhenko,marissa-losonczy,isabella-lubczenko,140.94,1.1400000000000000e+02
+relay,RA200YF,2,marissa-losonczy,natalie-ramos-1,valeria-ageeva,alexandra-nozhenko,117.05,2.0700000000000000e+02,anisa-matos,giselle-rosales,arianna-torres-2,isabella-lubczenko,132.74,8.4000000000000000e+01

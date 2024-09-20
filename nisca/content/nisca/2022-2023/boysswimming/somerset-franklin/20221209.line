@@ -1,0 +1,14 @@
+lineup,hdr,3,990
+lineup,dat,R,RE200,1,kris-rao,varun-krishna,matthew-menotti,maheep-singh,119.21,198
+lineup,dat,R,RE200,2,ethan-anthony,elijah-zavatsky,john-ward-653850,algirdas-simoliunas,141.26,60
+lineup,dat,I,A200,1,andrew-van-beveren,138.43,17,2,kelson-lowrie,133.53,29
+lineup,dat,I,E200,1,varun-krishna,143.69,41,2,kris-rao,156.56,12
+lineup,dat,I,A50,1,matthew-menotti,22.57,110,2,john-ward-653850,38.79,0
+lineup,dat,I,D100,1,elijah-zavatsky,75.02,6
+lineup,dat,I,A100,1,matthew-menotti,50.88,98,2,ethan-anthony,60.06,39
+lineup,dat,I,A500,1,andrew-van-beveren,394.32,0,2,kelson-lowrie,416.78,0
+lineup,dat,R,RA200,1,maheep-singh,kris-rao,matthew-menotti,varun-krishna,106.58,207
+lineup,dat,R,RA200,2,algirdas-simoliunas,john-ward-653850,aarush-rai,om-hatalkar,134.57,21
+lineup,dat,I,B100,1,kris-rao,64.38,63,2,ethan-anthony,73.59,28
+lineup,dat,I,C100,1,varun-krishna,71.94,58,2,elijah-zavatsky,86.62,3
+lineup,dat,R,RA400,1,john-ward-653850,algirdas-simoliunas,elijah-zavatsky,aarush-rai,296.71,0

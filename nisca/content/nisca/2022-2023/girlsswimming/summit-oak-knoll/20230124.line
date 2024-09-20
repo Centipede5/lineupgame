@@ -1,0 +1,13 @@
+lineup,hdr,3,403
+lineup,dat,R,RE200,1,elizabeth-rogers,desiree-mitchell-1,mollie-ritter,keira-ardise,160.49,0
+lineup,dat,I,A200,1,sarah-maher-1,177.25,0,2,scarlett-mahoney,174.23,0,3,kate-mccaffrey,190.07,0
+lineup,dat,I,E200,1,clara-vales,173.98,0
+lineup,dat,I,A50,1,elizabeth-rogers,32.11,18,2,ava-tiscornia,28.42,62,3,mollie-ritter,30.54,36
+lineup,dat,I,D100
+lineup,dat,I,A100,1,desiree-mitchell-1,87.68,0,2,mollie-ritter,71.59,3,3,anne-egan,97.8,0
+lineup,dat,I,A500,1,keira-ardise,505.51,0,2,iman-ali,349.49,65
+lineup,dat,R,RA200,1,mollie-ritter,elizabeth-rogers,scarlett-mahoney,anne-egan,127.86,120
+lineup,dat,R,RA200,2,sarah-maher-1,desiree-mitchell-1,anne-egan,mackenzie-motroni,155.51,0
+lineup,dat,I,B100,1,iman-ali,68.09,62,2,elizabeth-rogers,86.65,0,3,sarah-maher-1,99.93,0
+lineup,dat,I,C100,1,clara-vales,89.3,18,2,mackenzie-motroni,88.99,19,3,kate-mccaffrey,99.69,0
+lineup,dat,R,RA400,1,scarlett-mahoney,keira-ardise,clara-vales,iman-ali,304.67,0

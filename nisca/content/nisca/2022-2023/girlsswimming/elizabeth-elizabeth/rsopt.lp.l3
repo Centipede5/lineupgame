@@ -1,0 +1,12 @@
+lineup,hdr,3,383.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,maria-medranda,28.34,63.0,2.0,joyce-naguib,28.83,57.0,3,nagwa-elbadawi,33.58,3.0
+lineup,dat,I,D100,1,sara-ocampo-garcia,66.31,75.0,,,,,,,,
+lineup,dat,I,A100,1,joyce-naguib,66.09,32.0,2.0,sofia-lopez-duque,68.58,18.0,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,sofia-lopez-duque,67.2,67.0,,,,,,,,
+lineup,dat,I,C100,1,maria-medranda,85.14,33.0,2.0,shayna-allen,88.05,22.0,3,sara-ocampo-garcia,90.74,13.0
+relay,hdr,450.0
+relay,RA200YF,2,maria-medranda,sofia-lopez-duque,sara-ocampo-garcia,joyce-naguib,118.0,198.0,nagwa-elbadawi,jayla-santiago,annie-tassi,keisha-henriquez-frias,138.8,45.0,243.0
+relay,RE200YF,2,sofia-lopez-duque,maria-medranda,sara-ocampo-garcia,joyce-naguib,137.12,141.0,scarlet-pineda,shayna-allen,alejandra-maldonado,keisha-henriquez-frias,147.88,66.0,207.0

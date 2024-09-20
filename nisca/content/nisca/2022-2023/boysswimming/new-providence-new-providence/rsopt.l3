@@ -1,0 +1,13 @@
+lineup,hdr,3,1532
+lineup,dat,I,A200,1,louis-conlin,118.97,70,2,sebastian-mercado-3,123.52,57,3,sean-mannion,128.96,41
+lineup,dat,I,E200,1,richard-fadeev,124.49,95,2,louis-conlin,130.9,75,3,john-pitarresi,131.44,74
+lineup,dat,I,A50,1,van-lawler,24.31,83,2,caden-xu,25.34,68,3,quinten-mack,27.57,40
+lineup,dat,I,D100,1,vincent-terzo,55.72,100,2,sean-mannion,62.97,58,3,benedict-gullo,64.31,51
+lineup,dat,I,A100,1,van-lawler,50.79,99,2,dylan-mangel,58.38,48,3,rian-arora,59.25,43
+lineup,dat,I,A500,1,vincent-terzo,302.05,97,2,sebastian-mercado-3,330.2,62,3,mark-alexandrov,369.12,22
+lineup,dat,I,B100,1,richard-fadeev,55.17,111,2,alek-rodrigues-loureiro,65.3,59,3,dylan-mangel,69.4,43
+lineup,dat,I,C100,1,john-pitarresi,70.55,64,2,ryan-knight,76.84,37,3,kieran-kavanagh,77.47,35
+relay,hdr,1260
+relay,RE200YM,2,richard-fadeev,john-pitarresi,vincent-terzo,louis-conlin,105.94,3.0900000000000000e+02,rian-arora,ryan-knight,sean-mannion,quinten-mack,122.45,1.7700000000000000e+02
+relay,RA200YM,2,van-lawler,john-pitarresi,louis-conlin,richard-fadeev,97.5,2.9100000000000000e+02,rian-arora,zeon-gogoi,chase-yarnall,dylan-mangel,110.46,1.7700000000000000e+02
+relay,RA400YM,2,sebastian-mercado-3,vincent-terzo,dylan-mangel,rian-arora,231.27,1.9800000000000000e+02,kieran-kavanagh,andrew-gullo,quinten-mack,van-lawler,253.7,1.0800000000000000e+02

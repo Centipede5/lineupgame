@@ -1,0 +1,13 @@
+lineup,hdr,3,969.0
+lineup,dat,I,A200,1,brandon-lyubarsky,118.24,73.0,2.0,finley-stevens,136.5,22.0,,,,
+lineup,dat,I,E200,1,connor-johnson-11,120.75,108.0,2.0,nicholas-iannucci,131.38,74.0,3,cooper-moffatt,133.12,69.0
+lineup,dat,I,A50,1,max-zigman,25.31,68.0,2.0,mikey-mcgrath,26.39,54.0,3,william-duffy,27.49,41.0
+lineup,dat,I,D100,1,connor-johnson-11,55.57,101.0,2.0,samuel-lau,75.54,4.0,3,spark-yu,76.06,2.0
+lineup,dat,I,A100,1,brandon-lyubarsky,53.7,78.0,2.0,max-zigman,60.95,34.0,3,william-duffy,65.89,10.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,cooper-moffatt,60.57,81.0,2.0,charles-hilgendorff,81.06,4.0,,,,
+lineup,dat,I,C100,1,nicholas-iannucci,65.87,87.0,2.0,finley-stevens,75.14,44.0,3,spark-yu,82.72,15.0
+relay,hdr,1107.0
+relay,RE200YM,2,connor-johnson-11,nicholas-iannucci,brandon-lyubarsky,cooper-moffatt,103.62,333.0,mikey-mcgrath,spark-yu,eric-yang,haroon-afzal,137.65,81.0,414.0
+relay,RA400YM,2,brandon-lyubarsky,cooper-moffatt,nicholas-iannucci,connor-johnson-11,213.5,282.0,mikey-mcgrath,max-zigman,samuel-lau,finley-stevens,255.01,102.0,384.0
+relay,RA200YM,2,william-duffy,mikey-mcgrath,max-zigman,finley-stevens,108.78,189.0,eric-yang,samir-saha,atharv-kulkarni,haroon-afzal,117.95,120.0,309.0

@@ -1,0 +1,15 @@
+lineup,hdr,3,2259
+lineup,dat,R,RE200,1,pavel-sverdlov,armaan-desai,joseph-genovesi-1,tyler-mac-1,113.71,243
+lineup,dat,R,RE200,2,matteo-piccarillo,colin-subhan,jonah-corveleyn,andrew-yadamiec,125.55,153
+lineup,dat,I,A200,1,alexander-helmrich,114.5,85,2,joseph-genovesi-1,144.93,3,3,andrew-yadamiec,140.16,13
+lineup,dat,I,E200,1,alexander-nicolai,130.04,78,2,colin-subhan,143.77,40,3,pavel-sverdlov,154.82,15
+lineup,dat,I,A50,1,armaan-desai,25.94,60,2,jonah-corveleyn,26.11,58,3,matthew-helmrich,26.26,56
+lineup,dat,I,D100,1,alexander-nicolai,56.14,97,2,james-damron,63.83,53,3,colin-subhan,68.72,31
+lineup,dat,I,A100,1,alexander-helmrich,51.38,94,2,andrew-yadamiec,57.48,54,3,jonah-corveleyn,59.19,44
+lineup,dat,I,A500,1,tyler-mac-1,340.6,50,2,james-damron,352.86,38,3,pavel-sverdlov,383.05,10
+lineup,dat,R,RA200,1,alexander-helmrich,alexander-nicolai,andrew-yadamiec,james-damron,100.83,258
+lineup,dat,R,RA200,2,jonah-corveleyn,joseph-genovesi-1,armaan-desai,matthew-helmrich,104.39,225
+lineup,dat,I,B100,1,tyler-mac-1,61.37,77,2,matthew-helmrich,70,40,3,declan-kavanaugh,88.37,0
+lineup,dat,I,C100,1,armaan-desai,71.84,58,2,joseph-genovesi-1,79.12,28,3,joshua-rheinhardt,83.49,13
+lineup,dat,R,RA400,1,alexander-nicolai,alexander-helmrich,tyler-mac-1,colin-subhan,218.5,258
+lineup,dat,R,RA400,2,harry-defillipi,joshua-rheinhardt,declan-kavanaugh,owen-wemple,277.42,27

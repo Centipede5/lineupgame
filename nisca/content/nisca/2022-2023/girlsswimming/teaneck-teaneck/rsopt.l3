@@ -1,0 +1,13 @@
+lineup,hdr,3,256
+lineup,dat,I,A200
+lineup,dat,I,E200,1,abby-ortiz,152.34,50
+lineup,dat,I,A50,1,ruby-fricker,29.44,49,2,jiselle-muniz,29.44,49,3,denise-vidola,33.25,7
+lineup,dat,I,D100,1,ruby-fricker,73.2,43
+lineup,dat,I,A100
+lineup,dat,I,A500,1,abby-ortiz,375.51,36
+lineup,dat,I,B100,1,rowan-wouters,77.04,19
+lineup,dat,I,C100,1,maggie-tadiello,93.65,3
+relay,hdr,207
+relay,RE200YF,1,rowan-wouters,maggie-tadiello,ruby-fricker,abby-ortiz,140.71,1.1400000000000000e+02
+relay,RA200YF,1,denise-vidola,emily-suriel,maggie-tadiello,tashi-chotso,139.61,3.9000000000000000e+01
+relay,RA400YF,1,ruby-fricker,emily-suriel,abby-ortiz,rowan-wouters,283.32,5.4000000000000000e+01

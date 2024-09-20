@@ -1,0 +1,15 @@
+lineup,hdr,3,1297
+lineup,dat,R,RE200,1,temmie-yu,julia-weir,casey-mclaughlin,lily-huggard,122.92,255
+lineup,dat,R,RE200,2,cameron-burns-3,sophia-episcopo,katie-obssuth,samantha-langella,153.93,30
+lineup,dat,I,A200,1,megan-weir,149.28,14,2,arden-dowd,146.57,21,3,cameron-burns-3,163.69,0
+lineup,dat,I,E200,1,temmie-yu,151.5,52,2,casey-mclaughlin,135.88,98,3,samantha-langella,184.79,0
+lineup,dat,I,A50,1,lily-huggard,27.26,78,2,julia-weir,28.03,67,3,katie-obssuth,30.14,40
+lineup,dat,I,D100,1,erin-shin,84.87,0,2,casey-mclaughlin,60.27,109
+lineup,dat,I,A100,1,lily-huggard,62,57,2,julia-weir,60.27,68,3,arden-dowd,64.95,39
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,arden-dowd,lily-huggard,julia-weir,casey-mclaughlin,116.53,210
+lineup,dat,R,RA200,2,katie-obssuth,erin-shin,samantha-langella,megan-weir,136.41,60
+lineup,dat,I,B100,1,lily-kriz,102.57,0,2,temmie-yu,70.34,50,3,kathryn-alliegro,103.02,0
+lineup,dat,I,C100,1,cameron-burns-3,93.16,5,2,megan-weir,83.5,40,3,sophia-episcopo,93.31,4
+lineup,dat,R,RA400,1,arden-dowd,megan-weir,cameron-burns-3,temmie-yu,297.75,0
+lineup,dat,R,RA400,2,kathryn-alliegro,samantha-langella,sophia-episcopo,katie-obssuth,346.13,0

@@ -1,0 +1,13 @@
+lineup,hdr,3,1870.0
+lineup,dat,I,A200,1,jack-glynn,117.13,76.0,2.0,jonathan-tom,123.12,58.0,3,soyo-funada,124.53,54.0
+lineup,dat,I,E200,1,patrick-glynn,130.68,76.0,2.0,brandon-ho-1,130.69,76.0,3,aaron-nam,133.21,68.0
+lineup,dat,I,A50,1,michael-granin,22.09,119.0,2.0,cameron-fischer,24.44,81.0,3,hayes-williams,25.19,70.0
+lineup,dat,I,D100,1,sam-skibo,52.63,121.0,2.0,aaron-nam,56.91,92.0,3,peter-lambert,61.34,66.0
+lineup,dat,I,A100,1,michael-granin,48.78,115.0,2.0,nathan-colosimo,53.38,80.0,3,soyo-funada,54.46,73.0
+lineup,dat,I,A500,1,jack-glynn,315.08,80.0,2.0,peter-lambert,326.27,66.0,3,jonathan-tom,335.32,56.0
+lineup,dat,I,B100,1,sam-skibo,57.07,100.0,2.0,nathan-colosimo,62.5,72.0,3,michael-cheng-1,66.33,55.0
+lineup,dat,I,C100,1,brandon-ho-1,66.31,85.0,2.0,patrick-glynn,69.55,69.0,3,bruce-dickson,70.95,62.0
+relay,hdr,1569.0
+relay,RE200YM,2,sam-skibo,nathan-colosimo,brandon-ho-1,michael-granin,105.2,318.0,michael-cheng-1,patrick-glynn,soyo-funada,cameron-fischer,113.27,246.0,564.0
+relay,RA200YM,2,soyo-funada,brandon-ho-1,patrick-glynn,jack-glynn,99.29,273.0,hayes-williams,cameron-fischer,bruce-dickson,jonathan-tom,103.64,234.0,507.0
+relay,RA400YM,2,jack-glynn,nathan-colosimo,sam-skibo,michael-granin,210.25,300.0,jonathan-tom,peter-lambert,hayes-williams,cameron-fischer,231.51,198.0,498.0

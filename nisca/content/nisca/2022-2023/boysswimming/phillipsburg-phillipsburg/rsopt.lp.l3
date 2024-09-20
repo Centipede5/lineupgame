@@ -1,0 +1,13 @@
+lineup,hdr,3,1273.0
+lineup,dat,I,A200,1,austin-olexa,120.01,67.0,,,,,,,,
+lineup,dat,I,E200,1,nicholas-berger,123.5,98.0,2.0,kevin-mendez-avila,131.91,72.0,,,,
+lineup,dat,I,A50,1,isaiah-pierre,22.01,120.0,2.0,kyle-vieira-1,23.66,92.0,3,lucas-lau-1,28.28,32.0
+lineup,dat,I,D100,1,jack-drake,52.62,121.0,2.0,colin-smith-7,62.2,62.0,,,,
+lineup,dat,I,A100,1,jack-drake,47.63,124.0,2.0,nicholas-berger,49.5,109.0,3,kyle-vieira-1,55.26,67.0
+lineup,dat,I,A500,1,austin-olexa,333.76,58.0,2.0,kevin-mendez-avila,393.09,1.0,,,,
+lineup,dat,I,B100,1,ethan-henry,62.15,74.0,2.0,colin-smith-7,65.98,57.0,,,,
+lineup,dat,I,C100,1,ethan-henry,62.34,107.0,2.0,cameron-johnson-547087,83.63,12.0,,,,
+relay,hdr,1257.0
+relay,RA200YM,2,kyle-vieira-1,nicholas-berger,ethan-henry,jack-drake,91.75,351.0,samir-bailey,vincent-todd,joshua-rojas,isaiah-pierre,104.17,228.0,579.0
+relay,RE200YM,2,ethan-henry,nicholas-berger,jack-drake,kyle-vieira-1,103.1,336.0,colin-smith-7,austin-olexa,kevin-mendez-avila,isaiah-pierre,120.7,189.0,525.0
+relay,RA400YM,2,colin-smith-7,kevin-mendez-avila,isaiah-pierre,austin-olexa,245.26,138.0,lucas-lau-1,vincent-todd,joshua-rojas,cameron-johnson-547087,281.86,15.0,153.0

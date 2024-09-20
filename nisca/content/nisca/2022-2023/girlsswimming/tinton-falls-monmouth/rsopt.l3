@@ -1,0 +1,13 @@
+lineup,hdr,3,647
+lineup,dat,I,A200
+lineup,dat,I,E200,1,elisabeth-weiss,145.94,67,2,allison-nickerson,147.84,62
+lineup,dat,I,A50,1,ashley-smith,27.68,72,2,alexa-vassor,27.93,69,3,kaitlin-hintelmann,32.47,14
+lineup,dat,I,D100,1,allison-nickerson,63.91,88
+lineup,dat,I,A100,1,ashley-smith,60.36,67,2,alexa-vassor,63.19,49,3,julia-basch,68.48,19
+lineup,dat,I,A500,1,elisabeth-weiss,346.19,69
+lineup,dat,I,B100
+lineup,dat,I,C100,1,julia-basch,76.55,71
+relay,hdr,570
+relay,RE200YF,1,alexa-vassor,elisabeth-weiss,allison-nickerson,ashley-smith,118.33,3.0000000000000000e+02
+relay,RA200YF,1,kaitlin-hintelmann,hadarah-deabreu,andreina-chipana,julia-basch,135.28,6.6000000000000000e+01
+relay,RA400YF,1,allison-nickerson,alexa-vassor,ashley-smith,elisabeth-weiss,248.25,2.0400000000000000e+02

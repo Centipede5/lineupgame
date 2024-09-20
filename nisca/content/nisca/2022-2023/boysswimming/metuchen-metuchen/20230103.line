@@ -1,0 +1,14 @@
+lineup,hdr,3,1709
+lineup,dat,R,RE200,1,jason-ma-2,mason-liu-1,andreas-dascula,jacob-blum,112.75,249
+lineup,dat,I,A200,1,steven-samome,118.97,70,2,chris-devizio,135.94,23,3,jacob-blum,155.94,0
+lineup,dat,I,E200,1,mason-liu-1,135.83,61,2,thomas-piovoso,143.65,41
+lineup,dat,I,A50,1,jason-ma-2,24.06,86,2,jacob-blum,28.34,31
+lineup,dat,I,D100,1,andreas-dascula,58.59,82,2,jayden-londono,78.08,0,3,cedric-lee,86,0
+lineup,dat,I,A100,1,steven-samome,52.59,85,2,carsen-tramontin-1,59.17,44,3,harrison-henryoreilly,80,0
+lineup,dat,I,A500,1,andreas-dascula,334.24,57,2,carsen-tramontin-1,389,5,3,chris-devizio,390,4
+lineup,dat,R,RA200,1,carsen-tramontin-1,thomas-piovoso,steven-samome,jacob-blum,98.85,276
+lineup,dat,R,RA200,2,jayden-londono,cedric-lee,harrison-henryoreilly,chris-devizio,130.57,42
+lineup,dat,I,B100,1,jason-ma-2,57.08,100,2,cedric-lee,93,0,3,jayden-londono,91.33,0
+lineup,dat,I,C100,1,mason-liu-1,66.56,84,2,thomas-piovoso,76.97,36,3,harrison-henryoreilly,88.32,0
+lineup,dat,R,RA400,1,steven-samome,andreas-dascula,mason-liu-1,jason-ma-2,204,333
+lineup,dat,R,RA400,2,thomas-piovoso,jayden-londono,cedric-lee,carsen-tramontin-1,296,0

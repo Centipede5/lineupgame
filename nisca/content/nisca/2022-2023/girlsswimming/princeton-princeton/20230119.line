@@ -1,0 +1,15 @@
+lineup,hdr,3,3120
+lineup,dat,R,RE200,1,sabine-ristad,courtney-weber-1,lauren-girouard,annie-zhao-1,115.84,324
+lineup,dat,R,RE200,2,annie-flanagan,jessica-hull,jessie-wang-1,suri-skomra,123.36,252
+lineup,dat,I,A200,1,rachel-mcinerney,131.06,64,2,julia-godfrey,136.76,47,3,nora-chen,135.86,50
+lineup,dat,I,E200,1,courtney-weber-1,134.87,101,2,lola-jimenez,152.16,50,3,emma-liu,165.57,18
+lineup,dat,I,A50,1,suri-skomra,27.01,82,2,nora-chen,27.87,70,3,emily-walden,29.38,50
+lineup,dat,I,D100,1,lauren-girouard,60.65,107,2,jessie-wang-1,61.51,102,3,julia-godfrey,69.11,61
+lineup,dat,I,A100,1,annie-flanagan,55.5,103,2,annie-zhao-1,55.31,105,3,courtney-weber-1,57.58,87
+lineup,dat,I,A500,1,jessie-wang-1,324.5,97,2,sabine-ristad,325.91,95,3,rachel-mcinerney,345.48,70
+lineup,dat,R,RA200,1,suri-skomra,rachel-mcinerney,nora-chen,annie-zhao-1,117.36,204
+lineup,dat,R,RA200,2,lola-jimenez,julia-godfrey,emma-liu,emily-walden,136.33,60
+lineup,dat,I,B100,1,annie-flanagan,63.57,89,2,lauren-girouard,64.13,85,3,sabine-ristad,64.15,85
+lineup,dat,I,C100,1,annie-zhao-1,70.01,105,2,lola-jimenez,76.98,69,3,jessica-hull,82.59,44
+lineup,dat,R,RA400,1,lauren-girouard,sabine-ristad,jessie-wang-1,annie-flanagan,235.02,276
+lineup,dat,R,RA400,2,julia-godfrey,emma-liu,nora-chen,rachel-mcinerney,256.22,168

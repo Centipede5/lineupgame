@@ -1,0 +1,16 @@
+lineup,hdr,3,510
+lineup,dat,I,A200,1,leo-mccormick,125.71,50
+lineup,dat,I,E200
+lineup,dat,I,A50,1,noah-wadih,26.84,48,2,marlon-bravo-1,27.5,41,3,michael-greco-1,28.34,31
+lineup,dat,I,D100,1,justin-risco-1,66.91,39
+lineup,dat,I,A100,1,lance-zeligson,58.08,50,2,noah-wadih,59.28,43,3,marlon-bravo-1,65.68,11
+lineup,dat,I,A500,1,leo-mccormick,333.79,58
+lineup,dat,I,B100,1,justin-risco-1,65.47,59,2,michael-greco-1,75.87,20
+lineup,dat,I,C100,1,lance-zeligson,73.63,50,2,cooper-niculescu,84.46,10
+relay,hdr,570
+relay,RE200YM,2,justin-risco-1,lance-zeligson,leo-mccormick,noah-wadih,119.37,1.9800000000000000e+02,marlon-bravo-1,cooper-niculescu,michael-greco-1,kourosh-karimi,135.22,9.3000000000000000e+01
+relay,RA200YM,2,michael-greco-1,justin-risco-1,noah-wadih,lance-zeligson,106.9,2.0400000000000000e+02,byron-alvarez,kourosh-karimi,marlon-bravo-1,cooper-niculescu,124.93,7.5000000000000000e+01
+relay,hdr,597
+relay,RE200YM,2,justin-risco-1,lance-zeligson,leo-mccormick,noah-wadih,119.37,1.9800000000000000e+02,marlon-bravo-1,cooper-niculescu,michael-greco-1,kourosh-karimi,135.22,9.3000000000000000e+01
+relay,RA200YM,1,kourosh-karimi,cooper-niculescu,michael-greco-1,marlon-bravo-1,117.5,1.2300000000000000e+02
+relay,RA400YM,1,noah-wadih,justin-risco-1,leo-mccormick,lance-zeligson,234.38,1.8300000000000000e+02

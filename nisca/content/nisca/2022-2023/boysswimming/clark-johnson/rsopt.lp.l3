@@ -1,0 +1,13 @@
+lineup,hdr,3,488.0
+lineup,dat,I,A200,1,jakub-szulimowski,117.66,75.0,2.0,kaitlyn-oneil-1,128.44,43.0,3,kathleen-oneill-1,137.88,19.0
+lineup,dat,I,E200,1,alex-martino,150.91,24.0,2.0,isabella-lopez-2,153.28,19.0,,,,
+lineup,dat,I,A50,1,jayden-birnbaum,28.49,29.0,2.0,ryan-wojciechowski,30.07,13.0,,,,
+lineup,dat,I,D100,1,robert-rooney,69.2,29.0,,,,,,,,
+lineup,dat,I,A100,1,jakub-szulimowski,52.31,87.0,2.0,alex-martino,61.1,33.0,,,,
+lineup,dat,I,A500,1,leanne-dailey,370.46,21.0,,,,,,,,
+lineup,dat,I,B100,1,kaitlyn-oneil-1,76.81,17.0,2.0,ryan-wojciechowski,78.33,12.0,,,,
+lineup,dat,I,C100,1,cesar-rodriquez,75.22,43.0,2.0,leanne-dailey,82.19,17.0,3,kathleen-oneill-1,85.32,7.0
+relay,hdr,537.0
+relay,RE200YM,2,leanne-dailey,cesar-rodriquez,robert-rooney,alex-martino,123.38,168.0,kathleen-oneill-1,jayden-birnbaum,isabella-lopez-2,dean-warnick,132.56,111.0,279.0
+relay,RA200YM,1,ryan-wojciechowski,robert-rooney,cesar-rodriquez,leanne-dailey,115.35,138.0,,,,,,,138.0
+relay,RA400YM,1,jakub-szulimowski,robert-rooney,kaitlyn-oneil-1,alex-martino,250.29,120.0,,,,,,,120.0

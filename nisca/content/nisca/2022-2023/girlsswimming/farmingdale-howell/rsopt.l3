@@ -1,0 +1,12 @@
+lineup,hdr,3,323
+lineup,dat,I,A200,1,lyla-turtle,139.84,38
+lineup,dat,I,E200,1,meghan-shastri,172.95,2
+lineup,dat,I,A50,1,sofia-chapins,27.34,77,2,bridget-giery,32.29,16,3,danielle-vogal,32.59,13
+lineup,dat,I,D100,1,sophia-dobrin,82.41,8
+lineup,dat,I,A100,1,lyla-turtle,64.14,43,2,sophia-dobrin,69.69,13
+lineup,dat,I,A500
+lineup,dat,I,B100,1,sofia-chapins,66,74,2,julia-zwiercan,77.13,19
+lineup,dat,I,C100,1,sofia-gallo,90.8,13,2,meghan-shastri,92.45,7
+relay,hdr,417
+relay,RE200YF,2,lyla-turtle,sofia-gallo,bridget-giery,sofia-chapins,137.77,1.3500000000000000e+02,julia-zwiercan,julia-bronfruen,sophia-dobrin,alison-mackey,153.04,3.6000000000000000e+01
+relay,RA200YF,2,sofia-chapins,bridget-giery,meghan-shastri,lyla-turtle,120.68,1.7700000000000000e+02,sofia-gallo,sophia-dobrin,alison-mackey,julia-zwiercan,134.83,6.9000000000000000e+01

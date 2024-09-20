@@ -1,0 +1,15 @@
+lineup,hdr,3,1402
+lineup,dat,R,RE200,1,logan-pfarrer,andrew-macallaro,roey-paglingayen,zachary-joyal-1,113.21,246
+lineup,dat,R,RE200,2,john-ferdinandi,jude-maute,syon-gupta,raj-pahilwani,139,72
+lineup,dat,I,A200,1,syon-gupta,177,0,2,roey-paglingayen,123.15,58,3,morgan-wrobel,149.4,0
+lineup,dat,I,E200,1,andrew-macallaro,148.38,30,2,zachary-joyal-1,143,42
+lineup,dat,I,A50,1,logan-pfarrer,25.55,65,2,connor-bourdon,25.18,70,3,raj-pahilwani,37.44,0
+lineup,dat,I,D100,1,syon-gupta,72.15,17,2,roey-paglingayen,60.22,73
+lineup,dat,I,A100,1,timothy-lee-2,59.23,44,2,connor-bourdon,58.22,49,3,morgan-wrobel,67.91,1
+lineup,dat,I,A500,1,zachary-joyal-1,330.69,61,2,jude-maute,356.74,34
+lineup,dat,R,RA200,1,logan-pfarrer,connor-bourdon,andrew-macallaro,roey-paglingayen,105.25,219
+lineup,dat,R,RA200,2,timothy-lee-2,raj-pahilwani,morgan-wrobel,syon-gupta,129.25,51
+lineup,dat,I,B100,1,john-ferdinandi,79.84,8,2,jude-maute,75.77,20
+lineup,dat,I,C100,1,timothy-lee-2,82.82,15,2,andrew-macallaro,73.78,50
+lineup,dat,R,RA400,1,john-ferdinandi,raj-pahilwani,morgan-wrobel,jude-maute,310.5,0
+lineup,dat,R,RA400,2,logan-pfarrer,timothy-lee-2,connor-bourdon,zachary-joyal-1,235.9,177

@@ -1,0 +1,13 @@
+lineup,hdr,3,1120.0
+lineup,dat,I,A200,1,jake-demian,118.11,73.0,2.0,agustin-callegari,142.26,9.0,3,ameya-keertikar,142.86,7.0
+lineup,dat,I,E200,1,mateo-callegari,135.4,62.0,2.0,jake-demian,154.77,15.0,,,,
+lineup,dat,I,A50,1,rahil-shiraz,23.52,95.0,2.0,jonathan-ventura-1,26.76,49.0,3,justin-kecskes,26.91,48.0
+lineup,dat,I,D100,1,max-peterson,51.42,130.0,2.0,mateo-callegari,60.05,73.0,3,jeremy-sanchez,75.76,3.0
+lineup,dat,I,A100,1,aidan-ablai,52.86,84.0,2.0,jonathan-kecskes,63.05,23.0,3,jonathan-ventura-1,63.09,23.0
+lineup,dat,I,A500,1,max-peterson,281.2,127.0,2.0,brendan-lach,325.08,68.0,3,agustin-callegari,368.98,22.0
+lineup,dat,I,B100,1,brendan-lach,64.81,62.0,2.0,rahil-shiraz,64.65,62.0,3,jonathan-kecskes,76.14,19.0
+lineup,dat,I,C100,1,aidan-ablai,73.18,52.0,2.0,justin-kecskes,83.07,14.0,,,,
+relay,hdr,996.0
+relay,RA200YM,2,brendan-lach,jonathan-ventura-1,aidan-ablai,max-peterson,101.29,255.0,justin-kecskes,jeremy-sanchez,jake-demian,agustin-callegari,115.32,138.0,393.0
+relay,RE200YM,2,brendan-lach,justin-kecskes,mateo-callegari,rahil-shiraz,116.75,219.0,jonathan-kecskes,jeremy-sanchez,jake-demian,jonathan-ventura-1,136.61,87.0,306.0
+relay,RA400YM,2,rahil-shiraz,mateo-callegari,aidan-ablai,max-peterson,216.53,267.0,ameya-keertikar,marko-alimpijevic,jeremy-sanchez,jonathan-kecskes,276.86,30.0,297.0

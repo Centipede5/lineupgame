@@ -1,0 +1,13 @@
+lineup,hdr,3,620.0
+lineup,dat,I,A200,1,nicholas-smith-499020,127.44,45.0,2.0,ayden-loebell,129.87,39.0,3,cailyn-plews,140.94,12.0
+lineup,dat,I,E200,1,brian-long-548631,128.19,83.0,2.0,jordan-connor,152.27,21.0,,,,
+lineup,dat,I,A50,1,logan-depoder,28.3,32.0,2.0,benjamin-quandt,28.28,32.0,3,tyler-williamson,28.64,28.0
+lineup,dat,I,D100,1,wade-billings,58.27,84.0,,,,,,,,
+lineup,dat,I,A100,1,luke-korenak,57.88,51.0,2.0,nicholas-smith-499020,58.03,50.0,3,benjamin-quandt,64.77,15.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,brian-long-548631,62.15,74.0,2.0,ayden-loebell,69.18,44.0,,,,
+lineup,dat,I,C100,1,michael-kazmar,85.57,6.0,2.0,jordan-connor,86.27,4.0,,,,
+relay,hdr,924.0
+relay,RE200YM,2,ayden-loebell,brian-long-548631,wade-billings,luke-korenak,112.98,249.0,cailyn-plews,jordan-connor,logan-depoder,michael-kazmar,135.16,96.0,345.0
+relay,RA200YM,2,nicholas-smith-499020,luke-korenak,logan-depoder,wade-billings,107.6,198.0,benjamin-quandt,jordan-connor,michael-kazmar,tyler-williamson,118.3,120.0,318.0
+relay,RA400YM,2,nicholas-smith-499020,luke-korenak,wade-billings,brian-long-548631,222.61,237.0,tyler-williamson,benjamin-quandt,michael-kazmar,ayden-loebell,278.95,24.0,261.0

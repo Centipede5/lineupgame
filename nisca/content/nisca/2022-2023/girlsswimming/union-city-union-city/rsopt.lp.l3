@@ -1,0 +1,13 @@
+lineup,hdr,3,1146.0
+lineup,dat,I,A200,1,nicole-rojo,127.31,76.0,2.0,vanessa-rojas-1,140.02,38.0,3,dalesky-villavicencio,142.59,31.0
+lineup,dat,I,E200,1,elizabeth-vasquez-1,139.04,88.0,2.0,zoe-joss,140.29,84.0,3,jasmine-rojo,169.89,8.0
+lineup,dat,I,A50,1,melany-matos,27.31,78.0,2.0,farah-quispe,28.21,65.0,3,jessica-ortiz-3,29.74,45.0
+lineup,dat,I,D100,1,dalesky-villavicencio,73.28,43.0,2.0,shalma-lopez,73.27,43.0,3,jasmine-rojo,76.79,29.0
+lineup,dat,I,A100,1,angelique-valencia,60.1,69.0,2.0,melany-matos,60.79,65.0,3,farah-quispe,62.21,55.0
+lineup,dat,I,A500,1,zoe-joss,342.91,73.0,2.0,nicole-rojo,344.94,70.0,3,vanessa-rojas-1,372.43,40.0
+lineup,dat,I,B100,1,elizabeth-vasquez-1,63.21,91.0,2.0,shalma-lopez,73.9,33.0,3,ashley-zabala,80.29,6.0
+lineup,dat,I,C100,1,ashley-zabala,92.7,6.0,2.0,rachel-rivero,92.7,6.0,3,ana-robles,93.51,4.0
+relay,hdr,1149.0
+relay,RA200YF,2,shalma-lopez,farah-quispe,melany-matos,angelique-valencia,112.27,252.0,meaghan-duboue,jessica-ortiz-3,jasmine-rojo,dalesky-villavicencio,122.27,162.0,414.0
+relay,RE200YF,2,angelique-valencia,nicole-rojo,zoe-joss,melany-matos,125.0,237.0,shalma-lopez,ashley-zabala,dalesky-villavicencio,jessica-ortiz-3,137.33,138.0,375.0
+relay,RA400YF,2,angelique-valencia,nicole-rojo,zoe-joss,elizabeth-vasquez-1,236.75,264.0,meaghan-duboue,jessica-ortiz-3,yadhira-chavez,vanessa-rojas-1,272.71,96.0,360.0

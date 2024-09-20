@@ -1,0 +1,13 @@
+lineup,hdr,3,995.0
+lineup,dat,I,A200,1,nika-chmigelski,121.9,95.0,2.0,leah-botvinnik,150.38,12.0,3,olivia-pascaru,153.04,5.0
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,katerina-sudentene,25.74,102.0,2.0,aleks-katashev,28.16,66.0,3,gianna-garcia,28.7,58.0
+lineup,dat,I,D100,1,olivia-lyons,70.39,55.0,2.0,skylar-coleman,73.25,43.0,3,katie-chiong,82.53,8.0
+lineup,dat,I,A100,1,nika-chmigelski,56.99,91.0,2.0,mary-zarubina-1,59.14,76.0,3,aleks-katashev,65.37,36.0
+lineup,dat,I,A500,1,olivia-lyons,347.53,67.0,,,,,,,,
+lineup,dat,I,B100,1,katerina-sudentene,62.69,94.0,2.0,skylar-coleman,74.81,29.0,3,leah-botvinnik,76.0,24.0
+lineup,dat,I,C100,1,mary-zarubina-1,76.77,70.0,2.0,katie-chiong,82.09,46.0,3,olivia-pascaru,89.33,18.0
+relay,hdr,945.0
+relay,RA200YF,2,katerina-sudentene,skylar-coleman,aleks-katashev,nika-chmigelski,111.64,258.0,mary-zarubina-1,gianna-garcia,katie-chiong,leah-botvinnik,121.28,171.0,429.0
+relay,RA400YF,2,katerina-sudentene,olivia-lyons,mary-zarubina-1,nika-chmigelski,243.87,228.0,leah-botvinnik,paula-abreu,gianna-garcia,ameilia-stapor,275.3,84.0,312.0
+relay,RE200YF,1,olivia-lyons,katie-chiong,skylar-coleman,aleks-katashev,128.77,204.0,,,,,,,204.0

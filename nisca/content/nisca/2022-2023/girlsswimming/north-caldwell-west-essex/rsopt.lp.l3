@@ -1,0 +1,13 @@
+lineup,hdr,3,538.0
+lineup,dat,I,A200,1,annie-enslin,144.69,26.0,,,,,,,,
+lineup,dat,I,E200,1,mia-dungo,143.94,73.0,,,,,,,,
+lineup,dat,I,A50,1,caroline-rosiecki,27.04,82.0,2.0,elizabeth-rosiecki,27.31,78.0,3,madison-neer,29.25,51.0
+lineup,dat,I,D100,1,magda-swat,80.58,15.0,,,,,,,,
+lineup,dat,I,A100,1,caroline-rosiecki,59.4,74.0,2.0,madison-neer,65.31,36.0,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,mia-dungo,69.56,54.0,,,,,,,,
+lineup,dat,I,C100,1,annie-enslin,82.12,46.0,2.0,gosia-swat,93.82,3.0,,,,
+relay,hdr,627.0
+relay,RA200YF,2,elizabeth-rosiecki,caroline-rosiecki,mia-dungo,madison-neer,113.0,246.0,magda-swat,gosia-swat,gianna-lodato-1,gloria-buccino,136.29,60.0,306.0
+relay,RE200YF,2,mia-dungo,annie-enslin,caroline-rosiecki,elizabeth-rosiecki,127.03,219.0,ella-mingari,simone-caplan,magda-swat,gosia-swat,150.0,54.0,273.0
+relay,RA400YF,1,annie-enslin,magda-swat,madison-neer,grace-stewart,284.46,48.0,,,,,,,48.0

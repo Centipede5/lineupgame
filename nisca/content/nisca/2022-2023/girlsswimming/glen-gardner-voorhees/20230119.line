@@ -1,0 +1,15 @@
+lineup,hdr,3,1559
+lineup,dat,R,RE200,1,delaney-beck,melanie-rajewski,meredith-whitlock,amelia-weldon,134.48,159
+lineup,dat,R,RE200,2,isabela-echeverry,pasqualina-dandrea,janelle-harper,matty-volpe,180.54,0
+lineup,dat,I,A200,1,faith-hamilton,133.16,58,2,natalie-mason,133.91,55,3,faith-del-polito,155.57,0
+lineup,dat,I,E200,1,olimpia-lake,133.16,107,2,amelia-weldon,157.69,36,3,pasqualina-dandrea,211.45,0
+lineup,dat,I,A50,1,elizabeth-hamilton,28.29,64,2,melanie-rajewski,30.73,33,3,matty-volpe,35.7,0
+lineup,dat,I,D100,1,amelia-weldon,68.45,65,2,elizabeth-hamilton,72.54,46,3,meredith-whitlock,73.22,43
+lineup,dat,I,A100,1,natalie-mason,62.17,56,2,delaney-beck,66.58,29,3,janelle-harper,82.66,0
+lineup,dat,I,A500,1,olimpia-lake,361.34,51,2,faith-del-polito,435.71,0,3,elisa-boothe,438.11,0
+lineup,dat,R,RA200,1,faith-hamilton,olimpia-lake,elizabeth-hamilton,natalie-mason,112.83,246
+lineup,dat,R,RA200,2,amelia-weldon,meredith-whitlock,elisa-boothe,delaney-beck,128.77,114
+lineup,dat,I,B100,1,faith-hamilton,64.95,80,2,delaney-beck,74.45,31,3,elisa-boothe,92.58,0
+lineup,dat,I,C100,1,melanie-rajewski,84.2,37,2,meredith-whitlock,91.14,12
+lineup,dat,R,RA400,1,faith-hamilton,olimpia-lake,elizabeth-hamilton,delaney-beck,253.75,180
+lineup,dat,R,RA400,2,delaney-beck,faith-del-polito,elisa-boothe,melanie-rajewski,282.33,57

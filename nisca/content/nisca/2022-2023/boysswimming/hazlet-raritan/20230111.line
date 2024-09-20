@@ -1,0 +1,15 @@
+lineup,hdr,3,578
+lineup,dat,R,RE200,1,maksym-deneyka,michael-nasert,tim-linker,aaron-oreilly-spencer,125.34,156
+lineup,dat,R,RE200,2,matthew-lombardo-1,jacob-sullivan,aidan-walsh-1,jayden-roberts,159.37,0
+lineup,dat,I,A200,1,maksym-deneyka,138.5,17,2,charles-gartner,204.77,0
+lineup,dat,I,E200,1,tim-linker,175.73,0,2,aidan-walsh-1,153.97,17
+lineup,dat,I,A50,1,aaron-oreilly-spencer,26.86,48,2,michael-nasert,26.99,47
+lineup,dat,I,D100,1,aidan-walsh-1,73.06,13
+lineup,dat,I,A100,1,aaron-oreilly-spencer,65.08,14,2,tim-linker,65.73,11,3,jayden-roberts,76.19,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,michael-nasert,aaron-oreilly-spencer,maksym-deneyka,tim-linker,111.12,171
+lineup,dat,R,RA200,2,jayden-roberts,christopher-slishinski,charles-gartner,nicholas-ferrao-1,153.23,0
+lineup,dat,I,B100,1,maksym-deneyka,72.64,31,2,matthew-lombardo-1,111.43,0
+lineup,dat,I,C100,1,michael-nasert,72.97,53,2,jacob-sullivan,99.27,0,3,nicholas-ferrao-1,109.91,0
+lineup,dat,R,RA400,1,jayden-roberts,jacob-sullivan,christopher-slishinski,charles-gartner,348.08,0
+lineup,dat,R,RA400,2,nicholas-ferrao-1,jakob-russo-yanez,matthew-lombardo-1,aidan-walsh-1,348.08,0

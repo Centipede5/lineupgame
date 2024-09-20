@@ -1,0 +1,14 @@
+lineup,hdr,3,655
+lineup,dat,R,RE200,1,anirudh-dusi,aarav-pendse,prithvi-arumugam,aarush-pendse,172.16,0
+lineup,dat,I,A200,1,grant-paulus-2,136.94,21,2,diego-martell,137.33,20
+lineup,dat,I,E200,1,jason-gracias,160.05,5,2,jonathan-lee-9,134.99,63
+lineup,dat,I,A50,1,connor-nolan-604063,26.53,52,2,jayan-doshi,26.82,49,3,prithvi-arumugam,32.03,0
+lineup,dat,I,D100,1,aarav-pendse,86.9,0,2,henderson-han,71.23,20,3,jason-gracias,85.66,0
+lineup,dat,I,A100,1,grant-paulus-2,60.62,36,2,prithvi-arumugam,73.78,0
+lineup,dat,I,A500,1,diego-martell,406.83,0,2,jayan-doshi,428.41,0
+lineup,dat,R,RA200,1,grant-paulus-2,jason-gracias,jayan-doshi,jonathan-lee-9,115.72,138
+lineup,dat,R,RA200,2,david-cierpal,kavin-arora,aarush-pendse,anirudh-dusi,163.4,0
+lineup,dat,I,B100,1,connor-nolan-604063,68.19,47,2,aarav-pendse,80.56,6
+lineup,dat,I,C100,1,henderson-han,75.56,42,2,jonathan-lee-9,81.18,21
+lineup,dat,R,RA400,1,diego-martell,jason-gracias,connor-nolan-604063,henderson-han,250.25,120
+lineup,dat,R,RA400,2,jayan-doshi,grant-paulus-2,prithvi-arumugam,aarav-pendse,281.15,15

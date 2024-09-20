@@ -1,0 +1,13 @@
+lineup,hdr,3,924
+lineup,dat,R,RE200,1,john-hannah,colin-faraher,daniel-raimer,charlie-gibbs,130.15,126
+lineup,dat,I,A200,1,ian-patchett,131.4,35,2,ethan-kothavale,161.62,0,3,ronnie-schreier,195.51,0
+lineup,dat,I,E200,1,william-lestrange,138.88,53,2,john-hannah,173.72,0
+lineup,dat,I,A50,1,charlie-gibbs,27,47,2,bennett-gross,30.05,13,3,ronnie-schreier,34.71,0
+lineup,dat,I,D100,1,colin-faraher,54.64,107
+lineup,dat,I,A100,1,william-lestrange,55.5,66,2,daniel-raimer,65.7,11,3,ethan-kothavale,70.86,0
+lineup,dat,I,A500,1,ian-patchett,366.56,24
+lineup,dat,R,RA200,1,john-hannah,william-lestrange,ian-patchett,charlie-gibbs,109.39,183
+lineup,dat,R,RA200,2,ethan-kothavale,ronnie-schreier,bennett-gross,daniel-raimer,130.11,45
+lineup,dat,I,B100,1,john-hannah,76.9,17
+lineup,dat,I,C100,1,daniel-raimer,91.4,0,2,colin-faraher,66.14,86
+lineup,dat,R,RA400,1,ian-patchett,william-lestrange,charlie-gibbs,colin-faraher,252.52,111

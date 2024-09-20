@@ -1,0 +1,15 @@
+lineup,hdr,3,1538
+lineup,dat,R,RE200,1,anjali-gupta-1,paige-simpson,samantha-guadanino,saloni-agshiker,124.14,246
+lineup,dat,R,RE200,2,lasenki-wijegunawardhana,nikhita-gadde,nisha-patel-600683,vivien-turpek,133.42,168
+lineup,dat,I,A200,1,samantha-guadanino,123.86,88,2,anuva-kota,149.06,15,3,mia-chonillo,203.35,0
+lineup,dat,I,E200,1,anjali-gupta-1,145.21,69,2,kriya-anumalla,219.32,0,3,nethra-paradeep,204.43,0
+lineup,dat,I,A50,1,nikhita-gadde,28.38,63,2,lasenki-wijegunawardhana,29.54,48,3,anuva-kota,30.56,35
+lineup,dat,I,D100,1,anjali-gupta-1,71,53,2,nisha-patel-600683,79.63,18,3,shreya-karmokar,101.83,0
+lineup,dat,I,A100,1,saloni-agshiker,61.28,61,2,paige-simpson,68.78,17,3,samantha-borge,78.72,0
+lineup,dat,I,A500,1,vivien-turpek,386.85,25,2,akshita-krishnakumar,468.96,0,3,nisha-patel-600683,466.12,0
+lineup,dat,R,RA200,1,anuva-kota,lasenki-wijegunawardhana,nisha-patel-600683,paige-simpson,121.41,171
+lineup,dat,R,RA200,2,mia-chonillo,samantha-borge,akshita-krishnakumar,kriya-anumalla,139.62,39
+lineup,dat,I,B100,1,saloni-agshiker,71.09,47,2,lasenki-wijegunawardhana,75.06,28,3,vivien-turpek,77.48,17
+lineup,dat,I,C100,1,samantha-guadanino,71.14,99,2,paige-simpson,78.09,63,3,nikhita-gadde,78.9,60
+lineup,dat,R,RA400,1,nikhita-gadde,anjali-gupta-1,samantha-guadanino,saloni-agshiker,269.51,108
+lineup,dat,R,RA400,2,samantha-borge,vivien-turpek,akshita-krishnakumar,anuva-kota,309.7,0

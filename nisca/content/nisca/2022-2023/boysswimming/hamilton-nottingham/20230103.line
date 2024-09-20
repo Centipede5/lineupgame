@@ -1,0 +1,13 @@
+lineup,hdr,3,230
+lineup,dat,R,RE200,1,ethan-wiebesiek,tim-babkowski,logan-mcguire,jack-ford-3,146.06,36
+lineup,dat,I,A200,1,harrison-bomm,179.85,0,2,alex-ceballos,144.22,4
+lineup,dat,I,E200,1,bode-miller,205.29,0,2,logan-mcguire,170.84,0
+lineup,dat,I,A50,1,jack-ford-3,28.09,34
+lineup,dat,I,D100,1,harrison-bomm,96.93,0,2,alex-ceballos,70.02,25
+lineup,dat,I,A100,1,tim-babkowski,77.66,0,2,jack-ford-3,65.55,12,3,macallister-miller,85.87,0
+lineup,dat,I,A500,1,ethan-wiebesiek,420.88,0,2,logan-mcguire,393.43,1
+lineup,dat,R,RA200,1,ethan-haas,bode-miller,harrison-bomm,macallister-miller,175.57,0
+lineup,dat,R,RA200,2,tim-babkowski,alex-ceballos,jack-ford-3,logan-mcguire,119.15,114
+lineup,dat,I,B100,1,bode-miller,83.47,0,2,ethan-wiebesiek,81.22,4
+lineup,dat,I,C100,1,macallister-miller,97.42,0,2,tim-babkowski,88,0
+lineup,dat,R,RA400,1,alex-ceballos,harrison-bomm,bode-miller,ethan-wiebesiek,312.14,0

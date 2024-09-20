@@ -1,0 +1,13 @@
+lineup,hdr,3,797
+lineup,dat,I,A200,1,ella-kirkland,134.62,53
+lineup,dat,I,E200,1,kailey-ross,144.13,72,2,kate-song,158.38,34
+lineup,dat,I,A50,1,natalie-shaw,27.12,80,2,quinn-mcnelly,32.15,18,3,gabrielle-ringe-1,32.15,18
+lineup,dat,I,D100,1,margaret-sawa,63.5,90,2,natalie-shaw,67.54,69,3,kaitlin-leas,71.16,52
+lineup,dat,I,A100,1,margaret-sawa,57.22,90
+lineup,dat,I,A500,1,kailey-ross,337.15,80,2,ella-kirkland,357.84,55
+lineup,dat,I,B100,1,kate-song,70.95,47
+lineup,dat,I,C100,1,kaitlin-leas,83.82,39
+relay,hdr,771
+relay,RE200YF,2,kate-song,kailey-ross,natalie-shaw,margaret-sawa,123.43,2.5200000000000000e+02,sophia-juliano-2,ahalya-raghavan,kaitlin-leas,quinn-mcnelly,145.6,8.1000000000000000e+01
+relay,RA200YF,2,kate-song,kaitlin-leas,sophia-juliano-2,ella-kirkland,124.13,1.4700000000000000e+02,erin-colleary,amanda-woertz,ava-walton,quinn-mcnelly,140.74,3.3000000000000000e+01
+relay,RA400YF,1,natalie-shaw,kailey-ross,ella-kirkland,margaret-sawa,237.84,2.5800000000000000e+02

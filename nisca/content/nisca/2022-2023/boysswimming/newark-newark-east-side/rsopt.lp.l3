@@ -1,0 +1,12 @@
+lineup,hdr,3,84.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,christopher-ulloa-1,156.0,13.0,,,,,,,,
+lineup,dat,I,A50,1,joshua-de-oliveira,28.0,35.0,2.0,brian-marques,30.0,14.0,3,kelvin-grady-1,31.0,4.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,joshua-de-oliveira,66.0,10.0,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,christopher-ulloa-1,85.0,8.0,,,,,,,,
+relay,hdr,225.0
+relay,RA200YM,1,kelvin-grady-1,brian-marques,joshua-de-oliveira,christopher-ulloa-1,114.0,150.0,,,,,,,150.0
+relay,RE200YM,2,emily-tapia-3,julissa-rocca,christopher-ulloa-1,joshua-de-oliveira,144.0,48.0,alejandro-araujo-aguirre,kelvin-grady-1,michael-castillo-1,michael-castillo-1,148.0,27.0,75.0

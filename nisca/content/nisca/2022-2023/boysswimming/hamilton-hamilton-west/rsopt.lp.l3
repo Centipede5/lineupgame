@@ -1,0 +1,12 @@
+lineup,hdr,3,350.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,colin-mccormick,24.39,81.0,2.0,brian-pazdan,25.94,60.0,3,iker-vera,29.9,15.0
+lineup,dat,I,D100,1,gabe-charbonneau,74.06,10.0,2.0,michael-killian,74.47,8.0,,,,
+lineup,dat,I,A100,1,brian-pazdan,56.15,62.0,2.0,colin-mccormick,58.71,47.0,3,michael-killian,65.03,14.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,gabe-charbonneau,69.37,43.0,2.0,iker-vera,79.04,10.0,,,,
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,549.0
+relay,RA200YM,2,michael-killian,iker-vera,brian-pazdan,colin-mccormick,102.7,240.0,ismael-del-toro,richarly-zambrano,richardy-zambrano,justin-vera,119.73,108.0,348.0
+relay,RE200YM,1,gabe-charbonneau,brian-pazdan,michael-killian,colin-mccormick,118.79,201.0,,,,,,,201.0

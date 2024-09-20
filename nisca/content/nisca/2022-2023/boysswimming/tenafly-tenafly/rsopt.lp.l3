@@ -1,0 +1,13 @@
+lineup,hdr,3,2388.0
+lineup,dat,I,A200,1,kyle-lee-4,108.62,106.0,2.0,roy-dafinoiu,111.03,97.0,3,ellis-tritter,114.16,86.0
+lineup,dat,I,E200,1,andrew-lee-14,121.58,105.0,2.0,ellis-tritter,127.59,85.0,3,jason-park,128.97,81.0
+lineup,dat,I,A50,1,jason-yi,23.28,98.0,2.0,edward-kim-4,23.71,92.0,3,brandon-gao,24.7,77.0
+lineup,dat,I,D100,1,aaron-baltaytis,49.34,146.0,2.0,hayoung-choe,52.51,122.0,3,edward-kim-4,58.25,84.0
+lineup,dat,I,A100,1,aaron-baltaytis,46.38,135.0,2.0,caleb-lee,52.31,87.0,3,david-shin-1,54.27,74.0
+lineup,dat,I,A500,1,roy-dafinoiu,298.52,102.0,2.0,kyle-lee-4,299.49,100.0,3,david-shin-1,310.69,85.0
+lineup,dat,I,B100,1,hayoung-choe,52.44,128.0,2.0,caleb-lee,62.18,74.0,3,matthew-collado,64.01,65.0
+lineup,dat,I,C100,1,jason-yi,58.52,131.0,2.0,andrew-lee-14,59.83,123.0,3,jason-park,62.69,105.0
+relay,hdr,1962.0
+relay,RE200YM,2,hayoung-choe,jason-yi,aaron-baltaytis,andrew-lee-14,94.54,429.0,caleb-lee,jason-park,edward-kim-4,ellis-tritter,106.23,306.0,735.0
+relay,RA400YM,2,roy-dafinoiu,hayoung-choe,andrew-lee-14,aaron-baltaytis,202.85,339.0,ellis-tritter,matthew-collado,david-shin-1,kyle-lee-4,214.79,276.0,615.0
+relay,RA200YM,2,jason-park,edward-kim-4,roy-dafinoiu,jason-yi,94.95,318.0,caleb-lee,brandon-gao,matthew-collado,kyle-lee-4,97.0,294.0,612.0

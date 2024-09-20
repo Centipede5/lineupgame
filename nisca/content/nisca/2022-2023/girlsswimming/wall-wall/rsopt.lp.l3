@@ -1,0 +1,13 @@
+lineup,hdr,3,863.0
+lineup,dat,I,A200,1,emma-zakutney,131.28,63.0,2.0,cienna-rulli,139.57,39.0,3,marin-huston,139.57,39.0
+lineup,dat,I,E200,1,ava-repetti,140.86,82.0,,,,,,,,
+lineup,dat,I,A50,1,nicole-woods,27.34,77.0,2.0,gabriella-fitzsimmons,29.99,42.0,3,elizabeth-byrnes,30.7,34.0
+lineup,dat,I,D100,1,ava-repetti,65.56,79.0,2.0,isabella-nieves-1,69.23,61.0,3,eva-owens,74.06,40.0
+lineup,dat,I,A100,1,olivia-cheney,62.98,50.0,2.0,gabriella-fitzsimmons,67.09,26.0,3,elizabeth-byrnes,69.95,11.0
+lineup,dat,I,A500,1,emma-zakutney,364.25,48.0,2.0,marin-huston,381.75,30.0,,,,
+lineup,dat,I,B100,1,nicole-woods,67.75,64.0,2.0,olivia-cheney,69.06,57.0,,,,
+lineup,dat,I,C100,1,kaylee-grober,90.62,13.0,2.0,eva-owens,93.26,4.0,3,kaleigh-heinze,93.52,4.0
+relay,hdr,840.0
+relay,RA200YF,2,kaylee-grober,gabriella-fitzsimmons,elizabeth-byrnes,cienna-rulli,114.37,231.0,ana-jiminez,meegan-kappy,molly-luker,alyssa-shannon-1,134.67,72.0,303.0
+relay,RE200YF,2,nicole-woods,emma-zakutney,ava-repetti,olivia-cheney,127.24,219.0,courtney-wenzel,kaylee-grober,eva-owens,elizabeth-byrnes,146.67,75.0,294.0
+relay,RA400YF,2,nicole-woods,olivia-cheney,ava-repetti,emma-zakutney,248.57,204.0,marin-huston,gabriella-fitzsimmons,cienna-rulli,kaylee-grober,287.32,39.0,243.0

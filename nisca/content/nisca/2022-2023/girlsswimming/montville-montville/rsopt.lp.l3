@@ -1,0 +1,13 @@
+lineup,hdr,3,839.0
+lineup,dat,I,A200,1,izzy-dehayes,144.03,27.0,,,,,,,,
+lineup,dat,I,E200,1,victoria-zjiawin,137.0,94.0,,,,,,,,
+lineup,dat,I,A50,1,alexis-freedman,26.02,97.0,2.0,lexi-michalakakis,27.75,71.0,3,jenna-iervolino,28.0,68.0
+lineup,dat,I,D100,1,stephanie-brig,75.97,32.0,2.0,tessa-kunkel,76.56,29.0,3,laura-adrignolo,77.66,25.0
+lineup,dat,I,A100,1,alexis-freedman,60.9,64.0,2.0,gabriella-suarez-escobar,61.85,58.0,3,stephanie-brig,63.85,45.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,tessa-kunkel,74.51,30.0,2.0,laura-adrignolo,76.09,23.0,,,,
+lineup,dat,I,C100,1,victoria-zjiawin,68.78,112.0,2.0,gabriella-suarez-escobar,83.45,40.0,3,jenna-iervolino,87.71,24.0
+relay,hdr,1011.0
+relay,RE200YF,2,gabriella-suarez-escobar,tessa-kunkel,victoria-zjiawin,alexis-freedman,121.0,273.0,chanel-desimone,jenna-iervolino,stephanie-brig,izzy-dehayes,130.0,195.0,468.0
+relay,RA200YF,2,jenna-iervolino,stephanie-brig,gabriella-suarez-escobar,alexis-freedman,111.09,264.0,laura-adrignolo,alessandra-giordano,ria-jain,izzy-dehayes,124.13,147.0,411.0
+relay,RA400YF,1,tessa-kunkel,izzy-dehayes,laura-adrignolo,victoria-zjiawin,263.75,132.0,,,,,,,132.0

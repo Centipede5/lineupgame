@@ -1,0 +1,13 @@
+lineup,hdr,3,1789.0
+lineup,dat,I,A200,1,troy-dibble,113.47,89.0,2.0,logan-driever,114.18,86.0,3,ronan-groves,129.54,40.0
+lineup,dat,I,E200,1,lucas-foung,123.73,98.0,2.0,glassman-ari,133.63,67.0,3,eric-pittman,135.22,63.0
+lineup,dat,I,A50,1,kal-soiber,23.03,103.0,2.0,finn-tobin,24.3,83.0,3,sam-safirstein,27.96,35.0
+lineup,dat,I,D100,1,eli-muldoon,53.99,111.0,2.0,eric-pittman,59.01,79.0,3,ronan-groves,67.31,37.0
+lineup,dat,I,A100,1,kal-soiber,50.32,102.0,2.0,troy-dibble,50.58,100.0,3,max-pearson,58.06,50.0
+lineup,dat,I,A500,1,logan-driever,312.44,83.0,2.0,harris-conk,329.54,62.0,3,rylan-gorman-zaldo,349.61,41.0
+lineup,dat,I,B100,1,lucas-foung,57.3,99.0,2.0,finn-tobin,61.29,78.0,3,harris-conk,62.37,73.0
+lineup,dat,I,C100,1,eli-muldoon,65.97,87.0,2.0,glassman-ari,67.04,81.0,3,olin-webb,75.62,42.0
+relay,hdr,1572.0
+relay,RA400YM,2,logan-driever,kal-soiber,eli-muldoon,troy-dibble,212.74,285.0,eric-pittman,max-pearson,glassman-ari,lucas-foung,218.33,258.0,543.0
+relay,RA200YM,2,kal-soiber,troy-dibble,logan-driever,eli-muldoon,96.13,303.0,max-pearson,sam-safirstein,harris-conk,eric-pittman,103.56,234.0,537.0
+relay,RE200YM,2,lucas-foung,glassman-ari,max-pearson,finn-tobin,107.96,291.0,harris-conk,olin-webb,ronan-groves,rylan-gorman-zaldo,119.15,201.0,492.0

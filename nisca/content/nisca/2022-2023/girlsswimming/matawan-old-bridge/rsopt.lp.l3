@@ -1,0 +1,13 @@
+lineup,hdr,3,634.0
+lineup,dat,I,A200,1,kaitlyn-mcgarrey,140.82,36.0,,,,,,,,
+lineup,dat,I,E200,1,madelyn-hopkins,143.26,75.0,2.0,gianna-porcelli,164.9,19.0,,,,
+lineup,dat,I,A50,1,emily-hopkins,26.83,85.0,2.0,phyllis-goodridge,29.25,51.0,3,elizabeth-tehla,29.48,48.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,emily-hopkins,57.99,84.0,2.0,phyllis-goodridge,67.91,22.0,,,,
+lineup,dat,I,A500,1,madelyn-hopkins,331.94,87.0,2.0,alyah-diab,369.09,43.0,3,kaitlyn-mcgarrey,392.33,20.0
+lineup,dat,I,B100,1,alyah-diab,74.06,32.0,,,,,,,,
+lineup,dat,I,C100,1,gianna-porcelli,85.49,32.0,,,,,,,,
+relay,hdr,657.0
+relay,RA200YF,2,emily-hopkins,phyllis-goodridge,alyah-diab,madelyn-hopkins,113.25,243.0,mairead-reilly,gianna-porcelli,elizabeth-tehla,amaya-marshall,130.63,99.0,342.0
+relay,RE200YF,2,emily-hopkins,gianna-porcelli,madelyn-hopkins,alyah-diab,126.66,222.0,mkarissa-lane,mairead-reilly,elizabeth-tehla,phyllis-goodridge,148.37,63.0,285.0
+relay,RA400YF,1,kaitlyn-mcgarrey,amaya-marshall,mairead-reilly,elizabeth-tehla,289.2,30.0,,,,,,,30.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,1043.0
+lineup,dat,I,A200,1,bryce-lemoult,122.88,58.0,2.0,jeffrey-hanlon,123.75,56.0,3,sean-westhoven,128.75,42.0
+lineup,dat,I,E200,1,bryce-lemoult,137.07,58.0,,,,,,,,
+lineup,dat,I,A50,1,edward-annitto,23.0,103.0,2.0,jack-harmon,24.21,84.0,3,brody-timpone,27.55,40.0
+lineup,dat,I,D100,1,dante-dentino,53.92,112.0,2.0,logan-maypother,57.98,85.0,3,jack-harmon,63.74,54.0
+lineup,dat,I,A100,1,sean-westhoven,62.2,28.0,2.0,james-magrini-1,66.27,8.0,3,robert-fiorile,66.44,8.0
+lineup,dat,I,A500,1,jeffrey-hanlon,335.07,56.0,,,,,,,,
+lineup,dat,I,B100,1,logan-maypother,63.93,65.0,2.0,jimmy-loftus,75.16,22.0,3,brody-timpone,78.5,12.0
+lineup,dat,I,C100,1,dante-dentino,59.79,123.0,2.0,james-magrini-1,80.55,23.0,3,james-vitale-1,85.5,6.0
+relay,hdr,1203.0
+relay,RA200YM,2,dante-dentino,edward-annitto,logan-maypother,jack-harmon,94.0,327.0,sean-westhoven,james-magrini-1,jimmy-loftus,brody-timpone,109.14,186.0,513.0
+relay,RE200YM,2,jeffrey-hanlon,bryce-lemoult,jack-harmon,edward-annitto,111.99,255.0,jimmy-loftus,james-vitale-1,sean-westhoven,blake-nitche,131.45,117.0,372.0
+relay,RA400YM,2,dante-dentino,bryce-lemoult,jeffrey-hanlon,brody-timpone,233.0,189.0,logan-maypother,james-magrini-1,jimmy-loftus,edward-annitto,248.03,129.0,318.0

@@ -1,0 +1,12 @@
+lineup,hdr,3,117
+lineup,dat,I,A200,1,shannon-anderson,232.82,0,2,kamila-parodi,200.57,0
+lineup,dat,I,E200,1,dhanya-patel,152.38,50
+lineup,dat,I,A50,1,nyla-baclay,38.42,0,2,nancy-cuamani,43.35,0
+lineup,dat,I,D100,1,dhanya-patel,71.2,52
+lineup,dat,I,A100,1,nancy-cuamani,98.62,0,2,dora-jarama,103.9,0
+lineup,dat,I,A500,1,angie-ortega,529.07,0,2,kamila-parodi,598.55,0
+lineup,dat,R,RA200,1,nancy-cuamani,angie-ortega,kamila-parodi,dora-jarama,172.03,0
+lineup,dat,I,B100,1,melanie-cacho,80.56,5
+lineup,dat,I,C100,1,shannon-anderson,91.56,10,2,nyla-baclay,112.55,0
+lineup,dat,R,RA400,1,melanie-cacho,shannon-anderson,nyla-baclay,dhanya-patel,328.95,0
+lineup,dat,R,RA400,2,nancy-cuamani,kamila-parodi,angie-ortega,dora-jarama,395.41,0

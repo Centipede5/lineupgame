@@ -1,0 +1,15 @@
+lineup,hdr,3,2072
+lineup,dat,R,RE200,1,zachary-kusch,quentin-tao,shayan-bayat,ian-chiu,105.4,315
+lineup,dat,R,RE200,2,philip-youssef,cj-barrita,david-youssef,aidan-han,133.71,102
+lineup,dat,I,A200,1,robert-young-504036,110.07,101,2,michael-ekert,111.22,97,3,ashwin-bompalli,138.4,17
+lineup,dat,I,E200,1,ian-chiu,134.88,64,2,shayan-bayat,145.47,36
+lineup,dat,I,A50,1,zachary-kusch,22.51,111,2,cj-barrita,28.08,34,3,justin-alicea,30.52,9
+lineup,dat,I,D100,1,shayan-bayat,62.03,63,2,david-youssef,72.17,17,3,philip-youssef,70.09,25
+lineup,dat,I,A100,1,robert-young-504036,51.17,96,2,andre-nguyen,60.4,37,3,omar-saad,69.92,0
+lineup,dat,I,A500,1,michael-ekert,324.12,69,2,aidan-han,382.34,10
+lineup,dat,R,RA200,1,ian-chiu,andre-nguyen,ashwin-bompalli,quentin-tao,107.21,201
+lineup,dat,R,RA200,2,cj-barrita,justin-alicea,omar-saad,daniel-pincus,121.11,99
+lineup,dat,I,B100,1,zachary-kusch,54.65,114,2,philip-youssef,66.23,55,3,david-youssef,77.62,15
+lineup,dat,I,C100,1,quentin-tao,62.05,109,2,andre-nguyen,84.02,11,3,ashwin-bompalli,79.95,25
+lineup,dat,R,RA400,1,michael-ekert,shayan-bayat,aidan-han,robert-young-504036,224.41,228
+lineup,dat,R,RA400,2,daniel-pincus,david-youssef,cj-barrita,omar-saad,282.63,12

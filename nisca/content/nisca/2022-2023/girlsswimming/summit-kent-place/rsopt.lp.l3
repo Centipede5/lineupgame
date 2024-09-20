@@ -1,0 +1,13 @@
+lineup,hdr,3,1723.0
+lineup,dat,I,A200,1,bridget-daab,123.03,91.0,2.0,aila-kennedy,129.71,68.0,3,alexa-garrido-1,142.59,31.0
+lineup,dat,I,E200,1,elizabeth-washburn,136.4,96.0,2.0,margot-callahan,143.47,74.0,3,liv-minton,144.28,72.0
+lineup,dat,I,A50,1,jessica-park-597643,26.49,90.0,2.0,lindsay-li,28.9,56.0,3,megan-szot,29.64,46.0
+lineup,dat,I,D100,1,elizabeth-washburn,59.52,114.0,2.0,liv-minton,62.83,94.0,3,caroline-hand,70.84,53.0
+lineup,dat,I,A100,1,gabrielle-liberman-1,58.66,79.0,2.0,aila-kennedy,59.33,74.0,3,kathryn-cepeda,63.51,47.0
+lineup,dat,I,A500,1,gabrielle-liberman-1,342.62,73.0,2.0,delia-callahan,343.75,72.0,3,gillian-callahan,346.87,68.0
+lineup,dat,I,B100,1,bridget-daab,63.33,90.0,2.0,delia-callahan,66.47,71.0,3,gillian-callahan,69.98,52.0
+lineup,dat,I,C100,1,margot-callahan,72.89,89.0,2.0,jessica-park-597643,77.89,64.0,3,caroline-hand,79.03,59.0
+relay,hdr,1383.0
+relay,RE200YF,2,bridget-daab,margot-callahan,aila-kennedy,elizabeth-washburn,118.17,300.0,megan-szot,caroline-hand,jessica-park-597643,delia-callahan,131.77,180.0,480.0
+relay,RA200YF,2,liv-minton,margot-callahan,gillian-callahan,gabrielle-liberman-1,110.56,270.0,megan-szot,evelyn-hickey,lindsay-li,caroline-hand,119.78,183.0,453.0
+relay,RA400YF,2,aila-kennedy,bridget-daab,gabrielle-liberman-1,elizabeth-washburn,236.37,267.0,liv-minton,gillian-callahan,delia-callahan,jessica-park-597643,253.09,183.0,450.0

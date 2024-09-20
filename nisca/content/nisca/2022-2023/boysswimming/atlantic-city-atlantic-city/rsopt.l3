@@ -1,0 +1,17 @@
+lineup,hdr,3,1308
+lineup,dat,I,A200,1,john-sahl-1,113.92,87,2,john-bulthuis-1,142.18,9
+lineup,dat,I,E200,1,john-bulthuis-1,119.71,111,2,jason-lieu,136.71,59,3,jimmy-walsh-652977,150.99,24
+lineup,dat,I,A50,1,kyle-graybill-3,22.48,112,2,jake-downing-2,25.45,66,3,blaise-kurtz-1,26.87,48
+lineup,dat,I,D100,1,james-haney,51.92,126,2,tommy-pham,59.43,77,3,jimmy-walsh-652977,67.45,36
+lineup,dat,I,A100,1,kyle-graybill-3,52.65,85,2,jake-downing-2,61.94,29,3,blaise-kurtz-1,62.63,26
+lineup,dat,I,A500,1,jimmy-downing-2,383.01,10
+lineup,dat,I,B100,1,james-haney,52.13,130,2,jason-lieu,62.03,74,3,tommy-pham,64.22,64
+lineup,dat,I,C100,1,john-sahl-1,66.64,83,2,aaron-simpson-1,77.77,33,3,josh-weinstock-1,81.77,19
+relay,hdr,1272
+relay,RE200YM,2,james-haney,john-sahl-1,tommy-pham,kyle-graybill-3,101.42,3.5400000000000000e+02,jimmy-walsh-652977,aaron-simpson-1,jason-lieu,jake-downing-2,116.6,2.1900000000000000e+02
+relay,RA200YM,2,tommy-pham,kyle-graybill-3,john-sahl-1,james-haney,91.57,3.5400000000000000e+02,jason-lieu,blaise-kurtz-1,jimmy-walsh-652977,jake-downing-2,104,2.2800000000000000e+02
+relay,RA400YM,2,anna-tran-1,jodie-perrera,sam-perrera,zuzzanna-tursk,267.16,6.0000000000000000e+01,omar-dewiar-1,blaise-kurtz-1,josh-weinstock-1,john-bulthuis-1,267.95,5.7000000000000000e+01
+relay,hdr,1284
+relay,RE200YM,2,james-haney,john-sahl-1,tommy-pham,kyle-graybill-3,101.42,3.5400000000000000e+02,jimmy-walsh-652977,aaron-simpson-1,jason-lieu,jake-downing-2,116.6,2.1900000000000000e+02
+relay,RA200YM,2,jason-lieu,blaise-kurtz-1,jimmy-walsh-652977,jake-downing-2,104,2.2800000000000000e+02,omar-dewiar-1,aaron-simpson-1,john-bulthuis-1,brendan-cahill,116.6,1.2900000000000000e+02
+relay,RA400YM,2,james-haney,tommy-pham,kyle-graybill-3,john-sahl-1,211.17,2.9400000000000000e+02,anna-tran-1,jodie-perrera,sam-perrera,zuzzanna-tursk,267.16,6.0000000000000000e+01

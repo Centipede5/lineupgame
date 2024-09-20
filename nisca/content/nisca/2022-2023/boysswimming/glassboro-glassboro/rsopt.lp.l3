@@ -1,0 +1,13 @@
+lineup,hdr,3,343.0
+lineup,dat,I,A200,1,sean-gallo-1,128.46,43.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,mason-burke-1,28.11,34.0,2.0,duncan-freeman-1,28.86,25.0,3,aiden-humphries-1,29.4,20.0
+lineup,dat,I,D100,1,aiden-esgro,61.2,67.0,,,,,,,,
+lineup,dat,I,A100,1,aiden-esgro,55.2,68.0,2.0,aiden-humphries-1,67.33,4.0,,,,
+lineup,dat,I,A500,1,sean-gallo-1,358.89,32.0,,,,,,,,
+lineup,dat,I,B100,1,anna-gallo-1,77.28,16.0,,,,,,,,
+lineup,dat,I,C100,1,amelia-thompson-1,81.36,20.0,2.0,james-long-3,83.28,14.0,,,,
+relay,hdr,378.0
+relay,RA200YM,2,anna-gallo-1,james-long-3,aiden-humphries-1,sean-gallo-1,116.11,135.0,amelia-thompson-1,anita-bertozzi,duncan-freeman-1,jacob-lord,137.09,9.0,144.0
+relay,RE200YM,1,anna-gallo-1,amelia-thompson-1,aiden-esgro,mason-burke-1,128.72,135.0,,,,,,,135.0
+relay,RA400YM,1,sean-gallo-1,mason-burke-1,aiden-humphries-1,aiden-esgro,255.97,99.0,,,,,,,99.0

@@ -1,0 +1,15 @@
+lineup,hdr,3,1742
+lineup,dat,R,RE200,1,jason-ma-2,mason-liu-1,steven-samome,carsen-tramontin-1,100.45,363
+lineup,dat,R,RE200,2,mark-vechnyak,jayden-londono,jacob-blom,cedric-lee,140.25,66
+lineup,dat,I,A200,1,mason-liu-1,135.49,24,2,jacob-blom,159.81,0,3,cedric-lee,195,0
+lineup,dat,I,E200,1,andrew-dascula,134.44,65,2,thomas-piovoso,143.65,41,3,ben-deangelis,187.01,0
+lineup,dat,I,A50,1,jason-ma-2,24.06,86,2,carsen-tramontin-1,25.05,72,3,mark-vechnyak,31.57,0
+lineup,dat,I,D100,1,steven-samome,58.86,80,2,chris-devizio,75.25,5,3,ben-deangelis,80.06,0
+lineup,dat,I,A100,1,andrew-dascula,56.84,58,2,carsen-tramontin-1,59.17,44,3,jacob-blom,69.39,0
+lineup,dat,I,A500,1,steven-samome,352.78,38,2,chris-devizio,390,4,3,jayden-londono,533,0
+lineup,dat,R,RA200,1,thomas-piovoso,jacob-blom,chris-devizio,andrew-dascula,115.03,141
+lineup,dat,R,RA200,2,mark-vechnyak,ben-deangelis,jayden-londono,cedric-lee,125.05,75
+lineup,dat,I,B100,1,jason-ma-2,57.08,100,2,cedric-lee,93,0,3,mark-vechnyak,108.2,0
+lineup,dat,I,C100,1,mason-liu-1,66.56,84,2,thomas-piovoso,76.97,36,3,jayden-londono,104.68,0
+lineup,dat,R,RA400,1,steven-samome,andrew-dascula,mason-liu-1,jason-ma-2,223.62,231
+lineup,dat,R,RA400,2,carsen-tramontin-1,chris-devizio,ben-deangelis,thomas-piovoso,248.02,129

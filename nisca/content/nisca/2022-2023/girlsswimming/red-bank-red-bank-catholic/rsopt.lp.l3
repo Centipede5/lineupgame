@@ -1,0 +1,13 @@
+lineup,hdr,3,1677.0
+lineup,dat,I,A200,1,caitlyn-evans,121.02,98.0,2.0,stephanie-mahns,138.8,41.0,3,scarlett-schmidt,141.94,33.0
+lineup,dat,I,E200,1,charlotte-trentalange,131.87,112.0,2.0,hope-dorsi,141.79,79.0,3,caitlyn-derocckis,144.47,71.0
+lineup,dat,I,A50,1,olivia-wheeler-1,25.5,106.0,2.0,natalie-dapra,26.12,96.0,3,briell-menezes,28.52,61.0
+lineup,dat,I,D100,1,olivia-wheeler-1,60.99,105.0,2.0,briell-menezes,71.06,52.0,3,nora-bolstad,71.38,51.0
+lineup,dat,I,A100,1,caitlyn-evans,56.14,98.0,2.0,kayla-deet,61.2,62.0,3,scarlett-schmidt,64.11,44.0
+lineup,dat,I,A500,1,charlotte-trentalange,322.14,100.0,2.0,hope-dorsi,343.33,72.0,3,lily-stokum,362.51,50.0
+lineup,dat,I,B100,1,natalie-dapra,65.09,79.0,2.0,lily-stokum,66.2,73.0,3,kayla-deet,68.78,59.0
+lineup,dat,I,C100,1,stephanie-mahns,79.88,55.0,2.0,olivia-scaglione,82.13,46.0,3,reese-ryan,84.87,34.0
+relay,hdr,1542.0
+relay,RA200YF,2,olivia-wheeler-1,natalie-dapra,caitlyn-evans,charlotte-trentalange,103.23,348.0,kayla-deet,olivia-scaglione,reese-ryan,lily-stokum,112.14,252.0,600.0
+relay,RA400YF,2,olivia-wheeler-1,natalie-dapra,caitlyn-evans,charlotte-trentalange,229.01,309.0,hope-dorsi,scarlett-schmidt,nora-bolstad,briell-menezes,249.43,201.0,510.0
+relay,RE200YF,2,lily-stokum,olivia-scaglione,hope-dorsi,kayla-deet,123.56,249.0,briell-menezes,stephanie-mahns,reese-ryan,scarlett-schmidt,131.55,183.0,432.0

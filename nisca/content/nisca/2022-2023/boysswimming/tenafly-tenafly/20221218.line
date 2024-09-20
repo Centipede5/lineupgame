@@ -1,0 +1,15 @@
+lineup,hdr,3,1375
+lineup,dat,R,RE200,1,justin-park-11,will-donohue,max-romanov,ondrej-reiser,140.93,63
+lineup,dat,R,RE200,2,caleb-lee,matthew-collado,luke-oh,max-ulis,131.96,114
+lineup,dat,I,A200,1,justin-park-11,171.28,0,2,brandon-gao,138.71,17,3,pranav-suresh,193.76,0
+lineup,dat,I,E200,1,henry-you-1,158.51,8,2,matthew-collado,139.02,53,3,luke-oh,160.41,4
+lineup,dat,I,A50,1,max-ulis,27.06,46,2,ondrej-reiser,27.21,44,3,eliot-na,26.49,53
+lineup,dat,I,D100,1,caleb-lee,61.31,67,2,matthew-collado,58.73,81,3,luke-oh,66.75,40
+lineup,dat,I,A100,1,eliot-na,61.09,33,2,brandon-gao,54.93,70,3,brendan-won,65.06,14
+lineup,dat,I,A500,1,max-romanov,443.15,0,2,henry-you-1,400.88,0,3,yoon-jo,468.73,0
+lineup,dat,R,RA200,1,brendan-won,justin-park-11,will-donohue,ondrej-reiser,116.92,129
+lineup,dat,R,RA200,2,max-ulis,luke-oh,eliot-na,brandon-gao,105.76,213
+lineup,dat,I,B100,1,max-ulis,75.81,20,2,caleb-lee,62.18,74,3,brendan-won,86.99,0
+lineup,dat,I,C100,1,will-donohue,80.06,25,2,max-romanov,95.15,0,3,ondrej-reiser,93.88,0
+lineup,dat,R,RA400,1,justin-park-11,max-romanov,henry-you-1,will-donohue,300.47,0
+lineup,dat,R,RA400,2,brandon-gao,caleb-lee,eliot-na,matthew-collado,228.96,207

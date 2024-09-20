@@ -1,0 +1,11 @@
+lineup,hdr,3,4
+lineup,dat,I,A200,1,alejandro-araujo-aguirre,159,0,2,kaua-weiss-1,195,0
+lineup,dat,I,E200
+lineup,dat,I,A50,1,kelvin-grady-1,31,4,2,guilhermy-araujo-dasilva,50,0,3,jefferson-de-almeida,48,0
+lineup,dat,I,D100,1,alejandro-araujo-aguirre,89,0
+lineup,dat,I,A100,1,kelvin-grady-1,76,0,2,kaua-weiss,91,0,3,jonathan-velasquez,104,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,kelvin-grady-1,jonathan-velasquez,alejandro-araujo-aguirre,kaua-weiss,160,0
+lineup,dat,R,RA200,2,kevin-tacuri-1,matthew-amaro,jefferson-de-almeida,michael-castillo-1,180,0
+lineup,dat,I,B100,1,jonathan-velasquez,145,0,2,guilhermy-araujo-dasilva,133,0,3,michael-castillo-1,136,0
+lineup,dat,I,C100

@@ -1,0 +1,17 @@
+lineup,hdr,3,1225
+lineup,dat,I,A200,1,vesa-kyqykaliu,130.13,67,2,sydney-harris-655117,153.97,3
+lineup,dat,I,E200,1,lily-martin-1,136,98,2,emily-kim-9,138.63,89,3,chloe-parsi,165.09,19
+lineup,dat,I,A50,1,coco-oconnell,22.19,169,2,alexa-padilla,28.6,60,3,allyson-sheldon-1,31.9,20
+lineup,dat,I,D100,1,lily-martin-1,60.75,106,2,emily-kim-9,62.14,98,3,sydney-harris-655117,65.7,78
+lineup,dat,I,A100,1,ariana-kim,61.12,63,2,alexa-padilla,62.73,52,3,chloe-parsi,66.78,28
+lineup,dat,I,A500,1,vesa-kyqykaliu,325.41,96
+lineup,dat,I,B100
+lineup,dat,I,C100,1,coco-oconnell,74,83,2,ariana-kim,77.25,67,3,suin-namkoong,86.41,29
+relay,hdr,873
+relay,RE200YF,2,lily-martin-1,ariana-kim,emily-kim-9,coco-oconnell,124.15,2.4600000000000000e+02,chloe-parsi,suin-namkoong,sydney-harris-655117,allyson-sheldon-1,130.97,1.8600000000000000e+02
+relay,RA200YF,2,emily-kim-9,ariana-kim,alexa-padilla,coco-oconnell,112.56,2.4900000000000000e+02,vesa-kyqykaliu,morgan-kwon,sydney-harris-655117,allyson-sheldon-1,128.07,1.1700000000000000e+02
+relay,RA400YF,1,alexa-padilla,chloe-parsi,morgan-kwon,vesa-kyqykaliu,277.5,7.5000000000000000e+01
+relay,hdr,1017
+relay,RE200YF,2,lily-martin-1,ariana-kim,emily-kim-9,coco-oconnell,124.15,2.4600000000000000e+02,chloe-parsi,suin-namkoong,sydney-harris-655117,allyson-sheldon-1,130.97,1.8600000000000000e+02
+relay,RA200YF,2,chloe-parsi,alexa-padilla,vesa-kyqykaliu,emily-kim-9,115.43,2.2200000000000000e+02,allyson-sheldon-1,olivia-acheson,morgan-kwon,suin-namkoong,137.28,5.4000000000000000e+01
+relay,RA400YF,2,sydney-harris-655117,coco-oconnell,vesa-kyqykaliu,lily-martin-1,240.9,2.4300000000000000e+02,olivia-acheson,suin-namkoong,krystal-kymn,morgan-kwon,280.25,6.6000000000000000e+01

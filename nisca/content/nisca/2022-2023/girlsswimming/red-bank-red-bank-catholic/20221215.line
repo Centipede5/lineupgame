@@ -1,0 +1,14 @@
+lineup,hdr,3,700
+lineup,dat,R,RE200,1,molly-devine,rylee-wickliffe,alexa-kiernan,ksenia-karpova,167.72,0
+lineup,dat,I,A200,1,stephanie-mahns,138.8,41,2,caitlyn-derocckis,162.28,0,3,rachel-corliss,157.21,0
+lineup,dat,I,E200,1,alexa-kiernan,190.73,0,2,nora-bolstad,154.62,44
+lineup,dat,I,A50,1,cecelia-tur,35.02,0,2,briell-menezes,28.52,61,3,ksenia-karpova,35.59,0
+lineup,dat,I,D100,1,briell-menezes,71.06,52,2,nora-bolstad,71.38,51
+lineup,dat,I,A100,1,rachel-corliss,69.61,13,2,scarlett-schmidt,64.11,44,3,molly-devine,81.18,0
+lineup,dat,I,A500,1,caitlyn-derocckis,435.39,0,2,alexa-kiernan,454,0,3,rylee-wickliffe,551.14,0
+lineup,dat,R,RA200,1,caitlyn-derocckis,cecelia-tur,rachel-corliss,briell-menezes,130.87,99
+lineup,dat,R,RA200,2,scarlett-schmidt,molly-devine,stephanie-mahns,nora-bolstad,128.3,117
+lineup,dat,I,B100,1,cecelia-tur,95.93,0,2,scarlett-schmidt,85.1,0,3,margrat-connelly,117,0
+lineup,dat,I,C100,1,molly-devine,98.7,0,2,stephanie-mahns,79.88,55,3,rylee-wickliffe,95.87,0
+lineup,dat,R,RA400,1,caitlyn-derocckis,rylee-wickliffe,cecelia-tur,alexa-kiernan,306.8,0
+lineup,dat,R,RA400,2,briell-menezes,rachel-corliss,stephanie-mahns,nora-bolstad,266.15,123

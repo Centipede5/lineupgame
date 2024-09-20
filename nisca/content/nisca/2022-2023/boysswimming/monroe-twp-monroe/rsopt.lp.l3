@@ -1,0 +1,12 @@
+lineup,hdr,3,557.0
+lineup,dat,I,A200,1,brandon-anand,106.83,113.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,neel-chandwani,24.1,86.0,,,,,,,,
+lineup,dat,I,D100,1,evan-warner,59.01,79.0,,,,,,,,
+lineup,dat,I,A100,1,tyler-khassanov,64.93,14.0,,,,,,,,
+lineup,dat,I,B100,1,evan-warner,64.66,62.0,,,,,,,,
+lineup,dat,I,C100,1,brandon-anand,60.5,118.0,2.0,neel-chandwani,66.44,84.0,3.0,aarnav-hariamani,87.07,1.0
+relay,hdr,546.0
+relay,RA400YM,1,evan-warner,neel-chandwani,tyler-khassanov,brandon-anand,230.28,201.0,,,,,,,201.0
+relay,RE200YM,1,evan-warner,brandon-anand,tyler-khassanov,rehaan-patel,121.85,180.0,,,,,,,180.0
+relay,RA200YM,1,tyler-khassanov,manuel-lebron,neel-chandwani,rehaan-patel,111.87,165.0,,,,,,,165.0

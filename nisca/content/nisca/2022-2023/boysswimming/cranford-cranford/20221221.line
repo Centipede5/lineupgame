@@ -1,0 +1,15 @@
+lineup,hdr,3,2377
+lineup,dat,R,RE200,1,dominic-lotito,henry-warren,arturo-gomez,michael-minchak,110.94,264
+lineup,dat,R,RE200,2,andrew-soyka-2,jack-zambito-1,danny-kennedy-3,noah-merriman,112.34,252
+lineup,dat,I,A200,1,james-breslin-2,143.13,7,2,garret-hanlon,147.26,0,3,ethan-costello,144.54,4
+lineup,dat,I,E200,1,liam-soyka,135.19,63,2,max-drobitskiy,152.25,21,3,noah-merriman,169.65,0
+lineup,dat,I,A50,1,charlie-otten-1,23.38,97,2,michael-minchak,23.48,95,3,cornelius-mcgovern,25.68,63
+lineup,dat,I,D100,1,arturo-gomez,61.43,66,2,garret-hanlon,68.68,31,3,jack-zambito-1,71.56,19
+lineup,dat,I,A100,1,michael-minchak,52.93,83,2,dominic-lotito,56.15,62,3,max-drobitskiy,58.52,48
+lineup,dat,I,A500,1,henry-warren,332.22,59,2,danny-kennedy-3,397.89,0,3,ed-toy,474.68,0
+lineup,dat,R,RA200,1,arturo-gomez,charlie-otten-1,noah-merriman,liam-soyka,100.48,261
+lineup,dat,R,RA200,2,cornelius-mcgovern,jack-zambito-1,james-breslin-2,garret-hanlon,108.28,192
+lineup,dat,I,B100,1,dominic-lotito,61.18,78,2,charlie-otten-1,65.31,59,3,cornelius-mcgovern,73.12,29
+lineup,dat,I,C100,1,henry-warren,71.83,58,2,james-breslin-2,74.83,45,3,andrew-soyka-2,76.8,37
+lineup,dat,R,RA400,1,arturo-gomez,liam-soyka,charlie-otten-1,michael-minchak,217.61,261
+lineup,dat,R,RA400,2,danny-kennedy-3,noah-merriman,jack-zambito-1,max-drobitskiy,249.2,123

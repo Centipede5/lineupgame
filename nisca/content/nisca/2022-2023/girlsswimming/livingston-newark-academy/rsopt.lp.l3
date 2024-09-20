@@ -1,0 +1,13 @@
+lineup,hdr,3,1682.0
+lineup,dat,I,A200,1,ivie-drogin,124.88,84.0,2.0,ellie-moose,132.01,61.0,3,dina-drogin,133.59,56.0
+lineup,dat,I,E200,1,laura-kim-596245,135.11,101.0,2.0,phoebe-kaplan,138.78,89.0,3,claire-wong,141.79,79.0
+lineup,dat,I,A50,1,ellie-moose,27.97,68.0,2.0,aakriti-caprihan,28.11,66.0,3,leila-ricot,29.06,54.0
+lineup,dat,I,D100,1,laura-kim-596245,60.45,108.0,2.0,phoebe-kaplan,62.62,95.0,3,alyssa-lee,75.59,33.0
+lineup,dat,I,A100,1,meghan-lai,57.14,90.0,2.0,lauren-siegel,59.29,75.0,3,lauren-markowitz,59.89,71.0
+lineup,dat,I,A500,1,meghan-lai,347.21,68.0,2.0,ivie-drogin,350.0,64.0,3,lauren-siegel,360.47,52.0
+lineup,dat,I,B100,1,claire-wong,64.76,81.0,2.0,lauren-markowitz,66.18,73.0,3,alyssa-lee,71.91,43.0
+lineup,dat,I,C100,1,dina-drogin,76.22,72.0,2.0,aakriti-caprihan,76.2,72.0,3,anika-lippke,86.88,27.0
+relay,hdr,1488.0
+relay,RA200YF,2,phoebe-kaplan,aakriti-caprihan,meghan-lai,ivie-drogin,108.66,288.0,dina-drogin,leila-ricot,ellie-moose,lauren-siegel,115.34,222.0,510.0
+relay,RA400YF,2,meghan-lai,phoebe-kaplan,claire-wong,laura-kim-596245,232.72,288.0,lauren-siegel,ellie-moose,ivie-drogin,lauren-markowitz,248.86,201.0,489.0
+relay,RE200YF,2,claire-wong,dina-drogin,laura-kim-596245,lauren-markowitz,119.13,291.0,alyssa-lee,aakriti-caprihan,anika-lippke,leila-ricot,129.74,198.0,489.0

@@ -1,0 +1,15 @@
+lineup,hdr,3,2848
+lineup,dat,R,RE200,1,jessica-heden,aileen-wu-502141,louise-de-cokere,emily-gong,116.37,318
+lineup,dat,R,RE200,2,emma-jia,emily-lu-1,gloria-yao,jacqueline-lu,130.08,195
+lineup,dat,I,A200,1,jessica-heden,122.84,91,2,angela-liu-651883,128.99,71,3,cameron-bennett-1,139.72,39
+lineup,dat,I,E200,1,emily-gong,139.31,87,2,zoe-bitterman,147.88,62,3,julianna-wong,177.32,0
+lineup,dat,I,A50,1,louise-de-cokere,25.53,105,2,aileen-wu-502141,27.92,69
+lineup,dat,I,D100,1,louise-de-cokere,60.97,105,2,zoe-bitterman,60.72,107,3,gloria-yao,70.36,56
+lineup,dat,I,A100,1,angela-liu-651883,58.06,84,2,priya-schult,59.23,75,3,emily-lu-1,65.55,35
+lineup,dat,I,A500,1,jessica-heden,325.18,96,2,alex-partila,392.15,20,3,kavya-iyer,404.75,9
+lineup,dat,R,RA200,1,priya-schult,angela-liu-651883,zoe-bitterman,louise-de-cokere,106.91,306
+lineup,dat,R,RA200,2,minhee-lee,cameron-bennett-1,jacqueline-lu,emma-jia,117.53,204
+lineup,dat,I,B100,1,priya-schult,67.23,67,2,jacqueline-lu,72.48,40,3,emma-jia,78.09,15
+lineup,dat,I,C100,1,emily-gong,72.3,92,2,aileen-wu-502141,73.78,85,3,emily-lu-1,82.76,43
+lineup,dat,R,RA400,1,angela-liu-651883,priya-schult,jessica-heden,emily-gong,245.04,222
+lineup,dat,R,RA400,2,cameron-bennett-1,gloria-yao,jacqueline-lu,zoe-bitterman,260.19,150

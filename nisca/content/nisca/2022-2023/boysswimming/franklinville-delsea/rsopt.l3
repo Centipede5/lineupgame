@@ -1,0 +1,13 @@
+lineup,hdr,3,689
+lineup,dat,I,A200,1,vincent-cervini,129.35,40
+lineup,dat,I,E200
+lineup,dat,I,A50,1,thomas-fry,26.59,52,2,john-weyhmiller,27,47,3,josh-seiler,28.09,34
+lineup,dat,I,D100,1,ryan-hampton,61.04,68,2,thomas-fry,62.06,63,3,vincenzo-macrino,71.28,20
+lineup,dat,I,A100,1,judah-sausman,58.58,47,2,john-weyhmiller,59.78,41,3,darren-reis,62.74,25
+lineup,dat,I,A500,1,vincent-cervini,349.82,41
+lineup,dat,I,B100,1,ryan-hampton,62.53,72,2,josh-seiler,64.06,65,3,judah-sausman,69.11,44
+lineup,dat,I,C100,1,vincenzo-macrino,80.51,23,2,darren-reis,85.22,7
+relay,hdr,684
+relay,RE200YM,1,ryan-hampton,vincenzo-macrino,thomas-fry,john-weyhmiller,118.52,2.0400000000000000e+02
+relay,RA200YM,2,thomas-fry,vincenzo-macrino,vincent-cervini,judah-sausman,104.87,2.2200000000000000e+02,josh-seiler,logan-cordero,evan-smith-13,darren-reis,120.55,1.0500000000000000e+02
+relay,RA400YM,1,ryan-hampton,john-weyhmiller,judah-sausman,vincent-cervini,241.95,1.5300000000000000e+02

@@ -1,0 +1,12 @@
+lineup,hdr,3,695
+lineup,dat,R,RE200,1,raymond-evangelista,jb-abarquez,hiroshi-mcintosh,bryce-johnson-1,123.42,168
+lineup,dat,I,A200,1,luis-loiaza,177.93,0
+lineup,dat,I,E200,1,jb-abarquez,144,40,2,hiroshi-mcintosh,128.33,83
+lineup,dat,I,A50,1,bryce-johnson-1,30.61,8,2,liam-brady,29.82,16,3,jamie-alarcon,28.29,32
+lineup,dat,I,D100,1,hiroshi-mcintosh,57.88,86
+lineup,dat,I,A100,1,raymond-evangelista,65.73,11,2,jamie-alarcon,69.8,0
+lineup,dat,I,A500,1,raymond-evangelista,409.14,0,2,luis-loiaza,517.57,0
+lineup,dat,R,RA200,1,liam-brady,jamie-alarcon,luis-loiaza,bryce-johnson-1,123.92,81
+lineup,dat,I,B100,1,bryce-johnson-1,85.69,0,2,liam-brady,82.15,1
+lineup,dat,I,C100,1,jb-abarquez,69.34,70
+lineup,dat,R,RA400,1,raymond-evangelista,jb-abarquez,jamie-alarcon,hiroshi-mcintosh,255.88,99

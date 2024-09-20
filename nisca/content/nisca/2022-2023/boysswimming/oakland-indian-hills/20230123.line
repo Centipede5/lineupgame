@@ -1,0 +1,10 @@
+lineup,hdr,3,410
+lineup,dat,I,A200,1,steven-roche,116.22,79
+lineup,dat,I,E200
+lineup,dat,I,A50,1,rowan-guller,26.44,53,2,bar-shir,29.31,21,3,george-kass,31.2,3
+lineup,dat,I,D100,1,rowan-guller,69.95,26
+lineup,dat,I,A100,1,george-kass,73.12,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,george-kass,bar-shir,rowan-guller,steven-roche,115.93,135
+lineup,dat,I,B100,1,bar-shir,82.82,0
+lineup,dat,I,C100,1,steven-roche,64.89,93

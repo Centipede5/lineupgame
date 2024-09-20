@@ -1,0 +1,13 @@
+lineup,hdr,3,797.0
+lineup,dat,I,A200,1,ella-kirkland,134.62,53.0,,,,,,,,
+lineup,dat,I,E200,1,kailey-ross,144.13,72.0,2.0,kate-song,158.38,34.0,,,,
+lineup,dat,I,A50,1,natalie-shaw,27.12,80.0,2.0,quinn-mcnelly,32.15,18.0,3,gabrielle-ringe-1,32.15,18.0
+lineup,dat,I,D100,1,margaret-sawa,63.5,90.0,2.0,natalie-shaw,67.54,69.0,3,kaitlin-leas,71.16,52.0
+lineup,dat,I,A100,1,margaret-sawa,57.22,90.0,,,,,,,,
+lineup,dat,I,A500,1,kailey-ross,337.15,80.0,2.0,ella-kirkland,357.84,55.0,,,,
+lineup,dat,I,B100,1,kate-song,70.95,47.0,,,,,,,,
+lineup,dat,I,C100,1,kaitlin-leas,83.82,39.0,,,,,,,,
+relay,hdr,771.0
+relay,RE200YF,2,kate-song,kailey-ross,natalie-shaw,margaret-sawa,123.43,252.0,sophia-juliano-2,ahalya-raghavan,kaitlin-leas,quinn-mcnelly,145.6,81.0,333.0
+relay,RA400YF,1,natalie-shaw,kailey-ross,ella-kirkland,margaret-sawa,237.84,258.0,,,,,,,258.0
+relay,RA200YF,2,kate-song,kaitlin-leas,sophia-juliano-2,ella-kirkland,124.13,147.0,erin-colleary,amanda-woertz,ava-walton,quinn-mcnelly,140.74,33.0,180.0

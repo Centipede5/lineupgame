@@ -1,0 +1,13 @@
+lineup,hdr,3,1168.0
+lineup,dat,I,A200,1,kianna-riera,137.54,45.0,2.0,kirsten-shave,145.97,22.0,3,adelena-paine,149.86,13.0
+lineup,dat,I,E200,1,ava-morrison,155.6,41.0,2.0,eliana-ruan,159.28,32.0,3,meredith-ruple,164.41,20.0
+lineup,dat,I,A50,1,lylah-wilhelm,26.01,98.0,2.0,tamiyanna-roemer,26.82,85.0,3,alexa-roemer-1,27.26,78.0
+lineup,dat,I,D100,1,julia-hulse,67.37,70.0,2.0,natalie-oliviera,74.16,39.0,3,sasha-paulyson,75.53,34.0
+lineup,dat,I,A100,1,julia-hulse,58.03,84.0,2.0,tamiyanna-roemer,60.96,63.0,3,ava-dreyer,62.41,54.0
+lineup,dat,I,A500,1,sasha-paulyson,348.74,66.0,2.0,kianna-riera,373.75,38.0,3,adelena-paine,392.16,20.0
+lineup,dat,I,B100,1,breona-pizzuta,72.01,42.0,2.0,alexa-roemer-1,74.18,32.0,3,eliana-ruan,75.72,25.0
+lineup,dat,I,C100,1,lylah-wilhelm,75.48,76.0,2.0,aila-riera,81.37,49.0,3,ava-morrison,83.01,42.0
+relay,hdr,1161.0
+relay,RE200YF,2,kianna-riera,lylah-wilhelm,julia-hulse,tamiyanna-roemer,122.15,264.0,breona-pizzuta,aila-riera,natalie-oliviera,ava-dreyer,131.42,183.0,447.0
+relay,RA200YF,2,breona-pizzuta,aila-riera,julia-hulse,tamiyanna-roemer,113.34,243.0,natalie-oliviera,eliana-ruan,ava-morrison,ava-dreyer,117.8,201.0,444.0
+relay,RA400YF,2,lylah-wilhelm,meredith-ruple,kianna-riera,ava-dreyer,257.28,162.0,ava-morrison,kirsten-shave,sasha-paulyson,adelena-paine,269.67,108.0,270.0

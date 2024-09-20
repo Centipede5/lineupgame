@@ -1,0 +1,15 @@
+lineup,hdr,3,2147
+lineup,dat,R,RE200,1,thomas-ambelang-1,valdemar-alstrom-1,nicholas-snyder-2,matt-guinta-1,106.22,306
+lineup,dat,R,RE200,2,eli-lennox-1,kurt-huniker,ilai-ben-shimon,tanner-pagel,121.21,186
+lineup,dat,I,A200,1,thomas-ambelang-1,112.47,92,2,tanner-pagel,118.78,71,3,eli-lennox-1,158.94,0
+lineup,dat,I,E200,1,valdemar-alstrom-1,135.44,62,2,nicholas-snyder-2,131.87,72,3,jack-corbett-1,153.07,19
+lineup,dat,I,A50,1,ilai-ben-shimon,25.79,62,2,nicholas-allocco,29.52,19,3,matt-guinta-1,23.44,96
+lineup,dat,I,D100,1,tanner-pagel,64.89,48,2,ilai-ben-shimon,62.47,60,3,sixton-alstrom,98.33,0
+lineup,dat,I,A100,1,matt-guinta-1,55.32,67,2,kurt-huniker,63.49,21,3,caden-lorenzo,94.8,0
+lineup,dat,I,A500,1,nicholas-snyder-2,317.31,77,2,colby-guinta,432.39,0,3,randeep-kalra,465.62,0
+lineup,dat,R,RA200,1,thomas-ambelang-1,tanner-pagel,valdemar-alstrom-1,matt-guinta-1,97.65,288
+lineup,dat,R,RA200,2,sixton-alstrom,jack-corbett-1,caden-lorenzo,kurt-huniker,117.64,123
+lineup,dat,I,B100,1,thomas-ambelang-1,58.44,92,2,eli-lennox-1,73.38,28,3,jack-corbett-1,68.28,47
+lineup,dat,I,C100,1,valdemar-alstrom-1,69.63,68,2,dheirya-tyagi,73.95,49,3,kurt-huniker,77.4,35
+lineup,dat,R,RA400,1,ilai-ben-shimon,nicholas-snyder-2,jack-corbett-1,eli-lennox-1,240.48,159
+lineup,dat,R,RA400,2,nicholas-allocco,sixton-alstrom,dheirya-tyagi,colby-guinta,289.36,0

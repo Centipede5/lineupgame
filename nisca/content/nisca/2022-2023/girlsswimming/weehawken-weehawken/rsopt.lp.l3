@@ -1,0 +1,13 @@
+lineup,hdr,3,192.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,ebony-manzanillo,131.65,113.0,,,,,,,,
+lineup,dat,I,A50,,,,,,,,,,,,
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,,,,,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,luna-orozco,75.93,24.0,,,,,,,,
+lineup,dat,I,C100,1,ebony-manzanillo,80.06,55.0,,,,,,,,
+relay,hdr,813.0
+relay,RE200YF,1,paula-narvaez-1,ebony-manzanillo,luna-orozco,ophelia-schellinck,115.98,321.0,,,,,,,321.0
+relay,RA200YF,1,paula-narvaez-1,chloe-reyes-1,ophelia-schellinck,ebony-manzanillo,106.73,309.0,,,,,,,309.0
+relay,RA400YF,1,paula-narvaez-1,chloe-reyes-1,ophelia-schellinck,luna-orozco,252.95,183.0,,,,,,,183.0

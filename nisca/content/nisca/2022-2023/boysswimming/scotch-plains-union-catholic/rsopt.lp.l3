@@ -1,0 +1,10 @@
+lineup,hdr,3,630.0
+lineup,dat,I,A200,1,brooke-labarge,120.13,67.0,2.0,normandie-beversluis,126.27,49.0,,,,
+lineup,dat,I,E200,1,michael-riely,135.44,62.0,,,,,,,,
+lineup,dat,I,A50,1,jack-perreault,24.56,79.0,2.0,brooke-labarge,26.96,47.0,3,daniel-wilson-6,27.25,44.0
+lineup,dat,I,D100,1,michael-riely,58.7,81.0,2.0,sienna-delcorsano,72.56,15.0,,,,
+lineup,dat,I,A100,1,jack-perreault,53.37,80.0,2.0,normandie-beversluis,57.3,55.0,3,daniel-wilson-6,66.68,7.0
+lineup,dat,I,A500,1,william-spreeman,346.6,44.0,,,,,,,,
+relay,hdr,534.0
+relay,RE200YM,2,jack-perreault,william-spreeman,michael-riely,daniel-wilson-6,111.46,261.0,nicole-ciuba,james-donnelly-3,sienna-delcorsano,jasmin-crotty,146.71,33.0,294.0
+relay,RA200YM,1,michael-riely,daniel-wilson-6,jack-perreault,william-spreeman,102.83,240.0,,,,,,,240.0

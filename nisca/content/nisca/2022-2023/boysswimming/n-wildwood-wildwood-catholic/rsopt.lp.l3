@@ -1,0 +1,12 @@
+lineup,hdr,3,336.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,kona-wong,147.38,32.0,2.0,lindsey-rossell,148.69,29.0,,,,
+lineup,dat,I,A50,1,lj-belasco,22.23,116.0,2.0,rosonello-blake,27.63,39.0,3,christian-sorensen,29.59,18.0
+lineup,dat,I,D100,1,lj-belasco,64.64,50.0,,,,,,,,
+lineup,dat,I,A100,,,,,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,christian-sorensen,81.87,2.0,,,,,,,,
+lineup,dat,I,C100,1,kona-wong,73.75,50.0,,,,,,,,
+relay,hdr,336.0
+relay,RE200YM,2,christian-sorensen,kona-wong,lj-belasco,rosonello-blake,121.6,183.0,chase-adams-3,lindsey-rossell,kory-lafferty,nola-quinn,149.56,18.0,201.0
+relay,RA200YM,1,rosonello-blake,chase-adams-3,kory-lafferty,lj-belasco,115.85,135.0,,,,,,,135.0

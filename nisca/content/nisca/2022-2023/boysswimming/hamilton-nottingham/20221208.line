@@ -1,0 +1,15 @@
+lineup,hdr,3,125
+lineup,dat,R,RE200,1,bode-miller,tim-babkowski,alex-ceballos,george-barry,139.71,69
+lineup,dat,R,RE200,2,ethan-wiebesiek,jack-ford-3,logan-mcguire,macallister-miller,156.79,0
+lineup,dat,I,A200,1,nick-chiorello,170.08,0,2,dominick-barry,169.97,0,3,tim-babkowski,177.15,0
+lineup,dat,I,E200,1,logan-mcguire,170.84,0,2,bode-miller,205.29,0
+lineup,dat,I,A50,1,ethan-wiebesiek,31.77,0,2,mark-tezak,32.68,0,3,macallister-miller,39.42,0
+lineup,dat,I,D100,1,alex-ceballos,70.02,25
+lineup,dat,I,A100,1,george-barry,71.68,0,2,dominick-barry,78.36,0,3,nick-chiorello,74.98,0
+lineup,dat,I,A500,1,alex-ceballos,422,0,2,logan-mcguire,393.43,1
+lineup,dat,R,RA200,1,miguel-fleurijean,pineda-zacarias-alwin,renniel-vasquez-checo,harrison-bomm,162.92,0
+lineup,dat,R,RA200,2,ethan-wiebesiek,mark-tezak,jack-ford-3,nick-chiorello,132.65,30
+lineup,dat,I,B100,1,bode-miller,83.47,0,2,george-barry,96.74,0,3,macallister-miller,104.97,0
+lineup,dat,I,C100,1,tim-babkowski,88,0
+lineup,dat,R,RA400,1,george-barry,alex-ceballos,logan-mcguire,tim-babkowski,299.89,0
+lineup,dat,R,RA400,2,mark-tezak,ethan-wiebesiek,bode-miller,jack-ford-3,328.13,0

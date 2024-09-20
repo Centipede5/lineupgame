@@ -1,0 +1,14 @@
+lineup,hdr,3,1506
+lineup,dat,R,RE200,1,aadarsh-kumar,joshua-greenberg,ryan-leung,tyler-catalano,131.78,114
+lineup,dat,R,RE200,2,steven-preobrazhensky,jacob-malamud,matteo-dimaggio,michael-grzanko,111.32,261
+lineup,dat,I,A200,1,cole-canada,167.65,0,2,steven-perkins,127.46,45
+lineup,dat,I,E200,1,joshua-greenberg,152,21,2,ryan-leung,149.62,27
+lineup,dat,I,A50,1,jacob-malamud,26.39,54,2,matteo-dimaggio,25.83,61,3,tyler-catalano,28.34,31
+lineup,dat,I,D100,1,steven-perkins,64.06,52,2,michael-grzanko,55.9,98
+lineup,dat,I,A100,1,aadarsh-kumar,67.67,2,2,steven-preobrazhensky,56.83,58
+lineup,dat,I,A500,1,tyler-catalano,465.97,0,2,michael-grzanko,312.31,83
+lineup,dat,R,RA200,1,jacob-malamud,matteo-dimaggio,steven-perkins,steven-preobrazhensky,113.65,153
+lineup,dat,I,B100,1,joshua-greenberg,69.81,41,2,ryan-leung,66.5,54,3,aadarsh-kumar,78.2,13
+lineup,dat,I,C100,1,jacob-malamud,75.5,42,2,matteo-dimaggio,69.72,68
+lineup,dat,R,RA400,1,cole-canada,tyler-catalano,aadarsh-kumar,joshua-greenberg,283.13,12
+lineup,dat,R,RA400,2,michael-grzanko,steven-perkins,steven-preobrazhensky,matteo-dimaggio,226.89,216

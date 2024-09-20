@@ -1,0 +1,16 @@
+lineup,hdr,3,980
+lineup,dat,I,A200,1,shannon-mcgowan-1,131,64,2,emily-fricker,133.9,55
+lineup,dat,I,E200,1,hailey-oosterwyk,140.85,82,2,mackenzie-glenn,145.3,69,3,alexa-yasin,160.69,29
+lineup,dat,I,A50,1,sam-reichert-1,26.87,84,2,zoe-mitros,30.33,38,3,sam-seeber,30.83,32
+lineup,dat,I,D100,1,mackenzie-glenn,64.22,86,2,hailey-oosterwyk,65.23,81,3,emily-fricker,70.5,55
+lineup,dat,I,A100,1,shannon-mcgowan-1,60.25,68,2,sam-reichert-1,66.33,31,3,shaina-sweezy,69.92,12
+lineup,dat,I,A500,1,meghan-daurizio,355.23,58
+lineup,dat,I,B100,1,meghan-daurizio,69.9,53,2,zoe-mitros,78.08,15
+lineup,dat,I,C100,1,alexa-yasin,80.06,55,2,damico-veronica,92.24,8,3,shaina-sweezy,93.02,5
+relay,hdr,852
+relay,RE200YF,2,shannon-mcgowan-1,alexa-yasin,mackenzie-glenn,sam-reichert-1,121.55,2.6700000000000000e+02,zoe-mitros,damico-veronica,meghan-daurizio,sam-seeber,139.87,1.2000000000000000e+02
+relay,RA200YF,2,sam-reichert-1,shannon-mcgowan-1,emily-fricker,hailey-oosterwyk,109.72,2.7600000000000000e+02,meghan-daurizio,zoe-mitros,damico-veronica,alexa-yasin,119.09,1.8900000000000000e+02
+relay,hdr,1035
+relay,RE200YF,2,shannon-mcgowan-1,alexa-yasin,mackenzie-glenn,sam-reichert-1,121.55,2.6700000000000000e+02,zoe-mitros,damico-veronica,meghan-daurizio,sam-seeber,139.87,1.2000000000000000e+02
+relay,RA200YF,2,sam-reichert-1,emily-fricker,meghan-daurizio,hailey-oosterwyk,112.98,2.4600000000000000e+02,zoe-mitros,damico-veronica,karolina-piedel,alexa-yasin,124,1.5000000000000000e+02
+relay,RA400YF,1,shannon-mcgowan-1,mackenzie-glenn,emily-fricker,hailey-oosterwyk,239.25,2.5200000000000000e+02

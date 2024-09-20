@@ -1,0 +1,15 @@
+lineup,hdr,3,999
+lineup,dat,R,RE200,1,abigail-ferroni,james-menie,kayla-torrente,james-hatzold,125.07,159
+lineup,dat,R,RE200,2,alexandra-robinson,riley-cristella,andrea-dunlap,ryan-shanahan-1,158.51,0
+lineup,dat,I,A200,1,jack-williams-549758,130.49,37,2,maria-scotto-di-perta,140.9,12,3,erin-dunlap,159.27,0
+lineup,dat,I,E200,1,abigail-ferroni,154.4,16,2,amelia-cooper-1,172.85,0
+lineup,dat,I,A50,1,luke-sutton,25.21,70,2,james-hatzold,28.19,33,3,lucas-mormando,28.05,34
+lineup,dat,I,D100,1,luke-sutton,62.87,58,2,kayla-torrente,70.65,23,3,jude-guzlan-1,69.92,26
+lineup,dat,I,A100,1,jack-williams-549758,58.76,46,2,maria-scotto-di-perta,61.87,29,3,michael-brignola,65.11,14
+lineup,dat,I,A500,1,james-menie,388.47,5,2,abigail-ferroni,383.88,9,3,alexandra-robinson,451.06,0
+lineup,dat,R,RA200,1,luke-sutton,james-hatzold,maria-scotto-di-perta,jack-williams-549758,110.19,177
+lineup,dat,R,RA200,2,erin-dunlap,lucas-mormando,amelia-cooper-1,andrea-dunlap,144.21,0
+lineup,dat,I,B100,1,kayla-torrente,66.87,53,2,james-hatzold,73.13,29,3,erin-dunlap,80.89,5
+lineup,dat,I,C100,1,james-menie,74.31,47,2,corinne-langowski,89.07,0,3,riley-cristella,100.35,0
+lineup,dat,R,RA400,1,jack-williams-549758,abigail-ferroni,luke-sutton,james-menie,251.11,117
+lineup,dat,R,RA400,2,kayla-torrente,maria-scotto-di-perta,andrea-dunlap,jude-guzlan-1,311.42,0

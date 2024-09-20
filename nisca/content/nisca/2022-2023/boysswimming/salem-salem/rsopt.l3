@@ -1,0 +1,12 @@
+lineup,hdr,3,112
+lineup,dat,I,A200
+lineup,dat,I,E200,1,holton-frank,145.87,35
+lineup,dat,I,A50,1,audrey-boggs,27.57,40
+lineup,dat,I,D100
+lineup,dat,I,A100,1,nicholas-grusemeyer,65.06,14
+lineup,dat,I,A500
+lineup,dat,I,B100
+lineup,dat,I,C100,1,audrey-boggs,80.88,22,2,daniel-grusemeyer,87.24,1
+relay,hdr,267
+relay,RE200YM,1,audrey-boggs,daniel-grusemeyer,holton-frank,caleb-clair,133.32,1.0500000000000000e+02
+relay,RA200YM,1,audrey-boggs,nicholas-grusemeyer,holton-frank,caleb-clair,112.1,1.6200000000000000e+02

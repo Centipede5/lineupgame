@@ -1,0 +1,15 @@
+lineup,hdr,3,1888
+lineup,dat,R,RE200,1,shep-cooper,quinn-feeney,eddie-gunnell,mike-loffredo,128.76,135
+lineup,dat,R,RE200,2,james-hackett-1,tanner-vallio,cade-saito,donovan-brown,113.77,240
+lineup,dat,I,A200,1,deavin-santos,152.22,0,2,cade-saito,131.54,34,3,quinn-feeney,142.41,8
+lineup,dat,I,E200,1,james-hackett-1,127,87,2,eddie-gunnell,155.52,14,3,connor-cole,137.81,56
+lineup,dat,I,A50,1,daemion-santos,24.25,83,2,christian-laforge,25.4,67,3,donovan-brown,25.64,64
+lineup,dat,I,D100,1,james-otoole-654398,68.68,31,2,cade-saito,63.7,54,3,keegen-byrne,65.67,45
+lineup,dat,I,A100,1,donovan-brown,56.93,57,2,daemion-santos,61.4,32,3,eddie-gunnell,57.5,54
+lineup,dat,I,A500,1,james-hackett-1,335.29,56,2,zack-martin-1,362.27,28,3,james-otoole-654398,362.09,29
+lineup,dat,R,RA200,1,mike-loffredo,miles-kline-2,deavin-santos,john-connolly-1,120.28,105
+lineup,dat,R,RA200,2,cade-saito,james-otoole-654398,donovan-brown,daemion-santos,108.15,195
+lineup,dat,I,B100,1,shep-cooper,73.16,29,2,keegen-byrne,65.44,59,3,zack-martin-1,69.52,42
+lineup,dat,I,C100,1,tanner-vallio,77.43,35,2,quinn-feeney,84.54,9,3,connor-cole,76.43,39
+lineup,dat,R,RA400,1,keegen-byrne,daemion-santos,eddie-gunnell,james-hackett-1,230.23,201
+lineup,dat,R,RA400,2,john-connolly-1,deavin-santos,miles-kline-2,shep-cooper,297.08,0

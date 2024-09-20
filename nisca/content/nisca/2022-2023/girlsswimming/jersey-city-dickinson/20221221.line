@@ -1,0 +1,14 @@
+lineup,hdr,3,234
+lineup,dat,R,RE200,1,norma-sarofiem,yefrenny-almonte,hiba-salhi,briana-lutin,237.75,0
+lineup,dat,I,A200,1,fiona-graham,180.77,0,2,norma-sarofiem,245.68,0
+lineup,dat,I,E200,1,mary-kristen-taino,152.97,48
+lineup,dat,I,A50,1,astrid-diaz-2,28.7,58,2,eliana-mendoza,31.4,26
+lineup,dat,I,D100
+lineup,dat,I,A100,1,astrid-diaz-2,66.2,31,2,yefrenny-almonte,93.57,0
+lineup,dat,I,A500,1,fiona-graham,529.16,0,2,hiba-salhi,570.07,0
+lineup,dat,R,RA200,1,fiona-graham,eliana-mendoza,mary-kristen-taino,astrid-diaz-2,138.24,48
+lineup,dat,R,RA200,2,norma-sarofiem,hiba-salhi,briana-lutin,yefrenny-almonte,177.2,0
+lineup,dat,I,B100,1,norma-sarofiem,133.31,0
+lineup,dat,I,C100,1,eliana-mendoza,101.3,0,2,mary-kristen-taino,87.95,23
+lineup,dat,R,RA400,1,eliana-mendoza,mary-kristen-taino,fiona-graham,astrid-diaz-2,337.7,0
+lineup,dat,R,RA400,2,fiona-graham,eliana-mendoza,mary-kristen-taino,astrid-diaz-2,337.7,0

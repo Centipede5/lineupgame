@@ -1,0 +1,13 @@
+lineup,hdr,3,324.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,owen-schouten,146.21,35.0,,,,,,,,
+lineup,dat,I,A50,1,michael-jakubaszek,26.52,52.0,2.0,steven-bracken,26.92,47.0,,,,
+lineup,dat,I,D100,1,owen-schouten,67.41,37.0,2.0,owen-kane-1,74.62,8.0,,,,
+lineup,dat,I,A100,1,michael-jakubaszek,61.41,32.0,2.0,steven-bracken,61.62,31.0,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,benjamin-lighty,73.93,26.0,,,,,,,,
+lineup,dat,I,C100,1,owen-kane-1,78.9,29.0,2.0,antino-ferretti,79.44,27.0,,,,
+relay,hdr,414.0
+relay,RE200YM,1,benjamin-lighty,owen-kane-1,owen-schouten,michael-jakubaszek,120.37,192.0,,,,,,,192.0
+relay,RA200YM,1,steven-bracken,antino-ferretti,benjamin-lighty,owen-kane-1,115.61,138.0,,,,,,,138.0
+relay,RA400YM,1,owen-schouten,benjamin-lighty,steven-bracken,michael-jakubaszek,260.53,84.0,,,,,,,84.0

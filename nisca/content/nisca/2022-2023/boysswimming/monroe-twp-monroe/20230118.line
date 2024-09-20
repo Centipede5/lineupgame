@@ -1,0 +1,11 @@
+lineup,hdr,3,706
+lineup,dat,R,RE200,1,evan-warner,brandon-anand,tyler-khassanov,rehaan-patel,121.85,180
+lineup,dat,I,A200,1,brandon-anand,106.83,113
+lineup,dat,I,E200,1,tyler-khassanov,165.86,0
+lineup,dat,I,A50,1,rehaan-patel,31.85,0,2,prathik-lingampally,34.64,0,3,aditya-mote,33.4,0
+lineup,dat,I,D100,1,evan-warner,59.01,79
+lineup,dat,I,A100,1,evan-warner,61.19,33
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,brandon-anand,tyler-khassanov,evan-warner,rehaan-patel,109.56,183
+lineup,dat,I,B100,1,abhinav-toti,98.92,0,2,aditya-mote,93.59,0
+lineup,dat,I,C100,1,brandon-anand,60.5,118,2,prathik-lingampally,95.23,0

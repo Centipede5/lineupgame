@@ -1,0 +1,15 @@
+lineup,hdr,3,2025
+lineup,dat,R,RE200,1,sydney-bickett,eliza-mcdonough,abby-kern,sarah-kern-1,120.86,276
+lineup,dat,R,RE200,2,rose-mahon,caitlin-hariegel,lauren-terista-1,carley-volkmann,146.99,72
+lineup,dat,I,A200,1,isabella-rossi-1,123.15,90,2,sydney-bickett,134.04,55,3,caitlin-hariegel,170.01,0
+lineup,dat,I,E200,1,gia-dileonardo,141.3,81,2,eliza-mcdonough,154.05,45,3,melissa-meyers,184.33,0
+lineup,dat,I,A50,1,carley-volkmann,27.55,74,2,lauren-terista-1,29.89,43,3,addison-lagamba,39.29,0
+lineup,dat,I,D100,1,abby-kern,62.35,97,2,sarah-kern-1,64.36,86,3,melissa-meyers,106.6,0
+lineup,dat,I,A100,1,carley-volkmann,62.52,53,2,lauren-terista-1,67.2,26,3,anna-marie-gerace,81.04,0
+lineup,dat,I,A500,1,isabella-rossi-1,338.97,78,2,gia-dileonardo,353.26,61,3,rose-mahon,445.62,0
+lineup,dat,R,RA200,1,gia-dileonardo,eliza-mcdonough,carley-volkmann,isabella-rossi-1,108.3,291
+lineup,dat,R,RA200,2,katie-capalbo,rose-mahon,anna-marie-gerace,caitlin-hariegel,138,51
+lineup,dat,I,B100,1,abby-kern,64.56,83,2,sydney-bickett,70.73,48,3,addison-lagamba,93.13,0
+lineup,dat,I,C100,1,sarah-kern-1,73.59,85,2,eliza-mcdonough,71.06,99,3,maryanne-kelton,97.56,0
+lineup,dat,R,RA400,1,gia-dileonardo,sarah-kern-1,abby-kern,isabella-rossi-1,243.05,231
+lineup,dat,R,RA400,2,sydney-bickett,rose-mahon,caitlin-hariegel,lauren-terista-1,312.22,0

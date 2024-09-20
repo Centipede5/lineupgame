@@ -1,0 +1,13 @@
+lineup,hdr,3,705.0
+lineup,dat,I,A200,1,madison-baranes,139.81,38.0,2.0,ella-chiroux,147.26,19.0,3,fiona-sheehan,149.47,14.0
+lineup,dat,I,E200,1,olivia-welsh,138.93,88.0,,,,,,,,
+lineup,dat,I,A50,1,dylaney-mccoy,27.7,72.0,2.0,madison-baranes,27.72,72.0,3,maggie-dunn,30.24,39.0
+lineup,dat,I,D100,1,fiona-sheehan,82.94,7.0,2.0,karsyn-mccoy,83.79,4.0,,,,
+lineup,dat,I,A100,1,ani-pierwola,60.71,65.0,2.0,dylaney-mccoy,63.82,45.0,3,giuliana-scoloveno,66.47,30.0
+lineup,dat,I,A500,1,ella-chiroux,405.72,8.0,,,,,,,,
+lineup,dat,I,B100,1,ani-pierwola,68.72,59.0,2.0,giuliana-scoloveno,75.69,25.0,3,karsyn-mccoy,80.34,6.0
+lineup,dat,I,C100,1,olivia-welsh,73.19,88.0,2.0,maggie-dunn,87.67,24.0,3,sophia-matyas,93.9,2.0
+relay,hdr,861.0
+relay,RE200YF,2,ani-pierwola,olivia-welsh,fiona-sheehan,dylaney-mccoy,128.22,210.0,giuliana-scoloveno,maggie-dunn,mira-hass,sophia-matyas,140.51,117.0,327.0
+relay,RA200YF,2,karsyn-mccoy,madison-baranes,sarah-lex,giuliana-scoloveno,120.97,174.0,maggie-dunn,mira-hass,sophia-matyas,ella-chiroux,130.58,99.0,273.0
+relay,RA400YF,2,dylaney-mccoy,ani-pierwola,madison-baranes,olivia-welsh,249.14,201.0,fiona-sheehan,ella-chiroux,sophia-matyas,sarah-lex,281.24,60.0,261.0

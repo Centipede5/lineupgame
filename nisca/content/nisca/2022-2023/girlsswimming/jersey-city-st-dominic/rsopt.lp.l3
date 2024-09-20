@@ -1,0 +1,12 @@
+lineup,hdr,3,391.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,mia-martinko,146.5,66.0,,,,,,,,
+lineup,dat,I,A50,1,isabella-quezada,27.47,75.0,2.0,ella-scarsi,28.9,56.0,3,emilie-aufaure,31.99,19.0
+lineup,dat,I,D100,1,mia-martinko,67.31,70.0,,,,,,,,
+lineup,dat,I,A100,1,isabella-quezada,66.09,32.0,2.0,carmelle-sullivan,69.9,12.0,3,emilie-aufaure,71.27,5.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,carmelle-sullivan,81.62,1.0,,,,,,,,
+lineup,dat,I,C100,1,nina-wagner,79.95,55.0,,,,,,,,
+relay,hdr,438.0
+relay,RE200YF,2,ella-scarsi,nina-wagner,mia-martinko,isabella-quezada,126.48,225.0,ariel-mccleary-weaver,iris-verdabillo,tatiana-kushnir-borges,carmelle-sullivan,153.55,33.0,258.0
+relay,RA200YF,1,ella-scarsi,nina-wagner,emilie-aufaure,mia-martinko,120.28,180.0,,,,,,,180.0

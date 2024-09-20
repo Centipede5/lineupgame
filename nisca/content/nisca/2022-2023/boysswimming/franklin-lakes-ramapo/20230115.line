@@ -1,0 +1,12 @@
+lineup,hdr,3,492
+lineup,dat,R,RE200,1,jack-tanen,daniel-kelly-7,amir-rakimov,aslan-aydin,127.56,141
+lineup,dat,I,A200,1,justin-john-2,172.07,0,2,joseph-huang,158.55,0
+lineup,dat,I,E200,1,jack-tanen,179.08,0
+lineup,dat,I,A50,1,aslan-aydin,28.71,27,2,daniel-kelly-7,26.92,47,3,marco-gualda,30.12,13
+lineup,dat,I,D100,1,joseph-huang,92.7,0,2,justin-john-2,86.09,0
+lineup,dat,I,A100,1,marco-gualda,71.42,0,2,owen-elkin,68.61,0,3,constantine-rutigliano,81.84,0
+lineup,dat,I,A500,1,amir-rakimov,329,63,2,owen-elkin,455.32,0,3,joseph-huang,464.39,0
+lineup,dat,R,RA200,1,justin-john-2,marco-gualda,aslan-aydin,constantine-rutigliano,126.74,66
+lineup,dat,I,B100,1,constantine-rutigliano,91.34,0,2,owen-elkin,76.88,17
+lineup,dat,I,C100,1,daniel-kelly-7,82.19,17,2,amir-rakimov,70.98,62,3,jack-tanen,91.18,0
+lineup,dat,R,RA400,1,daniel-kelly-7,joseph-huang,owen-elkin,amir-rakimov,273.61,39

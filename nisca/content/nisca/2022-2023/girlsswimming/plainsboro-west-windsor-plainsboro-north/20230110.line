@@ -1,0 +1,14 @@
+lineup,hdr,3,1026
+lineup,dat,R,RE200,1,amber-lu,claire-lin,sanjana-dhar,camille-yap,139.9,120
+lineup,dat,R,RE200,2,sophia-yu,aashna-singh-1,aria-mallick,raiya-shah,137.02,141
+lineup,dat,I,A200,1,aria-mallick,143.19,29,2,richa-choudhary,157.13,0,3,camille-yap,152.04,8
+lineup,dat,I,E200,1,claire-lin,159.1,33,2,aditi-lande,151.06,53
+lineup,dat,I,A50,1,sanjana-dhar,27,82,2,ramaa-deshpande-1,31.92,20,3,aashna-singh-1,29.67,46
+lineup,dat,I,D100,1,sanjana-dhar,72.86,45,2,camille-yap,79.05,20
+lineup,dat,I,A100,1,ramaa-deshpande-1,74.13,0,2,amber-lu,71.67,3,3,sophia-yu,65.76,34
+lineup,dat,I,A500,1,claire-lin,396.43,16,2,aria-mallick,398.13,14
+lineup,dat,R,RA200,1,richa-choudhary,ramaa-deshpande-1,raiya-shah,camille-yap,126.36,132
+lineup,dat,I,B100,1,amber-lu,80.67,4,2,aditi-lande,83.54,0,3,sophia-yu,66.63,70
+lineup,dat,I,C100,1,raiya-shah,82.96,42,2,richa-choudhary,107.13,0
+lineup,dat,R,RA400,1,claire-lin,aditi-lande,aria-mallick,sanjana-dhar,268.13,114
+lineup,dat,R,RA400,2,amber-lu,ramaa-deshpande-1,richa-choudhary,raiya-shah,301.49,0

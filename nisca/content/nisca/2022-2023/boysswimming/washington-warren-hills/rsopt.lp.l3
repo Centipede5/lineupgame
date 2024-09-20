@@ -1,0 +1,13 @@
+lineup,hdr,3,265.0
+lineup,dat,I,A200,1,brady-witt,138.65,17.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,max-lauton,25.42,67.0,2.0,bobby-balchev,29.18,22.0,,,,
+lineup,dat,I,D100,1,franco-giovanetti,72.38,16.0,,,,,,,,
+lineup,dat,I,A100,1,max-lauton,59.19,44.0,,,,,,,,
+lineup,dat,I,A500,1,brady-witt,379.13,13.0,,,,,,,,
+lineup,dat,I,B100,1,wyatt-meyer,77.19,16.0,2.0,sienna-kachala,77.31,16.0,3,franco-giovanetti,79.38,9.0
+lineup,dat,I,C100,1,nico-giovanetti,80.53,23.0,2.0,jason-mele,80.76,22.0,,,,
+relay,hdr,531.0
+relay,RE200YM,2,sienna-kachala,nico-giovanetti,max-lauton,bobby-balchev,126.73,147.0,wyatt-meyer,jason-mele,franco-giovanetti,meaghan-oleary,131.0,120.0,267.0
+relay,RA200YM,2,nico-giovanetti,bobby-balchev,max-lauton,brady-witt,112.92,156.0,franco-giovanetti,meaghan-oleary,jocelyn-kranicka-1,kapri-delghiaccio,125.32,72.0,228.0
+relay,RA400YM,1,brady-witt,jocelyn-kranicka-1,bobby-balchev,wyatt-meyer,275.09,36.0,,,,,,,36.0

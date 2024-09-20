@@ -1,0 +1,14 @@
+lineup,hdr,3,986
+lineup,dat,R,RE200,1,jack-lowinger,roderick-chu,grant-nelson,scott-hunter,142.32,54
+lineup,dat,I,A200,1,ryan-haberman,166.1,0,2,alexander-amoresano,135.84,24,3,nicolas-mixich,171.02,0
+lineup,dat,I,E200,1,ian-cynk,163.28,0,2,thien-tran,127.43,86,3,jack-lowinger,177.95,0
+lineup,dat,I,A50,1,scott-hunter,29.86,15,2,jonathan-callanan,27.19,44,3,grant-zou,26.68,50
+lineup,dat,I,D100,1,thien-tran,54.84,105,2,jonathan-callanan,64.77,49
+lineup,dat,I,A100,1,jack-lowinger,58.81,46,2,alexander-amoresano,59.17,44,3,anthony-pandullo,88.07,0
+lineup,dat,I,A500,1,roderick-chu,512.58,0,2,neal-maheshwart,382.89,10,3,grant-nelson,449.13,0
+lineup,dat,R,RA200,1,alexander-amoresano,ryan-haberman,ian-cynk,thien-tran,104.56,225
+lineup,dat,R,RA200,2,mason-gurney,anthony-pandullo,scott-hunter,nicolas-mixich,126.47,66
+lineup,dat,I,B100,1,nicolas-mixich,83.2,0,2,neal-maheshwart,65.31,59,3,grant-zou,71.84,34
+lineup,dat,I,C100,1,ian-cynk,90.06,0,2,grant-nelson,89.24,0,3,mason-gurney,89.05,0
+lineup,dat,R,RA400,1,roderick-chu,nicolas-mixich,scott-hunter,anthony-pandullo,325.53,0
+lineup,dat,R,RA400,2,neal-maheshwart,ian-cynk,alexander-amoresano,jonathan-callanan,263.03,75

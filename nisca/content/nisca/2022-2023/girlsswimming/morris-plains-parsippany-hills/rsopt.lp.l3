@@ -1,0 +1,13 @@
+lineup,hdr,3,733.0
+lineup,dat,I,A200,1,isabella-ferdinandi,153.84,4.0,2.0,angelina-messana,153.58,4.0,3,ayana-patel,153.53,4.0
+lineup,dat,I,E200,1,shreya-kamath,157.28,37.0,,,,,,,,
+lineup,dat,I,A50,1,kelly-le,25.8,101.0,2.0,taylor-edmiston,31.53,24.0,3,sarah-velicky,32.74,12.0
+lineup,dat,I,D100,1,elizabeth-duffy-1,62.07,99.0,2.0,shreya-kamath,72.97,44.0,,,,
+lineup,dat,I,A100,1,kaylee-depietro,60.93,64.0,2.0,taylor-wong,62.61,53.0,3,alexandra-soltys,66.95,27.0
+lineup,dat,I,A500,1,elizabeth-duffy-1,351.27,63.0,2.0,isabella-ferdinandi,409.21,5.0,,,,
+lineup,dat,I,B100,1,kaylee-depietro,64.34,84.0,2.0,ayana-patel,77.87,16.0,3,alexandra-soltys,80.31,6.0
+lineup,dat,I,C100,1,kelly-le,73.41,86.0,,,,,,,,
+relay,hdr,792.0
+relay,RE200YF,2,kaylee-depietro,kelly-le,elizabeth-duffy-1,taylor-wong,118.68,297.0,alexandra-soltys,sarah-velicky,shreya-kamath,taylor-edmiston,140.7,114.0,411.0
+relay,RA200YF,2,kelly-le,taylor-wong,taylor-edmiston,ayana-patel,119.77,183.0,sarah-velicky,angelina-messana,annarose-to,isabella-ferdinandi,140.7,33.0,216.0
+relay,RA400YF,2,alexandra-soltys,kaylee-depietro,elizabeth-duffy-1,taylor-wong,267.58,117.0,taylor-edmiston,ayana-patel,shreya-kamath,isabella-ferdinandi,284.52,48.0,165.0

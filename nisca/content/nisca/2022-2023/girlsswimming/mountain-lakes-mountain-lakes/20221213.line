@@ -1,0 +1,15 @@
+lineup,hdr,3,2607
+lineup,dat,R,RE200,1,myra-almeida,serena-aiello,avni-kaushal,sophia-scerbo,155.37,21
+lineup,dat,R,RE200,2,lorelai-page-1,mira-marino,jessica-tsang,sarah-le-var,113.85,345
+lineup,dat,I,A200,1,yasmine-lalani,125.09,83,2,keira-lee,128.69,72,3,myra-almeida,174.83,0
+lineup,dat,I,E200,1,mira-marino,135.76,99,2,jessica-tsang,136.09,97,3,emily-voloshin,165.5,18
+lineup,dat,I,A50,1,sarah-le-var,27.58,74,2,emily-samay,28.58,60,3,izzie-defazio,31.03,30
+lineup,dat,I,D100,1,lorelai-page-1,60.5,108,2,beth-burkly,71.5,50,3,caroline-tsang,70.13,57
+lineup,dat,I,A100,1,jessica-tsang,55,107,2,sarah-le-var,59.55,73,3,elle-lynk,65.8,34
+lineup,dat,I,A500,1,yasmine-lalani,337.44,80,2,keira-lee,372.35,40,3,izzie-defazio,486.83,0
+lineup,dat,R,RA200,1,sarah-le-var,keira-lee,yasmine-lalani,mira-marino,111.22,261
+lineup,dat,R,RA200,2,emily-samay,elle-lynk,izzie-defazio,emily-voloshin,122.2,165
+lineup,dat,I,B100,1,myra-almeida,80.75,4,2,lorelai-page-1,58.33,124
+lineup,dat,I,C100,1,mira-marino,67.63,119,2,emily-voloshin,84,38,3,caroline-tsang,81.96,46
+lineup,dat,R,RA400,1,yasmine-lalani,jessica-tsang,keira-lee,lorelai-page-1,229.23,306
+lineup,dat,R,RA400,2,izzie-defazio,elle-lynk,emily-samay,beth-burkly,272.2,96

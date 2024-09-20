@@ -1,0 +1,13 @@
+lineup,hdr,3,654
+lineup,dat,I,A200,1,james-treshock,111.91,94,2,david-rubio,139.69,14
+lineup,dat,I,E200,1,billy-nagy,134.46,65
+lineup,dat,I,A50,1,ryan-zalinksi,23,103,2,michael-ford-1,26.14,57,3,ben-costello-1,30.34,11
+lineup,dat,I,D100,1,james-treshock,59.29,78
+lineup,dat,I,A100,1,ryan-zalinksi,54.08,75,2,ben-costello-1,61.53,31,3,tanner-dinapoli,62,29
+lineup,dat,I,A500,1,billy-nagy,337.95,53
+lineup,dat,I,B100,1,michael-ford-1,71.95,33
+lineup,dat,I,C100,1,noah-karaban,84.41,10,2,tanner-dinapoli,87.27,1
+relay,hdr,570
+relay,RE200YM,2,james-treshock,michael-ford-1,billy-nagy,ryan-zalinksi,123.63,1.6800000000000000e+02,wyatt-van-wagner-1,noah-karaban,tanner-dinapoli,ben-costello-1,129.67,1.2900000000000000e+02
+relay,RA200YM,1,noah-karaban,wyatt-van-wagner-1,tanner-dinapoli,ben-costello-1,118.56,1.1700000000000000e+02
+relay,RA400YM,1,james-treshock,michael-ford-1,billy-nagy,ryan-zalinksi,240.89,1.5600000000000000e+02

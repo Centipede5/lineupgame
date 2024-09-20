@@ -1,0 +1,12 @@
+lineup,hdr,3,450
+lineup,dat,I,A200,1,steven-roche,116.22,79
+lineup,dat,I,E200
+lineup,dat,I,A50,1,bruno-cavero,23.34,98,2,rowan-guller,26.44,53,3,bar-shir,29.31,21
+lineup,dat,I,D100,1,rowan-guller,69.95,26
+lineup,dat,I,A100,1,bar-shir,67.31,4
+lineup,dat,I,A500
+lineup,dat,I,B100
+lineup,dat,I,C100,1,steven-roche,64.89,93,2,bruno-cavero,68.08,76
+relay,hdr,327
+relay,RE200YM,1,steven-roche,bruno-cavero,rowan-guller,bar-shir,120.26,1.9200000000000000e+02
+relay,RA200YM,1,george-kass,bar-shir,rowan-guller,steven-roche,115.93,1.3500000000000000e+02

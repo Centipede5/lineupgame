@@ -1,0 +1,15 @@
+lineup,hdr,3,1913
+lineup,dat,R,RE200,1,tyler-mac-1,armaan-desai,joseph-genovesi-1,alexander-helmrich,112.93,249
+lineup,dat,R,RE200,2,pavel-sverdlov,colin-subhan,aaron-lvov,andrew-yadamiec,124.47,162
+lineup,dat,I,A200,1,matthew-helmrich,132.68,31,2,matteo-piccarillo,136.62,22,3,owen-wemple,164.95,0
+lineup,dat,I,E200,1,tyler-mac-1,136.05,61,2,pavel-sverdlov,154.82,15,3,colin-subhan,143.77,40
+lineup,dat,I,A50,1,james-damron,25.87,61,2,joshua-rheinhardt,27.49,41
+lineup,dat,I,D100,1,alexander-helmrich,60.21,73,2,james-damron,63.83,53,3,jonah-corveleyn,71.41,20
+lineup,dat,I,A100,1,tyler-mac-1,54.08,75,2,joseph-genovesi-1,56.33,61,3,declan-kavanaugh,68.41,0
+lineup,dat,I,A500,1,matthew-helmrich,357.97,33,2,armaan-desai,427.23,0,3,aaron-lvov,389.93,4
+lineup,dat,R,RA200,1,matthew-helmrich,andrew-yadamiec,james-damron,pavel-sverdlov,104.99,222
+lineup,dat,R,RA200,2,jonah-corveleyn,joseph-genovesi-1,colin-subhan,pavel-sverdlov,106.77,207
+lineup,dat,I,B100,1,matteo-piccarillo,72.5,31,2,jonah-corveleyn,74.95,23,3,edward-zhang-1,107.5,0
+lineup,dat,I,C100,1,alexander-helmrich,70.39,65,2,andrew-yadamiec,79.48,27,3,joseph-genovesi-1,79.12,28
+lineup,dat,R,RA400,1,colin-subhan,armaan-desai,tyler-mac-1,alexander-helmrich,235.82,177
+lineup,dat,R,RA400,2,matteo-piccarillo,andrew-yadamiec,pavel-sverdlov,matthew-helmrich,247.18,132

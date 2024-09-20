@@ -1,0 +1,15 @@
+lineup,hdr,3,2138
+lineup,dat,R,RE200,1,derek-gutowski,matthew-mckenna-1,greg-sottile,nick-riska,122.17,177
+lineup,dat,R,RE200,2,tyler-chen-1,aidan-ochoa,aidan-saladino,elliot-uhlman,109.69,276
+lineup,dat,I,A200,1,gabriel-farkas,128.63,42,2,nathan-milun,120.58,65,3,aizik-guevara,140.74,12
+lineup,dat,I,E200,1,cesar-maxwell,152.01,21,2,elliot-uhlman,142.05,45,3,layne-stavitsky,174,0
+lineup,dat,I,A50,1,ian-ziomek,25.39,67,2,alex-ochoa,26.14,57,3,anthony-blehl,27.58,40
+lineup,dat,I,D100,1,greg-sottile,74.22,9,2,matthew-mckenna-1,64.59,50,3,nathan-milun,75.23,5
+lineup,dat,I,A100,1,nick-riska,57.99,51,2,ian-ziomek,57.51,54,3,anthony-blehl,62.9,24
+lineup,dat,I,A500,1,elliot-uhlman,381.39,11,2,derek-gutowski,333.59,58,3,aizik-guevara,391.01,3
+lineup,dat,R,RA200,1,greg-sottile,anthony-blehl,nathan-milun,cesar-maxwell,111.86,165
+lineup,dat,R,RA200,2,alex-ochoa,ian-ziomek,aidan-saladino,tyler-chen-1,100.43,261
+lineup,dat,I,B100,1,gabriel-farkas,66.87,53,2,aidan-ochoa,62.86,70,3,nick-riska,71.06,37
+lineup,dat,I,C100,1,cesar-maxwell,76.43,39,2,tyler-chen-1,67.3,80
+lineup,dat,R,RA400,1,gabriel-farkas,alex-ochoa,elliot-uhlman,derek-gutowski,240.01,159
+lineup,dat,R,RA400,2,aidan-saladino,anthony-blehl,aidan-ochoa,ian-ziomek,229.2,207

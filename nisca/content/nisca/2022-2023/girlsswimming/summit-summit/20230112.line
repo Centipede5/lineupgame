@@ -1,0 +1,15 @@
+lineup,hdr,3,3230
+lineup,dat,R,RE200,1,molly-fagan,emily-hickey,juliette-ho,juliet-webb-1,116.09,321
+lineup,dat,R,RE200,2,ava-miller,emma-vachal,cecelia-webb,grace-collins,124.32,243
+lineup,dat,I,A200,1,emily-hickey,139.3,40,2,ella-callahan,127.22,76,3,lauren-sexton,129.88,68
+lineup,dat,I,E200,1,juliette-ho,136.37,97,2,melanie-dripchak,146.63,65,3,bridget-devaney,148.53,60
+lineup,dat,I,A50,1,cecelia-webb,24.82,117,2,grace-collins,27.91,69,3,juliet-webb-1,25.18,111
+lineup,dat,I,D100,1,juliette-ho,61.78,100,2,bridget-devaney,66.31,75
+lineup,dat,I,A100,1,ella-callahan,58.11,83,2,maeve-caldwell,63.52,47,3,katherine-hicks,62.04,56
+lineup,dat,I,A500,1,grace-collins,329.69,90,2,molly-fagan,335.59,82
+lineup,dat,R,RA200,1,lauren-sexton,cecelia-webb,ella-callahan,grace-collins,107.45,300
+lineup,dat,R,RA200,2,ava-miller,naya-kim,bridget-devaney,ellie-greene,114.75,228
+lineup,dat,I,B100,1,molly-fagan,59.75,114,2,juliet-webb-1,64.11,85,3,katherine-hicks,64.81,81
+lineup,dat,I,C100,1,emily-hickey,77.7,65,2,lauren-sexton,79.13,59
+lineup,dat,R,RA400,1,juliette-ho,ella-callahan,cecelia-webb,molly-fagan,233.74,282
+lineup,dat,R,RA400,2,ava-miller,juliet-webb-1,bridget-devaney,katherine-hicks,246.23,216

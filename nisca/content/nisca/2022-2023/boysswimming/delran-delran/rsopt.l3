@@ -1,0 +1,17 @@
+lineup,hdr,3,853
+lineup,dat,I,A200,1,jack-williams-549758,130.49,37,2,james-hatzold,137.08,21,3,maria-scotto-di-perta,140.9,12
+lineup,dat,I,E200,1,james-menie,148.22,30,2,abigail-ferroni,154.4,16
+lineup,dat,I,A50,1,tyler-grose,25.72,63,2,jude-guzlan-1,26.46,53,3,lucas-mormando,28.05,34
+lineup,dat,I,D100,1,luke-sutton,62.87,58,2,kayla-torrente,70.65,23,3,tyler-grose,70.8,22
+lineup,dat,I,A100,1,jack-williams-549758,58.76,46,2,maria-scotto-di-perta,61.87,29,3,michael-brignola,65.11,14
+lineup,dat,I,A500,1,campbell-willard,348.49,42,2,james-hatzold,370.85,20
+lineup,dat,I,B100,1,campbell-willard,59.75,86,2,kayla-torrente,66.87,53,3,jude-guzlan-1,69,44
+lineup,dat,I,C100,1,luke-sutton,69.56,69,2,james-menie,74.31,47,3,abigail-ferroni,77.5,34
+relay,hdr,894
+relay,RE200YM,2,campbell-willard,luke-sutton,kayla-torrente,abigail-ferroni,120.26,1.9200000000000000e+02,james-hatzold,amelia-cooper-1,jude-guzlan-1,erin-dunlap,131.9,1.1400000000000000e+02
+relay,RA200YM,2,campbell-willard,james-hatzold,maria-scotto-di-perta,luke-sutton,109.88,1.8000000000000000e+02,tyler-grose,raegan-langowski,james-menie,jack-williams-549758,112.09,1.6200000000000000e+02
+relay,RA400YM,2,raegan-langowski,maria-scotto-di-perta,erin-dunlap,corinne-langowski,243.14,1.4700000000000000e+02,lucas-mormando,kayla-torrente,michael-brignola,jude-guzlan-1,255.99,9.9000000000000000e+01
+relay,hdr,915
+relay,RE200YM,2,campbell-willard,luke-sutton,kayla-torrente,abigail-ferroni,120.26,1.9200000000000000e+02,james-hatzold,amelia-cooper-1,jude-guzlan-1,erin-dunlap,131.9,1.1400000000000000e+02
+relay,RA200YM,2,james-menie,tyler-grose,jack-williams-549758,luke-sutton,108.22,1.9500000000000000e+02,erin-dunlap,jude-guzlan-1,alexandra-robinson,maria-scotto-di-perta,116,1.3500000000000000e+02
+relay,RA400YM,2,raegan-langowski,maria-scotto-di-perta,erin-dunlap,corinne-langowski,243.14,1.4700000000000000e+02,james-menie,campbell-willard,jack-williams-549758,tyler-grose,246.77,1.3200000000000000e+02

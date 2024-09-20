@@ -1,0 +1,12 @@
+lineup,hdr,3,398.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,ava-tiscornia,28.42,62.0,2.0,alanna-chobar,29.54,48.0,3,mollie-ritter,30.54,36.0
+lineup,dat,I,D100,1,alanna-chobar,76.95,28.0,,,,,,,,
+lineup,dat,I,A100,1,ava-tiscornia,63.95,44.0,2.0,clara-vales,69.59,13.0,3,mollie-ritter,71.59,3.0
+lineup,dat,I,A500,1,iman-ali,349.49,65.0,,,,,,,,
+lineup,dat,I,B100,1,iman-ali,68.09,62.0,,,,,,,,
+lineup,dat,I,C100,1,mackenzie-motroni,88.99,19.0,2.0,clara-vales,89.3,18.0,,,,
+relay,hdr,408.0
+relay,RA200YF,2,ava-tiscornia,elizabeth-rogers,alanna-chobar,iman-ali,122.7,159.0,clara-vales,mollie-ritter,keira-ardise,scarlett-mahoney,132.7,84.0,243.0
+relay,RE200YF,2,clara-vales,ava-tiscornia,alanna-chobar,iman-ali,137.37,138.0,sarah-maher-1,mackenzie-motroni,mollie-ritter,elizabeth-rogers,154.39,27.0,165.0

@@ -1,0 +1,15 @@
+lineup,hdr,3,2863
+lineup,dat,R,RE200,1,nathan-colosimo,brandon-ho-1,aaron-nam,michael-granin,110.51,270
+lineup,dat,R,RE200,2,michael-cheng-1,patrick-glynn,soyo-funada,cameron-fischer,113.27,246
+lineup,dat,I,A200,1,nathan-colosimo,126.27,49,2,peter-lambert,123.76,56,3,ryan-darby,155.51,0
+lineup,dat,I,E200,1,brandon-ho-1,130.69,76,2,patrick-glynn,130.68,76,3,colin-fischer,150.01,26
+lineup,dat,I,A50,1,michael-granin,22.09,119,2,hayes-williams,25.19,70,3,david-kim-16,26.39,54
+lineup,dat,I,D100,1,aaron-nam,56.91,92,2,brandon-ho-1,59.87,74,3,thiago-von-zuben-martinez,77.06,0
+lineup,dat,I,A100,1,sam-skibo,51.5,93,2,soyo-funada,54.46,73,3,cameron-fischer,56.2,61
+lineup,dat,I,A500,1,jack-glynn,315.08,80,2,peter-lambert,326.27,66,3,colin-fischer,357.38,33
+lineup,dat,R,RA200,1,sam-skibo,brandon-ho-1,patrick-glynn,jack-glynn,99.37,273
+lineup,dat,R,RA200,2,hayes-williams,david-kim-16,bruce-dickson,brandon-son,108.76,189
+lineup,dat,I,B100,1,nathan-colosimo,62.5,72,2,michael-cheng-1,66.33,55,3,owen-patton,76.52,18
+lineup,dat,I,C100,1,aaron-nam,67.7,78,2,bruce-dickson,70.95,62,3,alex-van-kempen,86.14,4
+lineup,dat,R,RA400,1,jack-glynn,nathan-colosimo,sam-skibo,michael-granin,210.25,300
+lineup,dat,R,RA400,2,soyo-funada,colin-fischer,michael-cheng-1,peter-lambert,231.38,198

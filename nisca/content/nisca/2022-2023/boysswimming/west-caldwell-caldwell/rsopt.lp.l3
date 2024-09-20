@@ -1,0 +1,13 @@
+lineup,hdr,3,955.0
+lineup,dat,I,A200,1,peyton-livelli,137.07,21.0,,,,,,,,
+lineup,dat,I,E200,1,tom-nappi,122.27,102.0,,,,,,,,
+lineup,dat,I,A50,1,chris-mattesky,24.94,73.0,2.0,daniel-barnes,25.83,61.0,3,james-goodwin,26.99,47.0
+lineup,dat,I,D100,1,finn-coogan--russell,52.54,122.0,2.0,trevor-mescia,69.0,30.0,,,,
+lineup,dat,I,A100,1,trevor-mescia,58.93,45.0,2.0,ryan-livelli,61.7,30.0,3,daniel-barnes,62.5,26.0
+lineup,dat,I,A500,1,tom-nappi,310.3,86.0,2.0,peyton-livelli,370.57,21.0,,,,
+lineup,dat,I,B100,1,finn-coogan--russell,53.88,119.0,2.0,shane-dilley,75.65,21.0,3,ryan-livelli,77.31,16.0
+lineup,dat,I,C100,1,chris-mattesky,67.89,77.0,2.0,joe-britton,76.64,38.0,3,mark-wyrovski,81.51,20.0
+relay,hdr,1041.0
+relay,RA200YM,2,tom-nappi,peyton-livelli,chris-mattesky,finn-coogan--russell,95.51,312.0,mike-sipper,gavin-akersten,matt-glenn-1,james-goodwin,112.29,162.0,474.0
+relay,RE200YM,2,finn-coogan--russell,chris-mattesky,tom-nappi,trevor-mescia,107.25,297.0,shane-dilley,mark-wyrovski,daniel-barnes,james-goodwin,125.64,153.0,450.0
+relay,RA400YM,2,peyton-livelli,james-goodwin,ryan-livelli,gavin-akersten,263.24,75.0,mike-sipper,shane-dilley,matt-glenn-1,matthew-egan,273.09,42.0,117.0

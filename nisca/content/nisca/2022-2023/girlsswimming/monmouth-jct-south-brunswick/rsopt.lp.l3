@@ -1,0 +1,13 @@
+lineup,hdr,3,987.0
+lineup,dat,I,A200,1,emma-vindigni-1,130.41,66.0,2.0,ria-badgujar,140.27,37.0,3,ritika-pal,145.97,22.0
+lineup,dat,I,E200,1,emma-vindigni-1,148.94,59.0,2.0,trisha-verma,149.21,58.0,3,aagrimaa-mehra,163.35,23.0
+lineup,dat,I,A50,1,anna-ruzhanski,26.17,95.0,2.0,gargi-randive-2,28.37,63.0,3,erina-rejo,28.75,58.0
+lineup,dat,I,D100,1,trisha-verma,63.38,91.0,2.0,rishika-puthli,80.45,15.0,3,aadya-jain,82.16,9.0
+lineup,dat,I,A100,1,ria-badgujar,63.6,47.0,2.0,erina-rejo,65.19,37.0,3,gargi-randive-2,66.36,30.0
+lineup,dat,I,A500,1,ritika-pal,389.83,22.0,2.0,sana-jain,411.02,3.0,,,,
+lineup,dat,I,B100,1,anna-ruzhanski,65.56,77.0,2.0,divya-tase,75.27,27.0,3,aadya-jain,79.31,10.0
+lineup,dat,I,C100,1,aanya-shridhar,78.28,63.0,2.0,aagrimaa-mehra,81.5,48.0,3,rishika-midha,86.94,27.0
+relay,hdr,1098.0
+relay,RE200YF,2,anna-ruzhanski,emma-vindigni-1,trisha-verma,erina-rejo,120.28,279.0,divya-tase,aanya-shridhar,aagrimaa-mehra,devna-ashok,134.51,159.0,438.0
+relay,RA200YF,2,trisha-verma,aanya-shridhar,ria-badgujar,erina-rejo,114.05,234.0,aagrimaa-mehra,divya-tase,sana-jain,gargi-randive-2,121.37,171.0,405.0
+relay,RA400YF,2,emma-vindigni-1,ria-badgujar,aanya-shridhar,anna-ruzhanski,256.31,168.0,vibha-mitti,ritika-pal,gargi-randive-2,sana-jain,274.94,87.0,255.0

@@ -1,0 +1,12 @@
+lineup,hdr,3,109.0
+lineup,dat,I,A200,1,rhea-sridhar,127.31,46.0,2.0,rianna-burgos-1,138.41,17.0,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,beqa-zaliashvili-1,27.43,41.0,,,,,,,,
+lineup,dat,I,D100,1,alex-santistenan,75.2,5.0,,,,,,,,
+lineup,dat,I,A100,,,,,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,126.0
+relay,RA200YM,2,daniel-benson,alex-santistenan,kaylee-russo,beqa-zaliashvili-1,129.13,51.0,christopher-paone-1,quinn-boyd-1,angel-makaj,dylan-lottmann-1,135.3,18.0,69.0
+relay,RE200YM,1,rhea-sridhar,isabella-gomez-2,alex-santistenan,beqa-zaliashvili-1,141.96,57.0,,,,,,,57.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,1170.0
+lineup,dat,I,A200,1,grace-korey-1,123.33,90.0,,,,,,,,
+lineup,dat,I,E200,1,samantha-bender,135.82,98.0,2.0,meghan-robinson-3,135.83,98.0,,,,
+lineup,dat,I,A50,1,annabella-derosa-1,28.58,60.0,2.0,valeria-ayala-juarez,28.66,59.0,3,anna-rekatas-1,30.13,40.0
+lineup,dat,I,D100,1,samantha-bender,61.72,101.0,2.0,shannon-meeks-1,73.77,41.0,,,,
+lineup,dat,I,A100,1,ella-ecko-1,55.92,100.0,2.0,ashley-hsrtnett,61.08,63.0,3,caitlyn-sebastian-2,70.15,10.0
+lineup,dat,I,A500,1,grace-korey-1,333.87,84.0,,,,,,,,
+lineup,dat,I,B100,1,ella-ecko-1,64.81,81.0,2.0,ashley-hsrtnett,68.01,63.0,3,shannon-meeks-1,79.56,9.0
+lineup,dat,I,C100,1,meghan-robinson-3,68.58,113.0,2.0,annabella-derosa-1,80.69,52.0,3,anna-rekatas-1,92.34,8.0
+relay,hdr,996.0
+relay,RE200YF,2,ella-ecko-1,meghan-robinson-3,samantha-bender,ashley-hsrtnett,113.1,351.0,annabella-derosa-1,anna-rekatas-1,shannon-meeks-1,caitlyn-sebastian-2,137.15,141.0,492.0
+relay,RA200YF,2,ella-ecko-1,meghan-robinson-3,grace-korey-1,samantha-bender,104.98,327.0,anna-rekatas-1,audrey-panik-1,courtney-sikes,caitlyn-sebastian-2,137.12,54.0,381.0
+relay,RA400YF,1,annabella-derosa-1,shannon-meeks-1,ashley-hsrtnett,grace-korey-1,265.77,123.0,,,,,,,123.0

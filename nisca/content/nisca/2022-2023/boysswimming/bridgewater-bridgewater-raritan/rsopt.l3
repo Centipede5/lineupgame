@@ -1,0 +1,13 @@
+lineup,hdr,3,2587
+lineup,dat,I,A200,1,will-pestrichelli,107.85,109,2,mason-pan,108.39,107,3,alex-yao,116.59,78
+lineup,dat,I,E200,1,jaden-lee-1,115.19,128,2,andrew-bauxbum,122.58,101,3,christian-wong-3,126.81,88
+lineup,dat,I,A50,1,kacper-buniowski,21.74,125,2,drew-rossi,22.13,118,3,jackson-parisi,22.46,112
+lineup,dat,I,D100,1,greg-yukhvid,52.29,123,2,brian-castone,56.17,97,3,rahim-tariq,59.57,76
+lineup,dat,I,A100,1,kacper-buniowski,48.97,113,2,drew-rossi,49.26,111,3,jackson-parisi,51.14,96
+lineup,dat,I,A500,1,will-pestrichelli,289.14,115,2,mason-pan,291.47,112,3,samuel-meyer,311.33,85
+lineup,dat,I,B100,1,jaden-lee-1,53.12,124,2,andrew-bauxbum,56,106,3,alex-yao,58.43,93
+lineup,dat,I,C100,1,greg-yukhvid,58.16,134,2,christian-wong-3,60.56,118,3,frank-ksiazek,60.62,118
+relay,hdr,2067
+relay,RE200YM,2,jaden-lee-1,christian-wong-3,greg-yukhvid,kacper-buniowski,96.02,4.1100000000000000e+02,andrew-bauxbum,jackson-parisi,brian-castone,antony-buniowski,103.3,3.3600000000000000e+02
+relay,RA200YM,2,brian-castone,antony-buniowski,will-pestrichelli,jackson-parisi,92.15,3.4800000000000000e+02,mithran-moses,dominik-placek,lucas-cruz-3,rahim-tariq,98.47,2.8200000000000000e+02
+relay,RA400YM,2,drew-rossi,jaden-lee-1,greg-yukhvid,kacper-buniowski,195.89,3.8100000000000000e+02,mason-pan,antony-buniowski,brian-castone,will-pestrichelli,208.33,3.0900000000000000e+02

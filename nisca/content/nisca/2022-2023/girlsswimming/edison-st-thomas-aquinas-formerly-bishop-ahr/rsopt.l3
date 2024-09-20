@@ -1,0 +1,13 @@
+lineup,hdr,3,879
+lineup,dat,I,A200,1,kaitlyn-hall-1,125.82,81,2,sierra-smith-1,131.76,62,3,hailey-zeszotarski,135.34,51
+lineup,dat,I,E200,1,natalie-neno,139.94,85
+lineup,dat,I,A50,1,kaitlyn-hall-1,26.21,94,2,emma-figueiredo,32.42,15
+lineup,dat,I,D100,1,samantha-villacis,58.48,121,2,amaris-guevara,84.35,2
+lineup,dat,I,A100,1,sierra-smith-1,60.84,64,2,emma-figueiredo,70.18,10
+lineup,dat,I,A500,1,hailey-zeszotarski,359.05,54
+lineup,dat,I,B100,1,samantha-villacis,60.74,107,2,caithlyn-caballero,76.87,20
+lineup,dat,I,C100,1,natalie-neno,70.67,101,2,kamerin-collado,90.87,12
+relay,hdr,840
+relay,RE200YF,2,samantha-villacis,natalie-neno,sierra-smith-1,kaitlyn-hall-1,114.61,3.3600000000000000e+02,hailey-zeszotarski,amaris-guevara,caithlyn-caballero,emma-figueiredo,142.26,1.0500000000000000e+02
+relay,RA200YF,2,sierra-smith-1,natalie-neno,samantha-villacis,kaitlyn-hall-1,107.06,3.0600000000000000e+02,caithlyn-caballero,leahana-ortiz,kamerin-collado,madison-brew,134.58,7.2000000000000000e+01
+relay,RA400YF,1,hailey-zeszotarski,kamerin-collado,caithlyn-caballero,emma-figueiredo,291.55,2.1000000000000000e+01

@@ -1,0 +1,16 @@
+lineup,hdr,3,598
+lineup,dat,I,A200,1,arati-advani,145.78,23
+lineup,dat,I,E200
+lineup,dat,I,A50,1,margaret-furman,28.57,60,2,sarah-tarantini,29.06,54,3,tamara-nicole-borbe,30.88,32
+lineup,dat,I,D100,1,haley-nowak,60.84,106
+lineup,dat,I,A100,1,denise-borbe,67.45,24,2,sophia-lee-503697,68.11,21,3,tamara-nicole-borbe,70.81,7
+lineup,dat,I,A500
+lineup,dat,I,B100,1,sophia-lee-503697,68.01,63,2,denise-borbe,76.73,20,3,malak-hassan,78.73,12
+lineup,dat,I,C100,1,haley-nowak,69.7,107,2,margaret-furman,81.66,48,3,sarah-tarantini,88.49,21
+relay,hdr,861
+relay,RE200YF,2,sophia-lee-503697,haley-nowak,margaret-furman,sarah-tarantini,126.11,2.2800000000000000e+02,denise-borbe,tamara-nicole-borbe,malak-hassan,hailey-anne-de-guzman,142.43,1.0200000000000000e+02
+relay,RA200YF,2,ashley-tapia,ryanne-abuhadba,mriam-awad,kaylie-bartletta-1,101.16,3.7200000000000000e+02,denise-borbe,margaret-furman,sophia-lee-503697,sarah-tarantini,122.97,1.5900000000000000e+02
+relay,hdr,978
+relay,RE200YF,2,sophia-lee-503697,haley-nowak,margaret-furman,sarah-tarantini,126.11,2.2800000000000000e+02,denise-borbe,tamara-nicole-borbe,malak-hassan,hailey-anne-de-guzman,142.43,1.0200000000000000e+02
+relay,RA200YF,2,ashley-tapia,ryanne-abuhadba,mriam-awad,kaylie-bartletta-1,101.16,3.7200000000000000e+02,denise-borbe,salma-shehata,malak-hassan,tamara-nicole-borbe,131.1,9.6000000000000000e+01
+relay,RA400YF,1,sophia-lee-503697,margaret-furman,sarah-tarantini,haley-nowak,253.61,1.8000000000000000e+02

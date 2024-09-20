@@ -1,0 +1,14 @@
+lineup,hdr,3,999
+lineup,dat,R,RE200,1,jack-cotnoir,james-rodas-2,nicholas-heusel,jacob-bonn,133.62,105
+lineup,dat,I,A200,1,joshua-susanto,150.72,0,2,ben-goroway,140.78,12
+lineup,dat,I,E200,1,paul-eberhardt,168.8,0,2,lincoln-stuek-1,134.28,65
+lineup,dat,I,A50,1,nate-miller-3,29.74,16,2,jacob-bonn,29.04,24,3,nicholas-heusel,26.95,47
+lineup,dat,I,D100,1,nate-miller-3,86.75,0,2,andrew-kosiak,66.94,39
+lineup,dat,I,A100,1,james-rodas-2,60.52,36,2,owen-barone,54.12,75,3,jacob-bonn,70.02,0
+lineup,dat,I,A500,1,jack-cotnoir,371.69,20
+lineup,dat,R,RA200,1,jack-cotnoir,owen-barone,nicholas-heusel,andrew-alexopoulas,109.07,186
+lineup,dat,R,RA200,2,ben-goroway,james-rodas-2,paul-eberhardt,lincoln-stuek-1,118.77,114
+lineup,dat,I,B100,1,ben-goroway,58.92,90,2,owen-barone,68.38,47,3,joshua-susanto,78.11,13
+lineup,dat,I,C100,1,andrew-alexopoulas,82.78,15,2,andrew-kosiak,75.89,41,3,sean-forsell,124.63,0
+lineup,dat,R,RA400,1,andrew-kosiak,andrew-alexopoulas,jacob-bonn,sean-forsell,288.13,0
+lineup,dat,R,RA400,2,joshua-susanto,ben-goroway,paul-eberhardt,nate-miller-3,269.45,54

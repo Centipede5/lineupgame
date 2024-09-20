@@ -1,0 +1,14 @@
+lineup,hdr,3,259
+lineup,dat,R,RE200,1,emmy-keller,eliza-martinez,nicollette-mejia-ranno,kaylee-rottkamp,146.55,75
+lineup,dat,I,A200,1,carissa-staiger,162.15,0,2,moira-vining,216.34,0
+lineup,dat,I,E200,1,emmy-keller,174.84,0,2,eliza-martinez,191.52,0,3,kaylee-rottkamp,193.8,0
+lineup,dat,I,A50,1,josephine-perrin,30.68,34,2,grace-karkhanis,39.09,0,3,mallory-hulling,41.71,0
+lineup,dat,I,D100,1,nicollette-mejia-ranno,80.16,16,2,elliana-ostroff,93.23,0
+lineup,dat,I,A100,1,moira-vining,85.94,0,2,grace-karkhanis,93.81,0,3,mallory-hulling,98.86,0
+lineup,dat,I,A500,1,carissa-staiger,424.38,0,2,kaylee-rottkamp,471.97,0
+lineup,dat,R,RA200,1,emmy-keller,eliza-martinez,carissa-staiger,josephine-perrin,130.76,99
+lineup,dat,R,RA200,2,elliana-ostroff,moira-vining,mallory-hulling,grace-karkhanis,168.78,0
+lineup,dat,I,B100,1,emmy-keller,73.56,35,2,elliana-ostroff,96.3,0
+lineup,dat,I,C100,1,nicollette-mejia-ranno,96.34,0,2,eliza-martinez,111.75,0
+lineup,dat,R,RA400,1,eliza-martinez,carissa-staiger,kaylee-rottkamp,nicollette-mejia-ranno,324.07,0
+lineup,dat,R,RA400,2,josephine-perrin,mallory-hulling,moira-vining,grace-karkhanis,402.61,0

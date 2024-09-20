@@ -1,0 +1,16 @@
+lineup,hdr,3,272
+lineup,dat,I,A200,1,maxim-costiuc,145.69,1
+lineup,dat,I,E200,1,landon-dobleman,156.86,11,2,nicholas-marino-1,158.21,8
+lineup,dat,I,A50,1,chase-boucher,27.53,40,2,lauren-wines,28.22,32,3,joe-esposito-600188,28.94,25
+lineup,dat,I,D100,1,maxim-costiuc,69.44,28
+lineup,dat,I,A100,1,chase-boucher,66,10,2,lauren-wines,67.73,2
+lineup,dat,I,A500,1,landon-dobleman,375.39,16,2,joe-esposito-600188,389.49,4
+lineup,dat,I,B100,1,liam-arney,76.63,18
+lineup,dat,I,C100,1,christopher-barrcia-1,76.51,38,2,shane-silvestro,80.66,23,3,phoenix-staines,82.52,16
+relay,hdr,441
+relay,RE200YM,2,landon-dobleman,christopher-barrcia-1,maxim-costiuc,chase-boucher,127.54,1.4100000000000000e+02,liam-arney,shane-silvestro,lauren-wines,wayne-schellhas,138.47,7.5000000000000000e+01
+relay,RA200YM,2,christopher-barrcia-1,shane-silvestro,chase-boucher,landon-dobleman,119.06,1.1400000000000000e+02,joe-esposito-600188,liam-arney,maxim-costiuc,lauren-wines,119.59,1.1100000000000000e+02
+relay,hdr,459
+relay,RE200YM,2,landon-dobleman,christopher-barrcia-1,maxim-costiuc,chase-boucher,127.54,1.4100000000000000e+02,liam-arney,shane-silvestro,lauren-wines,wayne-schellhas,138.47,7.5000000000000000e+01
+relay,RA200YM,2,joe-esposito-600188,liam-arney,maxim-costiuc,lauren-wines,119.59,1.1100000000000000e+02,phoenix-staines,charles-gomez,wayne-schellhas,louis-fanelle,126.23,6.9000000000000000e+01
+relay,RA400YM,1,landon-dobleman,chase-boucher,joe-esposito-600188,christopher-barrcia-1,265.96,6.3000000000000000e+01

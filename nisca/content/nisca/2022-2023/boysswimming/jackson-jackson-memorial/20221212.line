@@ -1,0 +1,15 @@
+lineup,hdr,3,1407
+lineup,dat,R,RE200,1,josh-shufran,sebastian-bach,alexey-tselichtchev,robert-taylor-654573,118.6,204
+lineup,dat,R,RE200,2,kyle-fosgreen,arden-brewster,tyler-stein,sameer-hamedeh,123.23,171
+lineup,dat,I,A200,1,alex-ariel,149.54,0,2,giedrius-makselis,153.97,0,3,jake-michalik,168.26,0
+lineup,dat,I,E200,1,josh-shufran,145.4,37,2,arden-brewster,158.28,8
+lineup,dat,I,A50,1,alexey-tselichtchev,23.64,93,2,kyle-fosgreen,24.68,77,3,sameer-hamedeh,26.36,54
+lineup,dat,I,D100,1,alexey-tselichtchev,62.9,58,2,tyler-stein,74.95,6,3,robert-taylor-654573,79.84,0
+lineup,dat,I,A100,1,alex-ariel,61.16,33,2,giedrius-makselis,61.71,30,3,sebastian-bach,62.62,26
+lineup,dat,I,A500,1,josh-shufran,329.94,62,2,sameer-hamedeh,417.11,0,3,jake-michalik,479.65,0
+lineup,dat,R,RA200,1,alexey-tselichtchev,sebastian-bach,giedrius-makselis,alex-ariel,108.68,189
+lineup,dat,R,RA200,2,tyler-stein,drew-barocas,nick-pearson-1,cj-dounis,124.39,78
+lineup,dat,I,B100,1,kyle-fosgreen,66.28,55,2,robert-taylor-654573,76.25,19,3,christian-lucky,76.25,19
+lineup,dat,I,C100,1,sebastian-bach,78.05,32,2,arden-brewster,79.45,27,3,drew-barocas,88.32,0
+lineup,dat,R,RA400,1,josh-shufran,kyle-fosgreen,giedrius-makselis,sameer-hamedeh,248.1,129
+lineup,dat,R,RA400,2,tyler-stein,christian-lucky,connor-spencer,alex-ariel,303.11,0

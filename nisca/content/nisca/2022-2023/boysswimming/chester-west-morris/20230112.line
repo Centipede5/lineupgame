@@ -1,0 +1,15 @@
+lineup,hdr,3,1529
+lineup,dat,R,RE200,1,dashiell-antonov,evan-weinberger,carter-searle,jack-griffiths-1,123.43,168
+lineup,dat,R,RE200,2,brodie-fritsch,sam-fiesseler,aidan-bresney,aidan-oneil-1,144.77,42
+lineup,dat,I,A200,1,aidan-oneil-1,146.91,0,2,dashiell-antonov,119.25,70,3,brodie-fritsch,146.24,0
+lineup,dat,I,E200,1,colin-brett,201.06,0,2,evan-weinberger,143.63,41,3,carter-searle,159.96,5
+lineup,dat,I,A50,1,sam-fiesseler,27.43,41,2,christian-lozanguiez,23.78,91,3,jack-griffiths-1,25.85,61
+lineup,dat,I,D100,1,aidan-bresney,72.72,15,2,itay-ben-yoseph,53.95,111,3,carter-searle,69.37,28
+lineup,dat,I,A100,1,sergey-sachko,62.84,25,2,jack-griffiths-1,59.65,41,3,evan-caulfield,69.2,0
+lineup,dat,I,A500,1,blake-libert,422.14,0,2,dashiell-antonov,335.86,55,3,aidan-oneil-1,416.83,0
+lineup,dat,R,RA200,1,itay-ben-yoseph,carter-searle,jack-griffiths-1,christian-lozanguiez,108.03,195
+lineup,dat,R,RA200,2,aidan-oneil-1,aidan-bresney,sergey-sachko,brodie-fritsch,127.9,57
+lineup,dat,I,B100,1,evan-caulfield,91.7,0,2,itay-ben-yoseph,55.13,111,3,brodie-fritsch,77.87,14
+lineup,dat,I,C100,1,sam-fiesseler,85.27,7,2,christian-lozanguiez,66.72,83,3,evan-weinberger,76.84,37
+lineup,dat,R,RA400,1,luke-mercurio,charles-charlie-meyer,blake-libert,colin-brett,370.53,0
+lineup,dat,R,RA400,2,dashiell-antonov,evan-weinberger,christian-lozanguiez,itay-ben-yoseph,223.88,231

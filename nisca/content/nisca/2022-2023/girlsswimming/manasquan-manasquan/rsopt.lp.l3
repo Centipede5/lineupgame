@@ -1,0 +1,13 @@
+lineup,hdr,3,1898.0
+lineup,dat,I,A200,1,kylie-spalt,125.51,82.0,2.0,zoe-petrella,127.32,76.0,3,bridget-heim,131.94,61.0
+lineup,dat,I,E200,1,summer-sakowicz,138.46,90.0,2.0,dylann-eldridge,139.77,86.0,3,katie-petrella,144.41,72.0
+lineup,dat,I,A50,1,ryan-mclaughlin-10,26.18,95.0,2.0,paulina-maycher,27.3,78.0,3,lily-hackett,27.8,71.0
+lineup,dat,I,D100,1,bennett-devincens,63.17,92.0,2.0,zoe-petrella,63.3,91.0,3,amelia-benol,68.48,64.0
+lineup,dat,I,A100,1,kaylee-porter,58.23,82.0,2.0,ryan-mclaughlin-10,58.77,78.0,3,bridget-heim,58.85,78.0
+lineup,dat,I,A500,1,dylann-eldridge,328.97,91.0,2.0,kaylee-porter,337.78,79.0,3,amelia-benol,363.37,49.0
+lineup,dat,I,B100,1,summer-sakowicz,63.49,89.0,2.0,kylie-spalt,64.2,85.0,3,maddie-ireland,67.62,65.0
+lineup,dat,I,C100,1,bennett-devincens,71.18,98.0,2.0,katie-spalt,74.72,80.0,3,katie-petrella,77.62,66.0
+relay,hdr,1557.0
+relay,RE200YF,2,summer-sakowicz,bennett-devincens,dylann-eldridge,ryan-mclaughlin-10,116.41,318.0,maddie-ireland,kylie-spalt,paulina-maycher,morgan-zylinski-1,122.52,261.0,579.0
+relay,RA200YF,2,bennett-devincens,maddie-ireland,ryan-mclaughlin-10,zoe-petrella,109.47,279.0,caroline-finnigan,ameila-kuzloski,kaylee-porter,katie-petrella,115.19,225.0,504.0
+relay,RA400YF,2,dylann-eldridge,zoe-petrella,kylie-spalt,summer-sakowicz,240.86,243.0,maddie-ireland,kaylee-porter,bridget-heim,katie-petrella,243.09,231.0,474.0

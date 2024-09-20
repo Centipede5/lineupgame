@@ -1,0 +1,15 @@
+lineup,hdr,3,3863
+lineup,dat,R,RE200,1,jaiden-xu,henry-xu,david-xu-1,jerry-liu,105.42,315
+lineup,dat,R,RE200,2,jaden-jung,matias-da-costa,alex-aprikian,tyler-censi,111.12,264
+lineup,dat,I,A200,1,david-brophy,110.91,98,2,julian-velazquez,111.42,96,3,zachary-guan,112.93,91
+lineup,dat,I,E200,1,david-xu-1,120.53,108,2,jaiden-xu,123.45,98,3,jerry-liu,134.18,66
+lineup,dat,I,A50,1,daniel-baytin,22.08,119,2,alex-aprikian,24.55,79
+lineup,dat,I,D100,1,julian-velazquez,56.01,98,2,jaiden-xu,57.08,91,3,henry-xu,59.57,76
+lineup,dat,I,A100,1,daniel-baytin,49.59,108,2,david-brophy,51.46,94,3,tyler-censi,53.99,76
+lineup,dat,I,A500,1,david-xu-1,296.69,104,2,jaden-jung,318.62,75,3,matias-da-costa,347.44,43
+lineup,dat,R,RA200,1,jerry-liu,david-brophy,julian-velazquez,daniel-baytin,93.49,333
+lineup,dat,R,RA200,2,zachary-guan,alex-aprikian,henry-xu,tyler-censi,98.14,285
+lineup,dat,I,B100,1,zachary-guan,56.91,101,2,jaden-jung,60.71,81,3,mark-lackner,65.23,60
+lineup,dat,I,C100,1,henry-xu,61.55,112,2,jerry-liu,67.81,77,3,matias-da-costa,66.36,85
+lineup,dat,R,RA400,1,julian-velazquez,david-xu-1,david-brophy,daniel-baytin,197.87,369
+lineup,dat,R,RA400,2,zachary-guan,jaden-jung,jaiden-xu,alex-aprikian,217.45,261

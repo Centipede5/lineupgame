@@ -1,0 +1,15 @@
+lineup,hdr,3,3544
+lineup,dat,R,RE200,1,ryan-wargo-1,veer-misra,gavin-grouser,jaden-wang,106.96,300
+lineup,dat,R,RE200,2,laurent-banville,raunaq-singh,ali-habashi,sid-parvatrao,112.08,255
+lineup,dat,I,A200,1,joe-mcmheshey,107.9,109,2,john-eodice,115.32,82,3,ethan-myts,116.65,78
+lineup,dat,I,E200,1,veer-misra,120.84,107,2,laurent-banville,125.02,93,3,kyle-colipano,136.74,59
+lineup,dat,I,A50,1,derin-ozbas,22.88,105,2,jaden-wang,23.21,100,3,mark-ward,24.71,77
+lineup,dat,I,D100,1,joe-mcmheshey,52.34,123,2,gavin-grouser,57.32,89,3,ali-habashi,64.19,52
+lineup,dat,I,A100,1,derin-ozbas,48.55,116,2,max-chen,54.94,69,3,ryan-wargo-1,55.39,67
+lineup,dat,I,A500,1,john-eodice,305.8,92,2,laurent-banville,319.76,74,3,diego-burgos,326.2,66
+lineup,dat,R,RA200,1,derin-ozbas,gavin-grouser,mark-ward,joe-mcmheshey,94.69,318
+lineup,dat,R,RA200,2,veer-misra,viraj-misra,raunaq-singh,sid-parvatrao,100.3,264
+lineup,dat,I,B100,1,om-mahajan,59.93,85,2,treshawn-thathappa,63.64,67,3,rohan-kanduri,65.31,59
+lineup,dat,I,C100,1,viraj-misra,65.98,87,2,raunaq-singh,73.56,50,3,andy-gao,76.39,39
+lineup,dat,R,RA400,1,ryan-wargo-1,gavin-grouser,mark-ward,joe-mcmheshey,219.32,252
+lineup,dat,R,RA400,2,tiago-granados,treshawn-thathappa,max-chen,kyle-colipano,228.64,210

@@ -1,0 +1,13 @@
+lineup,hdr,3,659
+lineup,dat,R,RE200,1,gia-danastasio,chris-green-599338,william-toth,jack-chew,119.15,201
+lineup,dat,R,RE200,2,ana-yucis,sofia-yurcis,kaitlyn-capalbo,sara-yucis,177.33,0
+lineup,dat,I,A200,1,sofia-yurcis,168.6,0
+lineup,dat,I,E200,1,chris-green-599338,123.68,98
+lineup,dat,I,A50,1,william-toth,24.23,84,2,james-mann-1,31.04,4,3,aidan-collins,31.67,0
+lineup,dat,I,D100,1,jack-chew,72.16,17
+lineup,dat,I,A100,1,william-toth,55.94,63,2,kaitlyn-capalbo,78.98,0,3,aidan-collins,89.74,0
+lineup,dat,I,A500,1,sofia-yurcis,492.49,0
+lineup,dat,R,RA200,1,james-mann-1,kaitlyn-capalbo,ana-yucis,sofia-yurcis,142.06,0
+lineup,dat,I,B100,1,jack-chew,74.78,24
+lineup,dat,I,C100,1,chris-green-599338,65.93,87,2,christian-pepe,89.29,0,3,gia-danastasio,88.05,0
+lineup,dat,R,RA400,1,aidan-collins,william-toth,jack-chew,chris-green-599338,260.99,81

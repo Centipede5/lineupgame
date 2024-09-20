@@ -1,0 +1,17 @@
+lineup,hdr,3,1287
+lineup,dat,I,A200,1,kenny-smith-1,127.7,45,2,ashley-batejan,132.85,31,3,tia-spitzenberg,133.05,30
+lineup,dat,I,E200,1,brayden-tedesco,129.78,78,2,emma-scott-653712,145.22,37,3,julian-napoli,155.1,15
+lineup,dat,I,A50,1,christian-napoli,23.18,100,2,robert-collazzo,23.64,93,3,ian-polaneczky,25.76,62
+lineup,dat,I,D100,1,ellie-davis,61.98,63,2,julian-napoli,68.91,30,3,emily-schwarwalder,69.3,28
+lineup,dat,I,A100,1,christian-napoli,51.37,94,2,robert-collazzo,54.74,71,3,ian-polaneczky,61.25,33
+lineup,dat,I,A500,1,ellie-davis,316.2,78,2,tia-spitzenberg,357.14,33,3,kenny-smith-1,366.84,24
+lineup,dat,I,B100,1,brayden-tedesco,57.38,98,2,ashley-batejan,65.55,58,3,alex-cacia,68.31,47
+lineup,dat,I,C100,1,emma-scott-653712,71.7,59,2,karla-johnson-1,75.13,44,3,carlyn-mckendrick,76.97,36
+relay,hdr,1092
+relay,RE200YM,2,brayden-tedesco,emma-scott-653712,ellie-davis,christian-napoli,109.57,2.7600000000000000e+02,ashley-batejan,karla-johnson-1,emily-schwarwalder,robert-collazzo,119.34,1.9800000000000000e+02
+relay,RA200YM,2,ian-polaneczky,julian-napoli,kenny-smith-1,christian-napoli,104.44,2.2500000000000000e+02,karla-johnson-1,allison-flem,joseph-ditomaso,joseph-rotchford,118.01,1.2000000000000000e+02
+relay,RA400YM,2,alex-cacia,joseph-rotchford,ian-polaneczky,julian-napoli,244.67,1.4100000000000000e+02,ellie-davis,emily-schwarwalder,tia-spitzenberg,emma-scott-653712,246.97,1.3200000000000000e+02
+relay,hdr,1098
+relay,RE200YM,2,ashley-batejan,ian-polaneczky,julian-napoli,robert-collazzo,119.6,1.9500000000000000e+02,alex-cacia,karla-johnson-1,emily-schwarwalder,joseph-rotchford,123.1,1.7100000000000000e+02
+relay,RA200YM,2,ian-polaneczky,julian-napoli,kenny-smith-1,christian-napoli,104.44,2.2500000000000000e+02,karla-johnson-1,allison-flem,joseph-ditomaso,joseph-rotchford,118.01,1.2000000000000000e+02
+relay,RA400YM,2,kenny-smith-1,robert-collazzo,brayden-tedesco,christian-napoli,218.68,2.5500000000000000e+02,ellie-davis,emily-schwarwalder,tia-spitzenberg,emma-scott-653712,246.97,1.3200000000000000e+02

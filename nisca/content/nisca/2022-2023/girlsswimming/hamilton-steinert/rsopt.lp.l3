@@ -1,0 +1,12 @@
+lineup,hdr,3,198.0
+lineup,dat,I,A200,1,anna-smithson,138.15,43.0,,,,,,,,
+lineup,dat,I,E200,1,kira-casler,161.86,26.0,,,,,,,,
+lineup,dat,I,A50,1,ovgu-yilmaz,31.23,28.0,2.0,gina-mazza,31.92,20.0,,,,
+lineup,dat,I,D100,1,kira-casler,77.09,27.0,,,,,,,,
+lineup,dat,I,A100,,,,,,,,,,,,
+lineup,dat,I,A500,1,anna-smithson,358.63,54.0,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,381.0
+relay,RA200YF,2,sasha-culcay,arbelis-collado,marina-magdy,chelsea-ramil,122.19,165.0,kira-casler,lilyana-vandero,ovgu-yilmaz,anna-smithson,126.87,126.0,291.0
+relay,RE200YF,1,lilyana-vandero,anna-smithson,kira-casler,ovgu-yilmaz,144.1,90.0,,,,,,,90.0

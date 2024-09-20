@@ -1,0 +1,15 @@
+lineup,hdr,3,1223
+lineup,dat,R,RE200,1,mckenna-brady,riley-demuth,elyse-brady,julianna-ifantis,126.18,228
+lineup,dat,R,RE200,2,olesya-myrovych,brianna-halasnik,leylo-lewis,sophia-king-1,141.64,108
+lineup,dat,I,A200,1,claire-vilacoba,164.88,0,2,alexandria-rees,159.85,0,3,grace-washington,174.85,0
+lineup,dat,I,E200,1,elizabeth-darrar,175.38,0,2,sophia-king-1,173.05,2,3,hannah-werosta,202.81,0
+lineup,dat,I,A50,1,riley-demuth,26.35,92,2,mckenna-brady,28.46,62,3,julianna-ifantis,28.77,57
+lineup,dat,I,D100,1,julianna-ifantis,71.34,51,2,elyse-brady,77.94,24,3,hannah-werosta,110.96,0
+lineup,dat,I,A100,1,leylo-lewis,64.76,40,2,sophia-king-1,69.23,15,3,olesya-myrovych,71.14,6
+lineup,dat,I,A500,1,elizabeth-darrar,417.83,0,2,claire-vilacoba,447.06,0,3,grace-washington,501.86,0
+lineup,dat,R,RA200,1,julianna-ifantis,mckenna-brady,leylo-lewis,riley-demuth,113.6,240
+lineup,dat,R,RA200,2,sophia-king-1,alexandria-rees,brianna-halasnik,elizabeth-darrar,130.55,99
+lineup,dat,I,B100,1,mckenna-brady,73.7,34,2,olesya-myrovych,75.95,24,3,alexandria-rees,83.87,0
+lineup,dat,I,C100,1,riley-demuth,72.51,91,2,elyse-brady,84.68,35,3,brianna-halasnik,95.3,0
+lineup,dat,R,RA400,1,leylo-lewis,olesya-myrovych,alexandria-rees,elizabeth-darrar,293.33,15
+lineup,dat,R,RA400,2,claire-vilacoba,grace-washington,elyse-brady,brianna-halasnik,322.99,0

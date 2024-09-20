@@ -1,0 +1,14 @@
+lineup,hdr,3,1001
+lineup,dat,R,RE200,1,mia-dungo,annie-enslin,caroline-rosiecki,elizabeth-rosiecki,127.03,219
+lineup,dat,R,RE200,2,ella-mingari,simone-caplan,magda-swat,gosia-swat,150,54
+lineup,dat,I,A200,1,annie-enslin,144.69,26,2,gosia-swat,160,0,3,ella-mingari,176.67,0
+lineup,dat,I,E200,1,magda-swat,170,8,2,gloria-buccino,194.43,0
+lineup,dat,I,A50,1,elizabeth-rosiecki,27.31,78,2,caroline-rosiecki,27.04,82,3,katherine-ruggiero,41.12,0
+lineup,dat,I,D100,1,magda-swat,80.58,15,2,gloria-buccino,85.25,0,3,gianna-lodato-1,101.68,0
+lineup,dat,I,A100,1,mia-dungo,62.9,51,2,caroline-rosiecki,59.4,74,3,sara-fuertes,98.66,0
+lineup,dat,I,A500,1,ella-mingari,500.58,0,2,katherine-ruggiero,596.26,0,3,grace-stewart,497.17,0
+lineup,dat,R,RA200,1,elizabeth-rosiecki,caroline-rosiecki,mia-dungo,annie-enslin,114.25,234
+lineup,dat,R,RA200,2,magda-swat,gosia-swat,gianna-lodato-1,gloria-buccino,136.29,60
+lineup,dat,I,B100,1,mia-dungo,69.56,54,2,gabriela-irizarry,112.15,0,3,grace-stewart,96.51,0
+lineup,dat,I,C100,1,gianna-lodato-1,95.52,0,2,annie-enslin,82.12,46
+lineup,dat,R,RA400,1,gloria-buccino,ella-mingari,gianna-lodato-1,gosia-swat,330.47,0

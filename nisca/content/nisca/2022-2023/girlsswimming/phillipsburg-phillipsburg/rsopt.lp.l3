@@ -1,0 +1,13 @@
+lineup,hdr,3,653.0
+lineup,dat,I,A200,1,ali-stucker,143.41,29.0,,,,,,,,
+lineup,dat,I,E200,1,ali-stucker,159.57,32.0,,,,,,,,
+lineup,dat,I,A50,1,rose-van-oosten,28.22,65.0,2.0,kaitlyn-murphy-3,28.66,59.0,3,ally-carter,30.07,41.0
+lineup,dat,I,D100,1,ayanna-elston,67.3,70.0,2.0,sarah-bronico,76.84,28.0,3,maeve-mccormick,77.59,26.0
+lineup,dat,I,A100,1,rose-van-oosten,63.15,49.0,2.0,kaitlyn-murphy-3,63.69,46.0,3,madison-baylor,65.19,37.0
+lineup,dat,I,A500,1,maeve-mccormick,379.81,32.0,,,,,,,,
+lineup,dat,I,B100,1,ayanna-elston,68.81,58.0,2.0,ella-burke-1,76.38,22.0,,,,
+lineup,dat,I,C100,1,madison-baylor,86.29,29.0,2.0,ella-burke-1,89.68,17.0,3,ally-carter,90.78,13.0
+relay,hdr,849.0
+relay,RA200YF,2,sarah-bronico,rose-van-oosten,kaitlyn-murphy-3,ayanna-elston,114.71,228.0,kayla-melsky,ally-carter,samira-nesheiwat,ella-burke-1,123.56,153.0,381.0
+relay,RE200YF,2,ali-stucker,madison-baylor,maeve-mccormick,rose-van-oosten,138.0,135.0,samira-nesheiwat,ally-carter,sarah-bronico,kayla-melsky,139.34,123.0,258.0
+relay,RA400YF,2,madison-baylor,kaitlyn-murphy-3,ali-stucker,ayanna-elston,260.8,147.0,kayla-melsky,sarah-bronico,samira-nesheiwat,ella-burke-1,280.82,63.0,210.0

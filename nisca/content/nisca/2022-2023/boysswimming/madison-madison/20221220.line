@@ -1,0 +1,15 @@
+lineup,hdr,3,1889
+lineup,dat,R,RE200,1,owen-weller,anuthra-abeysinghe,spencer-rosenbaum,jacques-chemaly,105.48,315
+lineup,dat,R,RE200,2,ethan-simms,kaden-chou,evan-katz-1,justin-dickson-598333,125.66,153
+lineup,dat,I,A200,1,owen-weller,115.9,80,2,jake-terry-1,155.08,0,3,peter-falcone,160.58,0
+lineup,dat,I,E200,1,anuthra-abeysinghe,131.53,73,2,evan-katz-1,170.97,0
+lineup,dat,I,A50,1,jacques-chemaly,23.09,102,2,justin-dickson-598333,26.93,47,3,kaden-chou,25.58,65
+lineup,dat,I,D100,1,spencer-rosenbaum,65.38,46,2,ethan-simms,69.87,26,3,john-davidson-2,90.56,0
+lineup,dat,I,A100,1,evan-katz-1,57.76,52,2,kaden-chou,57.57,53,3,jake-terry-1,69.87,0
+lineup,dat,I,A500,1,owen-weller,325.26,67,2,justin-dickson-598333,445.27,0,3,martin-bria,427.51,0
+lineup,dat,R,RA200,1,peter-falcone,john-davidson-2,jake-terry-1,kaden-chou,117.45,123
+lineup,dat,R,RA200,2,tony-moreira,diego-estevez,mathis-ledru,teddy-barisonek,233.41,0
+lineup,dat,I,B100,1,jacques-chemaly,58.35,93,2,ethan-simms,69.98,41,3,adam-haydoutov,79.26,10
+lineup,dat,I,C100,1,anuthra-abeysinghe,63.46,101,2,spencer-rosenbaum,70.97,62,3,peter-falcone,77.45,35
+lineup,dat,R,RA400,1,jacques-chemaly,spencer-rosenbaum,owen-weller,anuthra-abeysinghe,213.38,282
+lineup,dat,R,RA400,2,justin-dickson-598333,jake-terry-1,ethan-simms,evan-katz-1,266.65,63

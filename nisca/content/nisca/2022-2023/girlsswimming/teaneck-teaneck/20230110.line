@@ -1,0 +1,15 @@
+lineup,hdr,3,342
+lineup,dat,R,RE200,1,leia-hardyman,maggie-tadiello,kiara-johnson-1,fatima-zorah-alday,184.78,0
+lineup,dat,R,RE200,2,rowan-wouters,emily-suriel,ruby-fricker,abby-ortiz,143.42,96
+lineup,dat,I,A200,1,emily-gomez-1,179,0,2,rowan-wouters,159.44,0,3,ruby-ha,176.39,0
+lineup,dat,I,E200,1,emily-suriel,187.31,0,2,abby-ortiz,152.34,50,3,maggie-tadiello,187.31,0
+lineup,dat,I,A50,1,tashi-chotso,34.64,0,2,denise-vidola,33.25,7,3,olivia-vazquez,43.81,0
+lineup,dat,I,D100,1,emily-gomez-1,97.22,0,2,ruby-fricker,73.2,43,3,kiara-johnson-1,121.78,0
+lineup,dat,I,A100,1,fatima-zorah-alday,109.11,0,2,tashi-chotso,78.38,0,3,alana-cannon,107.57,0
+lineup,dat,I,A500,1,rowan-wouters,436.12,0,2,abby-ortiz,375.51,36,3,denise-vidola,531.84,0
+lineup,dat,R,RA200,1,olivia-vazquez,fatima-zorah-alday,leia-hardyman,maggie-tadiello,165.96,0
+lineup,dat,R,RA200,2,denise-vidola,ruby-ha,emily-gomez-1,tashi-chotso,141.71,27
+lineup,dat,I,B100,1,emily-suriel,87.04,0,2,ruby-fricker,75.37,26,3,leia-hardyman,94.42,0
+lineup,dat,I,C100,1,olivia-vazquez,163.13,0,2,maggie-tadiello,93.65,3,3,fatima-zorah-alday,133.29,0
+lineup,dat,R,RA400,1,ruby-ha,denise-vidola,tashi-chotso,emily-gomez-1,333.21,0
+lineup,dat,R,RA400,2,ruby-fricker,emily-suriel,abby-ortiz,rowan-wouters,283.32,54

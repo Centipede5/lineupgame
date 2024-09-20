@@ -1,0 +1,15 @@
+lineup,hdr,3,3512
+lineup,dat,R,RE200,1,dylan-altman,ben-nematadzira,christian-tedesco,danny-mcgann-1,108.28,288
+lineup,dat,R,RE200,2,hudson-wilcomes,leo-mangiamele,logan-swenson,danny-pierce,104.33,324
+lineup,dat,I,A200,1,artem-dobrovolskyi,115.82,81,2,colin-kavanagh-1,107.16,112,3,nathan-welsh-1,122.41,60
+lineup,dat,I,E200,1,cole-sharkey,132.49,71,2,michael-fisher-2,128.05,84,3,alejandro-villar,154.11,17
+lineup,dat,I,A50,1,charlie-jeckell,24.06,86,2,christian-tedesco,22.72,108,3,wes-young,25.6,64
+lineup,dat,I,D100,1,flynn-martin-1,59.38,77,2,hudson-wilcomes,57.64,88,3,danny-mcgann-1,65.08,47
+lineup,dat,I,A100,1,leo-mangiamele,53.67,78,2,dylan-altman,53.07,82,3,dylan-lagrimas,53.24,81
+lineup,dat,I,A500,1,logan-swenson,301.44,98,2,ben-nematadzira,345.27,45,3,archie-mtsituri,364.48,26
+lineup,dat,R,RA200,1,hudson-wilcomes,cole-sharkey,nathan-welsh-1,danny-mcgann-1,98.06,285
+lineup,dat,R,RA200,2,colin-kavanagh-1,christian-tedesco,michael-fisher-2,charlie-jeckell,93.52,333
+lineup,dat,I,B100,1,adam-goddard,65.61,58,2,owen-waibel,56.47,103,3,flynn-martin-1,68.98,44
+lineup,dat,I,C100,1,danny-pierce,66.94,82,2,leo-mangiamele,65.92,87,3,dylan-altman,70.2,66
+lineup,dat,R,RA400,1,nathan-welsh-1,artem-dobrovolskyi,cole-sharkey,wes-young,218.9,255
+lineup,dat,R,RA400,2,logan-swenson,dylan-lagrimas,michael-fisher-2,christian-tedesco,213.83,282

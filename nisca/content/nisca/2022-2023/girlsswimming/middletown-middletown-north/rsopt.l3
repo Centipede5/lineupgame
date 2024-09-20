@@ -1,0 +1,12 @@
+lineup,hdr,3,412
+lineup,dat,I,A200,1,juliana-imbro,133.63,56
+lineup,dat,I,E200,1,juliana-imbro,152.28,50,2,madison-difranco,157.25,37
+lineup,dat,I,A50,1,grace-gomez,29.03,54,2,keelin-forkan,29.09,53,3,anneliese-godsey,30.71,34
+lineup,dat,I,D100,1,madison-difranco,68.28,65
+lineup,dat,I,A100,1,keelin-forkan,62.63,53,2,grace-gomez,70.72,8,3,anneliese-godsey,71.78,2
+lineup,dat,I,A500
+lineup,dat,I,B100
+lineup,dat,I,C100
+relay,hdr,597
+relay,RE200YF,2,chloe-bixby,mary-garby-1,nina-virani,mia-rose-scalice,133.52,1.6800000000000000e+02,juliana-imbro,grace-gomez,madison-difranco,keelin-forkan,134.52,1.5900000000000000e+02
+relay,RA200YF,2,madison-difranco,keelin-forkan,grace-gomez,juliana-imbro,117.41,2.0400000000000000e+02,natalie-vacca-1,katie-baeder,lauren-robinson-502392,mary-garby-1,135.62,6.6000000000000000e+01

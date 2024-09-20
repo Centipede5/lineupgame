@@ -1,0 +1,13 @@
+lineup,hdr,3,1472.0
+lineup,dat,I,A200,1,sevanah-oravets,118.68,106.0,2.0,shae-centanni,129.41,69.0,3,isabella-wyckoff,135.86,50.0
+lineup,dat,I,E200,1,francesca-fields,143.62,74.0,2.0,julianna-marco,154.19,45.0,3,casey-marco,156.41,39.0
+lineup,dat,I,A50,1,summer-watson,28.0,68.0,2.0,isabella-wyckoff,28.1,66.0,3,emma-mills,28.37,63.0
+lineup,dat,I,D100,1,francesca-fields,63.1,93.0,2.0,greta-schulze,72.0,48.0,3,payton-nork,72.78,45.0
+lineup,dat,I,A100,1,emily-kulinski,59.37,74.0,2.0,emma-mills,62.62,53.0,3,chloe-furlong,63.22,49.0
+lineup,dat,I,A500,1,sevanah-oravets,321.49,101.0,2.0,shae-centanni,354.34,59.0,3,payton-nork,367.63,45.0
+lineup,dat,I,B100,1,emily-kulinski,67.79,64.0,2.0,amalie-werner,71.73,43.0,3,bosland-kylie,72.48,40.0
+lineup,dat,I,C100,1,talia-duralek,77.5,66.0,2.0,julianna-marco,78.84,60.0,3,casey-marco,80.55,52.0
+relay,hdr,1422.0
+relay,RE200YF,2,emily-kulinski,francesca-fields,sevanah-oravets,summer-watson,117.27,309.0,chloe-furlong,talia-duralek,payton-nork,erin-little,126.36,225.0,534.0
+relay,RA200YF,2,francesca-fields,summer-watson,isabella-wyckoff,shae-centanni,108.46,291.0,erin-little,julianna-marco,amalie-werner,emma-mills,115.46,222.0,513.0
+relay,RA400YF,2,shae-centanni,emma-mills,isabella-wyckoff,sevanah-oravets,239.29,252.0,summer-watson,madilyn-boyd,erin-little,payton-nork,266.41,123.0,375.0

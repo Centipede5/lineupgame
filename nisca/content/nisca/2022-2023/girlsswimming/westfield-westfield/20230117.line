@@ -1,0 +1,15 @@
+lineup,hdr,3,2864
+lineup,dat,R,RE200,1,clare-logan,jacqueline-moser,clara-yu,chloe-yu-1,117.01,312
+lineup,dat,R,RE200,2,isabelle-giaccobe,emily-constable,katerine-li,olivia-ruiz,118.57,297
+lineup,dat,I,A200,1,abby-bebel,124.92,84,2,charlotte-lehman,138.25,43,3,cecilia-wiggins,135.21,51
+lineup,dat,I,E200,1,brooke-mcandrew,142.81,76,2,emily-kapuscinski,142.33,78,3,sophia-fussman,163.32,23
+lineup,dat,I,A50,1,chloe-yu-1,26.73,86,2,katerine-riordan,28.13,66,3,ava-contract,28.34,63
+lineup,dat,I,D100,1,clare-logan,56.84,132,2,clara-yu,65.12,82,3,olivia-paulino,72.92,44
+lineup,dat,I,A100,1,lauren-lane-1,54.52,111,2,alyssa-rubenstein,61.82,58,3,athena-perialis,73.73,0
+lineup,dat,I,A500,1,lauren-lane-1,326.91,94,2,meena-oberoi,406.94,7
+lineup,dat,R,RA200,1,emily-kapuscinski,lauren-lane-1,abby-bebel,brooke-mcandrew,110.19,273
+lineup,dat,R,RA200,2,ava-contract,sophia-fussman,alyssa-rubenstein,olivia-ruiz,113.52,240
+lineup,dat,I,B100,1,isabelle-giaccobe,65.51,77,2,katerine-li,72.98,37,3,jacqueline-moser,74.23,32
+lineup,dat,I,C100,1,emily-constable,63.4,147,2,olivia-ruiz,84.85,35,3,charlotte-lehman,85.88,31
+lineup,dat,R,RA400,1,chloe-yu-1,emily-kapuscinski,katerine-riordan,clare-logan,247.74,207
+lineup,dat,R,RA400,2,sydney-gross,athena-perialis,meena-oberoi,cecilia-wiggins,277.1,78

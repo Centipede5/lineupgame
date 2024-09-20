@@ -1,0 +1,12 @@
+lineup,hdr,3,131.0
+lineup,dat,I,A200,1,joel-sanchez-5,132.4,32.0,2.0,derrick-carrera,145.04,3.0,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,fernando-rodriguez-1,29.62,18.0,2.0,asim-emory,30.61,8.0,3.0,jourdan-bartlett,30.6,8.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,joel-sanchez-5,59.72,41.0,2.0,derrick-carrera,63.6,21.0,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,147.0
+relay,RA200YM,1,derrick-carrera,fernando-rodriguez-1,asim-emory,joel-sanchez-5,118.5,117.0,,,,,,,117.0
+relay,RA400YM,1,joel-sanchez-5,derrick-carrera,jourdan-bartlett,fernando-rodriguez-1,276.58,30.0,,,,,,,30.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,1253.0
+lineup,dat,I,A200,1,renee-bak,117.61,75.0,2.0,thomas-gamble,124.49,54.0,3,kelly-walsh,137.15,20.0
+lineup,dat,I,E200,1,daniel-waldhauser,126.0,90.0,2.0,alyce-lehman,130.16,77.0,3,ava-montuori,150.43,25.0
+lineup,dat,I,A50,1,samuel-morris-1,25.63,64.0,2.0,logan-watkins-2,25.96,60.0,3,ella-axelson,28.1,34.0
+lineup,dat,I,D100,1,daniel-waldhauser,54.3,109.0,2.0,alyce-lehman,58.39,83.0,3,nick-pasquini,59.53,76.0
+lineup,dat,I,A100,1,nick-pasquini,53.49,79.0,2.0,logan-watkins-2,59.17,44.0,3,thomas-azelby-1,61.79,30.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,thomas-gamble,65.14,60.0,2.0,kelly-walsh,67.2,51.0,3,ava-montuori,72.08,33.0
+lineup,dat,I,C100,1,renee-bak,69.44,69.0,2.0,chris-threston,71.2,61.0,3,samuel-morris-1,71.7,59.0
+relay,hdr,1155.0
+relay,RE200YM,2,daniel-waldhauser,renee-bak,nick-pasquini,alyce-lehman,106.84,300.0,ava-montuori,chris-threston,kelly-walsh,logan-watkins-2,121.34,183.0,483.0
+relay,RA200YM,2,kelly-walsh,ava-montuori,logan-watkins-2,samuel-morris-1,110.93,171.0,nick-pasquini,ella-axelson,thomas-azelby-1,thomas-gamble,112.04,165.0,336.0
+relay,RA400YM,2,thomas-gamble,renee-bak,alyce-lehman,daniel-waldhauser,217.7,261.0,ella-axelson,nick-waldhauser,thomas-azelby-1,samuel-morris-1,262.46,75.0,336.0

@@ -1,0 +1,16 @@
+lineup,hdr,3,735
+lineup,dat,I,A200,1,corey-calderone,115.85,81,2,nelson-whalen,139.97,14
+lineup,dat,I,E200
+lineup,dat,I,A50,1,diego-quevedo,25.93,60,2,dylan-palleija,27.1,45,3,carlos-jimenez-4,27.9,36
+lineup,dat,I,D100,1,brandon-calderone,55.36,102,2,riley-billian,66.84,39
+lineup,dat,I,A100,1,diego-quevedo,59.6,42,2,dylan-palleija,62.31,27,3,nelson-whalen,62.74,25
+lineup,dat,I,A500,1,corey-calderone,314.51,81
+lineup,dat,I,B100,1,brandon-calderone,57.39,98,2,noah-soto,73.93,26,3,riley-billian,75.67,21
+lineup,dat,I,C100,1,ryan-lambertson,79.11,28,2,carlos-jimenez-4,84.37,10
+relay,hdr,603
+relay,RE200YM,2,genevieve-pope,corey-calderone,brandon-calderone,diego-quevedo,118.58,2.0400000000000000e+02,noah-soto,ryan-lambertson,riley-billian,nelson-whalen,124.28,1.6200000000000000e+02
+relay,RA200YM,2,brandon-calderone,riley-billian,nelson-whalen,diego-quevedo,108.34,1.9200000000000000e+02,molly-wilson,neomi-lopez,camila-chavez,noah-soto,129.91,4.5000000000000000e+01
+relay,hdr,738
+relay,RE200YM,2,genevieve-pope,corey-calderone,brandon-calderone,diego-quevedo,118.58,2.0400000000000000e+02,noah-soto,ryan-lambertson,riley-billian,nelson-whalen,124.28,1.6200000000000000e+02
+relay,RA200YM,2,brandon-calderone,dylan-palleija,riley-billian,carlos-jimenez-4,109.6,1.8300000000000000e+02,molly-wilson,neomi-lopez,camila-chavez,noah-soto,129.91,4.5000000000000000e+01
+relay,RA400YM,1,corey-calderone,dylan-palleija,nelson-whalen,diego-quevedo,244.45,1.4400000000000000e+02

@@ -1,0 +1,17 @@
+lineup,hdr,3,1282
+lineup,dat,I,A200,1,liam-soyka,124.03,55,2,kianna-riera-1,136.38,22,3,cornelius-mcgovern,142.78,7
+lineup,dat,I,E200,1,liam-soyka,135.19,63,2,arturo-gomez,136.34,60,3,dominic-lotito,136.16,60
+lineup,dat,I,A50,1,charlie-otten-1,23.38,97,2,cornelius-mcgovern,25.68,63,3,garret-hanlon,25.96,60
+lineup,dat,I,D100,1,arturo-gomez,61.43,66,2,max-drobitskiy,65.75,44,3,garret-hanlon,68.68,31
+lineup,dat,I,A100,1,michael-minchak,52.93,83,2,charlie-otten-1,53.4,80,3,noah-merriman,57.08,56
+lineup,dat,I,A500,1,henry-warren,332.22,59,2,max-drobitskiy,368.83,22
+lineup,dat,I,B100,1,michael-minchak,59.31,88,2,dominic-lotito,61.18,78,3,julia-hulse,68.18,48
+lineup,dat,I,C100,1,henry-warren,71.83,58,2,james-breslin-2,74.83,45,3,andrew-soyka-2,76.8,37
+relay,hdr,1260
+relay,RE200YM,2,michael-minchak,henry-warren,arturo-gomez,charlie-otten-1,106.59,3.0300000000000000e+02,andrew-soyka-2,jack-zambito-1,danny-kennedy-3,noah-merriman,112.34,2.5200000000000000e+02
+relay,RA200YM,2,charlie-otten-1,arturo-gomez,dominic-lotito,michael-minchak,99.77,2.6700000000000000e+02,andrew-soyka-2,liam-soyka,cornelius-mcgovern,henry-warren,103.52,2.3400000000000000e+02
+relay,RA400YM,2,danny-kennedy-3,jack-zambito-1,garret-hanlon,cornelius-mcgovern,248.38,1.2600000000000000e+02,breona-pizzuta-1,ava-dreyer-1,aila-riera-1,kianna-riera-1,261.53,7.8000000000000000e+01
+relay,hdr,1383
+relay,RE200YM,2,michael-minchak,henry-warren,arturo-gomez,charlie-otten-1,106.59,3.0300000000000000e+02,andrew-soyka-2,jack-zambito-1,danny-kennedy-3,noah-merriman,112.34,2.5200000000000000e+02
+relay,RA200YM,2,andrew-soyka-2,liam-soyka,cornelius-mcgovern,henry-warren,103.52,2.3400000000000000e+02,dominic-lotito,noah-merriman,james-breslin-2,garret-hanlon,106.63,2.0700000000000000e+02
+relay,RA400YM,2,arturo-gomez,liam-soyka,charlie-otten-1,michael-minchak,217.61,2.6100000000000000e+02,danny-kennedy-3,jack-zambito-1,garret-hanlon,cornelius-mcgovern,248.38,1.2600000000000000e+02

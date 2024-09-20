@@ -1,0 +1,12 @@
+lineup,hdr,3,241.0
+lineup,dat,I,A200,1,julian-hough,142.27,9.0,2.0,graham-george,143.13,7.0,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,payam-ekrami,25.61,64.0,2.0,julian-hough,26.68,50.0,3.0,sebastian-wolf,29.93,15.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,tyler-davis-13,61.42,32.0,2.0,payam-ekrami,62.43,27.0,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,tyler-davis-13,70.94,37.0,,,,,,,,
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,225.0
+relay,RE200YM,1,payam-ekrami,julian-hough,tyler-davis-13,graham-george,130.63,123.0,,,,,,,123.0
+relay,RA200YM,1,julian-hough,sebastian-wolf,dilan-lalla,graham-george,120.88,102.0,,,,,,,102.0

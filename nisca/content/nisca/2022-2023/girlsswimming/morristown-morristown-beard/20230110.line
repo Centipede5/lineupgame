@@ -1,0 +1,14 @@
+lineup,hdr,3,301
+lineup,dat,R,RE200,1,clare-patchett,isla-johnston,abigail-ewing,clara-paynter,149.43,57
+lineup,dat,R,RE200,2,emily-conroy,kassy-patino,mia-rubin,ivana-tanis,193.56,0
+lineup,dat,I,A200,1,gabriella-davis,160.22,0,2,abigail-ewing,164.63,0
+lineup,dat,I,E200,1,isla-johnston,145.77,68,2,clare-patchett,178.09,0,3,clara-paynter,205.43,0
+lineup,dat,I,A50,1,abigail-ewing,34.95,0,2,emily-conroy,40.08,0,3,ivana-tanis,38.21,0
+lineup,dat,I,D100,1,mia-rubin,112.85,0
+lineup,dat,I,A100,1,gabriella-davis,72.34,0,2,mackenzie-dougherty-1,74.16,0
+lineup,dat,I,A500,1,isla-johnston,332.67,86,2,abigail-ewing,489.46,0,3,mia-rubin,546.52,0
+lineup,dat,R,RA200,1,mackenzie-dougherty-1,gabriella-davis,clara-paynter,abigail-ewing,139.1,42
+lineup,dat,R,RA200,2,ivana-tanis,emily-conroy,kassy-patino,mia-rubin,160.89,0
+lineup,dat,I,B100,1,emily-conroy,105.49,0,2,clara-paynter,92.81,0,3,kassy-patino,117.91,0
+lineup,dat,I,C100,1,clare-patchett,95.55,0
+lineup,dat,R,RA400,1,mackenzie-dougherty-1,gabriella-davis,clare-patchett,isla-johnston,284.27,48

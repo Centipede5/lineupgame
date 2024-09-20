@@ -1,0 +1,15 @@
+lineup,hdr,3,1683
+lineup,dat,R,RE200,1,rebecca-siuffe,sahsa-wunej,mary-puglisi,setine-tsay,131.6,183
+lineup,dat,R,RE200,2,victoria-burgess,callie-ng,sofia-wunej,trisha-vyas,130.73,189
+lineup,dat,I,A200,1,rebecca-siuffe,137.4,45,2,sofia-wunej,143.72,28,3,erin-durot,144.56,26
+lineup,dat,I,E200,1,alexis-gentile-1,152.44,49,2,mia-medina,162.21,25
+lineup,dat,I,A50,1,setine-tsay,30.15,40,2,trisha-vyas,30.6,35,3,imane-chenni,30.31,38
+lineup,dat,I,D100,1,rebecca-siuffe,65.03,82,2,sahsa-wunej,74.38,38,3,victoria-burgess,76.7,29
+lineup,dat,I,A100,1,callie-ng,58.84,78,2,mary-puglisi,64.01,44,3,erin-durot,66.8,28
+lineup,dat,I,A500,1,alexis-gentile-1,339.77,77,2,victoria-burgess,362.6,50,3,sahsa-wunej,385.33,27
+lineup,dat,R,RA200,1,callie-ng,erin-durot,sahsa-wunej,alexis-gentile-1,122.83,159
+lineup,dat,R,RA200,2,mary-puglisi,imane-chenni,sofia-wunej,mia-medina,116.87,210
+lineup,dat,I,B100,1,sofia-wunej,71.48,45,2,setine-tsay,76.75,20,3,trisha-vyas,82.07,0
+lineup,dat,I,C100,1,mary-puglisi,82.04,46,2,mia-medina,83.5,40,3,imane-chenni,89.02,19
+lineup,dat,R,RA400,1,setine-tsay,trisha-vyas,mia-medina,imane-chenni,288.38,33
+lineup,dat,R,RA400,2,rebecca-siuffe,alexis-gentile-1,victoria-burgess,erin-durot,297.99,0

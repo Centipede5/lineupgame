@@ -1,0 +1,15 @@
+lineup,hdr,3,1689
+lineup,dat,R,RE200,1,connor-johnson-11,nicholas-iannucci,brandon-lyubarsky,max-zigman,107.83,291
+lineup,dat,R,RE200,2,priyesh-mistry,spark-yu,samuel-lau,mikey-mcgrath,137.49,81
+lineup,dat,I,A200,1,brandon-lyubarsky,118.24,73,2,haroon-afzal,158.41,0,3,atharv-kulkarni,158.33,0
+lineup,dat,I,E200,1,nicholas-iannucci,131.38,74,2,finley-stevens,152.02,21,3,samuel-lau,167.21,0
+lineup,dat,I,A50,1,mikey-mcgrath,26.39,54,2,max-zigman,25.31,68,3,william-duffy,27.49,41
+lineup,dat,I,D100,1,brandon-lyubarsky,60.99,68,2,spark-yu,76.06,2,3,eric-yang,78.06,0
+lineup,dat,I,A100,1,connor-johnson-11,52.23,88,2,william-duffy,65.89,10,3,max-zigman,60.95,34
+lineup,dat,I,A500,1,haroon-afzal,429.14,0,2,charles-hilgendorff,404.95,0,3,samuel-lau,412.11,0
+lineup,dat,R,RA200,1,william-duffy,mikey-mcgrath,max-zigman,finley-stevens,108.78,189
+lineup,dat,R,RA200,2,eric-yang,samir-saha,atharv-kulkarni,haroon-afzal,117.95,120
+lineup,dat,I,B100,1,nicholas-iannucci,65.28,60,2,priyesh-mistry,86.53,0,3,charles-hilgendorff,81.06,4
+lineup,dat,I,C100,1,connor-johnson-11,61.61,112,2,spark-yu,82.72,15,3,finley-stevens,75.14,44
+lineup,dat,R,RA400,1,brandon-lyubarsky,finley-stevens,nicholas-iannucci,connor-johnson-11,226.17,222
+lineup,dat,R,RA400,2,mikey-mcgrath,william-duffy,samuel-lau,charles-hilgendorff,280.36,18

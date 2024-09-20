@@ -1,0 +1,17 @@
+lineup,hdr,3,1230
+lineup,dat,I,A200,1,rebekah-jung,121.78,95,2,sophie-dahiya,134.16,55,3,annika-moon,140.16,38
+lineup,dat,I,E200,1,rebekah-jung,135.09,101,2,isabelle-yoo,141.88,79,3,sophia-lazarou,153.36,47
+lineup,dat,I,A50,1,renee-kim,28.81,57,2,claire-kwon,30.27,39,3,sophia-ustiuzhanin,32.02,19
+lineup,dat,I,D100,1,isabelle-yoo,62.74,95,2,maria-lazarou,64.56,85,3,kaitlin-zhang,74.13,39
+lineup,dat,I,A100,1,annika-moon,63.52,47,2,renee-kim,63.8,45
+lineup,dat,I,A500,1,lea-lee,336.3,81
+lineup,dat,I,B100,1,lea-lee,64.04,86,2,christie-sugiaman,78.09,15
+lineup,dat,I,C100,1,maria-lazarou,75.34,77,2,sophie-dahiya,76.81,69,3,sophia-lazarou,78.52,61
+relay,hdr,927
+relay,RE200YF,2,lea-lee,isabelle-yoo,maria-lazarou,rebekah-jung,118.86,2.9400000000000000e+02,sophie-dahiya,sophia-lazarou,renee-kim,claire-kwon,131.29,1.8600000000000000e+02
+relay,RA200YF,2,maria-lazarou,isabelle-yoo,rebekah-jung,renee-kim,111.51,2.5800000000000000e+02,claire-kwon,kaitlin-zhang,audrey-sugiaman,sophia-ustiuzhanin,126.91,1.2600000000000000e+02
+relay,RA400YF,1,lea-lee,sophie-dahiya,sophia-lazarou,dahlia-abi-hanna,280.7,6.3000000000000000e+01
+relay,hdr,957
+relay,RE200YF,2,lea-lee,isabelle-yoo,maria-lazarou,rebekah-jung,118.86,2.9400000000000000e+02,sophie-dahiya,sophia-lazarou,renee-kim,claire-kwon,131.29,1.8600000000000000e+02
+relay,RA200YF,2,sophia-lazarou,isabelle-yoo,kaitlin-zhang,claire-kwon,119.1,1.8900000000000000e+02,sophia-castellon,valarie-ramirez,audrey-sugiaman,sophia-ustiuzhanin,134.26,7.5000000000000000e+01
+relay,RA400YF,1,lea-lee,sophie-dahiya,rebekah-jung,maria-lazarou,246.56,2.1300000000000000e+02

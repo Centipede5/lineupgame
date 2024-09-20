@@ -1,0 +1,17 @@
+lineup,hdr,3,1144
+lineup,dat,I,A200,1,karolena-shaw,127.45,76,2,ava-dantonio,135.03,52,3,alex-stewart-4,153.53,4
+lineup,dat,I,E200,1,katie-lawrence,131.11,114,2,joyce-baik,138.75,89,3,lucia-kim,150.9,54
+lineup,dat,I,A50,1,deane-syrneva,27.4,76,2,pauline-tsui-1,30.04,42,3,suhani-parekh,30.6,35
+lineup,dat,I,D100,1,joyce-baik,63.97,88,2,lucia-kim,67.61,69,3,tara-flynn-601481,84.31,2
+lineup,dat,I,A100,1,abby-klein,65.09,38,2,suhani-parekh,67.97,22,3,kate-giletta,69.31,15
+lineup,dat,I,A500,1,karolena-shaw,366.32,46,2,avni-patel-655575,407.06,7
+lineup,dat,I,B100,1,katie-lawrence,59.54,115,2,abby-klein,74.09,32,3,soumya-pal,78.44,13
+lineup,dat,I,C100,1,deane-syrneva,80.06,55,2,ava-dantonio,80.34,53,3,pauline-tsui-1,81.88,47
+relay,hdr,1008
+relay,RE200YF,2,lucia-kim,deane-syrneva,joyce-baik,abby-klein,123.35,2.5200000000000000e+02,soumya-pal,pauline-tsui-1,tara-flynn-601481,keiahna-mclearie,143.49,9.6000000000000000e+01
+relay,RA200YF,2,deane-syrneva,abby-klein,karolena-shaw,katie-lawrence,110.24,2.7300000000000000e+02,kate-giletta,pauline-tsui-1,soumya-pal,suhani-parekh,121.44,1.7100000000000000e+02
+relay,RA400YF,1,joyce-baik,lucia-kim,karolena-shaw,katie-lawrence,246.23,2.1600000000000000e+02
+relay,hdr,1011
+relay,RE200YF,2,lucia-kim,deane-syrneva,joyce-baik,suhani-parekh,126.69,2.2200000000000000e+02,soumya-pal,pauline-tsui-1,tara-flynn-601481,keiahna-mclearie,143.49,9.6000000000000000e+01
+relay,RA200YF,2,deane-syrneva,abby-klein,karolena-shaw,katie-lawrence,110.24,2.7300000000000000e+02,kate-giletta,pauline-tsui-1,soumya-pal,suhani-parekh,121.44,1.7100000000000000e+02
+relay,RA400YF,2,joyce-baik,lucia-kim,karolena-shaw,katie-lawrence,246.23,2.1600000000000000e+02,alex-stewart-4,tara-flynn-601481,vrielle-guevara,abby-klein,288.6,3.3000000000000000e+01

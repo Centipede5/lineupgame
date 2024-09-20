@@ -1,0 +1,11 @@
+lineup,hdr,3,315
+lineup,dat,I,A200,1,some-brian,155.63,0,2,vikram-pradeep,129.71,39,3,jeremy-nashid,160.28,0
+lineup,dat,I,E200,1,saket-ram-1,208.71,0,2,ishaan-gunjati,146.35,34
+lineup,dat,I,A50,1,koushal-gunda,31.34,1,2,ignacio-manzanero-1,31.1,4,3,kayir-maples,29.59,18
+lineup,dat,I,D100,1,vikram-pradeep,64.94,48,2,saket-ram-1,114.23,0
+lineup,dat,I,A100,1,jeremy-nashid,70.25,0,2,ignacio-manzanero-1,76.91,0,3,kayir-maples,74.93,0
+lineup,dat,I,A500,1,ishaan-gunjati,361.56,29
+lineup,dat,R,RA200,1,jeremy-nashid,koushal-gunda,kayir-maples,some-brian,355.55,0
+lineup,dat,I,B100,1,sathvick-ram,71.4,35,2,vikram-pradeep,63.07,69,3,some-brian,90.22,0
+lineup,dat,I,C100,1,koushal-gunda,98.52,0,2,ishaan-gunjati,76.55,38,3,saket-ram-1,94.19,0
+lineup,dat,R,RA400,1,ignacio-manzanero-1,jeremy-nashid,sathvick-ram,kayir-maples,312.4,0

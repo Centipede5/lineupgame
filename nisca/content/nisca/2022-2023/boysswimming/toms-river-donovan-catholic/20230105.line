@@ -1,0 +1,15 @@
+lineup,hdr,3,1405
+lineup,dat,R,RE200,1,alexander-kraljic,michael-liotti,matt-liotti-1,colin-cronin-1,118,207
+lineup,dat,R,RE200,2,brody-elms-1,richard-mcgowan,juan-jordan-1,zach-armstrong,146.63,33
+lineup,dat,I,A200,1,liam-adams-647672,120.14,67,2,sean-moran-647668,127.17,46,3,brendon-vickery,141.94,9
+lineup,dat,I,E200,1,harison-fodor,130.82,75,2,daniel-drennan,219.67,0
+lineup,dat,I,A50,1,colin-cronin-1,25.45,66,2,alexander-kraljic,26.05,58,3,brody-elms-1,31.9,0
+lineup,dat,I,D100,1,matt-liotti-1,68.25,33,2,liam-scallon,79.5,0,3,juan-jordan-1,71.87,18
+lineup,dat,I,A100,1,harison-fodor,51.79,91,2,michael-liotti,54.3,74,3,brendon-vickery,63.32,22
+lineup,dat,I,A500,1,sean-moran-647668,364.77,26,2,colin-cronin-1,411.89,0,3,daniel-rush,480.9,0
+lineup,dat,R,RA200,1,harison-fodor,liam-adams-647672,brendon-vickery,brody-elms-1,110.01,180
+lineup,dat,R,RA200,2,juan-jordan-1,daniel-drennan,mixhael-merritt,zach-armstrong,133.69,27
+lineup,dat,I,B100,1,alexander-kraljic,65.2,60,2,matt-liotti-1,67.5,50,3,liam-adams-647672,69.34,43
+lineup,dat,I,C100,1,michael-liotti,69.95,67,2,juan-jordan-1,90.58,0,3,richard-mcgowan,93,0
+lineup,dat,R,RA400,1,harison-fodor,liam-scallon,daniel-rush,liam-adams-647672,247.19,132
+lineup,dat,R,RA400,2,colin-cronin-1,mixhael-merritt,brody-elms-1,alexander-kraljic,279.51,21

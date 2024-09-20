@@ -1,0 +1,17 @@
+lineup,hdr,3,1296
+lineup,dat,I,A200,1,catherine-vota,128.03,74,2,raegan-cleary,138.57,42,3,arianna-lalli,138.65,42
+lineup,dat,I,E200,1,lauren-zeni,142.38,78,2,sophia-dasilva,143.44,75,3,kaitlyn-tannenhaus,156.63,39
+lineup,dat,I,A50,1,kaitlyn-tannenhaus,28.39,63,2,lauren-jarmon,28.9,56,3,katherine-doerrier,30.88,32
+lineup,dat,I,D100,1,zoe-midura,65,82,2,julianna-sciacca,67.86,67,3,julia-rigatti-1,71.58,50
+lineup,dat,I,A100,1,catherine-vota,60.25,68,2,nicole-cheung,64.98,38,3,lauren-jarmon,66.81,28
+lineup,dat,I,A500,1,zoe-midura,351.61,63,2,arianna-lalli,365.96,46
+lineup,dat,I,B100,1,sophia-dasilva,65.76,75,2,julia-rigatti-1,73.17,37,3,nicole-cheung,80.39,5
+lineup,dat,I,C100,1,lauren-zeni,69.95,105,2,julianna-sciacca,77.19,68,3,raegan-cleary,78.23,63
+relay,hdr,1008
+relay,RE200YF,2,kaitlyn-tannenhaus,sophia-dasilva,lauren-zeni,zoe-midura,118.39,2.9700000000000000e+02,raegan-cleary,lauren-jarmon,julianna-sciacca,julia-rigatti-1,129.94,1.9500000000000000e+02
+relay,RA200YF,2,arianna-lalli,zoe-midura,kaitlyn-tannenhaus,sophia-dasilva,112,2.5500000000000000e+02,raegan-cleary,lauren-zeni,catherine-vota,julianna-sciacca,114.89,2.2800000000000000e+02
+relay,RA400YF,1,alexis-oconnor,arianna-lalli,mackenzie-lyons,nicole-cheung,288.73,3.3000000000000000e+01
+relay,hdr,1176
+relay,RE200YF,2,kaitlyn-tannenhaus,sophia-dasilva,lauren-zeni,zoe-midura,118.39,2.9700000000000000e+02,raegan-cleary,lauren-jarmon,julianna-sciacca,julia-rigatti-1,129.94,1.9500000000000000e+02
+relay,RA200YF,2,julianna-sciacca,arianna-lalli,lauren-jarmon,katherine-doerrier,115.88,2.1900000000000000e+02,kaitlyn-tannenhaus,catherine-vota,nicole-cheung,mackenzie-lyons,117.01,2.0700000000000000e+02
+relay,RA400YF,2,julia-rigatti-1,catherine-vota,nicole-cheung,zoe-midura,246.45,2.1300000000000000e+02,arianna-lalli,raegan-cleary,sophia-dasilva,katherine-doerrier,285.33,4.5000000000000000e+01

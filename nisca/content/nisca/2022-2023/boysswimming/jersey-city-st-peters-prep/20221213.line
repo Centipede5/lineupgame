@@ -1,0 +1,15 @@
+lineup,hdr,3,2445
+lineup,dat,R,RE200,1,nick-valente,evan-merkov,evan-briggs,alp-ayata-1,113.71,243
+lineup,dat,R,RE200,2,ben-liucas,michael-florentino-1,cyrus-cheng,adam-elshenawy-1,125.52,156
+lineup,dat,I,A200,1,issac-rivers,113.59,88,2,luke-kelly-1,125.23,52,3,daniel-maniotis,130.58,37
+lineup,dat,I,E200,1,evan-briggs,121.67,104,2,joachin-dalloran,145.94,35,3,ethan-ortiz-1,159.12,6
+lineup,dat,I,A50,1,nick-valente,25.06,72,2,alp-ayata-1,25.16,70,3,ravi-struck,32.56,0
+lineup,dat,I,D100,1,michael-florentino-1,58.9,80,2,daniel-maniotis,66.98,39,3,cyrus-cheng,66.06,43
+lineup,dat,I,A100,1,issac-rivers,50.38,102,2,ethan-ortiz-1,58.5,48,3,andrew-kelly-653105,58.33,49
+lineup,dat,I,A500,1,adam-elshenawy-1,346.42,44,2,evan-merkov,363.59,27
+lineup,dat,R,RA200,1,andrew-kelly-653105,michael-florentino-1,cyrus-cheng,cyrus-cheng,99.84,267
+lineup,dat,R,RA200,2,andrew-kelly-653105,ravi-struck,oliver-jakubowicz,daniel-maniotis,108.5,192
+lineup,dat,I,B100,1,nick-valente,70.95,37,2,joachin-dalloran,72.44,32,3,ben-liucas,93.5,0
+lineup,dat,I,C100,1,evan-briggs,65.09,91,2,alp-ayata-1,74.19,48,3,ethan-ortiz-1,77,36
+lineup,dat,R,RA400,1,luke-kelly-1,evan-merkov,nick-valente,evan-briggs,225.53,225
+lineup,dat,R,RA400,2,adam-elshenawy-1,daniel-maniotis,joachin-dalloran,issac-rivers,225.62,222

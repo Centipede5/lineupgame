@@ -1,0 +1,15 @@
+lineup,hdr,3,1166
+lineup,dat,R,RE200,1,amelia-smith,isabelle-kuhn,kate-petri,kathryn-hennessy,145.2,84
+lineup,dat,R,RE200,2,nicole-magee-1,christiana-ranft,emily-kebrdle,maeve-grant,123.53,249
+lineup,dat,I,A200,1,christiana-ranft,140.09,38,2,emily-kebrdle,131.28,63,3,kathryn-hennessy,165.96,0
+lineup,dat,I,E200,1,amelia-smith,181.67,0,2,isabelle-kuhn,164.9,19,3,sophia-burghoffer,188.67,0
+lineup,dat,I,A50,1,madelyn-stillman,35.36,0,2,maeve-grant,28.01,68,3,julia-jakubaszek,33.13,8
+lineup,dat,I,D100,1,rebekah-setti,90.31,0,2,kate-petri,86.31,0
+lineup,dat,I,A100,1,mia-church,78.16,0,2,nicole-magee-1,60.26,68,3,kathryn-hennessy,73.89,0
+lineup,dat,I,A500,1,kate-petri,406.29,7,2,emily-kebrdle,354.81,59,3,madelyn-stillman,491.63,0
+lineup,dat,R,RA200,1,maeve-grant,isabelle-kuhn,sophia-burghoffer,rebekah-setti,128.21,117
+lineup,dat,R,RA200,2,amelia-smith,emma-shorter-1,julia-jakubaszek,abby-smith-5,140.74,33
+lineup,dat,I,B100,1,rebekah-setti,87.2,0,2,nicole-magee-1,64.4,84,3,amelia-smith,79.62,8
+lineup,dat,I,C100,1,isabelle-kuhn,79.18,58,2,christiana-ranft,75.84,74,3,abby-smith-5,102.63,0
+lineup,dat,R,RA400,1,mia-church,julia-jakubaszek,kate-petri,kathryn-hennessy,318.28,0
+lineup,dat,R,RA400,2,emily-kebrdle,rebekah-setti,nicole-magee-1,christiana-ranft,264.65,129

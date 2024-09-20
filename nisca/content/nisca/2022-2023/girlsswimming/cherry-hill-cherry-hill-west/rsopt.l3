@@ -1,0 +1,17 @@
+lineup,hdr,3,1852
+lineup,dat,I,A200,1,adriana-lai,121.24,97,2,anna-zeigler,125.92,81,3,emma-devine-1,127.38,76
+lineup,dat,I,E200,1,emily-locke-1,148.69,60,2,kenzie-schneider,150.46,55,3,hazel-lymper,151.25,53
+lineup,dat,I,A50,1,elizabeth-lang,25.42,107,2,tatum-wood,26.26,94,3,reilly-mcglinn,26.4,91
+lineup,dat,I,D100,1,adriana-lai,59.04,117,2,kyllie-ruggieri,62.06,99,3,lianne-poblador,62.53,96
+lineup,dat,I,A100,1,kyllie-ruggieri,57.55,87,2,tatum-wood,58.93,77,3,kiera-haessler,59.65,72
+lineup,dat,I,A500,1,anna-zeigler,346.3,69,2,emma-devine-1,355.71,58,3,alexandra-mirigliani,365.19,47
+lineup,dat,I,B100,1,lianne-poblador,63.88,87,2,hazel-lymper,64.55,83,3,emily-locke-1,69.65,54
+lineup,dat,I,C100,1,elizabeth-lang,72.53,91,2,bridget-bryce,80.43,53,3,grace-ward,81.56,48
+relay,hdr,1623
+relay,RE200YF,2,lianne-poblador,elizabeth-lang,adriana-lai,tatum-wood,114.54,3.3600000000000000e+02,hazel-lymper,bridget-bryce,raya-branscom,charlie-torres-thorpe,123.91,2.4600000000000000e+02
+relay,RA200YF,2,kyllie-ruggieri,elizabeth-lang,emma-devine-1,adriana-lai,105.43,3.2100000000000000e+02,alexandra-mirigliani,charlie-torres-thorpe,kiera-haessler,anna-zeigler,110.86,2.6700000000000000e+02
+relay,RA400YF,2,kyllie-ruggieri,emily-locke-1,tatum-wood,lianne-poblador,241.38,2.4000000000000000e+02,emma-devine-1,alexandra-mirigliani,kiera-haessler,hazel-lymper,246.91,2.1300000000000000e+02
+relay,hdr,1677
+relay,RE200YF,2,lianne-poblador,elizabeth-lang,adriana-lai,tatum-wood,114.54,3.3600000000000000e+02,hazel-lymper,bridget-bryce,raya-branscom,charlie-torres-thorpe,123.91,2.4600000000000000e+02
+relay,RA200YF,2,reilly-mcglinn,emma-devine-1,kyllie-ruggieri,tatum-wood,106.41,3.1200000000000000e+02,alexandra-mirigliani,charlie-torres-thorpe,kiera-haessler,anna-zeigler,110.86,2.6700000000000000e+02
+relay,RA400YF,2,kyllie-ruggieri,anna-zeigler,lianne-poblador,adriana-lai,230.23,3.0300000000000000e+02,emma-devine-1,alexandra-mirigliani,kiera-haessler,hazel-lymper,246.91,2.1300000000000000e+02

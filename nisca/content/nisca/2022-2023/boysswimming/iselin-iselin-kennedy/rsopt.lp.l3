@@ -1,0 +1,13 @@
+lineup,hdr,3,574.0
+lineup,dat,I,A200,1,diana-kalynyak,144.31,4.0,,,,,,,,
+lineup,dat,I,E200,1,nishka-shah,161.66,1.0,2.0,shreyas-singh,161.66,1.0,,,,
+lineup,dat,I,A50,1,eric-pietrzak,24.32,82.0,2.0,daniyar-turdaliyer,24.93,74.0,3,hazem-elkordy,25.06,72.0
+lineup,dat,I,D100,1,eric-pietrzak,59.02,79.0,2.0,ihtesham-hassan-1,72.93,14.0,3,shashank-sharma,75.2,5.0
+lineup,dat,I,A100,1,hazem-elkordy,56.6,59.0,2.0,nicole-mazur,61.05,34.0,3,christian-williams-5,62.02,29.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,shashank-sharma,71.81,34.0,2.0,diana-kalynyak,72.94,30.0,,,,
+lineup,dat,I,C100,1,nicole-mazur,72.34,56.0,,,,,,,,
+relay,hdr,732.0
+relay,RE200YM,2,hazem-elkordy,daniyar-turdaliyer,eric-pietrzak,christian-williams-5,107.43,297.0,diana-kalynyak,nicole-mazur,alyssa-carrion-1,olivia-kuczynski,136.65,87.0,384.0
+relay,RA400YM,1,hazem-elkordy,ihtesham-hassan-1,daniyar-turdaliyer,eric-pietrzak,232.69,192.0,,,,,,,192.0
+relay,RA200YM,2,daniyar-turdaliyer,nishka-shah,ihtesham-hassan-1,shreyas-singh,121.56,96.0,vishwanth-janjanam,olivia-kuczynski,dwij-brahmbhatt-1,christian-williams-5,127.52,60.0,156.0

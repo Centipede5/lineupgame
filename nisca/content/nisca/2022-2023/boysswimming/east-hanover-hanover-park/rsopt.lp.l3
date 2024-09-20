@@ -1,0 +1,13 @@
+lineup,hdr,3,928.0
+lineup,dat,I,A200,1,alexander-amoresano,135.84,24.0,2.0,jonathan-callanan,139.97,14.0,,,,
+lineup,dat,I,E200,1,thien-tran,127.43,86.0,2.0,alex-fu,137.4,57.0,,,,
+lineup,dat,I,A50,1,grant-nelson,26.05,58.0,2.0,grant-zou,26.68,50.0,3,jack-lowinger,26.79,49.0
+lineup,dat,I,D100,1,thien-tran,54.84,105.0,2.0,jonathan-callanan,64.77,49.0,3,francis-murray,65.56,45.0
+lineup,dat,I,A100,1,neal-maheshwart,58.61,47.0,2.0,jack-lowinger,58.81,46.0,3,alexander-amoresano,59.17,44.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,neal-maheshwart,65.31,59.0,2.0,grant-zou,71.84,34.0,,,,
+lineup,dat,I,C100,1,alex-fu,69.69,68.0,2.0,adam-trinh,72.38,56.0,3,francis-murray,76.93,37.0
+relay,hdr,1098.0
+relay,RE200YM,2,francis-murray,adam-trinh,jonathan-callanan,thien-tran,110.35,270.0,grant-zou,alex-fu,ian-cynk,grant-nelson,122.7,174.0,444.0
+relay,RA200YM,2,alex-fu,francis-murray,adam-trinh,thien-tran,100.9,258.0,alexander-amoresano,ian-cynk,ryan-haberman,jack-lowinger,109.99,180.0,438.0
+relay,RA400YM,2,jonathan-callanan,neal-maheshwart,alexander-amoresano,adam-trinh,238.68,165.0,nicolas-mixich,grant-nelson,jack-lowinger,grant-zou,269.93,51.0,216.0

@@ -1,0 +1,11 @@
+lineup,hdr,3,388
+lineup,dat,I,A200,1,trey-gallant,168.15,0
+lineup,dat,I,E200,1,marcus-innamorato,148.66,29
+lineup,dat,I,A50,1,francesco-enzo-lombardo,25.1,71,2,zach-pender,31.91,0,3,tyler-current,33.53,0
+lineup,dat,I,D100,1,luke-laukaitis,75.54,4
+lineup,dat,I,A100,1,francesco-enzo-lombardo,56.83,58
+lineup,dat,I,A500,1,zach-pender,485.58,0,2,tyler-current,501.16,0
+lineup,dat,R,RA200,1,marcus-innamorato,zach-pender,luke-laukaitis,francesco-enzo-lombardo,116.43,132
+lineup,dat,I,B100,1,luke-laukaitis,82.15,1,2,trey-gallant,88.32,0
+lineup,dat,I,C100,1,marcus-innamorato,81.22,21
+lineup,dat,R,RA400,1,marcus-innamorato,luke-laukaitis,trey-gallant,francesco-enzo-lombardo,263.57,72

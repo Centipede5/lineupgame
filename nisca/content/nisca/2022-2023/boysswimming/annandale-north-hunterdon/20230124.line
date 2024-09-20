@@ -1,0 +1,15 @@
+lineup,hdr,3,2847
+lineup,dat,R,RE200,1,lucas-abd,chen-aidan,alex-meyer-1,ricardo-consano,103.82,330
+lineup,dat,R,RE200,2,douglas-hansen,noah-abd,mateo-halka,antoni-halka,114.73,234
+lineup,dat,I,A200,1,ricardo-consano,107.07,112,2,alex-meyer-1,110.09,101,3,douglas-hansen,129.88,39
+lineup,dat,I,E200,1,lucas-abd,121.86,104,2,will-hershfeld,123.61,98,3,andrew-halka,168.05,0
+lineup,dat,I,A50,1,mateo-halka,24.87,74,2,chen-aidan,24.81,75,3,vedanth-srinivasan,29.16,22
+lineup,dat,I,D100,1,will-hershfeld,54.89,105,2,noah-abd,60.77,69,3,matthew-lee-4,76.64,0
+lineup,dat,I,A100,1,ricardo-consano,49.27,111,2,antoni-halka,55.33,67,3,mateo-halka,57.56,53
+lineup,dat,I,A500,1,alex-meyer-1,309.77,87,2,matthew-lee-4,392.5,2
+lineup,dat,R,RA200,1,will-hershfeld,mateo-halka,antoni-halka,douglas-hansen,101.88,249
+lineup,dat,R,RA200,2,noah-abd,clemente-brogca,andrew-halka,chen-aidan,110.77,174
+lineup,dat,I,B100,1,lucas-abd,56.59,103,2,douglas-hansen,65.03,61,3,antoni-halka,70.47,39
+lineup,dat,I,C100,1,chen-aidan,64.37,95,2,noah-abd,66.62,83,3,clemente-brogca,94.32,0
+lineup,dat,R,RA400,1,lucas-abd,alex-meyer-1,will-hershfeld,ricardo-consano,199.38,360
+lineup,dat,R,RA400,2,clemente-brogca,shivum-patel,matthew-lee-4,andrew-halka,294.14,0

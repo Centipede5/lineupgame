@@ -1,0 +1,15 @@
+lineup,hdr,3,800
+lineup,dat,R,RE200,1,aidan-zachowski,sean-allen-poole,logan-peek,ketchell-terzakis,123.08,171
+lineup,dat,R,RE200,2,jack-paladini,tom-amorosi,colin-dignan,kane-lynch,149.58,18
+lineup,dat,I,A200,1,colin-geisen,134.97,26,2,ben-casper-1,146.07,0,3,jack-paladini,152.01,0
+lineup,dat,I,E200,1,aidan-zachowski,145.41,37,2,logan-peek,158.34,8
+lineup,dat,I,A50,1,ketchell-terzakis,25.41,67,2,colin-dignan,29.77,16,3,ty-holden,43.49,0
+lineup,dat,I,D100,1,logan-peek,73.34,12
+lineup,dat,I,A100,1,ketchell-terzakis,61.88,29,2,colin-dignan,64.93,14,3,sean-allen-poole,69.34,0
+lineup,dat,I,A500,1,colin-geisen,390.65,3,2,ben-casper-1,403.46,0
+lineup,dat,R,RA200,1,ben-casper-1,sean-allen-poole,colin-dignan,ketchell-terzakis,114.71,144
+lineup,dat,R,RA200,2,colin-geisen,kane-lynch,ty-holden,jeremy-garcia-2,128.32,57
+lineup,dat,I,B100,1,aidan-zachowski,72.9,30
+lineup,dat,I,C100,1,sean-allen-poole,76.84,37,2,ty-holden,85.07,8,3,tom-amorosi,102.66,0
+lineup,dat,R,RA400,1,ben-casper-1,colin-geisen,logan-peek,aidan-zachowski,249.78,123
+lineup,dat,R,RA400,2,jack-paladini,jeremy-garcia-2,tom-amorosi,ty-holden,330.78,0

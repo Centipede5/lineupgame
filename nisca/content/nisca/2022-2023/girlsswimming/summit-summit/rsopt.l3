@@ -1,0 +1,13 @@
+lineup,hdr,3,2184
+lineup,dat,I,A200,1,juliette-ho,120.42,100,2,grace-collins,123.96,87,3,ella-callahan,127.22,76
+lineup,dat,I,E200,1,sydney-arcalla,127.58,127,2,natalie-dripchak,141.72,80,3,melanie-dripchak,146.63,65
+lineup,dat,I,A50,1,cecelia-webb,24.82,117,2,juliet-webb-1,25.18,111,3,elena-carranza,27.32,78
+lineup,dat,I,D100,1,juliette-ho,61.78,100,2,bridget-devaney,66.31,75,3,lauren-sexton,67,72
+lineup,dat,I,A100,1,sydney-arcalla,51.51,137,2,cecelia-webb,55.51,103,3,molly-fagan,56.23,97
+lineup,dat,I,A500,1,grace-collins,329.69,90,2,ella-callahan,347.3,68,3,lauren-sexton,350.42,64
+lineup,dat,I,B100,1,molly-fagan,59.75,114,2,juliet-webb-1,64.11,85,3,katherine-hicks,64.81,81
+lineup,dat,I,C100,1,melanie-dripchak,72.84,89,2,natalie-dripchak,73.14,88,3,emma-vatoci,74.63,80
+relay,hdr,1809
+relay,RE200YF,2,molly-fagan,natalie-dripchak,juliette-ho,cecelia-webb,112.73,3.5700000000000000e+02,ava-miller,emma-vatoci,bridget-devaney,ella-callahan,121.31,2.7000000000000000e+02
+relay,RA200YF,2,sydney-arcalla,cecelia-webb,ava-miller,grace-collins,102.65,3.5400000000000000e+02,naya-kim,maeve-caldwell,bridget-devaney,elena-carranza,111.16,2.6400000000000000e+02
+relay,RA400YF,2,molly-fagan,ella-callahan,juliette-ho,sydney-arcalla,222.37,3.4800000000000000e+02,ava-miller,juliet-webb-1,bridget-devaney,katherine-hicks,246.23,2.1600000000000000e+02

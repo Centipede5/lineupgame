@@ -1,0 +1,16 @@
+lineup,hdr,3,486
+lineup,dat,I,A200
+lineup,dat,I,E200
+lineup,dat,I,A50,1,matthew-novak,25.19,70,2,christopher-sheehan,27.06,46,3,jeremy-morales,29.03,24
+lineup,dat,I,D100,1,chase-rogers,60.19,73,2,bryan-reimertz,62.74,59,3,jeremy-morales,73.38,12
+lineup,dat,I,A100,1,matthew-novak,60.07,39,2,christopher-sheehan,64.06,19,3,jackson-florio,66.65,7
+lineup,dat,I,A500
+lineup,dat,I,B100,1,chase-rogers,62.23,73,2,bryan-reimertz,65.81,57
+lineup,dat,I,C100,1,jackson-florio,85.14,7
+relay,hdr,375
+relay,RE200YM,1,chase-rogers,jackson-florio,matthew-novak,christopher-sheehan,125.47,1.5600000000000000e+02
+relay,RA200YM,2,chase-rogers,josh-recinos,christopher-sheehan,matthew-novak,117.11,1.2600000000000000e+02,jackson-florio,andrew-gonzalez-7,jeremy-morales,bryan-reimertz,122.05,9.3000000000000000e+01
+relay,hdr,468
+relay,RE200YM,1,chase-rogers,jackson-florio,matthew-novak,christopher-sheehan,125.47,1.5600000000000000e+02
+relay,RA200YM,1,jackson-florio,andrew-gonzalez-7,jeremy-morales,bryan-reimertz,122.05,9.3000000000000000e+01
+relay,RA400YM,1,chase-rogers,matthew-novak,jeremy-morales,christopher-sheehan,226.71,2.1900000000000000e+02

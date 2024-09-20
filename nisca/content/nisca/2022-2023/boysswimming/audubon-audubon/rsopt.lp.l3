@@ -1,0 +1,13 @@
+lineup,hdr,3,1062.0
+lineup,dat,I,A200,1,andrew-kolecki,112.91,91.0,2.0,benjamin-auerbach,134.38,27.0,3,mary-kate-owens,135.66,24.0
+lineup,dat,I,E200,1,keegan-stack,126.45,89.0,2.0,nikita-palermo,139.41,52.0,,,,
+lineup,dat,I,A50,1,tim-hause,23.81,90.0,2.0,charlotte-owens,26.62,51.0,3,santiago-caballero,28.48,30.0
+lineup,dat,I,D100,1,nikita-palermo,60.92,69.0,2.0,waverly-marish-1,73.52,12.0,,,,
+lineup,dat,I,A100,1,tim-hause,54.34,73.0,2.0,benjamin-auerbach,60.68,36.0,3,poppy-marish,61.72,30.0
+lineup,dat,I,A500,1,andrew-kolecki,309.6,87.0,2.0,sofia-haro-moss,361.08,30.0,,,,
+lineup,dat,I,B100,1,mary-kate-owens,68.77,45.0,2.0,sofia-haro-moss,72.31,32.0,3,waverly-marish-1,72.31,32.0
+lineup,dat,I,C100,1,keegan-stack,62.41,107.0,2.0,poppy-marish,78.34,31.0,3,charlotte-owens,80.2,24.0
+relay,hdr,1107.0
+relay,RE200YM,2,mary-kate-owens,keegan-stack,nikita-palermo,tim-hause,110.26,270.0,waverly-marish-1,poppy-marish,charlotte-owens,santiago-caballero,129.91,126.0,396.0
+relay,RA200YM,2,poppy-marish,santiago-caballero,sean-clarke-4,andrew-kolecki,106.84,204.0,nikita-palermo,charlotte-owens,nathan-auerbach-1,brandon-waite,111.47,168.0,372.0
+relay,RA400YM,2,tim-hause,andrew-kolecki,benjamin-auerbach,keegan-stack,221.67,243.0,nathan-auerbach-1,santiago-caballero,sofia-haro-moss,waverly-marish-1,257.07,96.0,339.0

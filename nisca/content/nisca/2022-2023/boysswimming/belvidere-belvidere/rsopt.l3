@@ -1,0 +1,16 @@
+lineup,hdr,3,806
+lineup,dat,I,A200
+lineup,dat,I,E200,1,katie-duryea,129.22,80
+lineup,dat,I,A50,1,matthew-beaney,23.28,98,2,luke-tipton,23.94,88,3,julia-hubert-1,28.59,28
+lineup,dat,I,D100,1,daniil-klimko,57.16,90,2,luke-tipton,61,68,3,andrew-durr,66.19,42
+lineup,dat,I,A100,1,andrew-durr,57.76,52,2,maddie-durr,62.07,28,3,julia-hubert-1,64.73,15
+lineup,dat,I,A500
+lineup,dat,I,B100,1,daniil-klimko,58.66,91,2,maddie-durr,71.88,34,3,ashley-postma,81.9,2
+lineup,dat,I,C100,1,matthew-beaney,65.59,89,2,luke-liszeski,87.22,1
+relay,hdr,669
+relay,RE200YM,2,daniil-klimko,matthew-beaney,luke-tipton,andrew-durr,109.5,2.7600000000000000e+02,ella-stanski,luke-liszeski,violet-anglum,wyatt-richardson,139.59,6.9000000000000000e+01
+relay,RA200YM,2,luke-tipton,andrew-durr,daniil-klimko,matthew-beaney,100.18,2.6400000000000000e+02,vivian-drescher-1,israel-fierro,ella-stanski,luke-liszeski,127.63,6.0000000000000000e+01
+relay,hdr,675
+relay,RE200YM,2,daniil-klimko,gianna-franceschino,andrew-durr,julia-hubert-1,128.31,1.3500000000000000e+02,ella-stanski,luke-liszeski,violet-anglum,wyatt-richardson,139.59,6.9000000000000000e+01
+relay,RA200YM,2,violet-anglum,ashley-postma,luke-tipton,matthew-beaney,108.56,1.9200000000000000e+02,vivian-drescher-1,israel-fierro,ella-stanski,luke-liszeski,127.63,6.0000000000000000e+01
+relay,RA400YM,1,luke-tipton,andrew-durr,daniil-klimko,matthew-beaney,226.81,2.1900000000000000e+02

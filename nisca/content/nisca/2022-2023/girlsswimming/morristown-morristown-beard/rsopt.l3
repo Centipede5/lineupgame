@@ -1,0 +1,12 @@
+lineup,hdr,3,219
+lineup,dat,I,A200,1,isla-johnston,125.41,82
+lineup,dat,I,E200
+lineup,dat,I,A50,1,gabriella-davis,32.22,17,2,clare-patchett,32.78,11
+lineup,dat,I,D100
+lineup,dat,I,A100
+lineup,dat,I,A500,1,isla-johnston,332.67,86
+lineup,dat,I,B100,1,mackenzie-dougherty-1,76.2,23
+lineup,dat,I,C100
+relay,hdr,207
+relay,RE200YF,1,clare-patchett,isla-johnston,abigail-ewing,gabriella-davis,148.19,6.6000000000000000e+01
+relay,RA200YF,1,isla-johnston,gabriella-davis,clare-patchett,mackenzie-dougherty-1,125.01,1.4100000000000000e+02

@@ -1,0 +1,15 @@
+lineup,hdr,3,1002
+lineup,dat,R,RE200,1,oscar-donis,kenneth-mazariego,landon-donovan,j-davis-550722,123.21,171
+lineup,dat,R,RE200,2,sean-moore-4,c-peerson,igor-chow,andrew-melnicki,139.15,72
+lineup,dat,I,A200,1,michael-wemmer,168.87,0,2,j-moulds,138.41,17
+lineup,dat,I,E200,1,c-peerson,193.08,0,2,igor-chow,156.62,12
+lineup,dat,I,A50,1,sean-moore-4,26.62,51,2,j-davis-550722,23.97,88
+lineup,dat,I,D100,1,igor-chow,69.08,29,2,landon-donovan,73.76,11
+lineup,dat,I,A100,1,andrew-melnicki,71.27,0,2,j-davis-550722,55.54,66
+lineup,dat,I,A500,1,kenneth-mazariego,394.74,0,2,j-moulds,400.23,0
+lineup,dat,R,RA200,1,c-peerson,bradley-ahr,michael-wemmer,andrew-melnicki,130.81,42
+lineup,dat,R,RA200,2,oscar-donis,j-moulds,igor-chow,landon-donovan,111.8,165
+lineup,dat,I,B100,1,sean-moore-4,68.14,48,2,oscar-donis,67.97,48
+lineup,dat,I,C100,1,c-peerson,82.73,15,2,kenneth-mazariego,76.59,38
+lineup,dat,R,RA400,1,j-moulds,bradley-ahr,michael-wemmer,andrew-melnicki,299.35,0
+lineup,dat,R,RA400,2,j-davis-550722,sean-moore-4,kenneth-mazariego,landon-donovan,247.94,129

@@ -1,0 +1,13 @@
+lineup,hdr,3,1045.0
+lineup,dat,I,A200,1,jillian-weinberger,136.65,47.0,2.0,abby-soltes,144.51,26.0,3,francheska-lacap,145.76,23.0
+lineup,dat,I,E200,1,taylor-weth,138.49,90.0,2.0,abby-ford,154.25,45.0,3,sofiia-goncharuk,168.71,11.0
+lineup,dat,I,A50,1,alexandra-lozanguiez,25.05,113.0,2.0,taylor-ford-500847,26.74,86.0,3,sofiia-goncharuk,29.77,45.0
+lineup,dat,I,D100,1,mackenzie-flammer,75.83,32.0,2.0,grace-gunning,79.69,18.0,,,,
+lineup,dat,I,A100,1,alexandra-lozanguiez,57.31,89.0,2.0,abby-ford,62.06,56.0,3,francheska-lacap,68.11,21.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,jillian-weinberger,68.52,60.0,2.0,taylor-ford-500847,69.03,57.0,3,grace-gunning,77.41,18.0
+lineup,dat,I,C100,1,taylor-weth,70.36,103.0,2.0,abby-soltes,79.78,56.0,3,mackenzie-flammer,81.39,49.0
+relay,hdr,1041.0
+relay,RA200YF,2,alexandra-lozanguiez,abby-ford,taylor-ford-500847,taylor-weth,105.7,318.0,grace-gunning,jillian-weinberger,jayden-hannah-macintyre,mackenzie-flammer,123.58,153.0,471.0
+relay,RE200YF,2,abby-ford,alexandra-lozanguiez,taylor-weth,taylor-ford-500847,121.84,267.0,jillian-weinberger,abby-soltes,sofiia-goncharuk,francheska-lacap,130.72,189.0,456.0
+relay,RA400YF,1,abby-soltes,sofiia-goncharuk,mackenzie-flammer,francheska-lacap,268.03,114.0,,,,,,,114.0

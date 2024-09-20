@@ -1,0 +1,13 @@
+lineup,hdr,3,1604
+lineup,dat,R,RE200,1,alex-pasquini,cole-johnston,ryan-quinn-655238,henry-fowler,106.85,300
+lineup,dat,R,RE200,2,ethan-blatcher,luke-rutkowski,lucas-blatcher,jacob-heilman,131.25,117
+lineup,dat,I,A200,1,ryan-quinn-655238,111.22,97,2,brendan-savell,128.49,42
+lineup,dat,I,E200,1,alex-pasquini,131.34,74,2,ethan-blatcher,165.48,0
+lineup,dat,I,A50,1,cole-johnston,25.56,65,2,luke-rutkowski,25.82,61,3,jacob-heilman,27.71,38
+lineup,dat,I,D100,1,ryan-quinn-655238,52.39,123,2,henry-fowler,64.72,49
+lineup,dat,I,A100,1,cole-johnston,57.12,56,2,lucas-blatcher,69.8,0
+lineup,dat,I,A500,1,luke-rutkowski,381.08,11,2,jacob-heilman,371.77,20
+lineup,dat,R,RA200,1,henry-fowler,brendan-savell,jacob-heilman,luke-rutkowski,108.21,195
+lineup,dat,I,B100,1,alex-pasquini,61.03,79
+lineup,dat,I,C100,1,henry-fowler,75.41,43,2,lucas-blatcher,84.56,9
+lineup,dat,R,RA400,1,cole-johnston,brendan-savell,alex-pasquini,ryan-quinn-655238,225.52,225

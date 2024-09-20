@@ -1,0 +1,15 @@
+lineup,hdr,3,1520
+lineup,dat,R,RE200,1,peyton-livelli,tom-nappi,finn-coogan--russell,trevor-mescia,111.37,261
+lineup,dat,R,RE200,2,ryan-livelli,mark-wyrovski,daniel-barnes,james-goodwin,131.72,114
+lineup,dat,I,A200,1,peyton-livelli,137.07,21
+lineup,dat,I,E200,1,tom-nappi,122.27,102
+lineup,dat,I,A50,1,finn-coogan--russell,22.23,116,2,james-goodwin,26.99,47,3,matt-glenn-1,27.77,37
+lineup,dat,I,D100,1,trevor-mescia,69,30,2,matthew-egan,90.95,0
+lineup,dat,I,A100,1,finn-coogan--russell,49.18,111,2,ryan-livelli,61.7,30,3,daniel-barnes,62.5,26
+lineup,dat,I,A500,1,peyton-livelli,370.57,21,2,mark-wyrovski,414.07,0
+lineup,dat,R,RA200,1,tom-nappi,trevor-mescia,peyton-livelli,finn-coogan--russell,101.49,252
+lineup,dat,R,RA200,2,matt-glenn-1,daniel-barnes,mark-wyrovski,james-goodwin,116.51,132
+lineup,dat,I,B100,1,ryan-livelli,77.31,16
+lineup,dat,I,C100,1,tom-nappi,64.48,95,2,joe-britton,76.64,38,3,mark-wyrovski,81.51,20
+lineup,dat,R,RA400,1,daniel-barnes,james-goodwin,ryan-livelli,mike-sipper,270.29,51
+lineup,dat,R,RA400,2,matthew-egan,joe-britton,matt-glenn-1,gavin-akersten,292.28,0

@@ -1,0 +1,14 @@
+lineup,hdr,3,470
+lineup,dat,R,RE200,1,dylan-bauer-1,sean-bauer,brian-mcclung,braedyn-cwiklinski,151,12
+lineup,dat,I,A200,1,mathew-lapierre,184.94,0
+lineup,dat,I,E200,1,dylan-bauer-1,179.09,0,2,jake-loveland,158.84,7
+lineup,dat,I,A50,1,alexander-betz,35.24,0,2,matt-marotta-2,29,24
+lineup,dat,I,D100,1,jake-loveland,72.83,14,2,sean-mcclung,67.09,38
+lineup,dat,I,A100,1,braedyn-cwiklinski,66.68,7,2,brian-mcclung,64.88,15,3,john-carty,80.86,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,kenneth-trautwiler,braedyn-cwiklinski,jake-loveland,brian-mcclung,115.85,135
+lineup,dat,R,RA200,2,alexander-betz,matt-marotta-2,john-zigrest,sean-bauer,138.11,3
+lineup,dat,I,B100,1,dylan-bauer-1,83.61,0,2,stephen-ciaston,68.78,45
+lineup,dat,I,C100,1,sean-bauer,95.98,0,2,sean-mcclung,71.7,59
+lineup,dat,R,RA400,1,braedyn-cwiklinski,john-carty,mathew-lapierre,dylan-bauer-1,324.37,0
+lineup,dat,R,RA400,2,kenneth-trautwiler,brian-mcclung,stephen-ciaston,sean-mcclung,252.43,111

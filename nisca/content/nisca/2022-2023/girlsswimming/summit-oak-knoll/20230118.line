@@ -1,0 +1,14 @@
+lineup,hdr,3,352
+lineup,dat,R,RE200,1,clara-vales,mackenzie-motroni,elizabeth-rogers,iman-ali,150.55,51
+lineup,dat,R,RE200,2,sarah-maher-1,anne-egan,keira-ardise,scarlett-mahoney,180.4,0
+lineup,dat,I,A200,1,desiree-mitchell-1,203,0,2,scarlett-mahoney,174.23,0,3,kate-mccaffrey,190.07,0
+lineup,dat,I,E200,1,keira-ardise,218.66,0,2,iman-ali,150.41,55,3,clara-vales,173.98,0
+lineup,dat,I,A50,1,anne-egan,40.02,0,2,ava-tiscornia,28.42,62,3,elizabeth-rogers,32.11,18
+lineup,dat,I,D100,1,alanna-chobar,76.95,28
+lineup,dat,I,A100,1,desiree-mitchell-1,87.68,0,2,kate-mccaffrey,84.28,0
+lineup,dat,I,A500,1,sarah-maher-1,463.48,0,2,ava-tiscornia,421.13,0,3,alanna-chobar,422.66,0
+lineup,dat,R,RA200,1,sarah-maher-1,alanna-chobar,desiree-mitchell-1,ava-tiscornia,141.84,27
+lineup,dat,R,RA200,2,elizabeth-rogers,anne-egan,kate-mccaffrey,mackenzie-motroni,157.55,0
+lineup,dat,I,B100,1,iman-ali,68.09,62,2,elizabeth-rogers,86.65,0,3,sarah-maher-1,99.93,0
+lineup,dat,I,C100,1,mackenzie-motroni,88.99,19,2,clara-vales,89.3,18
+lineup,dat,R,RA400,1,ava-tiscornia,desiree-mitchell-1,alanna-chobar,iman-ali,294.8,12

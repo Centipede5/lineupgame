@@ -1,0 +1,13 @@
+lineup,hdr,3,961.0
+lineup,dat,I,A200,1,keely-mcghee,128.12,73.0,2.0,arden-dowd,146.57,21.0,3,megan-weir,149.28,14.0
+lineup,dat,I,E200,1,casey-mclaughlin,135.88,98.0,2.0,temmie-yu,151.5,52.0,,,,
+lineup,dat,I,A50,1,lily-huggard,27.26,78.0,2.0,cameron-burns-3,28.7,58.0,3,katie-obssuth,30.14,40.0
+lineup,dat,I,D100,1,casey-mclaughlin,60.27,109.0,2.0,keely-mcghee,67.26,70.0,,,,
+lineup,dat,I,A100,1,julia-weir,60.27,68.0,2.0,lily-huggard,62.0,57.0,3,arden-dowd,64.95,39.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,temmie-yu,70.34,50.0,2.0,cameron-burns-3,77.44,17.0,,,,
+lineup,dat,I,C100,1,julia-weir,76.01,73.0,2.0,megan-weir,83.5,40.0,3,sophia-episcopo,93.31,4.0
+relay,hdr,1044.0
+relay,RA200YF,2,lily-huggard,julia-weir,keely-mcghee,casey-mclaughlin,109.99,273.0,arden-dowd,samantha-langella,katie-obssuth,megan-weir,123.49,153.0,426.0
+relay,RA400YF,2,lily-huggard,julia-weir,keely-mcghee,casey-mclaughlin,241.25,240.0,katie-obssuth,samantha-langella,cameron-burns-3,temmie-yu,274.45,87.0,327.0
+relay,RE200YF,2,arden-dowd,temmie-yu,megan-weir,cameron-burns-3,132.2,177.0,samantha-langella,sophia-episcopo,erin-shin,katie-obssuth,140.99,114.0,291.0

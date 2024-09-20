@@ -1,0 +1,12 @@
+lineup,hdr,3,183.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,emma-swenson,172.44,3.0,,,,,,,,
+lineup,dat,I,A50,1,emma-straub,29.37,50.0,,,,,,,,
+lineup,dat,I,D100,1,camryn-lewis,74.84,36.0,,,,,,,,
+lineup,dat,I,A100,,,,,,,,,,,,
+lineup,dat,I,A500,1,emma-straub,401.77,11.0,,,,,,,,
+lineup,dat,I,B100,1,camryn-lewis,71.53,44.0,,,,,,,,
+lineup,dat,I,C100,1,emma-swenson,83.66,39.0,,,,,,,,
+relay,hdr,243.0
+relay,RE200YF,1,rhea-dalal,emma-swenson,camryn-lewis,emma-straub,138.81,129.0,,,,,,,129.0
+relay,RA200YF,1,camryn-lewis,rhea-dalal,emma-swenson,emma-straub,128.57,114.0,,,,,,,114.0

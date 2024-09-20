@@ -1,0 +1,15 @@
+lineup,hdr,3,3038
+lineup,dat,R,RE200,1,cameron-fischer,brandon-ho-1,aaron-nam,michael-granin,110.47,270
+lineup,dat,R,RE200,2,colin-fischer,patrick-glynn,soyo-funada,hayes-williams,114.64,234
+lineup,dat,I,A200,1,jack-glynn,117.13,76,2,jonathan-tom,123.12,58,3,michael-cheng-1,130.09,38
+lineup,dat,I,E200,1,patrick-glynn,130.68,76,2,peter-lambert,137.94,55,3,bruce-dickson,144.37,39
+lineup,dat,I,A50,1,michael-granin,22.09,119,2,cameron-fischer,24.44,81,3,soyo-funada,24.19,84
+lineup,dat,I,D100,1,aaron-nam,56.91,92,2,brandon-ho-1,59.87,74,3,peter-lambert,61.34,66
+lineup,dat,I,A100,1,michael-granin,48.78,115,2,soyo-funada,54.46,73,3,cameron-fischer,56.2,61
+lineup,dat,I,A500,1,jack-glynn,315.08,80,2,jonathan-tom,335.32,56,3,colin-fischer,357.38,33
+lineup,dat,R,RA200,1,patrick-glynn,brandon-ho-1,jonathan-tom,jack-glynn,102.75,240
+lineup,dat,R,RA200,2,thiago-von-zuben-martinez,bruce-dickson,hayes-williams,peter-lambert,105.66,216
+lineup,dat,I,B100,1,aaron-nam,62.4,73,2,michael-cheng-1,66.33,55,3,colin-fischer,69.83,41
+lineup,dat,I,C100,1,brandon-ho-1,66.31,85,2,patrick-glynn,69.55,69,3,bruce-dickson,70.95,62
+lineup,dat,R,RA400,1,jack-glynn,cameron-fischer,aaron-nam,michael-granin,226.99,216
+lineup,dat,R,RA400,2,soyo-funada,thiago-von-zuben-martinez,hayes-williams,peter-lambert,230.43,201

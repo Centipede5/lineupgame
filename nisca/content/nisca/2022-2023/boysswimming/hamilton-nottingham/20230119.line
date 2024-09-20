@@ -1,0 +1,15 @@
+lineup,hdr,3,301
+lineup,dat,R,RE200,1,adriana-ordonez,mark-tezak,alex-ceballos,shawna-acquah,143.95,48
+lineup,dat,R,RE200,2,audrey-ford-1,tim-babkowski,logan-mcguire,miguel-fleurijean,154.06,0
+lineup,dat,I,A200,1,ethan-wiebesiek,153.19,0,2,george-barry,168.13,0
+lineup,dat,I,E200,1,logan-mcguire,170.84,0,2,bode-miller,205.29,0
+lineup,dat,I,A50,1,alex-ceballos,26.83,49,2,yaneta-doe,81.03,0,3,marilyn-ovalle,40.83,0
+lineup,dat,I,D100,1,alex-ceballos,70.02,25,2,george-barry,93.53,0,3,shawna-acquah,121.31,0
+lineup,dat,I,A100,1,jack-ford-3,65.55,12,2,nick-chiorello,74.98,0,3,macallister-miller,85.87,0
+lineup,dat,I,A500,1,logan-mcguire,393.43,1,2,bode-miller,504.76,0,3,madison-ritter-1,540.07,0
+lineup,dat,R,RA200,1,adriana-ordonez,alex-ceballos,audrey-ford-1,jack-ford-3,120.71,102
+lineup,dat,R,RA200,2,mark-tezak,madison-ritter-1,george-barry,shawna-acquah,147.09,0
+lineup,dat,I,B100,1,ethan-wiebesiek,81.22,4,2,nick-chiorello,91.51,0
+lineup,dat,I,C100,1,mark-tezak,82.91,15,2,tim-babkowski,88,0,3,macallister-miller,97.42,0
+lineup,dat,R,RA400,1,george-barry,audrey-ford-1,jack-ford-3,logan-mcguire,272.23,45
+lineup,dat,R,RA400,2,shawna-acquah,nick-chiorello,ethan-wiebesiek,pineda-zacarias-alwin,335.52,0

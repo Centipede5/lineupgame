@@ -1,0 +1,13 @@
+lineup,hdr,3,1951.0
+lineup,dat,I,A200,1,anton-kondratyev,113.2,90.0,2.0,elliot-tanalski-1,114.62,85.0,3,elves-huang,125.39,51.0
+lineup,dat,I,E200,1,kaleb-jurado-garcia-1,123.98,97.0,2.0,henry-liang-gilman,127.31,86.0,3,antoni-tadych,128.38,83.0
+lineup,dat,I,A50,1,mathivanth-veerachamy,23.12,101.0,2.0,vishan-patel,24.61,78.0,3,jacob-schick,24.79,76.0
+lineup,dat,I,D100,1,ryan-kang,56.93,92.0,2.0,elliot-tanalski-1,57.33,89.0,3,arhan-kondala,60.73,70.0
+lineup,dat,I,A100,1,kaleb-jurado-garcia-1,51.35,94.0,2.0,mathivanth-veerachamy,52.32,87.0,3,luis-molinar-sanchez,54.2,74.0
+lineup,dat,I,A500,1,anton-kondratyev,301.97,97.0,2.0,henry-liang-gilman,313.52,82.0,3,elves-huang,336.98,54.0
+lineup,dat,I,B100,1,vishan-patel,59.43,87.0,2.0,ryan-kang,60.16,84.0,3,ryan-formica,65.12,60.0
+lineup,dat,I,C100,1,antoni-tadych,63.4,101.0,2.0,tyler-kimm,67.11,81.0,3,luis-molinar-sanchez,73.19,52.0
+relay,hdr,1629.0
+relay,RE200YM,2,vishan-patel,antoni-tadych,ryan-kang,mathivanth-veerachamy,106.28,306.0,ryan-formica,tyler-kimm,henry-liang-gilman,jacob-schick,111.9,258.0,564.0
+relay,RA200YM,2,kaleb-jurado-garcia-1,mathivanth-veerachamy,elliot-tanalski-1,anton-kondratyev,96.73,297.0,jacob-schick,humza-shaikh,luis-molinar-sanchez,elves-huang,102.98,237.0,534.0
+relay,RA400YM,2,kaleb-jurado-garcia-1,anton-kondratyev,henry-liang-gilman,elliot-tanalski-1,207.67,312.0,jacob-schick,ryan-formica,vishan-patel,antoni-tadych,226.54,219.0,531.0

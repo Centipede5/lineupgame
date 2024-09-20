@@ -1,0 +1,13 @@
+lineup,hdr,3,1053.0
+lineup,dat,I,A200,1,yunho-kim,122.58,59.0,2.0,daniel-chung-1,128.97,41.0,3,luke-limbacher,133.0,31.0
+lineup,dat,I,E200,1,david-lee-14,140.46,49.0,,,,,,,,
+lineup,dat,I,A50,1,joseph-jang,25.13,71.0,2.0,aadi-vaghasiya-vaghasiya,26.39,54.0,3,patrick-nowak,26.65,51.0
+lineup,dat,I,D100,1,daniel-chung-1,63.18,57.0,2.0,andre-cartagena-cartagena,63.46,55.0,3,om-pradhan,73.2,13.0
+lineup,dat,I,A100,1,luke-limbacher,55.35,67.0,2.0,patrick-edelbach,55.47,66.0,3,derek-lampey,57.64,53.0
+lineup,dat,I,A500,1,yunho-kim,334.75,57.0,2.0,andre-cartagena-cartagena,356.68,34.0,,,,
+lineup,dat,I,B100,1,patrick-edelbach,62.92,70.0,2.0,joseph-jang,70.88,37.0,3,aadi-vaghasiya-vaghasiya,71.28,36.0
+lineup,dat,I,C100,1,david-lee-14,65.72,88.0,2.0,derek-lampey,76.33,39.0,3,cian-kim,79.94,25.0
+relay,hdr,816.0
+relay,RE200YM,2,patrick-edelbach,david-lee-14,daniel-chung-1,andre-cartagena-cartagena,112.15,255.0,joseph-jang,cian-kim,om-pradhan,derek-lampey,124.27,162.0,417.0
+relay,RA400YM,2,daniel-chung-1,joseph-jang,luke-limbacher,david-lee-14,241.02,156.0,patrick-edelbach,derek-lampey,andre-cartagena-cartagena,yunho-kim,241.76,153.0,309.0
+relay,RA200YM,2,om-pradhan,shivam-kothari,shubham-kothari,luke-limbacher,125.47,72.0,joshua-henry,param-patel-1,gabroe-tsillman,conan-yoon,135.19,18.0,90.0

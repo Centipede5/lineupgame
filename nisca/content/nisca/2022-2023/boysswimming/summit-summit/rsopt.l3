@@ -1,0 +1,13 @@
+lineup,hdr,3,2176
+lineup,dat,I,A200,1,will-moon,105.04,120,2,charlie-moon,110.76,98,3,wil-roselle,120.53,66
+lineup,dat,I,E200,1,kyle-dripchak,121.84,104,2,ethan-kwon,123.55,98,3,bennett-harvey,130.21,77
+lineup,dat,I,A50,1,ryan-fox-8,23.04,102,2,devin-tapia,23.14,101,3,etienne-mbuyi,23.92,88
+lineup,dat,I,D100,1,ryan-fox-8,55.61,100,2,declan-vargas,58.69,81,3,jack-vargas,59.15,79
+lineup,dat,I,A100,1,charlie-moon,50.25,103,2,moon-charlie,50.98,97,3,devin-tapia,51.6,93
+lineup,dat,I,A500,1,will-moon,297.83,103,2,kyle-dripchak,300.04,100,3,aidan-tapia,328.93,63
+lineup,dat,I,B100,1,declan-vargas,60.62,81,2,jack-vargas,61.19,78,3,ryan-smith-38,61.54,77
+lineup,dat,I,C100,1,ethan-kwon,63.18,102,2,charlie-vlass,65.19,91,3,bennett-harvey,68.51,74
+relay,hdr,1926
+relay,RE200YM,2,kyle-dripchak,ethan-kwon,ryan-fox-8,devin-tapia,101.02,3.5700000000000000e+02,jack-vargas,charlie-vlass,declan-vargas,jake-miller-14,107.67,2.9400000000000000e+02
+relay,RA200YM,2,ethan-kwon,ryan-fox-8,charlie-moon,will-moon,89.51,3.7800000000000000e+02,declan-vargas,wil-roselle,daniel-shirazi,etienne-mbuyi,96.53,3.0000000000000000e+02
+relay,RA400YM,2,devin-tapia,kyle-dripchak,charlie-moon,will-moon,201.78,3.4800000000000000e+02,wil-roselle,jake-miller-14,ryan-smith-38,etienne-mbuyi,220.09,2.4900000000000000e+02

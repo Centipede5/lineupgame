@@ -1,0 +1,13 @@
+lineup,hdr,3,1225
+lineup,dat,R,RE200,1,seamus-carnes,luke-bardinas,nate-richards,ryan-bailey-4,111.25,261
+lineup,dat,I,A200,1,luke-bardinas,121.25,63,2,finn-barrett,168.5,0,3,eric-pota,166.43,0
+lineup,dat,I,E200,1,ryan-bailey-4,139.07,52,2,nate-richards,129.09,81,3,aidan-donoghue,172.06,0
+lineup,dat,I,A50,1,connor-barkey-1,27.43,41,2,jon-moran,30.14,13,3,haakon-christensen,28.29,32
+lineup,dat,I,D100,1,nate-richards,59.64,76,2,aidan-donoghue,76.75,0
+lineup,dat,I,A100,1,jon-moran,75.48,0,2,seamus-carnes,49.33,110,3,haakon-christensen,75.01,0
+lineup,dat,I,A500,1,finn-barrett,469.69,0,2,ryan-bailey-4,357.41,33
+lineup,dat,R,RA200,1,connor-barkey-1,aidan-donoghue,jon-moran,haakon-christensen,120.66,102
+lineup,dat,I,B100,1,eric-pota,82.58,0,2,seamus-carnes,64.91,61
+lineup,dat,I,C100,1,luke-bardinas,70,66,2,connor-barkey-1,96,0
+lineup,dat,R,RA400,1,finn-barrett,jon-moran,eric-pota,aidan-donoghue,311.65,0
+lineup,dat,R,RA400,2,nate-richards,luke-bardinas,ryan-bailey-4,seamus-carnes,223.5,234

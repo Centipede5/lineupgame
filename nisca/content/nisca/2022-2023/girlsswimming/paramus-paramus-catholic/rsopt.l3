@@ -1,0 +1,16 @@
+lineup,hdr,3,184
+lineup,dat,I,A200
+lineup,dat,I,E200,1,juliann-locicero,172.16,4
+lineup,dat,I,A50,1,jocinta-kitele,31.53,24,2,nylah-lowe,31.75,22,3,eloiza-sanchez,33.36,5
+lineup,dat,I,D100,1,juliann-locicero,79.43,19
+lineup,dat,I,A100,1,nylah-lowe,67.4,25
+lineup,dat,I,A500
+lineup,dat,I,B100,1,corrine-javellana,77.34,18
+lineup,dat,I,C100,1,crystal-pisello,77.41,67
+relay,hdr,288
+relay,RE200YF,2,corrine-javellana,crystal-pisello,natalie-cruz-1,nylah-lowe,135.78,1.5000000000000000e+02,juliann-locicero,emilia-krstevski,jocinta-kitele,brooke-sherman,155.72,2.1000000000000000e+01
+relay,RA200YF,1,corrine-javellana,crystal-pisello,juliann-locicero,eloiza-sanchez,128.06,1.1700000000000000e+02
+relay,hdr,312
+relay,RE200YF,1,corrine-javellana,crystal-pisello,natalie-cruz-1,nylah-lowe,135.78,1.5000000000000000e+02
+relay,RA200YF,1,corrine-javellana,crystal-pisello,juliann-locicero,eloiza-sanchez,128.06,1.1700000000000000e+02
+relay,RA400YF,1,nylah-lowe,juliann-locicero,corrine-javellana,crystal-pisello,285.19,4.5000000000000000e+01

@@ -1,0 +1,15 @@
+lineup,hdr,3,1485
+lineup,dat,R,RE200,1,john-ryan-connelly,ryan-ocallaghan,ryan-mullin-1,raymond-basso,121.62,183
+lineup,dat,R,RE200,2,luke-truma,joe-dever,simon-fisher,jake-wolbert,127.75,141
+lineup,dat,I,A200,1,ryan-mullin-1,114.93,84,2,kyle-lee-3,130.94,36,3,luke-truma,148.15,0
+lineup,dat,I,E200,1,jack-taramaso,168.72,0,2,john-ryan-connelly,148.97,28
+lineup,dat,I,A50,1,ryan-ocallaghan,24.83,75,2,raymond-basso,24.81,75,3,luke-keuer,27.13,45
+lineup,dat,I,D100,1,simon-fisher,63.65,54,2,luke-truma,79.64,0
+lineup,dat,I,A100,1,raymond-basso,58.4,48,2,luke-keuer,64.84,15,3,jaden-torres-607600,70.22,0
+lineup,dat,I,A500,1,ryan-mullin-1,316.02,79,2,ryan-ocallaghan,381.08,11
+lineup,dat,R,RA200,1,simon-fisher,john-ryan-connelly,luke-keuer,raymond-basso,110.44,177
+lineup,dat,R,RA200,2,jack-taramaso,charles-guerra,jake-wolbert,john-adams-5,133.95,24
+lineup,dat,I,B100,1,jaden-torres-607600,78.66,11,2,john-ryan-connelly,67.33,51,3,simon-fisher,68.84,45
+lineup,dat,I,C100,1,kyle-lee-3,75.95,41,2,charles-guerra,80.09,25,3,joe-dever,76.41,39
+lineup,dat,R,RA400,1,kyle-lee-3,ryan-ocallaghan,luke-truma,ryan-mullin-1,234.59,183
+lineup,dat,R,RA400,2,jaden-torres-607600,brian-rotter-1,jack-taramaso,charles-guerra,282.13,15

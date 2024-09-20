@@ -1,0 +1,13 @@
+lineup,hdr,3,545.0
+lineup,dat,I,A200,1,emily-gardner-603003,135.87,50.0,2.0,emily-cogdill,139.63,39.0,,,,
+lineup,dat,I,E200,1,emily-chavez,169.51,9.0,,,,,,,,
+lineup,dat,I,A50,1,julia-panczenko,28.81,57.0,2.0,amber-shea,30.07,41.0,3,aolani-obi,30.34,38.0
+lineup,dat,I,D100,1,emily-gardner-603003,73.26,43.0,2.0,alexandra-gregorio,78.45,22.0,3,kushi-malik,81.5,11.0
+lineup,dat,I,A100,1,maya-zavatsky,65.45,36.0,2.0,emily-cogdill,66.47,30.0,3,julia-panczenko,66.37,30.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,scout-lowrie,77.26,67.0,2.0,amber-shea,83.97,38.0,3,maya-zavatsky,85.08,34.0
+relay,hdr,693.0
+relay,RE200YF,2,emily-cogdill,scout-lowrie,emily-gardner-603003,julia-panczenko,135.25,153.0,alexandra-gregorio,amber-shea,kushi-malik,rose-ngungu,137.9,135.0,288.0
+relay,RA200YF,2,maya-zavatsky,rose-ngungu,scout-lowrie,julia-panczenko,125.64,138.0,elena-canales,alexandra-gregorio,kushi-malik,aolani-obi,129.05,111.0,249.0
+relay,RA400YF,2,elena-canales,amber-shea,maya-zavatsky,scout-lowrie,276.26,81.0,emily-cogdill,kushi-malik,emily-gardner-603003,alexandra-gregorio,277.62,75.0,156.0

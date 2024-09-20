@@ -1,0 +1,17 @@
+lineup,hdr,3,1525
+lineup,dat,I,A200,1,sean-stanik,113.9,87,2,ishaan-anand,121.2,63,3,akarsh-choudhary,126.12,49
+lineup,dat,I,E200,1,jayden-zheng,133.16,69,2,anthony-chiu,133.68,67,3,sanvith-gottam,143.65,41
+lineup,dat,I,A50,1,aman-nimse,23.77,91,2,arnav-landge,24.82,75,3,udaykarthik-gujulva,25.27,69
+lineup,dat,I,D100,1,ishaan-anand,60.57,71,2,ishan-kataria,62.44,61,3,ishaan-gupte,64.81,49
+lineup,dat,I,A100,1,arnav-landge,55.65,65,2,aman-nimse,55.68,65,3,jeremy-lin,55.87,64
+lineup,dat,I,A500,1,sean-stanik,306.36,91,2,kartik-narula,350.62,40,3,sohang-sethi,362.85,28
+lineup,dat,I,B100,1,jayden-zheng,60.69,81,2,sanvith-gottam,63.52,67,3,akarsh-choudhary,65.3,59
+lineup,dat,I,C100,1,anthony-chiu,67.17,80,2,kartik-narula,72.54,55,3,chinmay-prabhu,76.69,38
+relay,hdr,1401
+relay,RE200YM,2,jayden-zheng,anthony-chiu,sean-stanik,aman-nimse,108.9,2.8200000000000000e+02,akarsh-choudhary,kartik-narula,ishaan-gupte,udaykarthik-gujulva,116.1,2.2200000000000000e+02
+relay,RA200YM,2,arnav-landge,ishaan-gupte,sanvith-gottam,aman-nimse,98.76,2.7900000000000000e+02,kevin-yu,jeremy-lin,ishan-kataria,akarsh-choudhary,101.58,2.5200000000000000e+02
+relay,RA400YM,2,ishaan-anand,jeremy-lin,udaykarthik-gujulva,arnav-landge,229.28,2.0700000000000000e+02,kartik-narula,sanvith-gottam,ishan-kataria,sohang-sethi,240.29,1.5900000000000000e+02
+relay,hdr,1476
+relay,RE200YM,2,jayden-zheng,anthony-chiu,sean-stanik,aman-nimse,108.9,2.8200000000000000e+02,akarsh-choudhary,kartik-narula,ishaan-gupte,udaykarthik-gujulva,116.1,2.2200000000000000e+02
+relay,RA200YM,2,udaykarthik-gujulva,ishaan-gupte,sanvith-gottam,arnav-landge,100.96,2.5800000000000000e+02,kevin-yu,jeremy-lin,ishan-kataria,akarsh-choudhary,101.58,2.5200000000000000e+02
+relay,RA400YM,2,aman-nimse,jayden-zheng,anthony-chiu,sean-stanik,219.09,2.5500000000000000e+02,ishaan-anand,jeremy-lin,udaykarthik-gujulva,arnav-landge,229.28,2.0700000000000000e+02

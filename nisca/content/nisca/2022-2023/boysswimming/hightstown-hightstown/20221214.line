@@ -1,0 +1,15 @@
+lineup,hdr,3,2007
+lineup,dat,R,RE200,1,brendan-lach,justin-kecskes,mateo-callegari,rahil-shiraz,116.75,219
+lineup,dat,R,RE200,2,jonathan-kecskes,sahaan-shyam,jake-demian,jonathan-ventura-1,140.63,63
+lineup,dat,I,A200,1,max-peterson,103.81,125,2,agustin-callegari,142.26,9,3,ameya-keertikar,142.86,7
+lineup,dat,I,E200,1,mateo-callegari,135.4,62,2,brendan-lach,138.04,55,3,jake-demian,154.77,15
+lineup,dat,I,A50,1,rahil-shiraz,23.52,95,2,jonathan-ventura-1,26.76,49,3,justin-kecskes,26.91,48
+lineup,dat,I,D100,1,max-peterson,51.42,130,2,mateo-callegari,60.05,73,3,jake-demian,72.48,16
+lineup,dat,I,A100,1,aidan-ablai,52.86,84,2,rahil-shiraz,54.45,73,3,jonathan-ventura-1,63.09,23
+lineup,dat,I,A500,1,agustin-callegari,368.98,22,2,ameya-keertikar,388.57,5,3,jonathan-kecskes,394.86,0
+lineup,dat,R,RA200,1,brendan-lach,jonathan-ventura-1,aidan-ablai,max-peterson,101.29,255
+lineup,dat,R,RA200,2,justin-kecskes,jeremy-sanchez,jake-demian,agustin-callegari,115.32,138
+lineup,dat,I,B100,1,brendan-lach,64.81,62,2,jonathan-kecskes,76.14,19
+lineup,dat,I,C100,1,aidan-ablai,73.18,52,2,justin-kecskes,83.07,14,3,jeremy-sanchez,89.83,0
+lineup,dat,R,RA400,1,rahil-shiraz,mateo-callegari,aidan-ablai,max-peterson,216.53,267
+lineup,dat,R,RA400,2,agustin-callegari,ameya-keertikar,jeremy-sanchez,jonathan-kecskes,277.31,27

@@ -1,0 +1,10 @@
+lineup,hdr,3,150
+lineup,dat,I,A200,1,lamar-ghith,221.14,0,2,valery-melo,250.43,0,3,jade-timmer,220.65,0
+lineup,dat,I,E200,1,jade-timmer,139.88,85
+lineup,dat,I,A50,1,sky-alvarado,33.32,6,2,genevieve-gaston,49.09,0,3,mia-hayes,45.32,0
+lineup,dat,I,D100
+lineup,dat,I,A100,1,sky-alvarado,74.59,0,2,genevieve-gaston,103.33,0,3,mia-hayes,107.05,0
+lineup,dat,I,A500,1,valery-melo,599.88,0,2,lamar-ghith,599.99,0
+lineup,dat,I,B100,1,genevieve-gaston,142.1,0,2,lamar-ghith,134.3,0,3,valery-melo,126.18,0
+lineup,dat,I,C100,1,jade-timmer,79.06,59
+lineup,dat,R,RA400,1,sky-alvarado,lamar-ghith,valery-melo,mia-hayes,446.8,0

@@ -1,0 +1,12 @@
+lineup,hdr,3,214
+lineup,dat,I,A200,1,ian-traverse-1,138.56,17
+lineup,dat,I,E200,1,marcus-innamorato,148.66,29
+lineup,dat,I,A50,1,francesco-enzo-lombardo,25.1,71,2,luke-laukaitis,31.06,4
+lineup,dat,I,D100,1,luke-laukaitis,75.54,4
+lineup,dat,I,A100,1,francesco-enzo-lombardo,56.83,58
+lineup,dat,I,A500
+lineup,dat,I,B100,1,marcus-innamorato,72.73,31
+lineup,dat,I,C100
+relay,hdr,318
+relay,RE200YM,1,marcus-innamorato,ian-traverse-1,francesco-enzo-lombardo,luke-laukaitis,125.72,1.5300000000000000e+02
+relay,RA200YM,1,francesco-enzo-lombardo,luke-laukaitis,marcus-innamorato,ian-traverse-1,111.79,1.6500000000000000e+02

@@ -1,0 +1,13 @@
+lineup,hdr,3,1102.0
+lineup,dat,I,A200,1,juan-carlos-garcia,117.55,75.0,2.0,mateo-bermudez,131.62,34.0,3,joyce-naguib,145.41,2.0
+lineup,dat,I,E200,1,christopher-clarke-1,126.32,89.0,2.0,pablo-criollo,158.62,7.0,3,kyree-scott,159.58,5.0
+lineup,dat,I,A50,1,javier-felix-1,24.9,74.0,2.0,christopher-j-huntley,25.56,65.0,3,nicholas-monteiro,25.91,60.0
+lineup,dat,I,D100,1,juan-carlos-garcia,57.97,86.0,2.0,craig-clarke,59.74,75.0,3,yohan-parraga,65.22,47.0
+lineup,dat,I,A100,1,javier-felix-1,56.22,61.0,2.0,mateo-bermudez,57.83,52.0,3,nicholas-monteiro,60.64,36.0
+lineup,dat,I,A500,1,christopher-clarke-1,307.25,90.0,2.0,joseph-romani,379.56,13.0,,,,
+lineup,dat,I,B100,1,craig-clarke,58.14,94.0,2.0,yohan-parraga,67.48,50.0,3,matthew-palacios-1,77.0,17.0
+lineup,dat,I,C100,1,kyree-scott,75.04,44.0,2.0,tiago-ferreira-2,81.23,21.0,3,maria-meranda,85.76,5.0
+relay,hdr,1149.0
+relay,RE200YM,2,craig-clarke,christopher-clarke-1,juan-carlos-garcia,javier-felix-1,107.9,291.0,yohan-parraga,kyree-scott,nicholas-monteiro,mateo-bermudez,121.51,183.0,474.0
+relay,RA200YM,2,nicholas-monteiro,mateo-bermudez,christopher-j-huntley,alejandro-ocampo,108.96,189.0,yohan-parraga,pablo-criollo,matthew-palacios-1,kyree-scott,112.68,159.0,348.0
+relay,RA400YM,2,juan-carlos-garcia,christopher-clarke-1,javier-felix-1,craig-clarke,216.38,267.0,joyce-naguib,sara-ocampo-garcia,pablo-criollo,alejandro-ocampo,267.1,60.0,327.0

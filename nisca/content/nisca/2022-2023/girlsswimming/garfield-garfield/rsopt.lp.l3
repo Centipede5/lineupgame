@@ -1,0 +1,13 @@
+lineup,hdr,3,355.0
+lineup,dat,I,A200,1,xenia-lopez,140.75,36.0,,,,,,,,
+lineup,dat,I,E200,1,abigail-hernandez,139.97,85.0,,,,,,,,
+lineup,dat,I,A50,1,aleksandra-sikorski,33.09,8.0,2.0,julia-jaskot,33.78,1.0,,,,
+lineup,dat,I,D100,1,abigail-hernandez,62.0,99.0,,,,,,,,
+lineup,dat,I,A100,1,lucia-lopez,63.4,48.0,,,,,,,,
+lineup,dat,I,A500,1,xenia-lopez,398.56,14.0,,,,,,,,
+lineup,dat,I,B100,1,lucia-lopez,71.69,44.0,2.0,isabella-soriano-pineda,78.53,13.0,3,kanzy-hassan,79.91,7.0
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,468.0
+relay,RE200YF,2,lucia-lopez,kanzy-hassan,abigail-hernandez,xenia-lopez,131.39,183.0,isabella-soriano-pineda,julia-jaskot,sydney-davis-1,aleksandra-sikorski,151.19,48.0,231.0
+relay,RA400YF,1,xenia-lopez,lucia-lopez,kanzy-hassan,abigail-hernandez,264.09,132.0,,,,,,,132.0
+relay,RA200YF,1,kanzy-hassan,sydney-davis-1,aleksandra-sikorski,julia-jaskot,130.02,105.0,,,,,,,105.0

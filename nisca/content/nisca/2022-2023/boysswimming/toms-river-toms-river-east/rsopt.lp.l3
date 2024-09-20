@@ -1,0 +1,13 @@
+lineup,hdr,3,645.0
+lineup,dat,I,A200,1,anastasios-psillos,116.12,80.0,2.0,declan-butler,136.97,21.0,,,,
+lineup,dat,I,E200,1,donovan-dickman,134.68,64.0,2.0,jacob-chong,157.86,9.0,,,,
+lineup,dat,I,A50,1,christopher-dimuzio,24.11,86.0,2.0,michael-bruno-3,27.37,42.0,3,omar-azab,28.62,28.0
+lineup,dat,I,D100,1,donovan-dickman,60.55,71.0,,,,,,,,
+lineup,dat,I,A100,1,anastasios-psillos,51.85,91.0,2.0,christopher-dimuzio,56.1,62.0,3,kodi-duong-1,64.73,15.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,jacob-chong,72.09,33.0,2.0,benjamin-kannheiser,73.63,28.0,,,,
+lineup,dat,I,C100,1,omar-azab,82.72,15.0,,,,,,,,
+relay,hdr,801.0
+relay,RA200YM,2,christopher-dimuzio,donovan-dickman,declan-butler,anastasios-psillos,100.22,264.0,kodi-duong-1,michael-pavoa,chris-stasiak,omar-azab,124.37,78.0,342.0
+relay,RA400YM,2,christopher-dimuzio,declan-butler,donovan-dickman,anastasios-psillos,223.05,234.0,tyler-godlesky,kodi-duong-1,jacob-chong,benjamin-kannheiser,271.19,48.0,282.0
+relay,RE200YM,2,benjamin-kannheiser,omar-azab,tyler-godlesky,michael-bruno-3,128.32,135.0,drew-heiser,liam-healy-3,kodi-duong-1,chris-stasiak,144.78,42.0,177.0

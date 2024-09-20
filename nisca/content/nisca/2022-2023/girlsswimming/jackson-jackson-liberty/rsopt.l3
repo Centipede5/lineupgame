@@ -1,0 +1,12 @@
+lineup,hdr,3,157
+lineup,dat,I,A200
+lineup,dat,I,E200
+lineup,dat,I,A50,1,kyanna-grimes,29.25,51,2,kathryn-spalthoff-1,30.92,31,3,maya-catron,31.76,22
+lineup,dat,I,D100,1,maya-catron,81.75,11
+lineup,dat,I,A100
+lineup,dat,I,A500
+lineup,dat,I,B100,1,kyanna-grimes,76.56,21
+lineup,dat,I,C100,1,nicole-voicheck,88.48,21
+relay,hdr,279
+relay,RE200YF,1,kyanna-grimes,nicole-voicheck,maya-catron,kathryn-spalthoff-1,135.42,1.5300000000000000e+02
+relay,RA200YF,1,maya-catron,kathryn-spalthoff-1,mariana-aguado-lozano,kyanna-grimes,127.09,1.2600000000000000e+02

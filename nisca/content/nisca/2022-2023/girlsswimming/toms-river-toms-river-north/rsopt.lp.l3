@@ -1,0 +1,13 @@
+lineup,hdr,3,668.0
+lineup,dat,I,A200,1,kaitlyn-culbert,116.48,115.0,2.0,kate-abrahamsen,148.59,16.0,,,,
+lineup,dat,I,E200,1,caitlyn-poulos,159.63,31.0,,,,,,,,
+lineup,dat,I,A50,1,erin-misa,30.69,34.0,2.0,katelyn-rizz0,31.34,27.0,3,giana-shomali,32.29,16.0
+lineup,dat,I,D100,1,devyn-reilly,68.65,64.0,,,,,,,,
+lineup,dat,I,A100,1,kyran-thievon,63.28,49.0,2.0,kate-abrahamsen,66.01,32.0,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,kaitlyn-culbert,60.43,109.0,2.0,devyn-reilly,64.39,84.0,,,,
+lineup,dat,I,C100,1,kyran-thievon,81.13,50.0,2.0,caitlyn-poulos,83.15,41.0,,,,
+relay,hdr,651.0
+relay,RA200YF,2,kaitlyn-culbert,kyran-thievon,erin-misa,kate-abrahamsen,117.23,207.0,lana-hayes,emily-bloom-1,katelyn-rizz0,karly-valenti,130.0,105.0,312.0
+relay,RE200YF,1,devyn-reilly,caitlyn-poulos,kyran-thievon,kaitlyn-culbert,124.28,243.0,,,,,,,243.0
+relay,RA400YF,1,kate-abrahamsen,erin-misa,caitlyn-poulos,devyn-reilly,272.59,96.0,,,,,,,96.0

@@ -1,0 +1,15 @@
+lineup,hdr,3,1950
+lineup,dat,R,RE200,1,hanna-machristie,abby-neely,emily-renouf,rose-carroll,132.5,111
+lineup,dat,R,RE200,2,kiera-mckeon,madelynn-malone,jack-shallow,cara-parone,154.43,0
+lineup,dat,I,A200,1,sean-gilmore,116.93,77,2,carly-trampe,140.41,13,3,abby-neely,150.68,0
+lineup,dat,I,E200,1,michael-machristie,131.19,74,2,hanna-machristie,154.53,16,3,abby-neely,156.87,11
+lineup,dat,I,A50,1,sean-gilmore,23.34,98,2,bryce-bastien,23.96,88,3,conor-gilmore,26.69,50
+lineup,dat,I,D100,1,noah-machristie,56.14,97,2,conor-gilmore,66.08,43,3,carly-trampe,69.67,27
+lineup,dat,I,A100,1,bryce-bastien,53.76,77,2,eli-kern,56.57,59,3,brett-hess,67.81,2
+lineup,dat,I,A500,1,noah-machristie,297.64,103,2,samantha-keeports,431.93,0,3,abby-neely,599.99,0
+lineup,dat,R,RA200,1,sean-gilmore,michael-machristie,conor-gilmore,noah-machristie,100.86,258
+lineup,dat,R,RA200,2,rose-carroll,carly-trampe,bryce-bastien,eli-kern,108.02,195
+lineup,dat,I,B100,1,hanna-machristie,68.22,47,2,emily-renouf,81.43,3,3,kiera-mckeon,81.4,4
+lineup,dat,I,C100,1,michael-machristie,65.97,87,2,eli-kern,79.7,26,3,rose-carroll,91.87,0
+lineup,dat,R,RA400,1,sean-gilmore,bryce-bastien,noah-machristie,michael-machristie,216.69,267
+lineup,dat,R,RA400,2,carly-trampe,conor-gilmore,hanna-machristie,eli-kern,251.44,117

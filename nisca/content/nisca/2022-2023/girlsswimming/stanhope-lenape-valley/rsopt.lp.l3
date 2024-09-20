@@ -1,0 +1,13 @@
+lineup,hdr,3,783.0
+lineup,dat,I,A200,1,alison-church,134.97,52.0,2.0,cailin-brennan,141.5,34.0,,,,
+lineup,dat,I,E200,1,kayla-bhagaloo,160.33,30.0,2.0,sofia-garibaldi,162.06,26.0,,,,
+lineup,dat,I,A50,1,holly-shertz,27.18,80.0,2.0,sadie-cornelius,27.52,75.0,3,abigail-defini,29.72,45.0
+lineup,dat,I,D100,1,kayla-bhagaloo,71.67,50.0,2.0,caitlyn-neill-1,72.73,45.0,,,,
+lineup,dat,I,A100,1,holly-shertz,63.63,46.0,2.0,sofia-garibaldi,66.95,27.0,3,olivia-youngs,68.48,19.0
+lineup,dat,I,A500,1,quinn-strangeway,359.31,54.0,2.0,cailin-brennan,390.3,22.0,,,,
+lineup,dat,I,B100,1,abigail-defini,76.47,22.0,2.0,olivia-youngs,76.56,21.0,3,jasmine-lutz,79.73,8.0
+lineup,dat,I,C100,1,alison-church,78.76,60.0,2.0,quinn-strangeway,82.81,43.0,3,madison-martell,87.76,24.0
+relay,hdr,999.0
+relay,RA200YF,2,alison-church,holly-shertz,kayla-bhagaloo,sadie-cornelius,113.09,243.0,aidan-mager,ashley-herman-1,abigail-defini,caitlyn-neill-1,120.85,174.0,417.0
+relay,RE200YF,2,sadie-cornelius,alison-church,caitlyn-neill-1,holly-shertz,127.89,213.0,olivia-youngs,quinn-strangeway,sofia-garibaldi,cailin-brennan,136.05,147.0,360.0
+relay,RA400YF,2,caitlyn-neill-1,kayla-bhagaloo,cailin-brennan,sadie-cornelius,262.28,141.0,sofia-garibaldi,abigail-defini,olivia-youngs,quinn-strangeway,275.95,81.0,222.0

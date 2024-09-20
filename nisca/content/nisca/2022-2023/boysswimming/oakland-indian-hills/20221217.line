@@ -1,0 +1,11 @@
+lineup,hdr,2,215
+lineup,dat,R,RE200,1,bar-shir,george-kass,rowan-guller,tristan-colyer,141.21,60
+lineup,dat,I,A200
+lineup,dat,I,E200
+lineup,dat,I,A50,1,rowan-guller,26.44,53,2,george-kass,31.2,3
+lineup,dat,I,D100,1,rowan-guller,69.95,26
+lineup,dat,I,A100,1,bar-shir,67.31,4,2,tristan-colyer,79.59,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,tristan-colyer,george-kass,bar-shir,rowan-guller,125.88,69
+lineup,dat,I,B100,1,bar-shir,82.82,0
+lineup,dat,I,C100,1,george-kass,94.21,0

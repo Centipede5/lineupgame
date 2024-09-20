@@ -1,0 +1,12 @@
+lineup,hdr,3,358.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,madison-molinaro-1,147.68,62.0,,,,,,,,
+lineup,dat,I,A50,1,victoria-wong-2,27.79,71.0,2.0,cameron-shull,29.54,48.0,3.0,kylie-mazzei,32.28,16.0
+lineup,dat,I,D100,1,madison-molinaro-1,67.29,70.0,,,,,,,,
+lineup,dat,I,A100,1,cameron-shull,65.23,37.0,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,victoria-wong-2,80.11,54.0,,,,,,,,
+relay,hdr,264.0
+relay,RE200YF,1,sabrina-waivada-1,victoria-wong-2,madison-molinaro-1,cameron-shull,135.15,156.0,,,,,,,156.0
+relay,RA200YF,1,cameron-shull,kylie-mazzei,nevin-mahoney,victoria-wong-2,129.58,108.0,,,,,,,108.0

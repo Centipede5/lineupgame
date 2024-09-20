@@ -1,0 +1,13 @@
+lineup,hdr,3,306.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,timothy-brown-1,24.21,84.0,2.0,caio-brito,26.54,52.0,3,aaron-rivera-2,26.75,50.0
+lineup,dat,I,D100,1,timothy-brown-1,65.31,46.0,,,,,,,,
+lineup,dat,I,A100,1,daniel-wade,60.06,39.0,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,lucas-pagoto-santos,77.76,33.0,2.0,christopher-cepedes,87.0,2.0,,,,
+relay,hdr,594.0
+relay,RA200YM,2,caio-brito,daniel-wade,lucas-pagoto-santos,timothy-brown-1,106.32,210.0,elizaveta-silifonova,chonn-hinton,beatriz-jardim,gabriel-pifano,129.21,51.0,261.0
+relay,RE200YM,1,daniel-wade,joshua-catta-preta,lucas-pagoto-santos,caio-brito,116.65,219.0,,,,,,,219.0
+relay,RA400YM,1,caio-brito,lucas-pagoto-santos,daniel-wade,lian-diaz,252.22,114.0,,,,,,,114.0

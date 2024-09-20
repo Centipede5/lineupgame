@@ -1,0 +1,13 @@
+lineup,hdr,3,1692.0
+lineup,dat,I,A200,1,troy-mayer,113.4,89.0,2.0,william-maciejewski,121.13,64.0,3,alexander-kasper-1,122.8,59.0
+lineup,dat,I,E200,1,caden-wong,123.2,99.0,2.0,ali-iloglu,131.31,74.0,3,braedan-tripp,144.62,38.0
+lineup,dat,I,A50,1,jack-wargaski,23.53,94.0,2.0,andrew-couto,24.58,79.0,3,jake-couto,25.16,70.0
+lineup,dat,I,D100,1,ethan-wong-1,53.73,113.0,2.0,caden-wong,54.31,109.0,3,andrew-couto,62.61,60.0
+lineup,dat,I,A100,1,troy-mayer,50.22,103.0,2.0,luke-ahern,57.78,52.0,3,matt-williams-14,58.15,50.0
+lineup,dat,I,A500,1,ali-iloglu,335.72,56.0,2.0,luke-ahern,352.92,37.0,3,lucas-straviou,353.47,37.0
+lineup,dat,I,B100,1,alexander-kasper-1,61.32,78.0,2.0,lucas-straviou,64.52,63.0,3,william-maciejewski,65.14,60.0
+lineup,dat,I,C100,1,ethan-wong-1,61.62,111.0,2.0,jack-wargaski,73.41,51.0,3,jake-couto,74.63,46.0
+relay,hdr,1551.0
+relay,RE200YM,2,caden-wong,ethan-wong-1,troy-mayer,jack-wargaski,103.05,336.0,lucas-straviou,ali-iloglu,andrew-couto,matt-williams-14,113.78,240.0,576.0
+relay,RA200YM,2,jack-wargaski,andrew-couto,alexander-kasper-1,ethan-wong-1,95.6,309.0,filip-golabeck,dillon-perucki,justin-gioioso,ian-williams-2,105.08,219.0,528.0
+relay,RA400YM,2,troy-mayer,william-maciejewski,alexander-kasper-1,caden-wong,215.23,273.0,luke-ahern,lucas-straviou,tommy-turney,matt-williams-14,236.93,174.0,447.0

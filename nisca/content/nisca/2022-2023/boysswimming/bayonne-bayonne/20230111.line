@@ -1,0 +1,15 @@
+lineup,hdr,3,630
+lineup,dat,R,RE200,1,noa-ramos-1,josias-sanz,youssef-hassan,andrew-russo-1,150.19,15
+lineup,dat,R,RE200,2,michal-drozd,luis-collazo-2,robert-ochoa-1,christopher-cena,123.14,171
+lineup,dat,I,A200,1,ivan-borges-kushnir,151.37,0,2,youssef-hassan,149.74,0,3,jan-przytula,133.11,30
+lineup,dat,I,E200,1,robert-ochoa-1,163.93,0,2,christopher-cena,164.91,0,3,luis-collazo-2,180.63,0
+lineup,dat,I,A50,1,andrew-russo-1,26.82,49,2,michal-drozd,25.46,66,3,gregory-moylan,30.14,13
+lineup,dat,I,D100,1,ivan-borges-kushnir,95.65,0,2,christopher-cena,89.88,0
+lineup,dat,I,A100,1,jawad-dawood,73.03,0,2,michal-drozd,54.12,75,3,daniel-chaichyts,89.88,0
+lineup,dat,I,A500,1,youssef-hassan,422.88,0,2,robert-ochoa-1,441.21,0
+lineup,dat,R,RA200,1,andrew-russo-1,noah-molesky,anthony-arnett,ivan-borges-kushnir,129.46,48
+lineup,dat,R,RA200,2,michal-drozd,christopher-cena,luis-collazo-2,robert-ochoa-1,117,129
+lineup,dat,I,B100,1,anthony-arnett,105.09,0,2,noa-ramos-1,83.67,0
+lineup,dat,I,C100,1,ivan-borges-kushnir,105.44,0,2,luis-collazo-2,80.84,22,3,gregory-moylan,100.99,0
+lineup,dat,R,RA400,1,josias-sanz,anthony-arnett,daniel-chaichyts,mark-fouad,369.28,0
+lineup,dat,R,RA400,2,jan-przytula,youssef-hassan,noah-molesky,noa-ramos-1,282.76,12

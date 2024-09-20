@@ -1,0 +1,15 @@
+lineup,hdr,3,2664
+lineup,dat,R,RE200,1,audrey-seiger,molly-mcdonnell,julia-mchale,anna-stolarick,118.08,303
+lineup,dat,R,RE200,2,allie-worton,lola-parker-kearney,avery-gallagher,erin-brandenburg,136.79,144
+lineup,dat,I,A200,1,sydney-rudder,131.91,61,2,alexandra-brown-1,131.43,63,3,ellie-mcfadden,143.91,28
+lineup,dat,I,E200,1,kate-barone,145.1,70,2,maeve-kirwan,162.12,26,3,sophia-lapointe,162.55,25
+lineup,dat,I,A50,1,molly-mcdonnell,25.63,104,2,anna-stolarick,26.91,84,3,erin-maynes,27.36,77
+lineup,dat,I,D100,1,audrey-seiger,66.55,74,2,julia-mchale,67.91,67,3,mary-bentley,74.48,38
+lineup,dat,I,A100,1,kate-barone,60.46,67,2,erin-maynes,59.65,72,3,ellie-mcfadden,61.1,63
+lineup,dat,I,A500,1,sydney-rudder,359.53,53,2,emily-asselin,395.84,17,3,sophia-lapointe,390.25,22
+lineup,dat,R,RA200,1,anna-stolarick,ellie-mcfadden,kate-barone,erin-maynes,111.55,258
+lineup,dat,R,RA200,2,maeve-kirwan,lola-parker-kearney,alexandra-brown-1,sydney-rudder,117.73,201
+lineup,dat,I,B100,1,audrey-seiger,65.68,76,2,julia-mchale,66.88,69,3,lilly-ellis,71.55,44
+lineup,dat,I,C100,1,molly-mcdonnell,71,99,2,anna-stolarick,76.5,71,3,lola-parker-kearney,82.11,46
+lineup,dat,R,RA400,1,kate-barone,sydney-rudder,audrey-seiger,molly-mcdonnell,244.75,222
+lineup,dat,R,RA400,2,emily-asselin,maeve-kirwan,lilly-ellis,alexandra-brown-1,266.89,120

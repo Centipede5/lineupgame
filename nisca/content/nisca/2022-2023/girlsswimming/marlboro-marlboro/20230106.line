@@ -1,0 +1,15 @@
+lineup,hdr,3,1501
+lineup,dat,R,RE200,1,joelle-rush,maria-petruzzi,gabriella-de-grazio,alicia-ying,125.53,234
+lineup,dat,R,RE200,2,isabel-abreu,mackenzie-goldfeder,gisele-zhornist,kristin-chang,140.32,117
+lineup,dat,I,A200,1,aya-shental,129.24,70,2,audrey-hersey,174.13,0
+lineup,dat,I,E200,1,joelle-rush,147.22,64,2,gabriella-de-grazio,149.74,57
+lineup,dat,I,A50,1,alicia-ying,27.21,79,2,isabel-abreu,29.85,44,3,nandika-nair,36.69,0
+lineup,dat,I,D100,1,gabriella-de-grazio,68.2,66
+lineup,dat,I,A100,1,isabel-abreu,69.28,15,2,kristin-chang,66.31,31,3,elizabeth-saada,87.7,0
+lineup,dat,I,A500,1,maria-petruzzi,331.53,87,2,gisele-zhornist,487.95,0
+lineup,dat,R,RA200,1,aya-shental,maria-petruzzi,gabriella-de-grazio,alicia-ying,111.88,255
+lineup,dat,R,RA200,2,mackenzie-goldfeder,elizabeth-saada,audrey-hersey,kristin-chang,141.62,27
+lineup,dat,I,B100,1,joelle-rush,64.75,81,2,aya-shental,69.56,54,3,nandika-nair,94.45,0
+lineup,dat,I,C100,1,maria-petruzzi,78.09,63,2,mackenzie-goldfeder,92.59,7,3,audrey-hersey,112.18,0
+lineup,dat,R,RA400,1,joelle-rush,kristin-chang,aya-shental,alicia-ying,260.24,150
+lineup,dat,R,RA400,2,gisele-zhornist,elizabeth-saada,audrey-hersey,mackenzie-goldfeder,339.24,0

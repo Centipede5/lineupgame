@@ -1,0 +1,12 @@
+lineup,hdr,3,1593
+lineup,dat,R,RE200,1,jack-renaud-1,daren-chen,allen-zhao,karsten-sima-1,107.14,297
+lineup,dat,I,A200,1,jack-renaud-1,124.47,54
+lineup,dat,I,E200,1,daren-chen,121.97,103
+lineup,dat,I,A50,1,lukas-davis-1,24.9,74,2,karsten-sima-1,24.76,76,3,michael-uzzi,28.1,34
+lineup,dat,I,D100,1,lukas-davis-1,64.2,52
+lineup,dat,I,A100,1,karsten-sima-1,59.42,43,2,jack-renaud-1,52.62,85,3,vincent-sajkowski,67.95,1
+lineup,dat,I,A500,1,allen-zhao,322.02,71
+lineup,dat,R,RA200,1,michael-uzzi,vincent-sajkowski,karsten-sima-1,lukas-davis-1,107.25,201
+lineup,dat,I,B100,1,mason-wrigley,112.58,0,2,allen-zhao,57.14,100
+lineup,dat,I,C100,1,daren-chen,65.31,90
+lineup,dat,R,RA400,1,daren-chen,lukas-davis-1,jack-renaud-1,allen-zhao,208.1,312

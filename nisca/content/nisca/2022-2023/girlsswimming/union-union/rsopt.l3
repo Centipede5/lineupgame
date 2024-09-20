@@ -1,0 +1,12 @@
+lineup,hdr,3,184
+lineup,dat,I,A200,1,mariella-garcia,143.03,30
+lineup,dat,I,E200
+lineup,dat,I,A50,1,frances-batulan,29.78,45,2,laila-tomlinson,30,42,3,kaitlin-laverty,32.21,17
+lineup,dat,I,D100
+lineup,dat,I,A100,1,laila-tomlinson,67.89,22
+lineup,dat,I,A500
+lineup,dat,I,B100
+lineup,dat,I,C100,1,frances-batulan,86.65,28
+relay,hdr,189
+relay,RE200YF,1,laila-tomlinson,frances-batulan,nina-exili,meya-alverna,148.45,6.3000000000000000e+01
+relay,RA200YF,1,laila-tomlinson,kaitlin-laverty,frances-batulan,meya-alverna,127.03,1.2600000000000000e+02

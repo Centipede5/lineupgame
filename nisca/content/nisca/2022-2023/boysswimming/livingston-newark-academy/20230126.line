@@ -1,0 +1,15 @@
+lineup,hdr,3,2257
+lineup,dat,R,RE200,1,owen-markowitz,will-wong,ian-bell,will-crall,109.2,279
+lineup,dat,R,RE200,2,eric-yao-1,ted-crall,brett-matlosz,jasper-schnieders-smith,110.61,267
+lineup,dat,I,A200,1,alejandro-rodriguez-596231,120.4,66,2,brody-linenberg,125.36,51,3,kabir-srivastav,174.43,0
+lineup,dat,I,E200,1,brett-matlosz,130.86,75,2,eric-yao-1,137.96,55,3,nicholas-santos-1,154.51,16
+lineup,dat,I,A50,1,jasper-schnieders-smith,23.52,95,2,david-rodin,27.88,36,3,vir-sarai,37.61,0
+lineup,dat,I,D100,1,ted-crall,59.1,79,2,brett-matlosz,59.37,77,3,leon-sarkissian,77.3,0
+lineup,dat,I,A100,1,will-crall,52.75,84,2,david-rodin,64.7,16,3,vir-sarai,92.32,0
+lineup,dat,I,A500,1,alejandro-rodriguez-596231,341.67,49,2,brody-linenberg,345.02,46
+lineup,dat,R,RA200,1,ian-bell,will-wong,will-crall,owen-markowitz,99.84,267
+lineup,dat,R,RA200,2,kabir-srivastav,vir-sarai,david-rodin,leon-sarkissian,126.58,66
+lineup,dat,I,B100,1,eric-yao-1,64.98,61,2,nicholas-santos-1,69.39,43
+lineup,dat,I,C100,1,ted-crall,67.95,76,2,kabir-srivastav,92.23,0,3,leon-sarkissian,96.98,0
+lineup,dat,R,RA400,1,will-wong,ian-bell,will-crall,owen-markowitz,219.9,249
+lineup,dat,R,RA400,2,nicholas-santos-1,eric-yao-1,brody-linenberg,alejandro-rodriguez-596231,230.16,204

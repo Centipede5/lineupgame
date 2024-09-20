@@ -1,0 +1,12 @@
+lineup,hdr,3,204
+lineup,dat,I,A200
+lineup,dat,I,E200
+lineup,dat,I,A50,1,elease-belenets,29.47,49,2,veronica-szewczyk,31.25,28,3,sofie-miltenburg,32.52,14
+lineup,dat,I,D100,1,fiona-kelly,83.4,5,2,veronica-szewczyk,84.64,1
+lineup,dat,I,A100,1,elease-belenets,67.64,23
+lineup,dat,I,A500
+lineup,dat,I,B100,1,emma-prignano,75.81,24,2,fiona-kelly,76.65,21
+lineup,dat,I,C100,1,brooke-pitluk,88.79,20,2,emma-prignano,88.88,19
+relay,hdr,234
+relay,RE200YF,2,veronica-szewczyk,sofie-miltenburg,emma-prignano,fiona-kelly,147.08,7.2000000000000000e+01,leah-wagenbach,amelia-paone,elease-belenets,ruby-holmes,151.3,4.5000000000000000e+01
+relay,RA200YF,2,analise-cardullo,amelia-paone,julia-tasse,elease-belenets,135.69,6.6000000000000000e+01,sofie-miltenburg,brooke-pitluk,fiona-kelly,emma-prignano,137.71,5.1000000000000000e+01

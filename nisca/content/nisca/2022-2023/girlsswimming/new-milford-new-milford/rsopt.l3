@@ -1,0 +1,12 @@
+lineup,hdr,3,297
+lineup,dat,I,A200,1,maya-akselrod,138.84,41,2,averie-lee,146.18,22
+lineup,dat,I,E200
+lineup,dat,I,A50,1,maya-akselrod,29.31,51,2,alexa-schmidt-1,29.26,51,3,kelly-bambach,33.46,5
+lineup,dat,I,D100,1,averie-lee,69.59,59
+lineup,dat,I,A100,1,maya-nathanson,67.51,24
+lineup,dat,I,A500
+lineup,dat,I,B100
+lineup,dat,I,C100,1,maya-nathanson,82.43,44
+relay,hdr,351
+relay,RE200YF,1,maya-akselrod,maya-nathanson,averie-lee,alexa-schmidt-1,133.66,1.6500000000000000e+02
+relay,RA200YF,1,averie-lee,alexa-schmidt-1,maya-nathanson,maya-akselrod,119.65,1.8600000000000000e+02

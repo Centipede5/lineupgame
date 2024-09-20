@@ -1,0 +1,15 @@
+lineup,hdr,3,1221
+lineup,dat,R,RE200,1,kristyan-pahang,abdel-mohamed-1,jonathan-nass,matt-winterbottom,110.16,273
+lineup,dat,R,RE200,2,joseph-bolger,zachary-mannel,evan-hendrickson,matthew-silvidio,152.68,6
+lineup,dat,I,A200,1,shayne-herbert,139.63,15,2,cole-turner-1,133.16,30,3,ryan-vankawala,145.49,2
+lineup,dat,I,E200,1,matt-winterbottom,149.96,26,2,shane-deman,149.91,26
+lineup,dat,I,A50,1,matthew-silvidio,32.36,0,2,evan-hendrickson,30.61,8,3,zachary-mannel,40.9,0
+lineup,dat,I,D100,1,shane-deman,68.05,34,2,matt-winterbottom,67.59,36,3,jonathan-nass,61.51,65
+lineup,dat,I,A100,1,cole-turner-1,56.95,57,2,abdel-mohamed-1,59.41,43,3,matthew-silvidio,74.45,0
+lineup,dat,I,A500,1,kristyan-pahang,366.81,24,2,shayne-herbert,370.48,21
+lineup,dat,R,RA200,1,shane-deman,ryan-vankawala,cole-turner-1,abdel-mohamed-1,112.96,156
+lineup,dat,R,RA200,2,evan-hendrickson,matthew-silvidio,shayne-herbert,zachary-mannel,140.26,0
+lineup,dat,I,B100,1,kristyan-pahang,63.69,67,2,jonathan-nass,69.95,41,3,joseph-bolger,81.94,2
+lineup,dat,I,C100,1,abdel-mohamed-1,75.98,40,2,ryan-vankawala,82.06,18,3,zachary-mannel,102.44,0
+lineup,dat,R,RA400,1,matt-winterbottom,jonathan-nass,shane-deman,kristyan-pahang,231.39,198
+lineup,dat,R,RA400,2,shayne-herbert,cole-turner-1,evan-hendrickson,joseph-bolger,276.09,33

@@ -1,0 +1,12 @@
+lineup,hdr,3,857.0
+lineup,dat,I,A200,1,jane-sirotic,123.59,89.0,2.0,tara-lambert-2,140.18,37.0,3,anna-chneider,145.0,25.0
+lineup,dat,I,E200,1,anabelle-ahteck,152.55,49.0,,,,,,,,
+lineup,dat,I,A50,1,grace-koenig,27.06,81.0,2.0,kaydance-lempert,28.22,65.0,3,kylie-sala,31.45,25.0
+lineup,dat,I,D100,1,anabelle-ahteck,68.48,64.0,2.0,tiffany-wen,78.23,23.0,3,angelina-vaclavik,81.7,11.0
+lineup,dat,I,A100,1,jane-sirotic,56.39,96.0,2.0,grace-koenig,60.73,65.0,3,kaydance-lempert,64.59,41.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,carina-muller,68.53,60.0,2.0,tiffany-wen,69.61,54.0,3,anna-chneider,78.34,14.0
+lineup,dat,I,C100,1,carina-muller,82.56,44.0,2.0,angelina-vaclavik,90.42,14.0,,,,
+relay,hdr,726.0
+relay,RA200YF,2,carina-muller,anabelle-ahteck,kaydance-lempert,jane-sirotic,115.07,225.0,grace-koenig,angelina-vaclavik,kylie-sala,catherine-petretti,123.79,150.0,375.0
+relay,RE200YF,2,tiffany-wen,carina-muller,jane-sirotic,kaydance-lempert,128.26,210.0,kylie-sala,anabelle-ahteck,angelina-vaclavik,grace-koenig,137.15,141.0,351.0

@@ -1,0 +1,14 @@
+lineup,hdr,3,1701
+lineup,dat,R,RE200,1,derek-pham,ali-mohommad,alex-locke-1,cameron-dauria,117.96,207
+lineup,dat,I,A200,1,jesse-bown,125.32,51,2,christopher-douglass,133.37,30,3,connor-cuviello,162.87,0
+lineup,dat,I,E200,1,adam-bailey,127.12,87,2,ali-mohommad,151.06,23
+lineup,dat,I,A50,1,myles-smalls,23.24,99,2,alex-locke-1,26.21,56,3,cameron-dauria,28.46,30
+lineup,dat,I,D100,1,adam-bailey,55.87,99,2,derek-pham,65.9,44,3,alex-locke-1,73.64,11
+lineup,dat,I,A100,1,myles-smalls,52.8,84,2,harry-hsieh,64.9,15,3,chayse-bailey,70.23,0
+lineup,dat,I,A500,1,christopher-douglass,370.06,21,2,matthew-christensen,466.32,0
+lineup,dat,R,RA200,1,ali-mohommad,jesse-bown,myles-smalls,adam-bailey,99.27,273
+lineup,dat,R,RA200,2,alex-locke-1,cameron-dauria,harry-hsieh,christopher-douglass,112.3,162
+lineup,dat,I,B100,1,derek-pham,65.09,60,2,cameron-dauria,95.31,0
+lineup,dat,I,C100,1,jesse-bown,70.45,64,2,ali-mohommad,72,57,3,parth-patel-34,138.88,0
+lineup,dat,R,RA400,1,derek-pham,jesse-bown,chayse-bailey,adam-bailey,245.3,138
+lineup,dat,R,RA400,2,matthew-christensen,myles-smalls,harry-hsieh,christopher-douglass,258.65,90

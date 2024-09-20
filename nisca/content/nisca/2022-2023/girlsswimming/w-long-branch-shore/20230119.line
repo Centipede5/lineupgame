@@ -1,0 +1,15 @@
+lineup,hdr,3,2529
+lineup,dat,R,RE200,1,jane-hochman,emma-haynes,bay-parker,lorelai-haverty,135.2,153
+lineup,dat,R,RE200,2,devyn-ford,isabella-montanari,jenna-gers,katie-mazzacco,119.88,285
+lineup,dat,I,A200,1,katie-mazzacco,126.27,79,2,devyn-ford,127.66,75,3,jane-hochman,155.07,1
+lineup,dat,I,E200,1,jordan-longo,189.5,0,2,jenna-gers,140.53,83,3,grace-montanari,145.94,67
+lineup,dat,I,A50,1,bay-parker,30.44,37,2,molly-mcheffey,27.05,81,3,lorelai-haverty,29.28,51
+lineup,dat,I,D100,1,bay-parker,77.4,26,2,isabella-montanari,61.83,100,3,ella-drach,81.68,11
+lineup,dat,I,A100,1,molly-mcheffey,61.64,59,2,katie-mazzacco,57.6,87,3,grace-montanari,59.33,74
+lineup,dat,I,A500,1,emma-haynes,345.03,70,2,jenna-gers,336.43,81,3,ella-drach,426.92,0
+lineup,dat,R,RA200,1,grace-montanari,lorelai-haverty,lexi-stephens,molly-mcheffey,115.1,225
+lineup,dat,R,RA200,2,isabella-montanari,devyn-ford,jenna-gers,katie-mazzacco,103.91,339
+lineup,dat,I,B100,1,jane-hochman,70.84,48,2,devyn-ford,66.28,72,3,jordan-longo,78.7,12
+lineup,dat,I,C100,1,lorelai-haverty,87.78,23,2,isabella-montanari,72,94,3,emma-haynes,79.75,56
+lineup,dat,R,RA400,1,lexi-stephens,jordan-longo,devan-schiavo,ella-drach,303.94,0
+lineup,dat,R,RA400,2,molly-mcheffey,bay-parker,emma-haynes,grace-montanari,241.44,240

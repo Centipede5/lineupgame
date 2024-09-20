@@ -1,0 +1,13 @@
+lineup,hdr,3,614.0
+lineup,dat,I,A200,1,mason-givens,121.53,62.0,2.0,justin-zuzulock,130.44,37.0,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,sean-parchesky,26.3,55.0,2.0,ryan-palmer-546693,26.94,47.0,3,marcus-glenn,28.5,29.0
+lineup,dat,I,D100,1,geoffrey-redrup,62.97,58.0,2.0,mason-givens,63.75,54.0,3,daniel-hillig,66.31,42.0
+lineup,dat,I,A100,1,justin-zuzulock,58.3,49.0,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,geoffrey-redrup,63.66,67.0,2.0,daniel-hillig,69.09,44.0,3,ryan-palmer-546693,77.52,15.0
+lineup,dat,I,C100,1,sean-parchesky,75.69,42.0,2.0,spencer-cade,83.33,13.0,,,,
+relay,hdr,831.0
+relay,RA200YM,2,justin-zuzulock,ryan-palmer-546693,sean-parchesky,mason-givens,105.46,216.0,tristan-kulis,brison-woods,spencer-cade,marcus-glenn,125.36,72.0,288.0
+relay,RA400YM,2,justin-zuzulock,daniel-hillig,geoffrey-redrup,mason-givens,235.59,180.0,spencer-cade,tristan-kulis,jake-devereaux,brison-woods,257.41,93.0,273.0
+relay,RE200YM,2,geoffrey-redrup,sean-parchesky,daniel-hillig,ryan-palmer-546693,117.06,216.0,jake-devereaux,evan-shaw,spencer-cade,marcus-glenn,142.49,54.0,270.0

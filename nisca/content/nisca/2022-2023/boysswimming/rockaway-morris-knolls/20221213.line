@@ -1,0 +1,15 @@
+lineup,hdr,3,1987
+lineup,dat,R,RE200,1,martin-jelonek,frank-giarratano,dylan-marfiewicz,christian-garcia-9,119.92,195
+lineup,dat,R,RE200,2,liam-kelleher-4,jon-limberis,jake-danish,nicholas-tecchio,109.02,282
+lineup,dat,I,A200,1,alex-longo-502762,142.91,7,2,calvin-chen-1,124.22,54,3,sebastian-mendoza-1,142.69,8
+lineup,dat,I,E200,1,frank-giarratano,139.99,50,2,jon-limberis,131.88,72
+lineup,dat,I,A50,1,martin-jelonek,26.08,58,2,nicholas-tecchio,25.86,61,3,christian-garcia-9,28.77,26
+lineup,dat,I,D100,1,dylan-marfiewicz,67.23,37,2,liam-kelleher-4,58.37,83,3,jake-danish,63.9,53
+lineup,dat,I,A100,1,nicholas-tecchio,57.6,53,2,calvin-chen-1,55.83,64,3,jack-whitney,82.88,0
+lineup,dat,I,A500,1,sebastian-mendoza-1,403.91,0,2,alex-longo-502762,398.63,0
+lineup,dat,R,RA200,1,sebastian-mendoza-1,christian-garcia-9,aiden-cana,alex-longo-502762,121.51,96
+lineup,dat,R,RA200,2,jon-limberis,frank-giarratano,dylan-marfiewicz,calvin-chen-1,104.99,222
+lineup,dat,I,B100,1,martin-jelonek,71.25,36,2,liam-kelleher-4,57.39,98,3,jake-danish,69.73,42
+lineup,dat,I,C100,1,frank-giarratano,72.23,56,2,jon-limberis,66.89,82,3,jack-whitney,100.44,0
+lineup,dat,R,RA400,1,alex-longo-502762,martin-jelonek,sebastian-mendoza-1,dylan-marfiewicz,264.99,69
+lineup,dat,R,RA400,2,calvin-chen-1,jake-danish,nicholas-tecchio,liam-kelleher-4,234.82,183

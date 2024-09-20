@@ -1,0 +1,13 @@
+lineup,hdr,3,1749.0
+lineup,dat,I,A200,1,lena-luciano,121.84,95.0,2.0,ashlynn-newton,131.46,63.0,3,olivia-elliott-1,131.33,63.0
+lineup,dat,I,E200,1,ava-smith-3,141.13,81.0,2.0,isabela-saltar,145.32,69.0,3,ava-cohen-1,160.59,29.0
+lineup,dat,I,A50,1,ava-levari,25.83,100.0,2.0,vanessa-williams-1,27.01,82.0,3,alyanna-tiu,28.01,68.0
+lineup,dat,I,D100,1,ava-smith-3,59.42,115.0,2.0,ava-luciano-1,62.07,99.0,3,illiana-figueroa,67.63,69.0
+lineup,dat,I,A100,1,ava-luciano-1,56.57,95.0,2.0,ava-levari,57.24,90.0,3,olivia-elliott-1,58.74,79.0
+lineup,dat,I,A500,1,lena-luciano,323.36,98.0,2.0,ashlynn-newton,354.64,59.0,3,angelina-saltar,354.79,59.0
+lineup,dat,I,B100,1,alyanna-tiu,69.41,55.0,2.0,ava-cohen-1,72.5,40.0,3,illiana-figueroa,73.0,37.0
+lineup,dat,I,C100,1,isabela-saltar,72.2,93.0,2.0,gabby-brown-4,78.63,61.0,3,angelina-saltar,81.12,50.0
+relay,hdr,1668.0
+relay,RA200YF,2,ava-luciano-1,lena-luciano,olivia-elliott-1,ava-levari,104.3,336.0,jada-williams-1,angelina-saltar,ashlynn-newton,vanessa-williams-1,112.08,255.0,591.0
+relay,RA400YF,2,ava-levari,olivia-elliott-1,ashlynn-newton,ava-smith-3,233.94,282.0,ava-luciano-1,illiana-figueroa,isabela-saltar,lena-luciano,237.68,261.0,543.0
+relay,RE200YF,2,ava-smith-3,isabela-saltar,illiana-figueroa,vanessa-williams-1,118.2,300.0,alyanna-tiu,gabby-brown-4,emma-negron,angelina-saltar,125.44,234.0,534.0

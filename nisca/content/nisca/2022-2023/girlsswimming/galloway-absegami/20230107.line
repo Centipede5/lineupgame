@@ -1,0 +1,14 @@
+lineup,hdr,3,666
+lineup,dat,R,RE200,1,isabella-destefano-3,samia-ghazaz,stephanie-ruales-1,natalia-smikovecus,131.72,180
+lineup,dat,R,RE200,2,sarah-czeslaw,alyssa-bailey-1,ria-patel-4,cameron-lerner,166.37,0
+lineup,dat,I,A200,1,stephanie-ruales-1,137.46,45,2,micale-moeller,165.4,0
+lineup,dat,I,E200,1,isabella-destefano-3,165.12,19,2,alyssa-bailey-1,188.71,0
+lineup,dat,I,A50,1,samia-ghazaz,25.85,100,2,skyleigh-barnes,45.29,0
+lineup,dat,I,D100,1,stephanie-ruales-1,72.56,46,2,ria-patel-4,99.6,0
+lineup,dat,I,A100,1,abbie-reed,79.5,0,2,sarah-czeslaw,78.89,0,3,cameron-lerner,86.94,0
+lineup,dat,I,A500,1,micale-moeller,452.99,0,2,ria-patel-4,466.8,0,3,alyssa-bailey-1,505.46,0
+lineup,dat,R,RA200,1,isabella-destefano-3,alyssa-bailey-1,abbie-reed,samia-ghazaz,125.48,138
+lineup,dat,R,RA200,2,skyleigh-barnes,natalia-smikovecus,cameron-lerner,stephanie-ruales-1,179.12,0
+lineup,dat,I,B100,1,isabella-destefano-3,73.01,37,2,sarah-czeslaw,97,0,3,cameron-lerner,97.89,0
+lineup,dat,I,C100,1,samia-ghazaz,70.78,101,2,abbie-reed,100.12,0,3,natalia-smikovecus,113.48,0
+lineup,dat,R,RA400,1,micale-moeller,ria-patel-4,sarah-czeslaw,abbie-reed,330.23,0

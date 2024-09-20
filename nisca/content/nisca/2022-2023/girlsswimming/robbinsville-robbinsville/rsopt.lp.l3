@@ -1,0 +1,13 @@
+lineup,hdr,3,968.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,emily-volcnansky,137.44,93.0,,,,,,,,
+lineup,dat,I,A50,1,ariel-bernard,25.83,100.0,2.0,isabella-stoldt,28.23,65.0,3,suhani-agarwal,29.6,47.0
+lineup,dat,I,D100,1,megan-dera-1,59.72,113.0,2.0,angie-brown-602323,64.64,84.0,3,ria-chidare,83.74,4.0
+lineup,dat,I,A100,1,ariel-bernard,56.07,99.0,2.0,suhani-agarwal,64.34,42.0,3,isabella-stoldt,64.59,41.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,megan-dera-1,62.55,95.0,2.0,angie-brown-602323,65.58,77.0,,,,
+lineup,dat,I,C100,1,emily-volcnansky,69.42,108.0,,,,,,,,
+relay,hdr,876.0
+relay,RA200YF,2,emily-volcnansky,megan-dera-1,angie-brown-602323,ariel-bernard,108.21,291.0,jessica-hoplock,ria-chidare,sofia-latushka,suhani-agarwal,128.07,117.0,408.0
+relay,RE200YF,2,angie-brown-602323,emily-volcnansky,megan-dera-1,ariel-bernard,115.36,330.0,jessica-hoplock,alyson-michaels,isabella-stoldt,dani-leeds,147.6,69.0,399.0
+relay,RA400YF,1,sofia-latushka,sara-pandey,isabella-stoldt,suhani-agarwal,279.01,69.0,,,,,,,69.0

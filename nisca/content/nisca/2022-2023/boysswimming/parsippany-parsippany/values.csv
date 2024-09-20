@@ -1,0 +1,17 @@
+id,sex,swim-date,stroke,distance,course,time,powerpoints,powerpoints1,powerpoints2
+derrick-araujo,M,20221215,A,200,Y,170.8,0.0,0.0,0.0
+nicholas-rice,M,20230104,A,200,Y,210.23,0.0,0.0,0.0
+giovanni-picorale,M,20221221,A,200,Y,168.98,0.0,0.0,0.0
+derrick-araujo,M,20230119,E,200,Y,197.49,0.0,0.0,0.0
+nicholas-rice,M,20221215,E,200,Y,236.1,0.0,0.0,0.0
+nicholas-macaluso,M,20221215,A,50,Y,28.49,29.0,29.0,29.0
+sophia-seligson,M,20230119,A,50,Y,37.42,0.0,0.0,0.0
+giovanni-picorale,M,20230112,A,50,Y,30.93,5.0,5.0,5.0
+derrick-araujo,M,20230104,D,100,Y,103.83,0.0,0.0,0.0
+nicholas-macaluso,M,20230112,A,100,Y,68.37,0.0,0.0,0.0
+giovanni-picorale,M,20221221,A,100,Y,69.02,0.0,0.0,0.0
+derrick-araujo,M,20230119,A,500,Y,466.71,0.0,0.0,0.0
+giovanni-picorale,M,20230104,A,500,Y,552.15,0.0,0.0,0.0
+nicholas-rice,M,20221215,B,100,Y,116.86,0.0,0.0,0.0
+nicholas-macaluso,M,20221208,B,100,Y,114.83,0.0,0.0,0.0
+sophia-seligson,M,20230112,C,100,Y,102.59,0.0,0.0,0.0

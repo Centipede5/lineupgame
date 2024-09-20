@@ -1,0 +1,15 @@
+lineup,hdr,3,1537
+lineup,dat,R,RE200,1,some-brian,koushal-gunda,ignacio-manzanero-1,kayir-maples,139.98,69
+lineup,dat,R,RE200,2,vikram-pradeep,matthew-natsvlishvili,jeet-lad,veer-lad,112.87,249
+lineup,dat,I,A200,1,saket-ram-1,177.43,0,2,ethan-michaud,118.77,71,3,ishaan-gunjati,129.22,40
+lineup,dat,I,E200,1,vikram-pradeep,144.26,39,2,matthew-natsvlishvili,126.49,89,3,sathvick-ram,187.25,0
+lineup,dat,I,A50,1,kayir-maples,29.59,18,2,veer-lad,26.63,51,3,ignacio-manzanero-1,31.1,4
+lineup,dat,I,D100,1,ignacio-manzanero-1,85.65,0,2,ethan-michaud,57.3,90,3,koushal-gunda,86.2,0
+lineup,dat,I,A100,1,saket-ram-1,77.44,0,2,veer-lad,58.28,49,3,some-brian,68.66,0
+lineup,dat,I,A500,1,jeet-lad,334.32,57,2,ishaan-gunjati,361.56,29
+lineup,dat,R,RA200,1,sathvick-ram,koushal-gunda,saket-ram-1,kayir-maples,130.57,42
+lineup,dat,R,RA200,2,matthew-natsvlishvili,ignacio-manzanero-1,ishaan-gunjati,ethan-michaud,107.77,198
+lineup,dat,I,B100,1,sathvick-ram,71.4,35,2,vikram-pradeep,63.07,69
+lineup,dat,I,C100,1,jeet-lad,69.55,69,2,matthew-natsvlishvili,66.05,86,3,koushal-gunda,98.52,0
+lineup,dat,R,RA400,1,some-brian,saket-ram-1,sathvick-ram,ishaan-gunjati,288.09,0
+lineup,dat,R,RA400,2,ethan-michaud,veer-lad,vikram-pradeep,jeet-lad,234.29,183

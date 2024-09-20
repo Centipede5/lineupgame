@@ -1,0 +1,13 @@
+lineup,hdr,3,553.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,tomas-jiminez,145.74,36.0,2.0,gauri-kshretty,147.83,31.0,3,ryan-spaventa,152.71,20.0
+lineup,dat,I,A50,1,aidan-nugent,23.87,89.0,2.0,mary-elizabeth-conway,27.55,40.0,3,adrian-zapala,28.41,30.0
+lineup,dat,I,D100,1,tomas-jiminez,69.31,28.0,,,,,,,,
+lineup,dat,I,A100,1,leonard-lim,61.56,31.0,2.0,mary-elizabeth-conway,62.71,25.0,3,ryan-spaventa,66.17,9.0
+lineup,dat,I,A500,1,aidan-nugent,298.33,102.0,,,,,,,,
+lineup,dat,I,B100,1,jagtap-jeet,70.83,37.0,2.0,leonard-lim,73.13,29.0,3,mia-cabrera-1,81.99,2.0
+lineup,dat,I,C100,1,jagtap-jeet,75.18,44.0,,,,,,,,
+relay,hdr,495.0
+relay,RE200YM,2,leonard-lim,jagtap-jeet,tomas-jiminez,aidan-nugent,123.23,171.0,mia-cabrera-1,ryan-spaventa,nala-stembridge,pranav-devaraju,144.28,45.0,216.0
+relay,RA200YM,2,ryan-spaventa,adrian-zapala,fabrizio-souro,pranav-devaraju,119.88,108.0,sai-bazar,jeffrey-westdyke,victor-costa-1,nirmit-bhoyar,129.85,48.0,156.0
+relay,RA400YM,1,mary-elizabeth-conway,tomas-jiminez,leonard-lim,jagtap-jeet,249.6,123.0,,,,,,,123.0

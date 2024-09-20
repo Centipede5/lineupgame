@@ -1,0 +1,13 @@
+lineup,hdr,3,1648.0
+lineup,dat,I,A200,1,owen-higinbotham,106.72,114.0,2.0,robert-lambert,120.33,66.0,3,eryn-gulbin,123.06,58.0
+lineup,dat,I,E200,1,owen-higinbotham,120.7,108.0,2.0,peter-reilly,144.88,38.0,3,sean-stuart,151.69,22.0
+lineup,dat,I,A50,1,dylan-condell,23.7,92.0,2.0,brian-mitchell-7,26.03,59.0,3,sean-stuart,26.16,57.0
+lineup,dat,I,D100,1,kyle-karyczak,56.62,94.0,2.0,gokul-ramanan,60.0,74.0,3,michael-levin,62.65,59.0
+lineup,dat,I,A100,1,dylan-condell,53.11,82.0,2.0,eryn-gulbin,53.64,78.0,3,brian-mitchell-7,57.37,54.0
+lineup,dat,I,A500,1,aaron-frank,296.48,105.0,2.0,robert-lambert,327.58,65.0,3,john-buckley-654032,354.63,36.0
+lineup,dat,I,B100,1,aaron-frank,56.95,101.0,2.0,kyle-karyczak,59.47,87.0,3,gokul-ramanan,62.41,72.0
+lineup,dat,I,C100,1,michael-levin,69.7,68.0,2.0,john-buckley-654032,77.34,35.0,3,christian-degennaro,80.31,24.0
+relay,hdr,1530.0
+relay,RE200YM,2,aaron-frank,kyle-karyczak,owen-higinbotham,eryn-gulbin,106.16,309.0,gokul-ramanan,michael-levin,peter-reilly,sean-stuart,113.62,243.0,552.0
+relay,RA200YM,2,aaron-frank,michael-levin,eryn-gulbin,dylan-condell,96.04,306.0,peter-reilly,christian-degennaro,sean-stuart,robert-lambert,106.92,204.0,510.0
+relay,RA400YM,2,owen-higinbotham,dylan-condell,gokul-ramanan,robert-lambert,215.61,273.0,brian-mitchell-7,peter-reilly,kyle-karyczak,john-buckley-654032,231.56,195.0,468.0

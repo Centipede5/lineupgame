@@ -1,0 +1,13 @@
+lineup,hdr,3,704
+lineup,dat,R,RE200,1,jack-chew,chris-green-599338,william-toth,aidan-collins,121.09,186
+lineup,dat,R,RE200,2,olivia-burgo,geneivieve-driscoll,sofia-yurcis,ana-yucis,167.4,0
+lineup,dat,I,A200,1,olivia-burgo,190.76,0,2,kaitlyn-capalbo,200.77,0,3,sara-yucis,196.67,0
+lineup,dat,I,E200,1,chris-green-599338,123.68,98,2,jack-chew,185.91,0,3,sofia-yurcis,213.23,0
+lineup,dat,I,A50,1,william-toth,24.23,84,2,aidan-collins,31.67,0,3,james-mann-1,31.04,4
+lineup,dat,I,D100,1,chris-green-599338,58.92,80,2,kaitlyn-capalbo,103.96,0,3,ana-yucis,105.08,0
+lineup,dat,I,A100,1,william-toth,55.94,63,2,sofia-yurcis,73.98,0,3,geneivieve-driscoll,74.31,0
+lineup,dat,I,A500,1,sara-yucis,551.75,0
+lineup,dat,R,RA200,1,aidan-collins,jack-chew,william-toth,chris-green-599338,111.91,165
+lineup,dat,I,B100,1,jack-chew,74.78,24,2,olivia-burgo,107.78,0
+lineup,dat,I,C100,1,kaitlyn-capalbo,106.4,0,2,christian-pepe,89.29,0,3,geneivieve-driscoll,96.61,0
+lineup,dat,R,RA400,1,kaitlyn-capalbo,christian-pepe,geneivieve-driscoll,ana-yucis,328.29,0

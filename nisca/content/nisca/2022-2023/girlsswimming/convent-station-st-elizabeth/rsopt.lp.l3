@@ -1,0 +1,13 @@
+lineup,hdr,3,709.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,brynn-kearns,28.94,55.0,2.0,naoun-murphy,31.36,26.0,3,alexa-mccarrus,32.46,15.0
+lineup,dat,I,D100,1,caitlin-flanagan-1,69.56,59.0,2.0,shannon-hunt,72.95,44.0,,,,
+lineup,dat,I,A100,1,kasey-desiderio,58.84,78.0,2.0,caitlin-flanagan-1,61.4,60.0,3,sophia-formanes,62.97,50.0
+lineup,dat,I,A500,1,kasey-desiderio,341.88,74.0,,,,,,,,
+lineup,dat,I,B100,1,julia-ricco,70.44,50.0,,,,,,,,
+lineup,dat,I,C100,1,julia-ricco,70.44,103.0,2.0,sophia-formanes,78.15,63.0,3,brynn-kearns,85.46,32.0
+relay,hdr,630.0
+relay,RA200YF,2,sophia-formanes,caitlin-flanagan-1,brynn-kearns,kasey-desiderio,117.91,201.0,emma-vanderhoef,garbarino-julia,shannon-hunt,katie-acken,134.39,72.0,273.0
+relay,RE200YF,2,julia-ricco,sophia-formanes,caitlin-flanagan-1,brynn-kearns,126.82,222.0,katie-acken,samantha-donnelly-1,emma-vanderhoef,naoun-murphy,156.59,15.0,237.0
+relay,RA400YF,1,julia-ricco,katie-acken,shannon-hunt,kasey-desiderio,266.53,120.0,,,,,,,120.0

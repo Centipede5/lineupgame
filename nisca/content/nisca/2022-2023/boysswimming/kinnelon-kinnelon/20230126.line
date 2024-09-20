@@ -1,0 +1,15 @@
+lineup,hdr,3,2246
+lineup,dat,R,RE200,1,john-papendick,marco-lucci,will-kilponen,david-zoltek,105.02,318
+lineup,dat,R,RE200,2,denbleyker-sully,everett-feinhals,kyle-barsch,david-zoltek,121.08,186
+lineup,dat,I,A200,1,connelly-max,111.77,95,2,denbleyker-sully,128.44,43,3,matt-baldino,187.43,0
+lineup,dat,I,E200,1,will-kilponen,124.94,94,2,john-papendick,133.82,67
+lineup,dat,I,A50,1,david-zoltek,23.06,102,2,marco-lucci,23.14,101,3,kyle-barsch,26.14,57
+lineup,dat,I,D100,1,will-kilponen,52.38,123,2,ron-feldman,67.19,38,3,kyle-barsch,67.92,34
+lineup,dat,I,A100,1,connelly-max,55.35,67,2,everett-feinhals,63.58,21,3,manuel-soriano,70.84,0
+lineup,dat,I,A500,1,david-zoltek,313.47,82,2,denbleyker-sully,372.98,19
+lineup,dat,R,RA200,1,connelly-max,marco-lucci,everett-feinhals,will-kilponen,97.83,288
+lineup,dat,R,RA200,2,owen-fernstrom,braeden-curran,matt-baldino,lars-olsen,129.9,48
+lineup,dat,I,B100,1,john-papendick,60.13,84,2,ron-feldman,72.34,32
+lineup,dat,I,C100,1,marco-lucci,66.65,83,2,everett-feinhals,81.9,18,3,manuel-soriano,89.7,0
+lineup,dat,R,RA400,1,connelly-max,denbleyker-sully,john-papendick,david-zoltek,230.5,201
+lineup,dat,R,RA400,2,kyle-barsch,ron-feldman,lars-olsen,matt-baldino,272,45

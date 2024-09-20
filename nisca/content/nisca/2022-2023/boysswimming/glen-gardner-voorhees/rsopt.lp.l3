@@ -1,0 +1,13 @@
+lineup,hdr,3,424.0
+lineup,dat,I,A200,1,austin-keeth,118.23,73.0,2.0,olimpia-lake,129.82,39.0,3,natalie-mason,141.66,10.0
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,brendan-hanson,29.6,18.0,2.0,jaden-vega,31.35,1.0,,,,
+lineup,dat,I,D100,1,amelia-weldon,65.98,43.0,2.0,elizabeth-hamilton,70.2,25.0,,,,
+lineup,dat,I,A100,1,natalie-mason,61.29,32.0,2.0,delaney-beck,63.21,23.0,3,owen-pierro,65.5,12.0
+lineup,dat,I,A500,1,olimpia-lake,347.11,43.0,,,,,,,,
+lineup,dat,I,B100,1,faith-hamilton,63.45,68.0,2.0,delaney-beck,76.44,18.0,3,madeleine-gamm,81.14,4.0
+lineup,dat,I,C100,1,amelia-weldon,84.58,9.0,2.0,melanie-rajewski,85.55,6.0,,,,
+relay,hdr,906.0
+relay,RA200YM,2,brendan-hanson,kyle-litwinko,kyle-tansung,landon-socisi,99.23,273.0,faith-hamilton,austin-keeth,amelia-weldon,natalie-mason,107.22,201.0,474.0
+relay,RE200YM,2,delaney-beck,melanie-rajewski,amelia-weldon,elizabeth-hamilton,128.23,138.0,owen-pierro,andrew-caravallo,adrian-decov,austin-keeth,131.53,117.0,255.0
+relay,RA400YM,2,olimpia-lake,faith-hamilton,austin-keeth,natalie-mason,243.2,147.0,elisa-boothe,owen-pierro,faith-del-polito,melanie-rajewski,277.01,30.0,177.0

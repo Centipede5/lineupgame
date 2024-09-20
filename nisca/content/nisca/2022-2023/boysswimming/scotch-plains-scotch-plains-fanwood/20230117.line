@@ -1,0 +1,15 @@
+lineup,hdr,3,2873
+lineup,dat,R,RE200,1,aaron-frank,michael-levin,gokul-ramanan,dylan-condell,106.27,306
+lineup,dat,R,RE200,2,jacob-goykhman,benjamin-travnicek,benjamin-sohmer,christian-degennaro,137.05,84
+lineup,dat,I,A200,1,aaron-frank,111,97,2,kyle-karyczak,117.04,77,3,robert-lambert,120.33,66
+lineup,dat,I,E200,1,owen-higinbotham,120.7,108,2,peter-reilly,144.88,38,3,john-buckley-654032,151.04,23
+lineup,dat,I,A50,1,dylan-condell,23.7,92,2,brian-mitchell-7,26.03,59,3,michael-levin,24.13,85
+lineup,dat,I,D100,1,kyle-karyczak,56.62,94,2,gokul-ramanan,60,74,3,peter-reilly,65.45,46
+lineup,dat,I,A100,1,owen-higinbotham,49.01,113,2,dylan-condell,53.11,82,3,brian-mitchell-7,57.37,54
+lineup,dat,I,A500,1,robert-lambert,327.58,65,2,christian-degennaro,402.36,0,3,benjamin-sohmer,378.77,13
+lineup,dat,R,RA200,1,aaron-frank,michael-levin,kyle-karyczak,owen-higinbotham,94.05,327
+lineup,dat,R,RA200,2,brian-mitchell-7,michael-schmidt,peter-reilly,christian-degennaro,108.64,189
+lineup,dat,I,B100,1,aaron-frank,56.95,101,2,gokul-ramanan,62.41,72,3,benjamin-sohmer,72.12,33
+lineup,dat,I,C100,1,michael-levin,69.7,68,2,john-buckley-654032,77.34,35,3,jacob-goykhman,86.08,4
+lineup,dat,R,RA400,1,owen-higinbotham,dylan-condell,gokul-ramanan,robert-lambert,215.61,273
+lineup,dat,R,RA400,2,brian-mitchell-7,peter-reilly,kyle-karyczak,john-buckley-654032,231.56,195

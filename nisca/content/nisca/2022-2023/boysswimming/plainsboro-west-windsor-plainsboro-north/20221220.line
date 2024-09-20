@@ -1,0 +1,15 @@
+lineup,hdr,3,2767
+lineup,dat,R,RE200,1,luke-weingaertner-1,alex-ho-1,kent-hong,timothy-wong,107.59,294
+lineup,dat,R,RE200,2,reid-weingaertner,max-domantay,andy-mann-1,simeon-leung,116.02,222
+lineup,dat,I,A200,1,john-agogliati,118.71,71,2,timothy-wong,121.72,62,3,sri-srikanth,133.65,29
+lineup,dat,I,E200,1,kent-hong,132,72,2,max-domantay,135.4,62,3,samhith-karpakula,160.59,3
+lineup,dat,I,A50,1,alex-ho-1,22.02,120,2,simeon-leung,24.29,83,3,reid-weingaertner,25.35,68
+lineup,dat,I,D100,1,luke-weingaertner-1,59.66,76,2,andy-mann-1,60.16,73,3,alan-zheng-3,78.58,0
+lineup,dat,I,A100,1,timothy-wong,53.45,79,2,max-domantay,55.59,65,3,simeon-leung,54.95,69
+lineup,dat,I,A500,1,john-agogliati,319.02,75,2,sri-srikanth,333.96,57,3,jayden-shah,398.16,0
+lineup,dat,R,RA200,1,max-domantay,reid-weingaertner,luke-weingaertner-1,alex-ho-1,98.25,282
+lineup,dat,R,RA200,2,shiven-patel-1,kritin-rane,nayan-saini,shreyus-vadhavkar,119.76,108
+lineup,dat,I,B100,1,luke-weingaertner-1,62.52,72,2,reid-weingaertner,65.69,58,3,bhargav-shah,63.34,68
+lineup,dat,I,C100,1,alex-ho-1,62.68,105,2,kent-hong,70.17,66,3,sriven-chittamuru,76.59,38
+lineup,dat,R,RA400,1,timothy-wong,john-agogliati,simeon-leung,kent-hong,218.73,255
+lineup,dat,R,RA400,2,pranshu-agarwal,shreyus-vadhavkar,kritin-rane,sri-srikanth,246.47,135

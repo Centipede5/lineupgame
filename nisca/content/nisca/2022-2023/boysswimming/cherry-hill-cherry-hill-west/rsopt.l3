@@ -1,0 +1,17 @@
+lineup,hdr,3,1599
+lineup,dat,I,A200,1,brady-dougherty,121.14,64,2,john-falcone-1,128.16,43,3,evan-crescenzo,129.52,40
+lineup,dat,I,E200,1,ben-turley,126.53,89,2,matthew-sonn,129.35,80,3,vincenzo-lenny,151.91,22
+lineup,dat,I,A50,1,cooper-legato-1,23.5,95,2,brady-dougherty,24.47,80,3,lukas-beker,25.3,68
+lineup,dat,I,D100,1,ben-turley,54.24,109,2,mason-woods,56.02,98,3,eoin-dougherty,57.96,86
+lineup,dat,I,A100,1,thomas-stankus,51.31,95,2,matthew-sonn,51.46,94,3,lukas-beker,56.89,57
+lineup,dat,I,A500,1,mason-woods,323.76,69,2,john-falcone-1,350.74,40,3,vincenzo-lenny,354.72,36
+lineup,dat,I,B100,1,eoin-dougherty,63.93,65,2,ethan-turley,64.12,65,3,evan-crescenzo,67.88,49
+lineup,dat,I,C100,1,thomas-stankus,65.79,88,2,jonathan-ditrolio,77.7,34,3,ben-hess-548700,77.95,33
+relay,hdr,1266
+relay,RE200YM,2,ben-turley,thomas-stankus,mason-woods,matthew-sonn,102.63,3.4200000000000000e+02,ethan-turley,vincenzo-lenny,eoin-dougherty,luke-settanni-1,115.35,2.2800000000000000e+02
+relay,RA200YM,2,matthew-sonn,eoin-dougherty,brady-dougherty,thomas-stankus,96.96,2.9700000000000000e+02,dylan-cooney,luke-settanni-1,james-kleiner,raymer-ramirez,107.76,1.9800000000000000e+02
+relay,RA400YM,2,evan-crescenzo,luke-settanni-1,james-kleiner,dylan-cooney,247.12,1.3200000000000000e+02,jason-melroy,jonathan-ditrolio,nathaniel-fareas,gregory-michael-wilkins,264.87,6.9000000000000000e+01
+relay,hdr,1458
+relay,RE200YM,2,ben-turley,thomas-stankus,mason-woods,matthew-sonn,102.63,3.4200000000000000e+02,ethan-turley,vincenzo-lenny,eoin-dougherty,luke-settanni-1,115.35,2.2800000000000000e+02
+relay,RA200YM,2,cooper-legato-1,lukas-beker,vincenzo-lenny,matthew-sonn,99.25,2.7300000000000000e+02,dylan-cooney,luke-settanni-1,james-kleiner,raymer-ramirez,107.76,1.9800000000000000e+02
+relay,RA400YM,2,mason-woods,brady-dougherty,thomas-stankus,ben-turley,213.21,2.8500000000000000e+02,evan-crescenzo,luke-settanni-1,james-kleiner,dylan-cooney,247.12,1.3200000000000000e+02

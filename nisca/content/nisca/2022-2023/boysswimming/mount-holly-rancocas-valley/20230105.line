@@ -1,0 +1,15 @@
+lineup,hdr,3,2622
+lineup,dat,R,RE200,1,ty-martin,domenick-pugliese,thomas-wilkinson,nick-smith-21,106.33,306
+lineup,dat,R,RE200,2,lucas-olsen,gavin-martin-4,tyler-myers-562182,nick-walter-2,117.34,213
+lineup,dat,I,A200,1,ian-phillips-1,115.64,81,2,thomas-jarvis,123.96,55,3,ethan-friedman,149.49,0
+lineup,dat,I,E200,1,nick-smith-21,136.94,58,2,alex-perkowski,142.18,44,3,gavin-martin-4,151.56,22
+lineup,dat,I,A50,1,thomas-wilkinson,24.48,80,2,ethan-idland,26.13,57,3,nick-walter-2,26.8,49
+lineup,dat,I,D100,1,ian-phillips-1,58.86,80,2,tyler-myers-562182,64.8,49,3,lucas-olsen,68.59,31
+lineup,dat,I,A100,1,ty-martin,53.33,80,2,domenick-pugliese,54.7,71,3,alex-perkowski,54.46,73
+lineup,dat,I,A500,1,thomas-wilkinson,317.66,77,2,thomas-jarvis,355.02,35,3,john-kukon,464.62,0
+lineup,dat,R,RA200,1,nick-smith-21,ian-phillips-1,alex-perkowski,domenick-pugliese,100.02,267
+lineup,dat,R,RA200,2,ethan-idland,tyler-myers-562182,ethan-friedman,nick-walter-2,111.94,165
+lineup,dat,I,B100,1,ty-martin,61.13,79,2,lucas-olsen,68,48,3,john-kukon,76.23,19
+lineup,dat,I,C100,1,domenick-pugliese,63.35,101,2,nick-smith-21,71.45,60,3,gavin-martin-4,71.7,59
+lineup,dat,R,RA400,1,alex-perkowski,ian-phillips-1,ty-martin,thomas-wilkinson,217.57,261
+lineup,dat,R,RA400,2,thomas-jarvis,lucas-olsen,ethan-friedman,ethan-idland,255.24,102

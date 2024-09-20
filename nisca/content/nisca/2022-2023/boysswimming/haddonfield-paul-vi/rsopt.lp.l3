@@ -1,0 +1,13 @@
+lineup,hdr,3,1228.0
+lineup,dat,I,A200,1,kenny-smith-1,127.7,45.0,2.0,ashley-batejan,132.85,31.0,3,tia-spitzenberg,133.05,30.0
+lineup,dat,I,E200,1,brayden-tedesco,129.78,78.0,2.0,emma-scott-653712,145.22,37.0,3,julian-napoli,155.1,15.0
+lineup,dat,I,A50,1,robert-collazzo,23.64,93.0,2.0,ian-polaneczky,25.76,62.0,3,joseph-rotchford,27.5,41.0
+lineup,dat,I,D100,1,ellie-davis,61.98,63.0,2.0,julian-napoli,68.91,30.0,3,emily-schwarwalder,69.3,28.0
+lineup,dat,I,A100,1,christian-napoli,51.37,94.0,2.0,robert-collazzo,54.74,71.0,3,ian-polaneczky,61.25,33.0
+lineup,dat,I,A500,1,ellie-davis,316.2,78.0,2.0,tia-spitzenberg,357.14,33.0,3,kenny-smith-1,366.84,24.0
+lineup,dat,I,B100,1,brayden-tedesco,57.38,98.0,2.0,ashley-batejan,65.55,58.0,3,alex-cacia,68.31,47.0
+lineup,dat,I,C100,1,emma-scott-653712,71.7,59.0,2.0,karla-johnson-1,75.13,44.0,3,carlyn-mckendrick,76.97,36.0
+relay,hdr,1215.0
+relay,RE200YM,2,brayden-tedesco,emma-scott-653712,ellie-davis,christian-napoli,109.57,276.0,ashley-batejan,karla-johnson-1,emily-schwarwalder,robert-collazzo,119.34,198.0,474.0
+relay,RA400YM,2,kenny-smith-1,robert-collazzo,brayden-tedesco,christian-napoli,218.68,255.0,alex-cacia,joseph-rotchford,ian-polaneczky,julian-napoli,244.67,141.0,396.0
+relay,RA200YM,2,ian-polaneczky,julian-napoli,kenny-smith-1,christian-napoli,104.44,225.0,karla-johnson-1,allison-flem,joseph-ditomaso,joseph-rotchford,118.01,120.0,345.0

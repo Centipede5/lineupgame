@@ -1,0 +1,17 @@
+lineup,hdr,3,1087
+lineup,dat,I,A200
+lineup,dat,I,E200,1,owen-weller,128.66,82,2,spencer-rosenbaum,141.06,47,3,ethan-simms,143.41,41
+lineup,dat,I,A50,1,kaden-chou,25.58,65,2,justin-dickson-598333,26.93,47,3,jake-terry-1,28.35,31
+lineup,dat,I,D100,1,anuthra-abeysinghe,59.43,77
+lineup,dat,I,A100,1,jacques-chemaly,50.46,101,2,kaden-chou,57.57,53,3,evan-katz-1,57.76,52
+lineup,dat,I,A500,1,jacques-chemaly,309,88,2,ethan-simms,360.03,31
+lineup,dat,I,B100,1,owen-weller,56.27,105,2,evan-katz-1,68.89,45,3,jake-terry-1,74.53,24
+lineup,dat,I,C100,1,anuthra-abeysinghe,63.46,101,2,spencer-rosenbaum,70.97,62,3,peter-falcone,77.45,35
+relay,hdr,1017
+relay,RE200YM,2,owen-weller,anuthra-abeysinghe,spencer-rosenbaum,jacques-chemaly,105.48,3.1500000000000000e+02,evan-katz-1,peter-falcone,ethan-simms,kaden-chou,122.26,1.7700000000000000e+02
+relay,RA200YM,2,ethan-simms,peter-falcone,martin-bria,kaden-chou,116.87,1.2900000000000000e+02,john-davidson-2,jake-terry-1,mathis-ledru,justin-dickson-598333,123.98,8.1000000000000000e+01
+relay,RA400YM,2,jacques-chemaly,spencer-rosenbaum,owen-weller,anuthra-abeysinghe,213.38,2.8200000000000000e+02,evan-katz-1,john-davidson-2,martin-bria,justin-dickson-598333,275.9,3.3000000000000000e+01
+relay,hdr,1074
+relay,RE200YM,2,owen-weller,anuthra-abeysinghe,spencer-rosenbaum,jacques-chemaly,105.48,3.1500000000000000e+02,evan-katz-1,peter-falcone,ethan-simms,justin-dickson-598333,122.75,1.7400000000000000e+02
+relay,RA200YM,2,ethan-simms,peter-falcone,martin-bria,kaden-chou,116.87,1.2900000000000000e+02,john-davidson-2,jake-terry-1,mathis-ledru,justin-dickson-598333,123.98,8.1000000000000000e+01
+relay,RA400YM,2,jacques-chemaly,spencer-rosenbaum,owen-weller,anuthra-abeysinghe,213.38,2.8200000000000000e+02,justin-dickson-598333,kaden-chou,jake-terry-1,evan-katz-1,258.08,9.3000000000000000e+01

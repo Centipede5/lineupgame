@@ -1,0 +1,15 @@
+lineup,hdr,3,1474
+lineup,dat,R,RE200,1,marta-gershanok,jenna-kim-1,elaine-kim,rebecca-storch,123.12,255
+lineup,dat,R,RE200,2,louise-choi,katie-lee-601129,tay-lee,ariel-goldberg,148.25,66
+lineup,dat,I,A200,1,trianha-puente,126.93,77,2,michelle-yu-2,137.88,44
+lineup,dat,I,E200,1,marta-gershanok,149.56,57,2,jenna-kim-1,160.93,28
+lineup,dat,I,A50,1,rebecca-storch,28.18,65,2,katie-lee-601129,32.07,19,3,tay-lee,33.75,2
+lineup,dat,I,D100,1,elaine-kim,66.02,77,2,jenna-kim-1,66.62,74
+lineup,dat,I,A100,1,michelle-yu-2,62.25,55,2,ariel-goldberg,76.47,0,3,tay-lee,72.25,0
+lineup,dat,I,A500,1,trianha-puente,349.99,64
+lineup,dat,R,RA200,1,michelle-yu-2,rebecca-storch,trianha-puente,elaine-kim,112.81,246
+lineup,dat,R,RA200,2,jenna-kim-1,macy-tewfik,katie-lee-601129,ariel-goldberg,142.63,21
+lineup,dat,I,B100,1,marta-gershanok,62.7,94,2,louise-choi,84.27,0
+lineup,dat,I,C100,1,elaine-kim,74.18,82,2,katie-lee-601129,94.25,1
+lineup,dat,R,RA400,1,trianha-puente,michelle-yu-2,rebecca-storch,marta-gershanok,260.94,147
+lineup,dat,R,RA400,2,ariel-goldberg,macy-tewfik,louise-choi,tay-lee,347.07,0

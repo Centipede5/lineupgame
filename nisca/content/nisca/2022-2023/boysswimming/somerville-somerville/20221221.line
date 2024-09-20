@@ -1,0 +1,15 @@
+lineup,hdr,3,740
+lineup,dat,R,RE200,1,ethan-shaw-4,evan-barna,nate-cohen,kaden-kechula,141.42,60
+lineup,dat,R,RE200,2,kevyn-dalida,tony-hendershot,louis-gunawan,gavin-hoinowski,156.88,0
+lineup,dat,I,A200,1,cooper-lutz,135.13,25,2,ben-mcclaine,149.32,0,3,evan-barna,151.88,0
+lineup,dat,I,E200,1,luke-bursack,169.32,0,2,nate-cohen,187.27,0
+lineup,dat,I,A50,1,santiago-fernanez,25.53,65,2,andrew-arellano,29.9,15,3,kevyn-dalida,32.5,0
+lineup,dat,I,D100,1,charles-zhang-1,58.76,81,2,ethan-shaw-4,74.48,8,3,nate-cohen,83.47,0
+lineup,dat,I,A100,1,logan-fabriczi,61,34,2,santiago-fernanez,63.12,23,3,kaden-kechula,68.72,0
+lineup,dat,I,A500,1,cooper-lutz,397.68,0,2,luke-bursack,465.27,0
+lineup,dat,R,RA200,1,logan-fabriczi,ben-mcclaine,cooper-lutz,charles-zhang-1,111.58,168
+lineup,dat,R,RA200,2,kaden-kechula,nate-cohen,evan-barna,ethan-shaw-4,123,87
+lineup,dat,I,B100,1,ben-mcclaine,72.94,30,2,kevyn-dalida,121.3,0,3,tony-hendershot,125.56,0
+lineup,dat,I,C100,1,charles-zhang-1,61.64,111,2,louis-gunawan,80.38,24
+lineup,dat,R,RA400,1,nate-cohen,evan-barna,andrew-arellano,luke-bursack,283.19,9
+lineup,dat,R,RA400,2,kevyn-dalida,gavin-hoinowski,tony-hendershot,louis-gunawan,337.78,0

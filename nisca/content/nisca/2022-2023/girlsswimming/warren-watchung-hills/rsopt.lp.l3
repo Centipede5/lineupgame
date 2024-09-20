@@ -1,0 +1,13 @@
+lineup,hdr,3,1784.0
+lineup,dat,I,A200,1,zoe-arakelian,119.84,102.0,2.0,rebecca-clemente,125.08,83.0,3,madeleine-koller,142.85,30.0
+lineup,dat,I,E200,1,charlotte-holliday,132.91,108.0,2.0,brenda-zhang,140.61,83.0,3,alessandra-abeijon,159.02,33.0
+lineup,dat,I,A50,1,mya-uku,25.99,98.0,2.0,kaylee-yue,27.47,75.0,3,ayla-freire,27.71,72.0
+lineup,dat,I,D100,1,madeline-goret,62.28,97.0,2.0,sara-liu,67.23,71.0,3,alessandra-abeijon,69.08,62.0
+lineup,dat,I,A100,1,zoe-arakelian,55.81,101.0,2.0,mya-uku,57.56,87.0,3,ayla-freire,62.67,52.0
+lineup,dat,I,A500,1,rebecca-clemente,336.33,81.0,2.0,shaye-bundonis,343.58,72.0,3,madeleine-koller,385.51,26.0
+lineup,dat,I,B100,1,charlotte-holliday,58.85,120.0,2.0,shaye-bundonis,64.87,81.0,3,sara-liu,76.86,20.0
+lineup,dat,I,C100,1,madeline-goret,70.15,104.0,2.0,brenda-zhang,73.26,87.0,3,claudia-tao,83.64,39.0
+relay,hdr,1464.0
+relay,RA200YF,2,brenda-zhang,mya-uku,rebecca-clemente,zoe-arakelian,104.89,327.0,madeline-goret,kaylee-yue,alessandra-abeijon,ayla-freire,115.28,225.0,552.0
+relay,RE200YF,2,charlotte-holliday,madeline-goret,brenda-zhang,zoe-arakelian,114.88,333.0,shaye-bundonis,kaylee-yue,alessandra-abeijon,priyasha-sabharwal,129.14,201.0,534.0
+relay,RA400YF,2,rebecca-clemente,shaye-bundonis,mya-uku,charlotte-holliday,234.31,279.0,priyasha-sabharwal,gabrielle-minieri,kaylee-yue,ayla-freire,271.99,99.0,378.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,778.0
+lineup,dat,I,A200,1,george-urquhart,133.11,30.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,duncan-abbott,24.95,73.0,2.0,aiden-rutz,25.29,69.0,3,daniel-denisov,28.84,26.0
+lineup,dat,I,D100,1,duncan-abbott,60.95,68.0,2.0,raghav-dutt,62.43,61.0,3,eli-carlsruh,63.66,54.0
+lineup,dat,I,A100,1,bobby-schmalzigan,52.08,89.0,2.0,jonathan-harvey,62.91,24.0,3,daniel-denisov,64.45,17.0
+lineup,dat,I,A500,1,eli-carlsruh,327.61,65.0,,,,,,,,
+lineup,dat,I,B100,1,george-urquhart,71.68,34.0,2.0,raghav-dutt,79.61,9.0,3,jonathan-harvey,79.39,9.0
+lineup,dat,I,C100,1,bobby-schmalzigan,65.64,88.0,2.0,aiden-rutz,70.98,62.0,,,,
+relay,hdr,645.0
+relay,RA400YM,2,duncan-abbott,eli-carlsruh,bobby-schmalzigan,aiden-rutz,225.89,222.0,jonathan-harvey,daniel-denisov,raghav-dutt,george-urquhart,264.82,69.0,291.0
+relay,RE200YM,1,bobby-schmalzigan,aiden-rutz,duncan-abbott,eli-carlsruh,112.63,252.0,,,,,,,252.0
+relay,RA200YM,1,jonathan-harvey,raghav-dutt,daniel-denisov,george-urquhart,120.88,102.0,,,,,,,102.0

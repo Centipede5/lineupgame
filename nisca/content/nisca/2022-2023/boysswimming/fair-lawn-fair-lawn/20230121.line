@@ -1,0 +1,15 @@
+lineup,hdr,3,2038
+lineup,dat,R,RE200,1,kyle-ludzki,derek-ling,stanislaw-soliwoda,gabriel-castro,117.79,210
+lineup,dat,R,RE200,2,preston-zhong,marc-zborovsky,gil-shenoy,alec-cameron,126.68,147
+lineup,dat,I,A200,1,alex-gorakine,109.7,102,2,parth-unawane,132.08,33,3,marc-zborovsky,165.56,0
+lineup,dat,I,E200,1,chris-li-1,128.33,83,2,gabriel-castro,152.62,20,3,reilly-bogues,159.41,6
+lineup,dat,I,A50,1,kyle-ludzki,26.78,49,2,derek-ling,26.08,58,3,alec-cameron,28.19,33
+lineup,dat,I,D100,1,stanislaw-soliwoda,61.26,67,2,gil-shenoy,64.26,51,3,preston-zhong,68.37,32
+lineup,dat,I,A100,1,gabriel-castro,56.52,59,2,marc-zborovsky,69.45,0,3,constantine-soukas,69.38,0
+lineup,dat,I,A500,1,alex-gorakine,282.69,125,2,parth-unawane,344.66,46,3,reilly-bogues,435.78,0
+lineup,dat,R,RA200,1,chris-li-1,alec-cameron,derek-ling,alex-gorakine,102.01,246
+lineup,dat,R,RA200,2,preston-zhong,gil-shenoy,parth-unawane,reilly-bogues,117.01,126
+lineup,dat,I,B100,1,stanislaw-soliwoda,63.51,67,2,kyle-ludzki,65.94,57,3,alec-cameron,75.06,23
+lineup,dat,I,C100,1,chris-li-1,66.01,86,2,derek-ling,74.09,48,3,preston-zhong,77.83,33
+lineup,dat,R,RA400,1,alex-gorakine,stanislaw-soliwoda,gabriel-castro,chris-li-1,224.02,231
+lineup,dat,R,RA400,2,theodor-dona,constantine-soukas,gil-shenoy,yousef-ali,297.65,0

@@ -1,0 +1,15 @@
+lineup,hdr,3,3169
+lineup,dat,R,RE200,1,jake-rosenberger,michael-calandra,benjamin-weng,nikolas-defrehn,109.37,279
+lineup,dat,R,RE200,2,james-yanek,daniel-paz,ryan-stankowski,jack-dolan-2,118.99,201
+lineup,dat,I,A200,1,spiro-yeo,110.8,98,2,jake-rosenberger,130.18,38,3,garrett-riefenstahl,130.97,36
+lineup,dat,I,E200,1,noah-brown-504725,125.74,91,2,nikolas-defrehn,136.91,58,3,benjamin-weng,137.72,56
+lineup,dat,I,A50,1,cameron-fuller,22.23,116,2,james-yanek,25.77,62,3,ryan-stankowski,25.54,65
+lineup,dat,I,D100,1,spiro-yeo,56.82,93,2,ryan-stankowski,64.87,48,3,luke-wharton,68.56,32
+lineup,dat,I,A100,1,david-gentile,50.64,100,2,nikolas-defrehn,55.17,68,3,jack-dolan-2,58.64,47
+lineup,dat,I,A500,1,michael-calandra,322.25,71,2,benjamin-weng,324.45,68,3,garrett-riefenstahl,360.73,30
+lineup,dat,R,RA200,1,cameron-fuller,noah-brown-504725,spiro-yeo,david-gentile,93.16,336
+lineup,dat,R,RA200,2,daniel-paz,jack-dolan-2,james-yanek,ryan-stankowski,103.44,234
+lineup,dat,I,B100,1,noah-brown-504725,61.63,76,2,cameron-fuller,60.62,81,3,jake-rosenberger,64.45,63
+lineup,dat,I,C100,1,david-gentile,66.27,85,2,michael-calandra,66.69,83,3,jack-dolan-2,79.8,26
+lineup,dat,R,RA400,1,spiro-yeo,cameron-fuller,noah-brown-504725,david-gentile,210.76,297
+lineup,dat,R,RA400,2,jake-rosenberger,benjamin-weng,nikolas-defrehn,michael-calandra,223.77,231

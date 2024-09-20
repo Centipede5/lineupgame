@@ -1,0 +1,15 @@
+lineup,hdr,3,1000
+lineup,dat,R,RE200,1,cristian-hernandez-3,phil-kerwin,jake-smith-17,thomas-shave,154.49,0
+lineup,dat,R,RE200,2,ryan-spencer,daniel-listor,aidan-denham,max-rosen-5,120.89,186
+lineup,dat,I,A200,1,cristian-hernandez-3,175.54,0,2,aidan-denham,118.96,70,3,jake-smith-17,197.39,0
+lineup,dat,I,E200,1,daniel-listor,122.9,100,2,ayush-sinha,197.01,0
+lineup,dat,I,A50,1,phil-kerwin,28.76,27,2,aidan-denham,24.65,78,3,leo-kowalewski,35.07,0
+lineup,dat,I,D100,1,max-rosen-5,70.19,25
+lineup,dat,I,A100,1,ryan-spencer,72.81,0,2,max-rosen-5,60.32,38,3,leo-kowalewski,76.2,0
+lineup,dat,I,A500,1,yusuf-hashmi,489.54,0
+lineup,dat,R,RA200,1,phil-kerwin,jake-smith-17,cristian-hernandez-3,nate-kowalewski,133.9,24
+lineup,dat,R,RA200,2,aidan-denham,ryan-spencer,max-rosen-5,daniel-listor,94.21,324
+lineup,dat,I,B100,1,ayush-sinha,93.65,0,2,phil-kerwin,92.7,0
+lineup,dat,I,C100,1,nate-kowalewski,92.42,0,2,daniel-listor,59.04,128,3,leo-kowalewski,92.01,0
+lineup,dat,R,RA400,1,leo-kowalewski,thomas-shave,ayush-sinha,jake-smith-17,365.24,0
+lineup,dat,R,RA400,2,cristian-hernandez-3,nate-kowalewski,yusuf-hashmi,ryan-spencer,311.9,0

@@ -1,0 +1,14 @@
+lineup,hdr,3,1995
+lineup,dat,R,RE200,1,matthew-chang-549416,brian-do-1,vincent-kim,ryan-choi-1,105.66,312
+lineup,dat,I,A200,1,vincent-kim,116.95,77,2,isaac-law,163.03,0,3,abir-bhattacharya,131.44,35
+lineup,dat,I,E200,1,matthew-chang-549416,123.6,98,2,nicholas-szeto,180.08,0
+lineup,dat,I,A50,1,jason-lee-11,27.45,41,2,ryan-choi-1,22.47,112,3,taka-nakahara,23.9,89
+lineup,dat,I,D100,1,nicholas-szeto,87.36,0,2,matthew-chang-549416,54.19,110,3,abir-bhattacharya,60.56,71
+lineup,dat,I,A100,1,mateo-alcantar-1,72.98,0,2,brian-do-1,53.77,77,3,taka-nakahara,57.53,53
+lineup,dat,I,A500,1,vincent-kim,316.37,78,2,alexey-chernyavsky-1,410.84,0,3,jimmy-wilson-1,504.7,0
+lineup,dat,R,RA200,1,vincent-kim,taka-nakahara,ryan-choi-1,matthew-chang-549416,95.06,315
+lineup,dat,R,RA200,2,jason-lee-11,aaron-lee-10,nicholas-szeto,mateo-alcantar-1,122.79,90
+lineup,dat,I,B100,1,jason-lee-11,65.76,57,2,ryan-choi-1,55.98,106,3,alexey-chernyavsky-1,83.46,0
+lineup,dat,I,C100,1,brian-do-1,66.86,82,2,desmond-casteel-1,88.86,0,3,aquila-bernal,79.5,27
+lineup,dat,R,RA400,1,abir-bhattacharya,taka-nakahara,aquila-bernal,brian-do-1,239.08,165
+lineup,dat,R,RA400,2,aaron-lee-10,nicholas-szeto,desmond-casteel-1,alexey-chernyavsky-1,294.4,0

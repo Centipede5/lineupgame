@@ -1,0 +1,16 @@
+lineup,hdr,3,575
+lineup,dat,I,A200,1,emily-gardner-603003,135.87,50,2,emily-cogdill,139.63,39
+lineup,dat,I,E200,1,emily-chavez,169.51,9
+lineup,dat,I,A50,1,julia-panczenko,28.81,57,2,amber-shea,30.07,41,3,aolani-obi,30.34,38
+lineup,dat,I,D100,1,emily-gardner-603003,73.26,43,2,alexandra-gregorio,78.45,22,3,kushi-malik,81.5,11
+lineup,dat,I,A100,1,maya-zavatsky,65.45,36,2,julia-panczenko,66.37,30,3,alexandra-gregorio,69.81,12
+lineup,dat,I,A500,1,emily-cogdill,382.41,29,2,scout-lowrie,393.56,19
+lineup,dat,I,B100
+lineup,dat,I,C100,1,scout-lowrie,77.26,67,2,amber-shea,83.97,38,3,maya-zavatsky,85.08,34
+relay,hdr,555
+relay,RE200YF,2,emily-cogdill,scout-lowrie,emily-gardner-603003,julia-panczenko,135.25,1.5300000000000000e+02,alexandra-gregorio,amber-shea,kushi-malik,rose-ngungu,137.9,1.3500000000000000e+02
+relay,RA200YF,2,maya-zavatsky,julia-panczenko,scout-lowrie,emily-cogdill,123.31,1.5600000000000000e+02,elena-canales,alexandra-gregorio,kushi-malik,aolani-obi,129.05,1.1100000000000000e+02
+relay,hdr,633
+relay,RE200YF,2,emily-cogdill,scout-lowrie,emily-gardner-603003,julia-panczenko,135.25,1.5300000000000000e+02,alexandra-gregorio,amber-shea,kushi-malik,rose-ngungu,137.9,1.3500000000000000e+02
+relay,RA200YF,2,maya-zavatsky,rose-ngungu,scout-lowrie,julia-panczenko,125.64,1.3800000000000000e+02,elena-canales,alexandra-gregorio,kushi-malik,aolani-obi,129.05,1.1100000000000000e+02
+relay,RA400YF,1,kushi-malik,emily-gardner-603003,amber-shea,emily-cogdill,272.27,9.6000000000000000e+01

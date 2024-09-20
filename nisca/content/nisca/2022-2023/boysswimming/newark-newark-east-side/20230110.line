@@ -1,0 +1,13 @@
+lineup,hdr,3,267
+lineup,dat,R,RE200,1,kelvin-grady-1,christopher-ulloa-1,alejandro-araujo-aguirre,joshua-de-oliveira,144,48
+lineup,dat,I,A200,1,alejandro-araujo-aguirre,159,0
+lineup,dat,I,E200,1,christopher-ulloa-1,156,13
+lineup,dat,I,A50,1,joshua-de-oliveira,28,35,2,kelvin-grady-1,31,4,3,matthew-amaro,36,0
+lineup,dat,I,D100,1,alejandro-araujo-aguirre,89,0
+lineup,dat,I,A100,1,joshua-de-oliveira,66,10,2,kelvin-grady-1,76,0
+lineup,dat,I,A500,1,christopher-ulloa-1,386,7,2,alejandro-araujo-aguirre,503,0
+lineup,dat,R,RA200,1,kelvin-grady-1,brian-marques,joshua-de-oliveira,christopher-ulloa-1,114,150
+lineup,dat,R,RA200,2,jonathan-velasquez,michael-castillo-1,matthew-amaro,alejandro-araujo-aguirre,190,0
+lineup,dat,I,B100,1,jonathan-velasquez,145,0,2,breo-conchas-marques,97,0,3,guilhermy-araujo-dasilva,133,0
+lineup,dat,I,C100
+lineup,dat,R,RA400,1,kevin-tacuri-1,jonathan-velasquez,michael-castillo-1,matthew-amaro,440,0

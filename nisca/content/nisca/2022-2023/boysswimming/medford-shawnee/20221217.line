@@ -1,0 +1,14 @@
+lineup,hdr,3,1870
+lineup,dat,R,RE200,1,alexander-reihl,william-christianson,lucas-pearson-1,luke-masters,111.1,264
+lineup,dat,R,RE200,2,sean-mccartney-1,brayden-svensen,owen-harris,owen-reed,129.17,132
+lineup,dat,I,A200,1,tj-byrne,122.56,59,2,brenden-deely,126.94,47,3,luke-grabowski,139.75,14
+lineup,dat,I,E200,1,alexander-reihl,134.91,64,2,william-christianson,135.03,63,3,brayden-svensen,178.06,0
+lineup,dat,I,A50,1,luke-masters,23.67,92,2,owen-reed,25.4,67,3,owen-harris,30.02,14
+lineup,dat,I,D100,1,lucas-pearson-1,59.58,76,2,tj-byrne,64.66,49,3,brayden-svensen,85.25,0
+lineup,dat,I,A100,1,luke-masters,54.44,73,2,sean-mccartney-1,59.29,43,3,devon-beecham,67.63,2
+lineup,dat,I,A500,1,alexander-reihl,320.77,73,2,brenden-deely,364.31,26,3,luke-grabowski,379.96,12
+lineup,dat,R,RA200,1,owen-reed,tj-byrne,brenden-deely,luke-masters,107.4,201
+lineup,dat,R,RA200,2,brayden-svensen,bryce-svensen,devon-beecham,luke-grabowski,125.45,72
+lineup,dat,I,B100,1,lucas-pearson-1,61.17,78,2,sean-mccartney-1,72.2,32,3,owen-harris,75.55,21
+lineup,dat,I,C100,1,william-christianson,69.69,68,2,owen-reed,77.04,36,3,bryce-svensen,92,0
+lineup,dat,R,RA400,1,tj-byrne,brenden-deely,william-christianson,alexander-reihl,232.58,192

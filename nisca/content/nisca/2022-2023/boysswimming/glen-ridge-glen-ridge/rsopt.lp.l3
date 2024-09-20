@@ -1,0 +1,13 @@
+lineup,hdr,3,491.0
+lineup,dat,I,A200,1,cooper-voss,109.66,102.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,john-mccarren-1,24.87,74.0,2.0,connor-vigna,26.3,55.0,3,theo-beirne,27.19,44.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,sean-oconnor-8,57.78,52.0,2.0,john-mccarren-1,59.44,42.0,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,koji-sawa,59.69,86.0,,,,,,,,
+lineup,dat,I,C100,1,sean-oconnor-8,77.03,36.0,,,,,,,,
+relay,hdr,951.0
+relay,RA200YM,2,koji-sawa,john-mccarren-1,sean-oconnor-8,cooper-voss,98.28,282.0,theo-beirne,aaron-foster,craig-stites,connor-vigna,117.89,120.0,402.0
+relay,RE200YM,2,koji-sawa,sean-oconnor-8,cooper-voss,connor-vigna,112.68,249.0,aaron-foster,craig-stites,john-mccarren-1,theo-beirne,136.39,87.0,336.0
+relay,RA400YM,1,koji-sawa,connor-vigna,theo-beirne,cooper-voss,228.02,213.0,,,,,,,213.0

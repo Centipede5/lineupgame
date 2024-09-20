@@ -1,0 +1,17 @@
+lineup,hdr,3,2015
+lineup,dat,I,A200,1,dylan-briones,123.16,90,2,helia-wang,125.76,81,3,katie-antonoff,128.41,72
+lineup,dat,I,E200,1,meghan-sharma,129.36,121,2,mayra-rolon,138.79,89,3,anushka-chorey,150.97,53
+lineup,dat,I,A50,1,samantha-dambrosio,26.03,97,2,madison-wishnow,26.15,95,3,maggie-chen,26.66,87
+lineup,dat,I,D100,1,lily-bar,62.89,94,2,madison-wishnow,64.93,83,3,namita-parekh,71.8,49
+lineup,dat,I,A100,1,dylan-briones,56.88,92,2,samantha-dambrosio,57.38,89,3,tammy-leng,57.65,87
+lineup,dat,I,A500,1,tammy-leng,335.55,82,2,helia-wang,336.65,81,3,katie-antonoff,350.9,63
+lineup,dat,I,B100,1,mayra-rolon,62.21,97,2,lily-bar,62.59,95,3,gabby-hunter,70.7,49
+lineup,dat,I,C100,1,meghan-sharma,65.2,135,2,sophie-tran,76.62,70,3,maggie-chen,77.89,64
+relay,hdr,1533
+relay,RE200YF,2,lily-bar,meghan-sharma,madison-wishnow,samantha-dambrosio,112.56,3.5700000000000000e+02,mayra-rolon,tammy-leng,namita-parekh,mehr-singh,121.95,2.6400000000000000e+02
+relay,RA200YF,2,madison-wishnow,lily-bar,helia-wang,dylan-briones,105.79,3.1800000000000000e+02,tammy-leng,katie-antonoff,simar-singh,maggie-chen,111.07,2.6400000000000000e+02
+relay,RA400YF,2,katie-antonoff,gabby-hunter,anushka-chorey,helia-wang,254.42,1.7700000000000000e+02,khushi-murthy,pehel-bhaiya,jasleen-assal,jamie-cridge,259.47,1.5300000000000000e+02
+relay,hdr,1728
+relay,RE200YF,2,lily-bar,meghan-sharma,madison-wishnow,samantha-dambrosio,112.56,3.5700000000000000e+02,mayra-rolon,tammy-leng,namita-parekh,mehr-singh,121.95,2.6400000000000000e+02
+relay,RA200YF,2,madison-wishnow,maggie-chen,helia-wang,dylan-briones,105.4,3.2100000000000000e+02,mehr-singh,luisa-escorriola,simar-singh,katie-antonoff,112.91,2.4600000000000000e+02
+relay,RA400YF,2,samantha-dambrosio,lily-bar,dylan-briones,meghan-sharma,231.27,2.9700000000000000e+02,maggie-chen,katie-antonoff,tammy-leng,helia-wang,240.66,2.4300000000000000e+02

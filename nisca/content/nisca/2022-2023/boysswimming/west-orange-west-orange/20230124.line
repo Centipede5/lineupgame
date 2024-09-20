@@ -1,0 +1,13 @@
+lineup,hdr,3,939
+lineup,dat,R,RE200,1,justin-risco-1,lance-zeligson,marlon-bravo-1,michael-greco-1,125,159
+lineup,dat,I,A200,1,marlon-bravo-1,145.31,2,2,leo-mccormick,125.71,50
+lineup,dat,I,E200,1,cooper-niculescu,183.57,0,2,lance-zeligson,148.22,30
+lineup,dat,I,A50,1,byron-alvarez,30.32,11,2,noah-wadih,26.84,48
+lineup,dat,I,D100,1,kourosh-karimi,85.11,0,2,leo-mccormick,68.53,32
+lineup,dat,I,A100,1,byron-alvarez,70.05,0,2,justin-risco-1,59.47,42
+lineup,dat,I,A500,1,noah-wadih,404.6,0
+lineup,dat,R,RA200,1,michael-greco-1,marlon-bravo-1,noah-wadih,leo-mccormick,108.65,189
+lineup,dat,I,B100,1,michael-greco-1,75.87,20,2,justin-risco-1,65.47,59
+lineup,dat,I,C100,1,cooper-niculescu,84.46,10,2,lance-zeligson,73.63,50,3,kourosh-karimi,90.15,0
+lineup,dat,R,RA400,1,byron-alvarez,kourosh-karimi,michael-greco-1,marlon-bravo-1,268.84,54
+lineup,dat,R,RA400,2,noah-wadih,justin-risco-1,leo-mccormick,lance-zeligson,234.38,183

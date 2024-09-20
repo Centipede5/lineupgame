@@ -1,0 +1,13 @@
+lineup,hdr,3,1274.0
+lineup,dat,I,A200,1,silas-committee,127.13,46.0,2.0,turner-ryon,127.53,45.0,3,cody-karolkiewicz,133.6,29.0
+lineup,dat,I,E200,1,guy-devita,137.76,56.0,2.0,jacob-werner,138.3,54.0,3,turner-ryon,150.13,26.0
+lineup,dat,I,A50,1,sean-kahl,23.75,91.0,2.0,nick-napolitano-1,24.6,78.0,3,tizian-havranek,24.87,74.0
+lineup,dat,I,D100,1,jacob-king-3,63.77,54.0,2.0,enzo-russino,64.4,51.0,3,silas-committee,65.95,43.0
+lineup,dat,I,A100,1,sean-kahl,53.67,78.0,2.0,tizian-havranek,55.72,64.0,3,yaroslav-soria,56.16,62.0
+lineup,dat,I,A500,1,jacob-king-3,340.96,50.0,2.0,owen-dinapoli,353.81,37.0,3,justin-pollina,365.83,25.0
+lineup,dat,I,B100,1,jacob-werner,64.06,65.0,2.0,cody-karolkiewicz,67.26,51.0,3,luke-plesniarski,69.56,42.0
+lineup,dat,I,C100,1,guy-devita,70.09,66.0,2.0,justin-pollina,73.48,51.0,3,sean-hanvey,77.01,36.0
+relay,hdr,1362.0
+relay,RA200YM,2,yaroslav-soria,jack-delaney-651279,sean-hanvey,jacob-werner,101.89,249.0,enzo-russino,turner-ryon,silas-committee,nick-napolitano-1,103.01,237.0,486.0
+relay,RE200YM,2,jacob-king-3,guy-devita,enzo-russino,sean-kahl,111.96,255.0,luke-plesniarski,justin-pollina,sean-hanvey,jack-delaney-651279,119.37,198.0,453.0
+relay,RA400YM,2,sean-kahl,enzo-russino,jacob-king-3,jacob-werner,225.13,225.0,jack-delaney-651279,silas-committee,yaroslav-soria,turner-ryon,231.02,198.0,423.0

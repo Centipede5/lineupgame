@@ -1,0 +1,12 @@
+lineup,hdr,3,1322
+lineup,dat,R,RE200,1,liam-carroll-5,josh-demarco-1,thomas-carpinelli-1,vlado-nikolov,122.93,174
+lineup,dat,I,A200,1,ethan-wang-1,124.81,53,2,liam-carroll-5,137.91,19
+lineup,dat,I,E200,1,cole-verga,125.56,92,2,thomas-carpinelli-1,157.21,10
+lineup,dat,I,A50,1,vlado-nikolov,27.49,41,2,kian-khojastepour,29.19,22
+lineup,dat,I,D100,1,ethan-wang-1,61.84,64,2,vlado-nikolov,86.64,0
+lineup,dat,I,A100,1,cole-verga,50.23,103,2,thomas-carpinelli-1,62.27,27,3,carter-edwards,79.77,0
+lineup,dat,I,A500,1,josh-demarco-1,300.16,99
+lineup,dat,R,RA200,1,liam-carroll-5,ethan-wang-1,cole-verga,vlado-nikolov,105.11,219
+lineup,dat,I,B100,1,carter-edwards,92.71,0
+lineup,dat,I,C100,1,josh-demarco-1,61.6,112,2,liam-carroll-5,78.98,29,3,kian-khojastepour,99.01,0
+lineup,dat,R,RA400,1,ethan-wang-1,josh-demarco-1,thomas-carpinelli-1,cole-verga,218.37,258

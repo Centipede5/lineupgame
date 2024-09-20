@@ -1,0 +1,15 @@
+lineup,hdr,3,2385
+lineup,dat,R,RE200,1,anthony-cheng-1,johnathon-cheng,harrison-lee-652405,ethan-young-5,102.75,339
+lineup,dat,R,RE200,2,levi-stringham,jack-reilly-5,zach-lenge,cole-asplund-1,124.81,159
+lineup,dat,I,A200,1,johnathon-cheng,114.38,86,2,levi-stringham,136.61,22,3,jack-reilly-5,163.58,0
+lineup,dat,I,E200,1,dylan-song,128.69,82,2,anthony-cheng-1,127.96,84,3,henry-fisher,137.22,57
+lineup,dat,I,A50,1,harrison-lee-652405,22.19,117,2,cole-asplund-1,24.03,87,3,zach-lenge,25.24,69
+lineup,dat,I,D100,1,harrison-lee-652405,53.03,118,2,anthony-cheng-1,59.79,75
+lineup,dat,I,A100,1,johnathon-cheng,49.85,106,2,cole-asplund-1,54.03,76,3,zach-lenge,57.71,52
+lineup,dat,I,A500,1,henry-fisher,339.21,52,2,ethan-young-5,362.21,28
+lineup,dat,R,RA200,1,dylan-song,anthony-cheng-1,johnathon-cheng,harrison-lee-652405,98.16,285
+lineup,dat,R,RA200,2,maximus-punla,jack-reilly-5,henry-fisher,jake-hascup,127.74,60
+lineup,dat,I,B100,1,ethan-young-5,60.05,84,2,jake-hascup,82.55,0,3,maximus-punla,94.99,0
+lineup,dat,I,C100,1,dylan-song,75.01,44,2,levi-stringham,83.82,12,3,jack-reilly-5,90.66,0
+lineup,dat,R,RA400,1,cole-asplund-1,dylan-song,zach-lenge,ethan-young-5,220.61,246
+lineup,dat,R,RA400,2,maximus-punla,levi-stringham,henry-fisher,jake-hascup,271.95,45

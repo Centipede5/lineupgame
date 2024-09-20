@@ -1,0 +1,15 @@
+lineup,hdr,3,1039
+lineup,dat,R,RE200,1,ella-voorhees,darcy-repmann,veronica-peterson,bella-hoffman,129.32,201
+lineup,dat,R,RE200,2,pamela-kobylski,megan-cathro,ava-komorowski,lily-robinson,155.18,24
+lineup,dat,I,A200,1,veronica-peterson,139.31,40,2,darcy-repmann,138.44,42,3,ava-komorowski,185.21,0
+lineup,dat,I,E200,1,bella-hoffman,135.19,100,2,michelle-woodring,170.02,8,3,stephanie-teipel,167.73,13
+lineup,dat,I,A50,1,stephanie-teipel,29.31,51,2,lily-robinson,31.57,24,3,pamela-kobylski,31.37,26
+lineup,dat,I,D100,1,bella-hoffman,62.87,94,2,ella-voorhees,63.32,91,3,lily-robinson,89.27,0
+lineup,dat,I,A100,1,veronica-peterson,64.53,41,2,meredith-benson,85.77,0,3,maggie-rottner,86.18,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,michelle-woodring,lily-robinson,stephanie-teipel,bella-hoffman,123.21,156
+lineup,dat,R,RA200,2,pamela-kobylski,erin-mccool-2,jayda-kawas,miranda-abarca,141.18,30
+lineup,dat,I,B100,1,darcy-repmann,64.09,85,2,nina-kimball,112.74,0
+lineup,dat,I,C100,1,ella-voorhees,90.58,13,2,megan-cathro,99.87,0,3,miranda-abarca,103.42,0
+lineup,dat,R,RA400,1,ella-voorhees,darcy-repmann,stephanie-teipel,veronica-peterson,303.21,0
+lineup,dat,R,RA400,2,michelle-woodring,meredith-benson,pamela-kobylski,veronica-peterson,317.72,0

@@ -1,0 +1,13 @@
+lineup,hdr,3,1078.0
+lineup,dat,I,A200,1,liam-adams-647672,120.14,67.0,2.0,sean-moran-647668,127.17,46.0,3,alexander-kraljic,130.25,38.0
+lineup,dat,I,E200,1,matt-liotti-1,142.69,43.0,2.0,brendon-vickery,156.81,11.0,,,,
+lineup,dat,I,A50,1,martin-dwyer,24.44,81.0,2.0,colin-cronin-1,25.45,66.0,3,jeffrey-jackson,26.25,56.0
+lineup,dat,I,D100,1,harison-fodor,57.08,91.0,2.0,juan-jordan-1,71.87,18.0,3,brendon-vickery,75.81,3.0
+lineup,dat,I,A100,1,liam-adams-647672,53.9,76.0,2.0,michael-liotti,54.3,74.0,3,martin-dwyer,54.71,71.0
+lineup,dat,I,A500,1,sean-moran-647668,364.77,26.0,,,,,,,,
+lineup,dat,I,B100,1,harison-fodor,54.8,113.0,2.0,alexander-kraljic,65.2,60.0,3,matt-liotti-1,67.5,50.0
+lineup,dat,I,C100,1,michael-liotti,69.95,67.0,2.0,colin-cronin-1,81.0,21.0,,,,
+relay,hdr,1173.0
+relay,RE200YM,2,harison-fodor,michael-liotti,liam-adams-647672,martin-dwyer,104.35,324.0,brendon-vickery,juan-jordan-1,matt-liotti-1,colin-cronin-1,127.45,141.0,465.0
+relay,RA200YM,2,martin-dwyer,matt-liotti-1,colin-cronin-1,michael-liotti,100.43,261.0,brendon-vickery,liam-scallon,alexander-kraljic,sean-moran-647668,110.61,174.0,435.0
+relay,RA400YM,2,sean-moran-647668,liam-adams-647672,alexander-kraljic,harison-fodor,226.87,216.0,jeffrey-jackson,liam-scallon,daniel-rush,dante-priolo,268.36,57.0,273.0

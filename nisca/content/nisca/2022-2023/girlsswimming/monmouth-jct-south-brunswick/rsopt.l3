@@ -1,0 +1,17 @@
+lineup,hdr,3,1011
+lineup,dat,I,A200,1,emma-vindigni-1,130.41,66,2,ria-badgujar,140.27,37,3,ritika-pal,145.97,22
+lineup,dat,I,E200,1,emma-vindigni-1,148.94,59,2,trisha-verma,149.21,58,3,aanya-shridhar,157.19,37
+lineup,dat,I,A50,1,anna-ruzhanski,26.17,95,2,gargi-randive-2,28.37,63,3,erina-rejo,28.75,58
+lineup,dat,I,D100,1,trisha-verma,63.38,91,2,aagrimaa-mehra,79.45,19,3,rishika-puthli,80.45,15
+lineup,dat,I,A100,1,ria-badgujar,63.6,47,2,erina-rejo,65.19,37,3,gargi-randive-2,66.36,30
+lineup,dat,I,A500,1,ritika-pal,389.83,22,2,sana-jain,411.02,3
+lineup,dat,I,B100,1,anna-ruzhanski,65.56,77,2,divya-tase,75.27,27,3,aadya-jain,79.31,10
+lineup,dat,I,C100,1,aanya-shridhar,78.28,63,2,aagrimaa-mehra,81.5,48,3,rishika-midha,86.94,27
+relay,hdr,1047
+relay,RE200YF,2,anna-ruzhanski,emma-vindigni-1,trisha-verma,erina-rejo,120.28,2.7900000000000000e+02,divya-tase,aanya-shridhar,aagrimaa-mehra,devna-ashok,134.51,1.5900000000000000e+02
+relay,RA200YF,2,anna-ruzhanski,trisha-verma,erina-rejo,emma-vindigni-1,109.38,2.7900000000000000e+02,ria-badgujar,devna-ashok,rishika-midha,gargi-randive-2,120,1.8300000000000000e+02
+relay,RA400YF,2,aanya-shridhar,gargi-randive-2,divya-tase,ria-badgujar,273.92,9.0000000000000000e+01,rishika-midha,aadya-jain,devna-ashok,rishika-puthli,282.06,5.7000000000000000e+01
+relay,hdr,1062
+relay,RE200YF,2,anna-ruzhanski,emma-vindigni-1,trisha-verma,erina-rejo,120.28,2.7900000000000000e+02,aadya-jain,aagrimaa-mehra,rishika-puthli,divya-tase,139.37,1.2300000000000000e+02
+relay,RA200YF,2,trisha-verma,aanya-shridhar,ria-badgujar,erina-rejo,114.05,2.3400000000000000e+02,aagrimaa-mehra,divya-tase,sana-jain,gargi-randive-2,121.37,1.7100000000000000e+02
+relay,RA400YF,2,emma-vindigni-1,ria-badgujar,aanya-shridhar,anna-ruzhanski,256.31,1.6800000000000000e+02,vibha-mitti,ritika-pal,gargi-randive-2,sana-jain,274.94,8.7000000000000000e+01

@@ -1,0 +1,13 @@
+lineup,hdr,3,397.0
+lineup,dat,I,A200,1,mara-reba,139.16,40.0,,,,,,,,
+lineup,dat,I,E200,1,paz-de-la-torre,119.76,158.0,2.0,gabby-garcia-3,147.32,63.0,,,,
+lineup,dat,I,A50,,,,,,,,,,,,
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,,,,,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,paz-de-la-torre,66.41,72.0,,,,,,,,
+lineup,dat,I,C100,1,gabby-garcia-3,84.7,35.0,2.0,mara-reba,86.4,29.0,,,,
+relay,hdr,1065.0
+relay,RA400YF,2,gabby-garcia-3,mara-reba,paz-de-la-torre,aubrey-connors,204.96,465.0,hannah-morley,lavinia-cintra,valeria-garcia-1,shruti-rathmore,270.88,102.0,567.0
+relay,RE200YF,1,gabby-garcia-3,mara-reba,paz-de-la-torre,aubrey-connors,114.49,339.0,,,,,,,339.0
+relay,RA200YF,1,hannah-morley,lavinia-cintra,valeria-garcia-1,shruti-rathmore,122.86,159.0,,,,,,,159.0

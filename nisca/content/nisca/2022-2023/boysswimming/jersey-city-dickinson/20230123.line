@@ -1,0 +1,14 @@
+lineup,hdr,3,364
+lineup,dat,R,RE200,1,nick-lima-1,ankur-patel,ty-castellanos,adolfo-rosario,194.9,0
+lineup,dat,R,RE200,2,kevin-zapet,riad-taire,yunes-sabeur,jose-guvera-gomez,147.8,27
+lineup,dat,I,A200,1,kristian-taino,174.18,0,2,nick-lima-1,222.2,0
+lineup,dat,I,E200,1,riad-taire,158.19,8
+lineup,dat,I,A50,1,marcus-toussaint,33.7,0,2,ty-castellanos,27.2,44,3,adolfo-rosario,51.9,0
+lineup,dat,I,D100,1,yunes-sabeur,63.2,57
+lineup,dat,I,A100,1,nick-lima-1,98,0,2,kevin-zapet,61.39,32,3,jose-guvera-gomez,102.3,0
+lineup,dat,I,A500,1,kristian-taino,504.8,0
+lineup,dat,R,RA200,1,marcus-toussaint,jose-guvera-gomez,ankur-patel,kristian-taino,154.8,0
+lineup,dat,I,B100,1,yunes-sabeur,65,61,2,kevin-zapet,79.56,9,3,ty-castellanos,105.2,0
+lineup,dat,I,C100,1,ankur-patel,124.3,0,2,riad-taire,77.81,33
+lineup,dat,R,RA400,1,jose-guvera-gomez,kristian-taino,ankur-patel,nick-lima-1,392.3,0
+lineup,dat,R,RA400,2,riad-taire,kevin-zapet,ty-castellanos,yunes-sabeur,258,93

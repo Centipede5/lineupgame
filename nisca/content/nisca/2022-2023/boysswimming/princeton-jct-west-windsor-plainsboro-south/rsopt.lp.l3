@@ -1,0 +1,13 @@
+lineup,hdr,3,1795.0
+lineup,dat,I,A200,1,brayden-lee,115.48,82.0,2.0,dylan-portelli,119.9,67.0,3,noah-kim-606771,123.83,56.0
+lineup,dat,I,E200,1,vikram-pal,127.45,86.0,2.0,carmel-meir,129.06,81.0,3,ethan-hung-1,139.28,52.0
+lineup,dat,I,A50,1,julien-fang,22.65,109.0,2.0,erick-yan,25.17,70.0,3,vini-stucker,25.42,67.0
+lineup,dat,I,D100,1,vikram-pal,53.81,112.0,2.0,rohan-manjarekar,61.06,68.0,3,stanley-kim,61.31,67.0
+lineup,dat,I,A100,1,shekhar-shah,54.28,74.0,2.0,aryan-ahuja,56.05,62.0,3,rohan-manjarekar,56.35,61.0
+lineup,dat,I,A500,1,brayden-lee,316.13,78.0,2.0,noah-kim-606771,341.97,49.0,3,dylan-portelli,343.01,48.0
+lineup,dat,I,B100,1,ben-laine,60.89,80.0,2.0,sarah-yan-1,62.12,74.0,3,erick-yan,63.47,68.0
+lineup,dat,I,C100,1,julien-fang,61.77,111.0,2.0,ben-laine,63.47,101.0,3,margaret-lockman,68.93,72.0
+relay,hdr,1608.0
+relay,RE200YM,2,ben-laine,carmel-meir,julien-fang,shekhar-shah,106.38,306.0,rohan-manjarekar,brayden-lee,raghav-mahajan,erick-yan,112.93,249.0,555.0
+relay,RA200YM,2,carmel-meir,erick-yan,shekhar-shah,vikram-pal,96.6,300.0,aryan-ahuja,ethan-hung-1,raghav-mahajan,vini-stucker,104.02,228.0,528.0
+relay,RA400YM,2,julien-fang,shekhar-shah,carmel-meir,vikram-pal,210.26,300.0,ben-laine,daksh-yadav,rohan-manjarekar,brayden-lee,225.06,225.0,525.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,811.0
+lineup,dat,I,A200,1,matt-winterbottom,118.32,72.0,2.0,shayne-herbert,139.63,15.0,,,,
+lineup,dat,I,E200,1,kristyan-pahang,144.63,38.0,2.0,shane-deman,149.91,26.0,,,,
+lineup,dat,I,A50,1,abdel-mohamed-1,24.32,82.0,2.0,ryan-vankawala,25.51,66.0,3,cole-turner-1,25.6,64.0
+lineup,dat,I,D100,1,jonathan-nass,61.51,65.0,2.0,shane-deman,68.05,34.0,,,,
+lineup,dat,I,A100,1,matt-winterbottom,52.24,88.0,2.0,cole-turner-1,56.95,57.0,3,ryan-vankawala,61.26,33.0
+lineup,dat,I,A500,1,shayne-herbert,370.48,21.0,,,,,,,,
+lineup,dat,I,B100,1,kristyan-pahang,63.69,67.0,2.0,jonathan-nass,69.95,41.0,3,joseph-bolger,81.94,2.0
+lineup,dat,I,C100,1,abdel-mohamed-1,75.98,40.0,,,,,,,,
+relay,hdr,951.0
+relay,RA200YM,2,abdel-mohamed-1,ryan-vankawala,cole-turner-1,matt-winterbottom,99.35,273.0,shane-deman,evan-hendrickson,morgan-rj-rizzo,shayne-herbert,117.71,123.0,396.0
+relay,RE200YM,2,kristyan-pahang,ryan-vankawala,jonathan-nass,abdel-mohamed-1,114.07,240.0,joseph-bolger,evan-hendrickson,shayne-herbert,cole-turner-1,131.43,117.0,357.0
+relay,RA400YM,1,matt-winterbottom,jonathan-nass,shane-deman,kristyan-pahang,231.39,198.0,,,,,,,198.0

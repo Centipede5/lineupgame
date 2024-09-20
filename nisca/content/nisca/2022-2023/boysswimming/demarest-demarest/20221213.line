@@ -1,0 +1,14 @@
+lineup,hdr,3,1608
+lineup,dat,R,RE200,1,eric-slutsky,zeno-park,roy-sung,kaan-yaprak-1,112.94,249
+lineup,dat,I,A200,1,eric-hwang,122.37,60,2,junta-tani,127.31,46,3,yali-twito,174.67,0
+lineup,dat,I,E200,1,zeno-park,140,50,2,rohan-srinivasan,139.94,50,3,andrew-lee-16,164.06,0
+lineup,dat,I,A50,1,kaan-yaprak-1,22.34,114,2,eric-slutsky,24.21,84,3,juhun-gwak,29.56,18
+lineup,dat,I,D100,1,eric-hwang,53.24,116,2,yoav-redhef,64.44,50,3,rohan-srinivasan,70,25
+lineup,dat,I,A100,1,kaan-yaprak-1,50.63,100,2,leo-carvajal,63.44,22,3,mustafa-elgalad,67.2,4
+lineup,dat,I,A500,1,roy-sung,309.74,87,2,junta-tani,343.64,47,3,juhun-gwak,429.56,0
+lineup,dat,R,RA200,1,eric-hwang,yoav-redhef,rohan-srinivasan,roy-sung,243.04,0
+lineup,dat,R,RA200,2,mustafa-elgalad,juhun-gwak,junta-tani,eric-slutsky,264.19,0
+lineup,dat,I,B100,1,eric-slutsky,60.82,80,2,leo-carvajal,74.63,24,3,yoav-redhef,76.44,18
+lineup,dat,I,C100,1,roy-sung,66.73,83,2,zeno-park,72.88,53,3,andrew-lee-16,84.56,9
+lineup,dat,R,RA400,1,eric-hwang,yoav-redhef,rohan-srinivasan,roy-sung,243.04,147
+lineup,dat,R,RA400,2,mustafa-elgalad,juhun-gwak,junta-tani,eric-slutsky,264.1,72

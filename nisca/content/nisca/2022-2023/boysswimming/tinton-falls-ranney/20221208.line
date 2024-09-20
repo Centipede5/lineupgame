@@ -1,0 +1,11 @@
+lineup,hdr,2,1105
+lineup,dat,R,RE200,1,jack-renaud-1,daren-chen,allen-zhao,karsten-sima-1,107.14,297
+lineup,dat,I,A200,1,allen-zhao,117.12,76
+lineup,dat,I,E200,1,daren-chen,121.97,103
+lineup,dat,I,A50,1,karsten-sima-1,24.76,76
+lineup,dat,I,D100,1,allen-zhao,61.29,67
+lineup,dat,I,A100,1,jack-renaud-1,52.62,85
+lineup,dat,I,A500,1,karsten-sima-1,442.24,0
+lineup,dat,I,B100,1,jack-renaud-1,64.01,65
+lineup,dat,I,C100,1,daren-chen,65.31,90
+lineup,dat,R,RA400,1,allen-zhao,daren-chen,jack-renaud-1,karsten-sima-1,220.82,246

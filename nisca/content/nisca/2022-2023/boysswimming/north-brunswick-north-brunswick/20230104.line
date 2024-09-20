@@ -1,0 +1,15 @@
+lineup,hdr,3,1436
+lineup,dat,R,RE200,1,mohit-pradhan,eric-binbinon,robert-armstrong-2,david-fritsche,117.23,213
+lineup,dat,R,RE200,2,christopher-cuesta,daniel-benimovich,dillion-jenkins,shiv-patel-9,128.77,132
+lineup,dat,I,A200,1,robert-armstrong-2,118.63,71,2,christopher-cuesta,146.1,0,3,dillion-jenkins,155.9,0
+lineup,dat,I,E200,1,eric-binbinon,121.71,104,2,andre-ovejas,133.4,68,3,david-torres-13,194.82,0
+lineup,dat,I,A50,1,david-fritsche,27.1,45,2,shiv-patel-9,27.81,37,3,juan-jaramillo-1,28.92,25
+lineup,dat,I,D100,1,robert-armstrong-2,57.29,90,2,andre-ovejas,75.84,3,3,dillion-jenkins,69.61,27
+lineup,dat,I,A100,1,david-fritsche,62.35,27,2,shiv-patel-9,65.84,10,3,juan-jaramillo-1,68.04,1
+lineup,dat,I,A500,1,mohit-pradhan,358.56,32,2,shreedar-viswanatha,416.11,0,3,daniel-benimovich,412.19,0
+lineup,dat,R,RA200,1,juan-jaramillo-1,christopher-cuesta,daniel-benimovich,david-fritsche,115.66,138
+lineup,dat,R,RA200,2,dillion-jenkins,shreedar-viswanatha,david-torres-13,andre-ovejas,116.47,132
+lineup,dat,I,B100,1,mohit-pradhan,71.54,35,2,christopher-cuesta,75.38,22,3,david-torres-13,86.14,0
+lineup,dat,I,C100,1,eric-binbinon,72.17,57,2,daniel-benimovich,83.29,14,3,shreedar-viswanatha,88.47,0
+lineup,dat,R,RA400,1,juan-jaramillo-1,mohit-pradhan,eric-binbinon,robert-armstrong-2,254.09,105
+lineup,dat,R,RA400,2,shreedar-viswanatha,shiv-patel-9,andre-ovejas,david-torres-13,270.77,48

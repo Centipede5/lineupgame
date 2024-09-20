@@ -1,0 +1,13 @@
+lineup,hdr,3,1116
+lineup,dat,R,RE200,1,nick-troiano-1,colin-faraher,william-lestrange,john-hannah,110.96,264
+lineup,dat,I,A200,1,john-hannah,118.16,73,2,ronnie-schreier,195.51,0
+lineup,dat,I,E200,1,nick-troiano-1,161.44,2,2,charlie-gibbs,177.61,0
+lineup,dat,I,A50,1,noah-gehrmann,27.87,36,2,nicholas-hanna-1,26.91,48,3,ronnie-schreier,34.71,0
+lineup,dat,I,D100,1,william-lestrange,59.67,76,2,daniel-raimer,84.89,0
+lineup,dat,I,A100,1,colin-faraher,55.79,64,2,nick-troiano-1,63.41,22,3,john-hannah,59.83,40
+lineup,dat,I,A500,1,william-lestrange,350.9,40
+lineup,dat,R,RA200,1,charlie-gibbs,daniel-raimer,noah-gehrmann,john-hannah,110.71,174
+lineup,dat,I,B100,1,nicholas-hanna-1,73.81,27,2,charlie-gibbs,109.23,0,3,daniel-raimer,81.99,2
+lineup,dat,I,C100,1,colin-faraher,66.14,86
+lineup,dat,R,RA400,1,william-lestrange,nick-troiano-1,nicholas-hanna-1,colin-faraher,239.69,162
+lineup,dat,R,RA400,2,christopher-yermack,ronnie-schreier,bennett-gross,noah-gehrmann,325.73,0

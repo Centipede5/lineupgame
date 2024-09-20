@@ -1,0 +1,14 @@
+lineup,hdr,3,1352
+lineup,dat,R,RE200,1,waverly-marish-1,poppy-marish,abigail-cislo,nathan-auerbach-1,136.46,87
+lineup,dat,I,A200,1,andrew-kolecki,112.91,91,2,benjamin-auerbach,134.38,27,3,charlotte-owens,140.47,13
+lineup,dat,I,E200,1,nikita-palermo,139.41,52,2,sofia-haro-moss,153.66,18,3,audrey-mitros,186.27,0
+lineup,dat,I,A50,1,tim-hause,23.81,90,2,santiago-caballero,28.48,30,3,nathan-auerbach-1,30.18,12
+lineup,dat,I,D100,1,nikita-palermo,60.92,69,2,sofia-haro-moss,73.77,11
+lineup,dat,I,A100,1,mary-kate-owens,58.5,48,2,charlotte-owens,64.72,15,3,santiago-caballero,63.29,22
+lineup,dat,I,A500,1,andrew-kolecki,309.6,87,2,benjamin-auerbach,386.21,7,3,winter-fraley,432.21,0
+lineup,dat,R,RA200,1,tim-hause,nikita-palermo,andrew-kolecki,charlotte-owens,103.74,231
+lineup,dat,R,RA200,2,poppy-marish,nathan-auerbach-1,donny-nguyen,santiago-caballero,119.25,111
+lineup,dat,I,B100,1,mary-kate-owens,68.77,45,2,waverly-marish-1,72.31,32,3,audrey-mitros,80.2,7
+lineup,dat,I,C100,1,poppy-marish,78.34,31,2,elena-caballero-1,92.3,0,3,nathan-auerbach-1,98.37,0
+lineup,dat,R,RA400,1,andrew-kolecki,tim-hause,charlotte-owens,mary-kate-owens,240.73,156
+lineup,dat,R,RA400,2,sofia-haro-moss,benjamin-auerbach,santiago-caballero,waverly-marish-1,267.34,60

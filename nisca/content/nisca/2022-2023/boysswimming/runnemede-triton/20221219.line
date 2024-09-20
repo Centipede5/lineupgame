@@ -1,0 +1,12 @@
+lineup,hdr,3,30
+lineup,dat,R,RE200,1,daniel-borys,cassidy-wardell,jacob-molchanow-1,julia-tran,147.56,30
+lineup,dat,I,A200,1,garrett-smith-6,176.26,0,2,hazel-tapia,202.05,0,3,maddie-durso,235.64,0
+lineup,dat,I,E200
+lineup,dat,I,A50,1,julia-tran,33.15,0,2,rebekah-shepkosky,41.17,0
+lineup,dat,I,D100
+lineup,dat,I,A100,1,cassidy-wardell,74.73,0,2,daniel-borys,72.16,0,3,jack-mccann-1,99.98,0
+lineup,dat,I,A500,1,jacob-molchanow-1,453.36,0,2,garrett-smith-6,500.11,0
+lineup,dat,R,RA200,1,hazel-tapia,maddie-durso,julia-tran,garrett-smith-6,157.04,0
+lineup,dat,I,B100,1,hazel-tapia,104.27,0,2,maddie-durso,125.6,0
+lineup,dat,I,C100,1,cassidy-wardell,95.47,0,2,rebekah-shepkosky,131.44,0
+lineup,dat,R,RA400,1,maddie-durso,garrett-smith-6,daniel-borys,jack-mccann-1,407.35,0

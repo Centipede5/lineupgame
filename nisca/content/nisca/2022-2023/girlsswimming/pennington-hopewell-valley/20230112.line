@@ -1,0 +1,15 @@
+lineup,hdr,3,1570
+lineup,dat,R,RE200,1,may-hartog,ruby-schuster,ava-dalessandro,grace-kunkel,132.34,177
+lineup,dat,R,RE200,2,charlotte-kavanaugh,hanna-lvov,molly-galgano,riley-kerr,139.68,123
+lineup,dat,I,A200,1,kelley-dwyer,146.94,20,2,olivia-doherty-1,149.53,14,3,hanna-lvov,162.69,0
+lineup,dat,I,E200,1,ava-dalessandro,156.49,39,2,may-hartog,152.74,49,3,anna-wurtz,160.61,29
+lineup,dat,I,A50,1,grace-kunkel,28.05,67,2,riley-kerr,30.79,33,3,megan-dalessandro,33.74,2
+lineup,dat,I,D100,1,regan-sherman,72.3,47,2,kelley-dwyer,69.01,62,3,ruby-schuster,76.2,31
+lineup,dat,I,A100,1,anna-wurtz,63.06,50,2,riley-kerr,67.79,23,3,megan-dalessandro,77.75,0
+lineup,dat,I,A500,1,molly-galgano,392.48,20,2,charlotte-kavanaugh,412.84,2,3,hanna-lvov,431.77,0
+lineup,dat,R,RA200,1,kelley-dwyer,ava-dalessandro,regan-sherman,grace-kunkel,113.57,240
+lineup,dat,R,RA200,2,ruby-schuster,anna-wurtz,charlotte-kavanaugh,olivia-doherty-1,121.96,165
+lineup,dat,I,B100,1,ruby-schuster,72.8,38,2,molly-galgano,77.91,15,3,regan-sherman,73.63,34
+lineup,dat,I,C100,1,ava-dalessandro,85.3,33,2,may-hartog,86.38,29,3,grace-kunkel,97.47,0
+lineup,dat,R,RA400,1,regan-sherman,kelley-dwyer,anna-wurtz,may-hartog,255.22,171
+lineup,dat,R,RA400,2,olivia-doherty-1,riley-kerr,charlotte-kavanaugh,molly-galgano,281.51,57

@@ -1,0 +1,13 @@
+lineup,hdr,3,2517.0
+lineup,dat,I,A200,1,lauren-lane-1,115.89,117.0,2.0,chloe-yu-1,119.76,102.0,3,emily-kapuscinski,125.26,83.0
+lineup,dat,I,E200,1,abby-bebel,128.19,125.0,2.0,clara-yu,132.74,109.0,3,katerine-li,138.46,90.0
+lineup,dat,I,A50,1,clare-logan,23.37,145.0,2.0,brooke-mcandrew,24.95,115.0,3,olivia-ruiz,26.82,85.0
+lineup,dat,I,D100,1,abby-bebel,58.07,124.0,2.0,emily-kapuscinski,61.58,101.0,3,katerine-li,61.69,101.0
+lineup,dat,I,A100,1,brooke-mcandrew,53.86,117.0,2.0,emily-constable,54.01,115.0,3,olivia-ruiz,59.22,75.0
+lineup,dat,I,A500,1,chloe-yu-1,331.7,87.0,2.0,alyssa-rubenstein,351.77,62.0,3,sophia-fussman,352.8,61.0
+lineup,dat,I,B100,1,clare-logan,54.53,154.0,2.0,lauren-lane-1,60.82,107.0,3,isabelle-giaccobe,65.51,77.0
+lineup,dat,I,C100,1,emily-constable,63.4,147.0,2.0,clara-yu,66.63,125.0,3,jacqueline-moser,72.09,93.0
+relay,hdr,2088.0
+relay,RE200YF,2,clare-logan,emily-constable,abby-bebel,katerine-li,105.58,438.0,isabelle-giaccobe,jacqueline-moser,emily-kapuscinski,tyler-partridge,117.27,309.0,747.0
+relay,RA200YF,2,abby-bebel,katerine-li,emily-constable,brooke-mcandrew,100.49,378.0,olivia-ruiz,lauren-lane-1,chloe-yu-1,emily-kapuscinski,104.84,330.0,708.0
+relay,RA400YF,2,brooke-mcandrew,lauren-lane-1,chloe-yu-1,clare-logan,217.78,378.0,ava-contract,isabelle-giaccobe,olivia-ruiz,alyssa-rubenstein,238.63,255.0,633.0

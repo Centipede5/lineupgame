@@ -1,0 +1,13 @@
+lineup,hdr,3,1090
+lineup,dat,I,A200,1,matthew-czerwinski,116.83,77
+lineup,dat,I,E200,1,brendan-guiliano,125.04,93
+lineup,dat,I,A50,1,mario-pontidis,23.28,98,2,leonardo-palescandolo,26.03,59,3,john-moss-1,28.57,29
+lineup,dat,I,D100,1,matthew-czerwinski,57.71,87,2,andrew-velez-1,67.12,38
+lineup,dat,I,A100,1,colin-ko,51.02,97,2,mario-pontidis,53.33,80,3,visruth-kanchamreddy,56.34,61
+lineup,dat,I,A500
+lineup,dat,I,B100,1,brendan-guiliano,56.52,103,2,andrew-velez-1,68.56,46,3,ishan-goti-1,76.48,18
+lineup,dat,I,C100,1,colin-ko,63,103,2,leonardo-palescandolo,73.39,51,3,visruth-kanchamreddy,73.56,50
+relay,hdr,1107
+relay,RE200YM,2,brendan-guiliano,colin-ko,matthew-czerwinski,mario-pontidis,102.37,3.4500000000000000e+02,visruth-kanchamreddy,leonardo-palescandolo,andrew-velez-1,john-moss-1,118.44,2.0400000000000000e+02
+relay,RA200YM,2,brendan-guiliano,colin-ko,matthew-czerwinski,mario-pontidis,93.23,3.3600000000000000e+02,marcus-wojcik,john-moss-1,joseph-bogert,andrew-velez-1,118.15,1.2000000000000000e+02
+relay,RA400YM,1,leonardo-palescandolo,jack-holinstat,aidan-scalera,visruth-kanchamreddy,254.76,1.0200000000000000e+02

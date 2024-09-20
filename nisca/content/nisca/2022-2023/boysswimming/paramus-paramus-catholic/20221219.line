@@ -1,0 +1,13 @@
+lineup,hdr,3,634
+lineup,dat,R,RE200,1,alessandro-chavez,gian-uy,dylan-silva,richard-tantillo-1,111.81,258
+lineup,dat,R,RE200,2,mario-casone-capdesunar,jacob-skinner,christopher-raheb,ian-diehl,180.66,0
+lineup,dat,I,A200,1,jacob-skinner,163.72,0
+lineup,dat,I,E200,1,gian-uy,143.75,41
+lineup,dat,I,A50,1,richard-tantillo-1,27.44,41,2,ian-diehl,30.12,13,3,christian-quintela,34.31,0
+lineup,dat,I,D100,1,dylan-silva,67.81,35
+lineup,dat,I,A100,1,alessandro-chavez,62.72,25,2,christopher-raheb,76.94,0,3,ian-diehl,73.75,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,christian-quintela,jacob-skinner,mario-casone-capdesunar,christopher-raheb,150.62,0
+lineup,dat,I,B100,1,dylan-silva,72.34,32,2,alessandro-chavez,78.19,13
+lineup,dat,I,C100,1,gian-uy,69.72,68
+lineup,dat,R,RA400,1,alessandro-chavez,dylan-silva,richard-tantillo-1,gian-uy,253.66,108

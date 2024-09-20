@@ -1,0 +1,16 @@
+lineup,hdr,3,578
+lineup,dat,I,A200,1,daniel-seibel,134.84,26
+lineup,dat,I,E200
+lineup,dat,I,A50,1,will-updike,24.99,73,2,jack-meehan-4,26.08,58,3,darren-scott,26.68,50
+lineup,dat,I,D100,1,noah-minarick,58.56,82,2,darren-scott,72.98,14
+lineup,dat,I,A100,1,jack-meehan-4,57.48,54,2,victoria-cellucci,62.38,27
+lineup,dat,I,A500,1,daniel-seibel,358.31,32
+lineup,dat,I,B100,1,noah-minarick,66.79,53,2,victoria-cellucci,68.63,46,3,rachel-esposito-2,81.09,4
+lineup,dat,I,C100,1,will-updike,71.55,59
+relay,hdr,558
+relay,RE200YM,2,jack-meehan-4,darren-scott,noah-minarick,will-updike,114.13,2.3700000000000000e+02,rachel-esposito-2,emily-cannon,victoria-cellucci,cathy-bishop,140.15,6.6000000000000000e+01
+relay,RA200YM,2,jack-meehan-4,will-updike,darren-scott,noah-minarick,109.09,1.8600000000000000e+02,rachel-esposito-2,victoria-cellucci,emily-cannon,daniel-seibel,126.29,6.9000000000000000e+01
+relay,hdr,576
+relay,RE200YM,2,jack-meehan-4,darren-scott,noah-minarick,will-updike,114.13,2.3700000000000000e+02,rachel-esposito-2,emily-cannon,victoria-cellucci,cathy-bishop,140.15,6.6000000000000000e+01
+relay,RA200YM,2,will-updike,noah-minarick,jack-meehan-4,daniel-seibel,108.4,1.9200000000000000e+02,rachel-esposito-2,victoria-cellucci,emily-cannon,cathy-bishop,131.99,3.6000000000000000e+01
+relay,RA400YM,1,daniel-seibel,kaelynn-mikulski,darren-scott,cathy-bishop,271.75,4.5000000000000000e+01

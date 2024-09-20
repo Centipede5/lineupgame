@@ -1,0 +1,14 @@
+lineup,hdr,3,162
+lineup,dat,R,RE200,1,bode-miller,macallister-miller,harrison-bomm,pineda-zacarias-alwin,173.12,0
+lineup,dat,R,RE200,2,ethan-wiebesiek,mark-tezak,george-barry,jack-ford-3,146.68,33
+lineup,dat,I,A200,1,george-barry,168.13,0,2,logan-mcguire,144.9,3,3,harrison-bomm,179.85,0
+lineup,dat,I,E200
+lineup,dat,I,A50,1,jack-ford-3,28.09,34
+lineup,dat,I,D100,1,harrison-bomm,96.93,0,2,george-barry,93.53,0
+lineup,dat,I,A100,1,nick-chiorello,74.98,0,2,jack-ford-3,65.55,12
+lineup,dat,I,A500,1,logan-mcguire,393.43,1
+lineup,dat,R,RA200,1,ethan-wiebesiek,mark-tezak,harrison-bomm,macallister-miller,143.65,0
+lineup,dat,R,RA200,2,nick-chiorello,george-barry,jack-ford-3,logan-mcguire,127.67,60
+lineup,dat,I,B100,1,nick-chiorello,91.51,0,2,ethan-wiebesiek,81.22,4,3,bode-miller,83.47,0
+lineup,dat,I,C100,1,macallister-miller,97.42,0,2,mark-tezak,82.91,15
+lineup,dat,R,RA400,1,logan-mcguire,nick-chiorello,ethan-wiebesiek,mark-tezak,304.49,0

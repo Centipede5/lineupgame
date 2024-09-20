@@ -1,0 +1,15 @@
+lineup,hdr,3,1057
+lineup,dat,R,RE200,1,joshua-gitune,mitchell-tomaszewski,kearon-gregory,michael-wiszenko,122.68,174
+lineup,dat,R,RE200,2,dimitrios-kakadelis,rohit-gummadi,eric-avallone,brodee-fontanilla,140.25,66
+lineup,dat,I,A200,1,joshua-gitune,139.94,14,2,brody-cannan,133.19,30,3,tyler-odeh-abbassi,150.29,0
+lineup,dat,I,E200
+lineup,dat,I,A50,1,kearon-gregory,26.64,51,2,dimitrios-kakadelis,27.72,38,3,sean-spritzer,25.65,64
+lineup,dat,I,D100,1,michael-wiszenko,59.44,77,2,eric-avallone,78.45,0
+lineup,dat,I,A100,1,kearon-gregory,62.63,26,2,brodee-fontanilla,65.95,10,3,gavin-candelario,62.78,25
+lineup,dat,I,A500,1,brody-cannan,384.8,8,2,tyler-odeh-abbassi,434.08,0,3,stefano-silva,456.97,0
+lineup,dat,R,RA200,1,mitchell-tomaszewski,brodee-fontanilla,dimitrios-kakadelis,tyler-odeh-abbassi,116.15,135
+lineup,dat,R,RA200,2,gavin-candelario,eric-avallone,sean-spritzer,brody-cannan,121,102
+lineup,dat,I,B100,1,joshua-gitune,67.7,49,2,rohit-gummadi,81.44,3
+lineup,dat,I,C100,1,mitchell-tomaszewski,77.17,36,2,kwabena-adjei,81.5,20,3,stefano-silva,102.94,0
+lineup,dat,R,RA400,1,joshua-gitune,kearon-gregory,brody-cannan,michael-wiszenko,248.45,126
+lineup,dat,R,RA400,2,sean-spritzer,tyler-odeh-abbassi,gavin-candelario,eric-avallone,286,3

@@ -1,0 +1,15 @@
+lineup,hdr,3,3500
+lineup,dat,R,RE200,1,isabella-rossi-1,scarlett-mcglinchey,gia-dileonardo,isabela-valle,110.49,381
+lineup,dat,R,RE200,2,abby-kern,eliza-mcdonough,sarah-kern-1,carley-volkmann,117.42,309
+lineup,dat,I,A200,1,isabela-valle,116.23,116,2,reese-hetzer,120,102,3,lauren-terista-1,151.27,9
+lineup,dat,I,E200,1,sarah-kern-1,142.78,76,2,sydney-bickett,143.94,73,3,gia-dileonardo,141.3,81
+lineup,dat,I,A50,1,scarlett-mcglinchey,24.84,117,2,isabella-rossi-1,25.19,111,3,carley-volkmann,27.55,74
+lineup,dat,I,D100,1,scarlett-mcglinchey,59.32,115,2,abby-kern,62.35,97,3,lauren-terista-1,77.66,25
+lineup,dat,I,A100,1,gia-dileonardo,55.11,106,2,eliza-mcdonough,58.69,79,3,allyson-rosser-1,67.31,25
+lineup,dat,I,A500,1,isabela-valle,314.07,112,2,reese-hetzer,320.66,102,3,carley-volkmann,390.01,22
+lineup,dat,R,RA200,1,sydney-bickett,carley-volkmann,sarah-kern-1,reese-hetzer,108.1,294
+lineup,dat,R,RA200,2,lauren-terista-1,rose-mahon,melissa-meyers,isabella-elentrio,132.93,84
+lineup,dat,I,B100,1,isabella-rossi-1,59.7,114,2,abby-kern,64.56,83,3,allyson-rosser-1,77.14,19
+lineup,dat,I,C100,1,eliza-mcdonough,71.06,99,2,sarah-kern-1,73.59,85,3,sydney-bickett,76.4,71
+lineup,dat,R,RA400,1,isabela-valle,reese-hetzer,isabella-rossi-1,scarlett-mcglinchey,224.45,336
+lineup,dat,R,RA400,2,sydney-bickett,lauren-terista-1,abby-kern,gia-dileonardo,252.96,183

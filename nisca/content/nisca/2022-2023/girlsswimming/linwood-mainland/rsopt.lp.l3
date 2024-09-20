@@ -1,0 +1,13 @@
+lineup,hdr,3,1999.0
+lineup,dat,I,A200,1,ryann-lowry,127.35,76.0,2.0,shannon-sharkey,128.22,73.0,3,megan-pruitt,129.19,70.0
+lineup,dat,I,E200,1,laci-denn-1,136.11,97.0,2.0,summer-cassidy-1,140.65,83.0,3,isabella-iordanov,146.9,65.0
+lineup,dat,I,A50,1,monica-iordanov-1,25.53,105.0,2.0,claudia-booth,25.91,99.0,3,leah-nirenberg,26.32,93.0
+lineup,dat,I,D100,1,alivia-wainwright,59.14,117.0,2.0,laci-denn-1,61.58,101.0,3,claudia-booth,63.62,90.0
+lineup,dat,I,A100,1,monica-iordanov-1,54.96,107.0,2.0,aixell-perez,58.34,82.0,3,natalie-dibartolo,59.78,71.0
+lineup,dat,I,A500,1,shannon-sharkey,338.58,78.0,2.0,ryann-lowry,340.19,76.0,3,natalie-dibartolo,353.62,60.0
+lineup,dat,I,B100,1,alivia-wainwright,58.39,124.0,2.0,summer-cassidy-1,64.08,85.0,3,samantha-camey,67.92,63.0
+lineup,dat,I,C100,1,isabella-iordanov,78.04,64.0,2.0,bonnie-peng,78.33,62.0,3,megan-pruitt,79.37,58.0
+relay,hdr,1812.0
+relay,RA200YF,2,alivia-wainwright,aixell-perez,claudia-booth,monica-iordanov-1,103.54,342.0,isabella-iordanov,natalie-dibartolo,ryann-lowry,leah-nirenberg,109.03,285.0,627.0
+relay,RA400YF,2,claudia-booth,laci-denn-1,alivia-wainwright,monica-iordanov-1,222.92,345.0,leah-nirenberg,ryann-lowry,summer-cassidy-1,aixell-perez,236.92,264.0,609.0
+relay,RE200YF,2,summer-cassidy-1,bonnie-peng,laci-denn-1,aixell-perez,117.13,312.0,samantha-camey,megan-pruitt,isabella-iordanov,leah-nirenberg,122.01,264.0,576.0

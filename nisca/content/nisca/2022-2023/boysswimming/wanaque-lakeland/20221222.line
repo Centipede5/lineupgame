@@ -1,0 +1,13 @@
+lineup,hdr,3,601
+lineup,dat,R,RE200,1,benjamin-lighty,dimitri-peteris,antino-ferretti,jacob-price-3,144.05,45
+lineup,dat,I,A200,1,benjamin-lighty,146.81,0,2,antino-ferretti,153.27,0
+lineup,dat,I,E200,1,owen-kane-1,170.95,0,2,owen-schouten,146.21,35
+lineup,dat,I,A50,1,steven-bracken,26.92,47,2,michael-jakubaszek,26.52,52,3,jakub-narzewski,44.01,0
+lineup,dat,I,D100,1,owen-schouten,67.41,37
+lineup,dat,I,A100,1,michael-jakubaszek,61.41,32,2,steven-bracken,61.62,31,3,jacob-price-3,73.09,0
+lineup,dat,I,A500,1,dimitri-peteris,503.86,0
+lineup,dat,R,RA200,1,michael-jakubaszek,owen-kane-1,owen-schouten,steven-bracken,112.1,162
+lineup,dat,R,RA200,2,antino-ferretti,jacob-price-3,jakub-narzewski,benjamin-lighty,139.62,0
+lineup,dat,I,B100,1,benjamin-lighty,73.93,26,2,jacob-price-3,85.14,0
+lineup,dat,I,C100,1,antino-ferretti,79.44,27,2,owen-kane-1,78.9,29
+lineup,dat,R,RA400,1,owen-schouten,steven-bracken,owen-kane-1,michael-jakubaszek,262.11,78

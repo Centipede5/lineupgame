@@ -1,0 +1,15 @@
+lineup,hdr,3,3540
+lineup,dat,R,RE200,1,tony-antonelli,andrew-burmaster,colin-mitchell,nick-antonelli-1,103.81,330
+lineup,dat,R,RE200,2,micah-lee,john-anastasi,cole-evans-1,michael-colangelo,113.62,243
+lineup,dat,I,A200,1,sean-keefer,112.05,94,2,connor-healy-652929,117.24,76,3,dimitriy-lee,119.19,70
+lineup,dat,I,E200,1,andrew-burmaster,132.19,71,2,john-anastasi,133.56,67,3,collin-ergood,134.41,65
+lineup,dat,I,A50,1,conor-jacob,22.85,106,2,colin-mitchell,24.21,84,3,logan-gebhardt,24.67,77
+lineup,dat,I,D100,1,sean-keefer,54.76,106,2,nick-antonelli-1,54.79,106,3,micah-lee,54.49,108
+lineup,dat,I,A100,1,conor-jacob,51.06,97,2,tony-antonelli,54.7,71,3,collin-ergood,55.58,65
+lineup,dat,I,A500,1,connor-healy-652929,331.11,61,2,cole-evans-1,351.17,39,3,jimmy-john-ting,369.53,22
+lineup,dat,R,RA200,1,andrew-burmaster,sean-keefer,nick-antonelli-1,conor-jacob,95.55,309
+lineup,dat,R,RA200,2,john-anastasi,collin-ergood,logan-gebhardt,colin-mitchell,99.26,273
+lineup,dat,I,B100,1,tony-antonelli,57.4,98,2,dimitriy-lee,62.67,71,3,micah-lee,64.37,64
+lineup,dat,I,C100,1,andrew-burmaster,65.45,89,2,john-anastasi,65.9,87,3,cole-evans-1,72.84,54
+lineup,dat,R,RA400,1,sean-keefer,nick-antonelli-1,collin-ergood,conor-jacob,211.02,294
+lineup,dat,R,RA400,2,connor-healy-652929,dimitriy-lee,micah-lee,tony-antonelli,221.64,243

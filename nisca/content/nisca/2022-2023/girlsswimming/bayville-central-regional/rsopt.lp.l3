@@ -1,0 +1,13 @@
+lineup,hdr,3,878.0
+lineup,dat,I,A200,1,samantha-denlea,127.81,74.0,2.0,carly-obrien,144.79,25.0,,,,
+lineup,dat,I,E200,1,molly-westhoven,140.77,83.0,2.0,marcella-westhoven,142.46,77.0,3,sofia-aliseo,162.33,25.0
+lineup,dat,I,A50,1,amelia-wenzel,28.15,66.0,2.0,maria-thompson,30.86,32.0,3,audrey-konfederak,32.53,14.0
+lineup,dat,I,D100,1,molly-westhoven,63.57,90.0,2.0,madison-laffont,80.53,15.0,,,,
+lineup,dat,I,A100,1,amelia-wenzel,62.19,55.0,2.0,carly-obrien,67.59,24.0,3,karissa-corvinus,70.69,8.0
+lineup,dat,I,A500,1,samantha-denlea,346.11,69.0,2.0,taylor-fuhring,404.78,9.0,,,,
+lineup,dat,I,B100,1,marcella-westhoven,65.52,77.0,2.0,madison-laffont,77.8,16.0,,,,
+lineup,dat,I,C100,1,danica-baron,79.75,56.0,2.0,sofia-aliseo,84.14,37.0,3,nicole-irons,87.02,26.0
+relay,hdr,1005.0
+relay,RE200YF,2,madison-laffont,marcella-westhoven,molly-westhoven,amelia-wenzel,123.41,252.0,delaney-smith-4,danica-baron,sofia-aliseo,maria-thompson,141.02,111.0,363.0
+relay,RA200YF,2,amelia-wenzel,danica-baron,sofia-aliseo,samantha-denlea,115.88,219.0,audrey-konfederak,karissa-corvinus,aurora-gavezzoli,maria-thompson,127.95,120.0,339.0
+relay,RA400YF,2,marcella-westhoven,samantha-denlea,danica-baron,molly-westhoven,240.2,246.0,carly-obrien,karissa-corvinus,taylor-fuhring,madison-laffont,282.59,57.0,303.0

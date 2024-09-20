@@ -1,0 +1,13 @@
+lineup,hdr,3,1730.0
+lineup,dat,I,A200,1,billie-sherratt,117.22,112.0,2.0,shea-trenery,120.09,101.0,3,carolyn-joe,127.74,75.0
+lineup,dat,I,E200,1,ava-mustacciuolo,137.41,93.0,2.0,kiera-st-john,142.8,76.0,3,samantha-hagopian,153.35,47.0
+lineup,dat,I,A50,1,hannah-alber,27.34,77.0,2.0,sophie-meinke,27.56,74.0,3,chloe-burfeindt,27.8,71.0
+lineup,dat,I,D100,1,ava-mustacciuolo,58.99,117.0,2.0,carolyn-joe,66.12,76.0,3,helena-chan,71.61,50.0
+lineup,dat,I,A100,1,shea-trenery,55.77,101.0,2.0,chloe-burfeindt,61.19,63.0,3,helena-chan,62.19,55.0
+lineup,dat,I,A500,1,colleen-gillen,356.03,57.0,2.0,caroline-lowder,364.45,48.0,3,emma-amorim-vieira,367.63,45.0
+lineup,dat,I,B100,1,billie-sherratt,61.17,104.0,2.0,hannah-alber,68.63,59.0,3,mckenna-jeans,72.0,42.0
+lineup,dat,I,C100,1,kiera-st-john,75.5,76.0,2.0,colleen-gillen,79.51,57.0,3,gabby-suriani,80.19,54.0
+relay,hdr,1488.0
+relay,RE200YF,2,ava-mustacciuolo,kiera-st-john,billie-sherratt,shea-trenery,115.91,324.0,hannah-alber,colleen-gillen,helena-chan,sophie-meinke,127.95,213.0,537.0
+relay,RA400YF,2,billie-sherratt,chloe-burfeindt,ava-mustacciuolo,shea-trenery,230.38,300.0,emma-amorim-vieira,samantha-hagopian,lily-jayinski,caroline-lowder,253.82,177.0,477.0
+relay,RA200YF,2,hannah-alber,kiera-st-john,sophie-meinke,chloe-burfeindt,110.54,270.0,samantha-hagopian,rebecca-sohmer,colleen-gillen,amelia-condell,117.59,204.0,474.0

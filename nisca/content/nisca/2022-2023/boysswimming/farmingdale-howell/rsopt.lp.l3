@@ -1,0 +1,13 @@
+lineup,hdr,3,949.0
+lineup,dat,I,A200,1,alex-flesta,123.03,58.0,2.0,nathaniel-mattson,140.09,13.0,,,,
+lineup,dat,I,E200,1,georgi-abuashvili,123.18,99.0,2.0,daniel-esquenazi,144.06,40.0,,,,
+lineup,dat,I,A50,1,noah-kerr,24.04,87.0,2.0,alexander-matioukhin,25.31,68.0,3,nick-besignano,25.83,61.0
+lineup,dat,I,D100,1,noah-kerr,62.19,62.0,2.0,jude-shea,69.37,28.0,3,gerard-marshall,72.05,17.0
+lineup,dat,I,A100,1,daniel-esquenazi,56.13,62.0,2.0,connor-liskowitz,59.31,43.0,3,ben-jarmon,61.41,32.0
+lineup,dat,I,A500,1,alex-flesta,332.08,60.0,,,,,,,,
+lineup,dat,I,B100,1,alexander-matioukhin,69.95,41.0,2.0,ryan-furlong,73.62,28.0,3,jude-shea,75.8,20.0
+lineup,dat,I,C100,1,georgi-abuashvili,69.75,68.0,2.0,connor-liskowitz,73.38,51.0,3,marco-sepulveda-1,84.18,11.0
+relay,hdr,1002.0
+relay,RA200YM,2,noah-kerr,georgi-abuashvili,alex-flesta,nick-besignano,107.04,204.0,ben-jarmon,marco-sepulveda-1,nathaniel-mattson,gerard-marshall,109.2,186.0,390.0
+relay,RE200YM,2,daniel-esquenazi,georgi-abuashvili,jude-shea,nick-besignano,116.0,225.0,ryan-furlong,connor-liskowitz,gerard-marshall,james-mcleod,125.67,153.0,378.0
+relay,RA400YM,2,alex-flesta,jude-shea,noah-kerr,daniel-esquenazi,239.12,165.0,connor-liskowitz,james-mcleod,ryan-furlong,alexander-matioukhin,264.42,69.0,234.0

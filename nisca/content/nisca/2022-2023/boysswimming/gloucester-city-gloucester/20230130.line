@@ -1,0 +1,15 @@
+lineup,hdr,3,1331
+lineup,dat,R,RE200,1,nicholas-smith-499020,brian-long-548631,wade-billings,luke-korenak,112.72,249
+lineup,dat,R,RE200,2,benjamin-quandt,jordan-connor,logan-depoder,michael-kazmar,137.28,84
+lineup,dat,I,A200,1,brian-long-548631,117.23,76,2,ayden-loebell,129.87,39,3,makayla-rutter,147.24,0
+lineup,dat,I,E200,1,luke-korenak,150.08,26,2,jordan-connor,152.27,21,3,livia-vu,199.98,0
+lineup,dat,I,A50,1,wade-billings,24.87,74,2,nicholas-smith-499020,26.07,58,3,tyler-williamson,28.64,28
+lineup,dat,I,D100,1,logan-depoder,83.7,0,2,aubrey-madden,102.08,0
+lineup,dat,I,A100,1,nicholas-smith-499020,58.03,50,2,benjamin-quandt,64.77,15,3,michael-kazmar,65.5,12
+lineup,dat,I,A500,1,ayden-loebell,370.07,21
+lineup,dat,R,RA200,1,brian-long-548631,nicholas-smith-499020,luke-korenak,wade-billings,99.75,267
+lineup,dat,R,RA200,2,livia-vu,jordan-connor,benjamin-quandt,logan-depoder,126.13,69
+lineup,dat,I,B100,1,wade-billings,66.28,55,2,ayden-loebell,69.18,44
+lineup,dat,I,C100,1,brian-long-548631,69.56,69,2,luke-korenak,75.12,44,3,michael-kazmar,85.57,6
+lineup,dat,R,RA400,1,tyler-williamson,benjamin-quandt,michael-kazmar,ayden-loebell,278.95,24
+lineup,dat,R,RA400,2,logan-depoder,aubrey-madden,livia-vu,jordan-connor,308.35,0

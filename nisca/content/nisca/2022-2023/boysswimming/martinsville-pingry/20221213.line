@@ -1,0 +1,13 @@
+lineup,hdr,3,2116
+lineup,dat,R,RE200,1,owen-smith-8,max-ruffer,ziv-shah,ian-konops,108.62,285
+lineup,dat,R,RE200,2,alex-terpstra,john-grissenger,rehman-tariq,kyle-wang-1,109.52,276
+lineup,dat,I,A200,1,james-thomas-5,118.63,71,2,julian-zassenhaus,128.87,41,3,tobin-huang,129.78,39
+lineup,dat,I,E200,1,max-ruffer,122.05,103,2,rehman-tariq,136.84,58,3,aarav-vaidya,149.1,28
+lineup,dat,I,A50,1,ian-konops,23.42,96,2,ziv-shah,25.37,67
+lineup,dat,I,D100,1,julian-zassenhaus,59.72,75,2,rehman-tariq,59.11,79,3,ian-konops,65.68,45
+lineup,dat,I,A100,1,john-grissenger,53.8,77,2,max-ruffer,54.56,72,3,will-francis-1,71.48,0
+lineup,dat,I,A500,1,ziv-shah,307.31,90,2,aarav-vaidya,376.05,16,3,arnav-jain-3,386.21,7
+lineup,dat,R,RA200,1,julian-zassenhaus,john-grissenger,rehman-tariq,james-thomas-5,95.28,312
+lineup,dat,R,RA200,2,tobin-huang,kyle-wang-1,alex-terpstra,owen-smith-8,98.69,279
+lineup,dat,I,B100
+lineup,dat,I,C100

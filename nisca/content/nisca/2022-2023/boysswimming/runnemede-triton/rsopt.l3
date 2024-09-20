@@ -1,0 +1,12 @@
+lineup,hdr,3,29
+lineup,dat,I,A200
+lineup,dat,I,E200
+lineup,dat,I,A50,1,jacob-molchanow-1,29.79,16,2,daniel-borys,30.09,13
+lineup,dat,I,D100
+lineup,dat,I,A100
+lineup,dat,I,A500
+lineup,dat,I,B100
+lineup,dat,I,C100
+relay,hdr,60
+relay,RE200YM,1,daniel-borys,cassidy-wardell,jacob-molchanow-1,julia-tran,147.56,3.0000000000000000e+01
+relay,RA200YM,1,cassidy-wardell,julia-tran,jacob-molchanow-1,garrett-smith-6,132.9,3.0000000000000000e+01

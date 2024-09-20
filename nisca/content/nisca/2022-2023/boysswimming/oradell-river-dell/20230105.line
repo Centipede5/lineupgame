@@ -1,0 +1,15 @@
+lineup,hdr,3,1999
+lineup,dat,R,RE200,1,jason-mccarter,kentaro-wada,jeffrey-jeong,kevin-smith-17,109.25,279
+lineup,dat,R,RE200,2,peter-rappazzo,quinlan-kraft,freddie-batracki,gian-luca-perin,128.62,135
+lineup,dat,I,A200,1,ashish-pqnicker,119.12,70,2,gabriel-orellana,129.34,40,3,gabriel-gallo,164.58,0
+lineup,dat,I,E200,1,jeffrey-jeong,134.77,64,2,gianni-ligeri,145.18,37,3,quinlan-kraft,175.9,0
+lineup,dat,I,A50,1,derek-bodt,26.62,51,2,freddie-batracki,29.03,24,3,leo-bensman,29.54,18
+lineup,dat,I,D100,1,kevin-smith-17,59.94,74,2,jason-mccarter,62.84,58,3,kentaro-wada,67.84,35
+lineup,dat,I,A100,1,jeffrey-jeong,54.05,75,2,derek-bodt,58.75,46,3,gian-luca-perin,65.87,10
+lineup,dat,I,A500,1,ashish-pqnicker,352.16,38,2,gabriel-orellana,367.75,23,3,gabriel-gallo,427.74,0
+lineup,dat,R,RA200,1,kentaro-wada,gabriel-orellana,derek-bodt,ashish-pqnicker,107.65,198
+lineup,dat,R,RA200,2,peter-rappazzo,gian-luca-perin,freddie-batracki,gianni-ligeri,116.93,129
+lineup,dat,I,B100,1,jason-mccarter,63,70,2,kevin-smith-17,66,56,3,peter-rappazzo,75.95,20
+lineup,dat,I,C100,1,gianni-ligeri,71.86,58,2,kentaro-wada,71.36,60,3,quinlan-kraft,77.48,34
+lineup,dat,R,RA400,1,kevin-smith-17,ashish-pqnicker,jeffrey-jeong,jason-mccarter,218.42,258
+lineup,dat,R,RA400,2,peter-rappazzo,gabriel-orellana,gian-luca-perin,derek-bodt,273.89,39

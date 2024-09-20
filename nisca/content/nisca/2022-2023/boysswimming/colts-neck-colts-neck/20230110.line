@@ -1,0 +1,15 @@
+lineup,hdr,3,2246
+lineup,dat,R,RE200,1,matthew-vulpescu,jeff-karpelson,ben-amstislavski,josef-gur,114.52,234
+lineup,dat,R,RE200,2,ivan-stepanyan,gabriel-smith-2,ben-amster,josue-elias-linares-1,131.41,117
+lineup,dat,I,A200,1,chris-lalli,123.61,56,2,john-vota,142.85,7,3,junho-jeong,128.12,43
+lineup,dat,I,E200,1,matthew-vulpescu,138.78,53,2,jeff-karpelson,146.08,35,3,jonathan-lalli,132.29,71
+lineup,dat,I,A50,1,ben-amster,24.74,76,2,liam-barr,22.91,105,3,josef-gur,25.45,66
+lineup,dat,I,D100,1,ben-amstislavski,64.79,49,2,jonathan-lalli,58.11,85,3,gabriel-smith-2,66,43
+lineup,dat,I,A100,1,josue-elias-linares-1,63.31,22,2,john-vota,63.43,22,3,junho-jeong,54.48,73
+lineup,dat,I,A500,1,chris-lalli,311.2,85,2,josef-gur,413.46,0,3,ivan-stepanyan,408.96,0
+lineup,dat,R,RA200,1,junho-jeong,liam-barr,chris-lalli,matthew-vulpescu,102.33,243
+lineup,dat,R,RA200,2,jonathan-lalli,josef-gur,ben-amstislavski,ben-amster,111.24,171
+lineup,dat,I,B100,1,liam-barr,71.11,36,2,jeff-karpelson,64.16,64,3,ivan-stepanyan,79.63,9
+lineup,dat,I,C100,1,ben-amstislavski,73.45,51,2,ben-amster,75,44,3,matthew-vulpescu,72.36,56
+lineup,dat,R,RA400,1,liam-barr,junho-jeong,chris-lalli,jonathan-lalli,222.48,237
+lineup,dat,R,RA400,2,ivan-stepanyan,gabriel-smith-2,jeff-karpelson,josue-elias-linares-1,257.26,93

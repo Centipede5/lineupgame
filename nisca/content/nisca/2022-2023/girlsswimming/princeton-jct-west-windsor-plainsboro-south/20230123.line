@@ -1,0 +1,15 @@
+lineup,hdr,3,2559
+lineup,dat,R,RE200,1,sarah-yan-1,isabela-saldivia,veena-ramachandra,helen-chen-652171,116.72,315
+lineup,dat,R,RE200,2,arushi-devpura-1,nidhi-pramanik,anushka-gaidhani,amanda-zou,135.3,153
+lineup,dat,I,A200,1,veena-ramachandra,128.18,73,2,margaret-lockman,132.65,59,3,nidhi-pramanik,143,30
+lineup,dat,I,E200,1,sarah-yan-1,138.24,90,2,anushka-gaidhani,159.58,32,3,nikhita-sajikumar,168.67,11
+lineup,dat,I,A50,1,isabela-saldivia,26.58,89,2,arushi-devpura-1,28.83,57,3,tharika-srinivasa,29.41,49
+lineup,dat,I,D100,1,veena-ramachandra,62.7,95,2,helen-chen-652171,62.11,98,3,ananya-devpura,75.97,32
+lineup,dat,I,A100,1,isabela-saldivia,57.59,87,2,amanda-zou,58.92,77,3,tharika-srinivasa,64.73,40
+lineup,dat,I,A500,1,margaret-lockman,355.66,58,2,anushka-gaidhani,377.33,35,3,manika-niwas,399.43,13
+lineup,dat,R,RA200,1,veena-ramachandra,ananya-devpura,arushi-devpura-1,sarah-yan-1,113.22,243
+lineup,dat,R,RA200,2,tharika-srinivasa,nikhita-sajikumar,nidhi-pramanik,margaret-lockman,120.7,177
+lineup,dat,I,B100,1,helen-chen-652171,63.97,86,2,arushi-devpura-1,72.09,42,3,ananya-devpura,74.25,32
+lineup,dat,I,C100,1,sarah-yan-1,71.86,95,2,amanda-zou,80.98,50,3,nidhi-pramanik,83.35,41
+lineup,dat,R,RA400,1,helen-chen-652171,margaret-lockman,amanda-zou,isabela-saldivia,247.77,207
+lineup,dat,R,RA400,2,ananya-devpura,nikhita-sajikumar,tharika-srinivasa,anushka-gaidhani,272.86,93

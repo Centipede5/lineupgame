@@ -1,0 +1,13 @@
+lineup,hdr,3,1808.0
+lineup,dat,I,A200,1,jessica-heden,122.84,91.0,2.0,angela-liu-651883,128.99,71.0,3,jacqueline-lu,135.47,51.0
+lineup,dat,I,E200,1,emily-gong,139.31,87.0,2.0,aileen-wu-502141,141.33,81.0,3,gloria-yao,158.22,35.0
+lineup,dat,I,A50,1,louise-de-cokere,25.53,105.0,2.0,mahika-chatterjee,26.52,89.0,3,emily-lu-1,27.82,70.0
+lineup,dat,I,D100,1,zoe-bitterman,60.72,107.0,2.0,louise-de-cokere,60.97,105.0,3,gloria-yao,70.36,56.0
+lineup,dat,I,A100,1,angela-liu-651883,58.06,84.0,2.0,mahika-chatterjee,58.38,81.0,3,priya-schult,59.23,75.0
+lineup,dat,I,A500,1,jessica-heden,325.18,96.0,2.0,emma-jia,329.49,90.0,3,zoe-bitterman,356.37,57.0
+lineup,dat,I,B100,1,priya-schult,67.23,67.0,2.0,jacqueline-lu,72.48,40.0,3,kavya-iyer,74.2,32.0
+lineup,dat,I,C100,1,emily-gong,72.3,92.0,2.0,aileen-wu-502141,73.78,85.0,3,lucia-fei,78.51,61.0
+relay,hdr,1530.0
+relay,RE200YF,2,jessica-heden,emily-gong,louise-de-cokere,mahika-chatterjee,118.22,300.0,priya-schult,aileen-wu-502141,zoe-bitterman,emily-lu-1,121.42,270.0,570.0
+relay,RA200YF,2,angela-liu-651883,aileen-wu-502141,mahika-chatterjee,louise-de-cokere,106.85,306.0,gloria-yao,cameron-bennett-1,emily-lu-1,jacqueline-lu,116.68,210.0,516.0
+relay,RA400YF,2,jessica-heden,zoe-bitterman,angela-liu-651883,emily-gong,231.82,291.0,jacqueline-lu,emily-lu-1,emma-jia,priya-schult,259.33,153.0,444.0

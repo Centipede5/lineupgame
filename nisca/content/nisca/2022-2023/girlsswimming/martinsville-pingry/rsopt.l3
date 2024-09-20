@@ -1,0 +1,17 @@
+lineup,hdr,3,2299
+lineup,dat,I,A200,1,daniela-karnaugh,116.56,115,2,kayla-kerr,123.73,88,3,melinda-xu,128.38,73
+lineup,dat,I,E200,1,emily-gao-2,127.71,127,2,emma-davidhanian,137.91,92,3,mari-finkelstein,142.03,79
+lineup,dat,I,A50,1,mia-cuiffo,25.39,108,2,lauren-kim-502856,25.62,104,3,gabby-delorenzo,27.08,81
+lineup,dat,I,D100,1,lauren-kim-502856,59.35,115,2,mia-cuiffo,60.28,109,3,mari-finkelstein,62.9,94
+lineup,dat,I,A100,1,tingting-luo,55.25,105,2,kathryn-flanigan,56.78,93,3,cece-caligiuri,59.66,72
+lineup,dat,I,A500,1,emily-gao-2,320.39,103,2,kayla-kerr,326.11,95,3,melinda-xu,342.75,73
+lineup,dat,I,B100,1,tingting-luo,62.27,97,2,gabby-delorenzo,65.77,75,3,kathryn-flanigan,66.23,73
+lineup,dat,I,C100,1,daniela-karnaugh,63.2,148,2,emma-davidhanian,70.29,103,3,allie-jones,75.19,77
+relay,hdr,1896
+relay,RE200YF,2,tingting-luo,daniela-karnaugh,lauren-kim-502856,mia-cuiffo,108.56,4.0200000000000000e+02,gabby-delorenzo,emma-davidhanian,mari-finkelstein,kayla-kerr,116.73,3.1500000000000000e+02
+relay,RA200YF,2,kathryn-flanigan,gabby-delorenzo,allie-jones,cece-caligiuri,101.31,3.6900000000000000e+02,emma-davidhanian,mia-cuiffo,lauren-kim-502856,emily-gao-2,104.18,3.3600000000000000e+02
+relay,RA400YF,2,kayla-kerr,cece-caligiuri,mari-finkelstein,daniela-karnaugh,231.47,2.9400000000000000e+02,melinda-xu,paulina-bremm,cozine-julia,emily-gao-2,253.36,1.8000000000000000e+02
+relay,hdr,1992
+relay,RE200YF,2,tingting-luo,daniela-karnaugh,lauren-kim-502856,mia-cuiffo,108.56,4.0200000000000000e+02,gabby-delorenzo,emma-davidhanian,mari-finkelstein,kayla-kerr,116.73,3.1500000000000000e+02
+relay,RA200YF,2,kathryn-flanigan,gabby-delorenzo,allie-jones,cece-caligiuri,101.31,3.6900000000000000e+02,tingting-luo,emily-gao-2,lauren-kim-502856,mia-cuiffo,106.16,3.1500000000000000e+02
+relay,RA400YF,2,paulina-bremm,emma-davidhanian,kathryn-flanigan,emily-gao-2,230.93,2.9700000000000000e+02,kayla-kerr,cece-caligiuri,mari-finkelstein,daniela-karnaugh,231.47,2.9400000000000000e+02

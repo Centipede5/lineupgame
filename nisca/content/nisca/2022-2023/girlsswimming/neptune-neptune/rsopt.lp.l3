@@ -1,0 +1,13 @@
+lineup,hdr,3,385.0
+lineup,dat,I,A200,1,gianna-quagliato,136.88,47.0,,,,,,,,
+lineup,dat,I,E200,1,abigail-piecyk,160.77,29.0,,,,,,,,
+lineup,dat,I,A50,1,marissa-berrocal,29.7,46.0,2.0,margaret-silva,29.92,43.0,3,julia-kelly-502143,30.14,40.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,margaret-silva,66.51,30.0,2.0,julia-kelly-502143,69.9,12.0,3,cameron-wall,70.02,11.0
+lineup,dat,I,A500,1,gianna-quagliato,374.11,38.0,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,abigail-piecyk,82.08,46.0,2.0,marissa-berrocal,82.71,43.0,,,,
+relay,hdr,492.0
+relay,RA200YF,2,marissa-berrocal,margaret-silva,cameron-wall,gianna-quagliato,123.68,153.0,brielle-curry,kaya-green,andrea-bruemmer,pauline-semira,135.82,63.0,216.0
+relay,RE200YF,1,cameron-wall,marissa-berrocal,abigail-piecyk,margaret-silva,136.7,144.0,,,,,,,144.0
+relay,RA400YF,1,gianna-quagliato,cameron-wall,ashton-jobes,abigail-piecyk,264.0,132.0,,,,,,,132.0

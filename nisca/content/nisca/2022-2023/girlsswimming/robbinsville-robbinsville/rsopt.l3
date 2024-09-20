@@ -1,0 +1,13 @@
+lineup,hdr,3,968
+lineup,dat,I,A200
+lineup,dat,I,E200,1,emily-volcnansky,137.44,93
+lineup,dat,I,A50,1,ariel-bernard,25.83,100,2,isabella-stoldt,28.23,65,3,suhani-agarwal,29.6,47
+lineup,dat,I,D100,1,megan-dera-1,59.72,113,2,angie-brown-602323,64.64,84,3,ria-chidare,83.74,4
+lineup,dat,I,A100,1,ariel-bernard,56.07,99,2,suhani-agarwal,64.34,42,3,isabella-stoldt,64.59,41
+lineup,dat,I,A500
+lineup,dat,I,B100,1,megan-dera-1,62.55,95,2,angie-brown-602323,65.58,77
+lineup,dat,I,C100,1,emily-volcnansky,69.42,108
+relay,hdr,876
+relay,RE200YF,2,angie-brown-602323,emily-volcnansky,megan-dera-1,ariel-bernard,115.36,3.3000000000000000e+02,jessica-hoplock,alyson-michaels,isabella-stoldt,dani-leeds,147.6,6.9000000000000000e+01
+relay,RA200YF,2,emily-volcnansky,megan-dera-1,angie-brown-602323,ariel-bernard,108.21,2.9100000000000000e+02,jessica-hoplock,ria-chidare,sofia-latushka,suhani-agarwal,128.07,1.1700000000000000e+02
+relay,RA400YF,1,sofia-latushka,sara-pandey,isabella-stoldt,suhani-agarwal,279.01,6.9000000000000000e+01

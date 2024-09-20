@@ -1,0 +1,17 @@
+lineup,hdr,3,2169
+lineup,dat,I,A200,1,kyleigh-tangen,121.02,98,2,annie-flanagan,124.09,87,3,rachel-mcinerney,131.06,64
+lineup,dat,I,E200,1,courtney-weber-1,134.87,101,2,beatrice-cai,136.83,95,3,nia-zagar,138.97,88
+lineup,dat,I,A50,1,kyleigh-tangen,25.73,102,2,suri-skomra,27.01,82,3,nora-chen,27.87,70
+lineup,dat,I,D100,1,lauren-girouard,60.65,107,2,beatrice-cai,60.83,106,3,julia-godfrey,69.11,61
+lineup,dat,I,A100,1,annie-zhao-1,55.31,105,2,annie-flanagan,55.5,103,3,courtney-weber-1,57.58,87
+lineup,dat,I,A500,1,jessie-wang-1,324.5,97,2,sabine-ristad,325.91,95,3,rachel-mcinerney,345.48,70
+lineup,dat,I,B100,1,jessie-wang-1,62.67,94,2,sabine-ristad,64.15,85,3,lauren-girouard,64.13,85
+lineup,dat,I,C100,1,nia-zagar,68.61,113,2,annie-zhao-1,70.01,105,3,lola-jimenez,76.98,69
+relay,hdr,1584
+relay,RE200YF,2,sabine-ristad,nia-zagar,lauren-girouard,nora-chen,115.57,3.2700000000000000e+02,beatrice-cai,annie-zhao-1,julia-godfrey,suri-skomra,120.44,2.7900000000000000e+02
+relay,RA200YF,2,kyleigh-tangen,annie-flanagan,sabine-ristad,beatrice-cai,105.84,3.1800000000000000e+02,suri-skomra,nora-chen,emma-liu,vivian-lee-4,113.52,2.4000000000000000e+02
+relay,RA400YF,2,jessie-wang-1,nia-zagar,annie-zhao-1,kyleigh-tangen,239.02,2.5200000000000000e+02,julia-godfrey,emma-liu,nora-chen,rachel-mcinerney,256.22,1.6800000000000000e+02
+relay,hdr,1698
+relay,RE200YF,2,sabine-ristad,nia-zagar,lauren-girouard,nora-chen,115.57,3.2700000000000000e+02,beatrice-cai,annie-zhao-1,julia-godfrey,suri-skomra,120.44,2.7900000000000000e+02
+relay,RA200YF,2,nia-zagar,annie-flanagan,annie-zhao-1,kyleigh-tangen,106.09,3.1500000000000000e+02,suri-skomra,nora-chen,emma-liu,vivian-lee-4,113.52,2.4000000000000000e+02
+relay,RA400YF,2,kyleigh-tangen,annie-flanagan,lauren-girouard,beatrice-cai,230.59,3.0000000000000000e+02,rachel-mcinerney,emma-liu,jessie-wang-1,sabine-ristad,242.21,2.3700000000000000e+02

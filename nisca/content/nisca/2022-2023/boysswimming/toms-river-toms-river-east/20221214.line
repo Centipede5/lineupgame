@@ -1,0 +1,15 @@
+lineup,hdr,3,1250
+lineup,dat,R,RE200,1,benjamin-kannheiser,jameson-morris,tyler-godlesky,kodi-duong-1,134.27,99
+lineup,dat,R,RE200,2,charlie-blajda,omar-azab,michael-bruno-3,liam-healy-3,145.06,42
+lineup,dat,I,A200,1,anastasios-psillos,116.12,80,2,declan-butler,136.97,21,3,grant-los,154.3,0
+lineup,dat,I,E200,1,donovan-dickman,134.68,64,2,jacob-chong,157.86,9
+lineup,dat,I,A50,1,christopher-dimuzio,24.11,86,2,michael-bruno-3,27.37,42,3,cormac-butler,35.99,0
+lineup,dat,I,D100,1,donovan-dickman,60.55,71,2,jacob-chong,78.94,0,3,tyler-godlesky,80.68,0
+lineup,dat,I,A100,1,christopher-dimuzio,56.1,62,2,omar-azab,67.2,4,3,michael-bruno-3,67.89,1
+lineup,dat,I,A500,1,declan-butler,396.26,0,2,grant-los,427.87,0
+lineup,dat,R,RA200,1,christopher-dimuzio,donovan-dickman,declan-butler,anastasios-psillos,100.22,264
+lineup,dat,R,RA200,2,jack-crowley-6,chris-stasiak,nino-trifiro,cormac-butler,135.48,15
+lineup,dat,I,B100,1,benjamin-kannheiser,73.63,28,2,charlie-blajda,96.78,0,3,liam-healy-3,101.91,0
+lineup,dat,I,C100,1,anastasios-psillos,69.61,68,2,omar-azab,82.72,15
+lineup,dat,R,RA400,1,christopher-dimuzio,declan-butler,donovan-dickman,anastasios-psillos,223.05,234
+lineup,dat,R,RA400,2,jacob-chong,kodi-duong-1,grant-los,benjamin-kannheiser,271.77,45

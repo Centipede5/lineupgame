@@ -1,0 +1,13 @@
+lineup,hdr,3,926.0
+lineup,dat,I,A200,1,cooper-lutz,135.13,25.0,2.0,kayla-kovacs,144.78,3.0,,,,
+lineup,dat,I,E200,1,domingo-gatti,125.5,92.0,,,,,,,,
+lineup,dat,I,A50,1,santiago-fernanez,25.53,65.0,2.0,jessica-ortiz-655782,27.88,36.0,3,kaden-kechula,28.73,27.0
+lineup,dat,I,D100,1,ava-pektor,65.77,44.0,2.0,brayden-nguyen,67.41,37.0,3,ethan-shaw-4,74.48,8.0
+lineup,dat,I,A100,1,charles-zhang-1,50.14,104.0,2.0,logan-fabriczi,61.0,34.0,3,cooper-lutz,61.77,30.0
+lineup,dat,I,A500,1,domingo-gatti,297.52,103.0,2.0,jessica-ortiz-655782,381.83,11.0,,,,
+lineup,dat,I,B100,1,brayden-nguyen,66.76,53.0,2.0,ben-mcclaine,72.94,30.0,3,kiwan-pasha,80.62,6.0
+lineup,dat,I,C100,1,charles-zhang-1,61.64,111.0,2.0,logan-fabriczi,71.94,58.0,3,ava-pektor,73.97,49.0
+relay,hdr,1164.0
+relay,RA200YM,2,logan-fabriczi,kiwan-pasha,ethan-shaw-4,cooper-lutz,91.9,351.0,fontaine-gatti,santiago-fernanez,luke-bursack,jazmin-ortiz-quinonez,116.03,135.0,486.0
+relay,RE200YM,2,domingo-gatti,logan-fabriczi,charles-zhang-1,santiago-fernanez,109.89,273.0,ben-mcclaine,brayden-nguyen,ethan-shaw-4,kaden-kechula,127.11,144.0,417.0
+relay,RA400YM,2,jessica-ortiz-655782,evan-barna,ava-pektor,domingo-gatti,242.4,150.0,santiago-fernanez,nate-cohen,cooper-lutz,charles-zhang-1,252.7,111.0,261.0

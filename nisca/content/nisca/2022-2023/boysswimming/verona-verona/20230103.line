@@ -1,0 +1,12 @@
+lineup,hdr,3,478
+lineup,dat,R,RE200,1,kaya-gumusayak-1,luca-tedesco-1,daniel-frenklakh,evan-carlson,134.43,99
+lineup,dat,I,A200,1,michael-mchugh-1,209.41,0
+lineup,dat,I,E200,1,michael-castner,187.22,0
+lineup,dat,I,A50,1,demitri-byrne-1,32.13,0,2,kaya-gumusayak-1,24.35,82,3,vindhyan-marimuthu,38.54,0
+lineup,dat,I,D100,1,daniel-frenklakh,72.47,16
+lineup,dat,I,A100,1,michael-mchugh-1,90.27,0,2,evan-carlson,54.54,72,3,luca-tedesco-1,93.88,0
+lineup,dat,I,A500,1,vindhyan-marimuthu,583.25,0,2,daniel-frenklakh,399.12,0
+lineup,dat,R,RA200,1,demitri-byrne-1,michael-castner,luca-tedesco-1,michael-mchugh-1,159.21,0
+lineup,dat,I,B100,1,evan-carlson,65.81,57,2,luca-tedesco-1,112.02,0
+lineup,dat,I,C100,1,kaya-gumusayak-1,70.98,62
+lineup,dat,R,RA400,1,michael-castner,evan-carlson,daniel-frenklakh,kaya-gumusayak-1,258.54,90

@@ -1,0 +1,13 @@
+lineup,hdr,3,259.0
+lineup,dat,I,A200,1,maxim-costiuc,145.69,1.0,,,,,,,,
+lineup,dat,I,E200,1,nicholas-marino-1,158.21,8.0,,,,,,,,
+lineup,dat,I,A50,1,chase-boucher,27.53,40.0,2.0,lauren-wines,28.22,32.0,3,joe-esposito-600188,28.94,25.0
+lineup,dat,I,D100,1,maxim-costiuc,69.44,28.0,,,,,,,,
+lineup,dat,I,A100,1,chase-boucher,66.0,10.0,,,,,,,,
+lineup,dat,I,A500,1,landon-dobleman,375.39,16.0,2.0,joe-esposito-600188,389.49,4.0,,,,
+lineup,dat,I,B100,1,liam-arney,76.63,18.0,,,,,,,,
+lineup,dat,I,C100,1,christopher-barrcia-1,76.51,38.0,2.0,shane-silvestro,80.66,23.0,3,phoenix-staines,82.52,16.0
+relay,hdr,519.0
+relay,RA200YM,2,christopher-barrcia-1,shane-silvestro,wayne-schellhas,landon-dobleman,119.18,114.0,joe-esposito-600188,liam-arney,maxim-costiuc,lauren-wines,119.59,111.0,225.0
+relay,RE200YM,2,landon-dobleman,christopher-barrcia-1,maxim-costiuc,chase-boucher,127.54,141.0,liam-arney,shane-silvestro,lauren-wines,wayne-schellhas,138.47,75.0,216.0
+relay,RA400YM,2,landon-dobleman,chase-boucher,joe-esposito-600188,christopher-barrcia-1,265.96,63.0,lauren-wines,wayne-schellhas,shaun-kilpatrick,shane-silvestro,281.44,15.0,78.0

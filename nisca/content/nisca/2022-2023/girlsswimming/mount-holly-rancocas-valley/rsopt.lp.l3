@@ -1,0 +1,13 @@
+lineup,hdr,3,978.0
+lineup,dat,I,A200,1,madison-popovich,132.83,59.0,2.0,olivia-dragan,146.97,20.0,3,rachel-shaler,149.28,14.0
+lineup,dat,I,E200,1,lindi-worrell,133.57,106.0,2.0,molly-mancivalano,165.55,18.0,,,,
+lineup,dat,I,A50,1,mallory-mcarthur,27.95,69.0,2.0,alexandrea-friebis,29.33,50.0,3,ava-paolone,31.24,28.0
+lineup,dat,I,D100,1,mallory-mcarthur,72.23,47.0,2.0,cassie-westhead,74.48,38.0,,,,
+lineup,dat,I,A100,1,noelle-dragan,61.02,63.0,2.0,sarah-maxson,61.06,63.0,3,alexandrea-friebis,64.47,41.0
+lineup,dat,I,A500,1,madison-popovich,354.57,59.0,2.0,rachel-shaler,406.64,7.0,,,,
+lineup,dat,I,B100,1,noelle-dragan,66.72,70.0,2.0,olivia-dragan,77.27,18.0,,,,
+lineup,dat,I,C100,1,lindi-worrell,68.09,116.0,2.0,sarah-maxson,80.56,52.0,3,molly-mancivalano,83.49,40.0
+relay,hdr,912.0
+relay,RE200YF,2,noelle-dragan,lindi-worrell,mallory-mcarthur,sarah-maxson,119.8,285.0,olivia-dragan,molly-mancivalano,alexandrea-friebis,ava-paolone,137.39,138.0,423.0
+relay,RA200YF,2,sarah-maxson,noelle-dragan,mallory-mcarthur,lindi-worrell,110.28,270.0,molly-mancivalano,ava-paolone,madison-popovich,alexandrea-friebis,124.5,144.0,414.0
+relay,RA400YF,1,ava-walsh-1,ava-risell,rachel-shaler,madison-popovich,277.52,75.0,,,,,,,75.0

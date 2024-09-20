@@ -1,0 +1,13 @@
+lineup,hdr,3,1068.0
+lineup,dat,I,A200,1,karolena-shaw,127.45,76.0,2.0,ava-dantonio,135.03,52.0,3,alex-stewart-4,153.53,4.0
+lineup,dat,I,E200,1,katie-lawrence,131.11,114.0,2.0,joyce-baik,138.75,89.0,3,lucia-kim,150.9,54.0
+lineup,dat,I,A50,1,pauline-tsui-1,30.04,42.0,2.0,suhani-parekh,30.6,35.0,3,kate-giletta,30.81,32.0
+lineup,dat,I,D100,1,joyce-baik,63.97,88.0,2.0,lucia-kim,67.61,69.0,3,tara-flynn-601481,84.31,2.0
+lineup,dat,I,A100,1,abby-klein,65.09,38.0,2.0,suhani-parekh,67.97,22.0,3,kate-giletta,69.31,15.0
+lineup,dat,I,A500,1,karolena-shaw,366.32,46.0,2.0,avni-patel-655575,407.06,7.0,,,,
+lineup,dat,I,B100,1,katie-lawrence,59.54,115.0,2.0,soumya-pal,78.44,13.0,,,,
+lineup,dat,I,C100,1,deane-syrneva,80.06,55.0,2.0,ava-dantonio,80.34,53.0,3,pauline-tsui-1,81.88,47.0
+relay,hdr,1140.0
+relay,RA200YF,2,deane-syrneva,abby-klein,karolena-shaw,katie-lawrence,110.24,273.0,kate-giletta,pauline-tsui-1,soumya-pal,suhani-parekh,121.44,171.0,444.0
+relay,RA400YF,2,joyce-baik,lucia-kim,karolena-shaw,katie-lawrence,246.23,216.0,suhani-parekh,abby-klein,ava-dantonio,deane-syrneva,264.25,132.0,348.0
+relay,RE200YF,2,lucia-kim,deane-syrneva,joyce-baik,abby-klein,123.35,252.0,soumya-pal,pauline-tsui-1,tara-flynn-601481,keiahna-mclearie,143.49,96.0,348.0

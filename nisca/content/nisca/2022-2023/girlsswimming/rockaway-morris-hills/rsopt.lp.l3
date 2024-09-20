@@ -1,0 +1,13 @@
+lineup,hdr,3,988.0
+lineup,dat,I,A200,1,anna-falcone,128.51,72.0,2.0,linda-nichvoloda,142.88,30.0,3,diana-nichvoloda,144.27,27.0
+lineup,dat,I,E200,1,ashley-wang-600337,158.91,33.0,2.0,grace-daly,170.0,8.0,,,,
+lineup,dat,I,A50,1,leah-caliendo,28.88,56.0,2.0,charlotte-wietecha,30.0,42.0,3,watt-meghan,30.4,37.0
+lineup,dat,I,D100,1,grace-reilly-548496,68.34,65.0,2.0,zoey-biddelman,70.72,54.0,3,amelia-wong,79.56,18.0
+lineup,dat,I,A100,1,haley-grow,58.13,83.0,2.0,leah-caliendo,66.59,29.0,3,charlotte-wietecha,70.02,11.0
+lineup,dat,I,A500,1,haley-grow,335.04,83.0,2.0,anna-falcone,347.6,67.0,3,diana-nichvoloda,388.57,23.0
+lineup,dat,I,B100,1,zoey-biddelman,67.14,68.0,2.0,grace-reilly-548496,70.45,50.0,3,riya-jain-1,79.79,8.0
+lineup,dat,I,C100,1,lavanya-shenoy,81.31,49.0,2.0,ashley-wang-600337,82.69,43.0,3,linda-nichvoloda,85.56,32.0
+relay,hdr,1008.0
+relay,RA200YF,2,ashley-wang-600337,haley-grow,zoey-biddelman,anna-falcone,111.59,258.0,lavanya-shenoy,ryleigh-bryant,watt-meghan,riya-jain-1,125.96,135.0,393.0
+relay,RE200YF,2,grace-reilly-548496,ashley-wang-600337,amelia-wong,zoey-biddelman,129.54,198.0,riya-jain-1,lavanya-shenoy,leah-caliendo,diana-nichvoloda,134.14,162.0,360.0
+relay,RA400YF,2,haley-grow,grace-reilly-548496,leah-caliendo,anna-falcone,251.8,189.0,charlotte-wietecha,linda-nichvoloda,grace-daly,diana-nichvoloda,280.22,66.0,255.0

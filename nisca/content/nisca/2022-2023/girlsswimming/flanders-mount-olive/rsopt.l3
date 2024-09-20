@@ -1,0 +1,17 @@
+lineup,hdr,3,874
+lineup,dat,I,A200,1,laure-thomas,131.16,64,2,sophia-trombley,147.21,19,3,katelyn-melendez,153.53,4
+lineup,dat,I,E200,1,haily-tiu,140.59,83
+lineup,dat,I,A50,1,angela-tobin,28.38,63,2,tashjian-delaney,29.8,44,3,cecelia-puello,30.68,34
+lineup,dat,I,D100,1,danielle-casaba,64.48,85,2,kellie-carpentier,72.22,47,3,hannah-tashjian,79.34,19
+lineup,dat,I,A100,1,kellie-carpentier,60.72,65,2,hannah-tashjian,67.42,25,3,katelyn-melendez,69.38,14
+lineup,dat,I,A500,1,laure-thomas,356.99,56,2,sophia-trombley,404.48,9
+lineup,dat,I,B100,1,danielle-casaba,61.72,101,2,kimberly-ginalski,79.34,10
+lineup,dat,I,C100,1,haily-tiu,72.15,93,2,tashjian-delaney,87.27,25,3,zenobia-thulin,90.51,14
+relay,hdr,912
+relay,RE200YF,2,danielle-casaba,haily-tiu,kellie-carpentier,hannah-tashjian,123.09,2.5500000000000000e+02,kimberly-ginalski,tashjian-delaney,jillian-moscatello,angela-tobin,140.81,1.1400000000000000e+02
+relay,RA200YF,2,laure-thomas,danielle-casaba,haily-tiu,hannah-tashjian,111.91,2.5500000000000000e+02,angela-tobin,tashjian-delaney,jillian-moscatello,sophia-trombley,121.27,1.7100000000000000e+02
+relay,RA400YF,1,laure-thomas,kellie-carpentier,angela-tobin,katelyn-melendez,267.16,1.1700000000000000e+02
+relay,hdr,1032
+relay,RE200YF,2,danielle-casaba,haily-tiu,kellie-carpentier,hannah-tashjian,123.09,2.5500000000000000e+02,kimberly-ginalski,tashjian-delaney,jillian-moscatello,angela-tobin,140.81,1.1400000000000000e+02
+relay,RA200YF,2,laure-thomas,tashjian-delaney,kellie-carpentier,angela-tobin,114.78,2.2800000000000000e+02,hannah-tashjian,zenobia-thulin,cecelia-puello,katelyn-melendez,123.67,1.5300000000000000e+02
+relay,RA400YF,2,danielle-casaba,laure-thomas,carpentier-kellie,haily-tiu,242.98,2.3100000000000000e+02,cecelia-puello,angela-tobin,sophia-trombley,jillian-moscatello,284.1,5.1000000000000000e+01

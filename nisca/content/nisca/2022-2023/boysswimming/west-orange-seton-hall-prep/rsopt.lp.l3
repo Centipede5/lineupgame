@@ -1,0 +1,13 @@
+lineup,hdr,3,2432.0
+lineup,dat,I,A200,1,kyle-phillips-1,111.92,94.0,2.0,owen-ripley-1,113.29,89.0,3,austin-silverman,115.32,82.0
+lineup,dat,I,E200,1,richard-poplawski,116.67,122.0,2.0,kyler-alcebar,122.95,100.0,3,karl-burghardt,123.39,99.0
+lineup,dat,I,A50,1,cormac-rouse,22.13,118.0,2.0,aryan-kapoor,22.83,106.0,3,connor-oneill-4,23.86,89.0
+lineup,dat,I,D100,1,patrick-miller-5,54.3,109.0,2.0,vincent-wong,54.96,105.0,3,sean-clark-4,57.57,88.0
+lineup,dat,I,A100,1,cormac-rouse,48.67,115.0,2.0,aryan-kapoor,49.47,109.0,3,connor-oneill-4,52.56,86.0
+lineup,dat,I,A500,1,kyle-phillips-1,303.95,94.0,2.0,owen-ripley-1,304.99,93.0,3,austin-silverman,331.03,61.0
+lineup,dat,I,B100,1,richard-poplawski,51.74,133.0,2.0,karl-burghardt,55.11,111.0,3,patrick-miller-5,55.77,108.0
+lineup,dat,I,C100,1,kyler-alcebar,62.13,108.0,2.0,aidan-liwanag,62.34,107.0,3,vincent-wong,62.46,106.0
+relay,hdr,1971.0
+relay,RE200YM,2,karl-burghardt,kyler-alcebar,patrick-miller-5,richard-poplawski,99.38,375.0,owen-ripley-1,aidan-liwanag,connor-oneill-4,lucas-kopp,105.1,318.0,693.0
+relay,RA200YM,2,connor-oneill-4,patrick-miller-5,aryan-kapoor,karl-burghardt,93.85,327.0,vincent-wong,kyler-alcebar,austin-silverman,cormac-rouse,94.96,315.0,642.0
+relay,RA400YM,2,aryan-kapoor,vincent-wong,cormac-rouse,richard-poplawski,203.86,336.0,owen-ripley-1,francis-jaso,kyle-phillips-1,austin-silverman,210.38,300.0,636.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,827.0
+lineup,dat,I,A200,1,ethan-michaud,118.77,71.0,2.0,ishaan-gunjati,129.22,40.0,,,,
+lineup,dat,I,E200,1,matthew-natsvlishvili,126.49,89.0,,,,,,,,
+lineup,dat,I,A50,1,veer-lad,26.63,51.0,2.0,kayir-maples,29.59,18.0,3,ignacio-manzanero-1,31.1,4.0
+lineup,dat,I,D100,1,ethan-michaud,57.3,90.0,2.0,vikram-pradeep,64.94,48.0,,,,
+lineup,dat,I,A100,1,ishaan-gunjati,58.88,46.0,,,,,,,,
+lineup,dat,I,A500,1,jeet-lad,334.32,57.0,,,,,,,,
+lineup,dat,I,B100,1,vikram-pradeep,63.07,69.0,2.0,sathvick-ram,71.4,35.0,,,,
+lineup,dat,I,C100,1,matthew-natsvlishvili,66.05,86.0,2.0,jeet-lad,69.55,69.0,3,veer-lad,72.72,54.0
+relay,hdr,756.0
+relay,RE200YM,2,jeet-lad,matthew-natsvlishvili,veer-lad,ignacio-manzanero-1,119.61,195.0,sathvick-ram,vikram-pradeep,ishaan-gunjati,kayir-maples,129.56,129.0,324.0
+relay,RA200YM,2,matthew-natsvlishvili,ignacio-manzanero-1,ishaan-gunjati,ethan-michaud,107.77,198.0,some-brian,sathvick-ram,kayir-maples,saket-ram-1,128.86,51.0,249.0
+relay,RA400YM,1,ethan-michaud,veer-lad,vikram-pradeep,jeet-lad,234.29,183.0,,,,,,,183.0

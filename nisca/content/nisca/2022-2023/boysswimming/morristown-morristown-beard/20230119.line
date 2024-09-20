@@ -1,0 +1,13 @@
+lineup,hdr,3,592
+lineup,dat,I,A200,1,ethan-kothavale,161.62,0,2,ian-patchett,131.4,35
+lineup,dat,I,E200,1,nicholas-hanna-1,168.79,0
+lineup,dat,I,A50
+lineup,dat,I,D100,1,nick-troiano-1,76.75,0,2,william-lestrange,59.67,76
+lineup,dat,I,A100,1,ronnie-schreier,80.29,0,2,jeff-edelman,68.43,0
+lineup,dat,I,A500,1,ian-patchett,366.56,24,2,ethan-kothavale,458.11,0
+lineup,dat,R,RA200,1,colin-faraher,nicholas-hanna-1,john-hannah,william-lestrange,104.08,228
+lineup,dat,R,RA200,2,ronnie-schreier,christopher-yermack,bennett-gross,jeff-edelman,130.65,42
+lineup,dat,I,B100,1,nick-troiano-1,71.92,33,2,nicholas-hanna-1,73.81,27
+lineup,dat,I,C100,1,william-lestrange,73.98,49
+lineup,dat,R,RA400,1,nicholas-hanna-1,ian-patchett,nick-troiano-1,charlie-gibbs,261.98,78
+lineup,dat,R,RA400,2,ethan-kothavale,ronnie-schreier,bennett-gross,christopher-yermack,319.96,0

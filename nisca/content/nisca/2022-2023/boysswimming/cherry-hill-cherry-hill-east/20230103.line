@@ -1,0 +1,15 @@
+lineup,hdr,3,4000
+lineup,dat,R,RE200,1,jack-behm,peter-moon,ryan-cortes,sean-haney,100.43,363
+lineup,dat,R,RE200,2,noah-yang,john-phipps,jack-kramer-1,christian-aiken-1,109.91,273
+lineup,dat,I,A200,1,james-tao,111.92,94,2,christian-leone-1,116.62,78,3,andrew-langmuir,117.85,74
+lineup,dat,I,E200,1,jack-behm,122.22,103,2,josh-kim-8,123.51,98,3,adam-leibowitz,135.54,62
+lineup,dat,I,A50,1,john-moyer-549228,21.56,129,2,thomas-scafide,23.72,91,3,dan-farling,24.05,86
+lineup,dat,I,D100,1,ryan-cortes,51.11,132,2,michael-mc-niff,59.91,74,3,liam-inman,58.26,84
+lineup,dat,I,A100,1,john-moyer-549228,47.64,124,2,sean-haney,53.17,81,3,connor-borrelli,53.66,78
+lineup,dat,I,A500,1,justin-jaczko,314.77,80,2,peter-moon,336.5,55,3,ryan-moyer,342.67,48
+lineup,dat,R,RA200,1,ryan-cortes,jack-kramer-1,sean-haney,john-moyer-549228,93.62,330
+lineup,dat,R,RA200,2,evan-orel,alex-rounds,kai-green,peter-longo,96.86,297
+lineup,dat,I,B100,1,jack-behm,55.62,108,2,josh-kim-8,56.87,101,3,grant-muratore,63.66,67
+lineup,dat,I,C100,1,james-tao,59.76,123,2,braden-barclay,65.53,89,3,gabriel-grondaz,68.23,75
+lineup,dat,R,RA400,1,jack-behm,james-tao,ryan-cortes,john-moyer-549228,196.57,378
+lineup,dat,R,RA400,2,naveen-boggi,dimitri-antonov,adam-billet,gabriel-barrett,225.3,225

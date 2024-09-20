@@ -1,0 +1,15 @@
+lineup,hdr,3,1466
+lineup,dat,R,RE200,1,justin-gamble,joseph-fay-601667,lucca-doflor,william-thomas-3,121.71,180
+lineup,dat,R,RE200,2,erick-lozada-paredes,isaiah-rivers-warrick,luke-harmsen,damien-varghese,130.33,123
+lineup,dat,I,A200,1,joseph-fay-601667,133.81,29,2,kenneth-hua,194.2,0
+lineup,dat,I,E200,1,william-thomas-3,124.38,95,2,luke-harmsen,148.27,30
+lineup,dat,I,A50,1,lucca-doflor,24.31,83,2,erick-lozada-paredes,25.61,64,3,freddy-almengor,37.47,0
+lineup,dat,I,D100,1,justin-gamble,59.38,77,2,luke-harmsen,90.13,0
+lineup,dat,I,A100,1,isaiah-rivers-warrick,58.51,48,2,damien-varghese,64.02,19,3,kenneth-hua,88.16,0
+lineup,dat,I,A500,1,freddy-almengor,554.16,0
+lineup,dat,R,RA200,1,william-thomas-3,justin-gamble,isaiah-rivers-warrick,lucca-doflor,101.18,255
+lineup,dat,R,RA200,2,damien-varghese,luke-harmsen,santiago-cardenas-andrade,joseph-fay-601667,128.2,57
+lineup,dat,I,B100,1,erick-lozada-paredes,67.77,49,2,santiago-cardenas-andrade,128.69,0
+lineup,dat,I,C100,1,santiago-cardenas-andrade,128.78,0
+lineup,dat,R,RA400,1,william-thomas-3,erick-lozada-paredes,justin-gamble,lucca-doflor,222.89,237
+lineup,dat,R,RA400,2,isaiah-rivers-warrick,luke-harmsen,damien-varghese,joseph-fay-601667,250.39,120

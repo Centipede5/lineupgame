@@ -1,0 +1,13 @@
+lineup,hdr,3,1232
+lineup,dat,I,A200,1,connor-poetsch,112.35,93,2,kyle-hart-2,143.51,6
+lineup,dat,I,E200,1,matthew-shortino,127.67,85,2,alexander-lopez-654880,136.13,60
+lineup,dat,I,A50,1,michael-diaz-5,24.35,82,2,marco-holder,25.73,63,3,jaidev-paulraj,26.68,50
+lineup,dat,I,D100,1,devon-demuth,55.9,98,2,matthew-shortino,56.84,92
+lineup,dat,I,A100,1,james-lachica,51.12,96,2,michael-diaz-5,52.27,88,3,marco-holder,58.05,50
+lineup,dat,I,A500,1,connor-poetsch,299.82,100
+lineup,dat,I,B100,1,alexander-lopez-654880,57.32,99,2,devon-demuth,70.15,40
+lineup,dat,I,C100,1,james-lachica,65.02,92,2,jaidev-paulraj,76.65,38
+relay,hdr,1080
+relay,RE200YM,2,alexander-lopez-654880,michael-diaz-5,devon-demuth,marco-holder,110.63,2.6700000000000000e+02,danny-nole,richard-torrente,bryan-rich,raihan-prakash,150.58,1.5000000000000000e+01
+relay,RA200YM,2,james-lachica,alexander-lopez-654880,connor-poetsch,matthew-shortino,96.62,3.0000000000000000e+02,jaidev-paulraj,bryan-rich,danny-nole,kyle-hart-2,121.42,9.9000000000000000e+01
+relay,RA400YM,2,matthew-shortino,michael-diaz-5,connor-poetsch,james-lachica,210.79,2.9700000000000000e+02,marco-holder,kyle-hart-2,danny-nole,devon-demuth,255.56,1.0200000000000000e+02

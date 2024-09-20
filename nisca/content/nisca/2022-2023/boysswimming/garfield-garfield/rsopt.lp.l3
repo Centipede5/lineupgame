@@ -1,0 +1,13 @@
+lineup,hdr,3,1413.0
+lineup,dat,I,A200,1,gian-lopez,116.04,80.0,2.0,daniel-sickles,128.02,44.0,3,alexvander-faron,143.44,6.0
+lineup,dat,I,E200,1,pawel-drzymala,121.29,106.0,2.0,jeremy-ore,123.96,97.0,3,ryan-ng,129.62,79.0
+lineup,dat,I,A50,1,ryan-ng,22.62,109.0,2.0,dalton-chielowiec-falone,27.28,43.0,3,samuel-libreros,27.39,42.0
+lineup,dat,I,D100,1,anthony-gasowski,57.15,91.0,2.0,timothy-tran,63.74,54.0,3,jeremy-ore,66.9,39.0
+lineup,dat,I,A100,1,jacob-hernandez-5,57.06,56.0,2.0,matthew-czajkowski,59.19,44.0,3,glenn-chmielowiec-falone,64.27,18.0
+lineup,dat,I,A500,1,pawel-drzymala,282.45,125.0,2.0,anthony-gasowski,329.56,62.0,,,,
+lineup,dat,I,B100,1,gian-lopez,60.18,83.0,2.0,timothy-tran,65.75,58.0,3,daniel-sickles,66.38,55.0
+lineup,dat,I,C100,1,mykal-diaz,71.0,62.0,2.0,matthew-czajkowski,74.87,45.0,3,glenn-chmielowiec-falone,82.97,15.0
+relay,hdr,1392.0
+relay,RE200YM,2,timothy-tran,matthew-czajkowski,jeremy-ore,jacob-hernandez-5,102.53,342.0,gian-lopez,pawel-drzymala,anthony-gasowski,ryan-ng,106.34,306.0,648.0
+relay,RA200YM,2,timothy-tran,daniel-sickles,jacob-hernandez-5,ryan-ng,103.04,237.0,dalton-chielowiec-falone,mykal-diaz,sebastian-nitek,glenn-chmielowiec-falone,115.35,138.0,375.0
+relay,RA400YM,2,gian-lopez,jeremy-ore,anthony-gasowski,pawel-drzymala,212.14,291.0,daniel-sickles,jacob-hernandez-5,alexvander-faron,dalton-chielowiec-falone,262.1,78.0,369.0

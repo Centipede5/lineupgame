@@ -1,0 +1,13 @@
+lineup,hdr,3,1233.0
+lineup,dat,I,A200,1,dom-mercado,128.86,41.0,2.0,michael-devito-1,135.36,25.0,3,robby-buono,135.38,25.0
+lineup,dat,I,E200,1,michael-giardino,125.82,91.0,2.0,michael-pantalione,133.66,67.0,3,will-delgado-1,140.58,48.0
+lineup,dat,I,A50,1,cashton-hampton,24.1,86.0,2.0,mason-ganci,24.57,79.0,3,leo-klaas,27.58,40.0
+lineup,dat,I,D100,1,nick-mainiero-1,60.4,71.0,2.0,cashton-hampton,63.89,53.0,3,adam-jara,65.56,45.0
+lineup,dat,I,A100,1,michael-pantalione,57.02,56.0,2.0,mason-ganci,57.35,54.0,3,robby-buono,61.96,29.0
+lineup,dat,I,A500,1,michael-giardino,287.6,118.0,2.0,dom-mercado,353.2,37.0,3,michael-devito-1,371.05,20.0
+lineup,dat,I,B100,1,nick-mainiero-1,60.87,80.0,2.0,adam-jara,66.54,54.0,3,nathan-harris-1,72.62,31.0
+lineup,dat,I,C100,1,will-delgado-1,69.97,67.0,2.0,leo-klaas,84.62,9.0,3,robby-chapdelaine,85.4,7.0
+relay,hdr,1302.0
+relay,RA200YM,2,mason-ganci,nick-mainiero-1,cashton-hampton,michael-giardino,98.71,279.0,michael-pantalione,gio-gonzalez-2,robby-buono,michael-devito-1,109.06,186.0,465.0
+relay,RE200YM,2,nick-mainiero-1,will-delgado-1,cashton-hampton,mason-ganci,110.54,267.0,nathan-harris-1,leo-klaas,adam-jara,dom-mercado,124.58,162.0,429.0
+relay,RA400YM,2,michael-pantalione,dom-mercado,will-delgado-1,michael-giardino,221.7,243.0,gio-gonzalez-2,tyler-chong,robby-buono,michael-devito-1,239.17,165.0,408.0

@@ -1,0 +1,15 @@
+lineup,hdr,3,3092
+lineup,dat,R,RE200,1,dylan-mulligan,simon-strysak,charles-powers,eric-hoie,109.49,276
+lineup,dat,R,RE200,2,aryan-kumar-1,aidan-ryu,andrew-gaba,hunter-bigham,118.62,204
+lineup,dat,I,A200,1,ryan-snarr,114.67,85,2,brett-davis,123.66,56,3,elliot-ryu,131.69,34
+lineup,dat,I,E200,1,ryan-oday-1,124.51,95,2,ransom-chang,133.91,66,3,declan-robertson,144.02,40
+lineup,dat,I,A50,1,charlie-kulp,22.12,118,2,emerson-greeve,25.12,71,3,bennett-marshall,25.8,62
+lineup,dat,I,D100,1,tirian-chang,55.23,103,2,charles-powers,58.73,81,3,andrew-gaba,61.57,65
+lineup,dat,I,A100,1,jack-bigham,52.01,90,2,alex-tripp,62.42,27,3,liam-sweeney,59.35,43
+lineup,dat,I,A500,1,eric-hoie,335.53,56,2,adi-kattumuri,337.06,54,3,simon-strysak,296.18,105
+lineup,dat,R,RA200,1,tirian-chang,ransom-chang,atticus-chang,ryan-snarr,90.66,363
+lineup,dat,R,RA200,2,hunter-bigham,jack-bigham,eric-hoie,charlie-kulp,95.25,312
+lineup,dat,I,B100,1,aryan-kumar-1,66.14,56,2,aidan-ryu,69.34,43,3,ethan-wagner-1,78.19,13
+lineup,dat,I,C100,1,atticus-chang,62.67,105,2,simon-strysak,70.37,65,3,dylan-mulligan,73.68,50
+lineup,dat,R,RA400,1,ryan-oday-1,brett-davis,adi-kattumuri,alex-tripp,228.92,207
+lineup,dat,R,RA400,2,elliot-ryu,emerson-greeve,declan-robertson,ethan-wagner-1,243.27,147

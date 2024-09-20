@@ -1,0 +1,12 @@
+lineup,hdr,3,1186
+lineup,dat,R,RE200,1,steven-preobrazhensky,jacob-malamud,steven-perkins,matteo-dimaggio,115.44,228
+lineup,dat,I,A200,1,michael-grzanko,113.46,89
+lineup,dat,I,E200,1,ryan-leung,149.62,27
+lineup,dat,I,A50,1,jacob-malamud,26.39,54,2,steven-preobrazhensky,25.84,61,3,tyler-catalano,28.34,31
+lineup,dat,I,D100,1,steven-perkins,64.06,52,2,michael-grzanko,55.9,98
+lineup,dat,I,A100,1,jacob-malamud,62.6,26,2,matteo-dimaggio,60.76,35,3,aadarsh-kumar,67.67,2
+lineup,dat,I,A500,1,tyler-catalano,465.97,0,2,steven-preobrazhensky,381.41,11
+lineup,dat,R,RA200,1,jacob-malamud,matteo-dimaggio,steven-perkins,michael-grzanko,104.81,222
+lineup,dat,I,B100,1,aadarsh-kumar,78.2,13,2,ryan-leung,66.5,54
+lineup,dat,I,C100
+lineup,dat,R,RA400,1,steven-preobrazhensky,ryan-leung,steven-perkins,michael-grzanko,234.38,183

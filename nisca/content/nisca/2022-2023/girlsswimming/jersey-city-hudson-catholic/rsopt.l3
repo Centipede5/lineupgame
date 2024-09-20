@@ -1,0 +1,13 @@
+lineup,hdr,3,37
+lineup,dat,I,A200
+lineup,dat,I,E200,1,nicole-papageorgiou-1,157.27,37
+lineup,dat,I,A50
+lineup,dat,I,D100
+lineup,dat,I,A100
+lineup,dat,I,A500
+lineup,dat,I,B100
+lineup,dat,I,C100
+relay,hdr,579
+relay,RE200YF,1,donna-alvarez,nicole-papageorgiou-1,alma-wrotkowska-evans,alexa-veletanga,136.93,1.4100000000000000e+02
+relay,RA200YF,1,alma-wrotkowska-evans,nicole-papageorgiou-1,donna-alvarez,alexa-veletanga,110.27,2.7300000000000000e+02
+relay,RA400YF,1,julia-sanchez,donna-alvarez,alma-wrotkowska-evans,nicole-papageorgiou-1,257,1.6500000000000000e+02

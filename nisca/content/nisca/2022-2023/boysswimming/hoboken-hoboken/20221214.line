@@ -1,0 +1,11 @@
+lineup,hdr,2,561
+lineup,dat,R,RE200,1,sean-ocallaghan,sava-tomin,jared-lee-1,grayson-stier,114.96,231
+lineup,dat,I,A200,1,sean-ocallaghan,155.41,0
+lineup,dat,I,E200,1,sava-tomin,142.56,43
+lineup,dat,I,A50,1,lucas-daly,43.5,0,2,grayson-stier,38.94,0
+lineup,dat,I,D100,1,jared-lee-1,107.76,0
+lineup,dat,I,A100,1,sean-ocallaghan,74.16,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,grayson-stier,jared-lee-1,lucas-daly,sean-ocallaghan,103.27,237
+lineup,dat,I,B100,1,grayson-stier,110.28,0,2,lucas-daly,108.17,0
+lineup,dat,I,C100,1,jared-lee-1,75.2,44,2,sava-tomin,85.73,6

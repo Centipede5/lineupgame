@@ -1,0 +1,15 @@
+lineup,hdr,3,2014
+lineup,dat,R,RE200,1,brendan-guiliano,colin-ko,matthew-czerwinski,mario-pontidis,102.37,345
+lineup,dat,R,RE200,2,andrew-velez-1,joseph-bogert,leonardo-palescandolo,john-moss-1,126.97,144
+lineup,dat,I,A200,1,matthew-czerwinski,116.83,77,2,jack-holinstat,158.41,0,3,marcus-wojcik,167.64,0
+lineup,dat,I,E200,1,brendan-guiliano,125.04,93,2,andrew-velez-1,145.69,36,3,vikram-singh-1,167.77,0
+lineup,dat,I,A50,1,mario-pontidis,23.28,98,2,leonardo-palescandolo,26.03,59
+lineup,dat,I,D100,1,matthew-czerwinski,57.71,87,2,ishan-goti-1,79.87,0,3,andrew-velez-1,67.12,38
+lineup,dat,I,A100,1,mario-pontidis,53.33,80,2,colin-ko,51.02,97,3,visruth-kanchamreddy,56.34,61
+lineup,dat,I,A500,1,jack-holinstat,454.24,0,2,john-moss-1,479.55,0,3,joseph-bogert,468.14,0
+lineup,dat,R,RA200,1,brendan-guiliano,colin-ko,matthew-czerwinski,mario-pontidis,93.23,336
+lineup,dat,R,RA200,2,marcus-wojcik,dominick-turano,luke-romano-1,william-keenan,130.54,42
+lineup,dat,I,B100,1,brendan-guiliano,56.52,103,2,joseph-bogert,84.69,0,3,ishan-goti-1,76.48,18
+lineup,dat,I,C100,1,colin-ko,63,103,2,leonardo-palescandolo,73.39,51,3,visruth-kanchamreddy,73.56,50
+lineup,dat,R,RA400,1,visruth-kanchamreddy,leonardo-palescandolo,andrew-velez-1,ishan-goti-1,260.1,84
+lineup,dat,R,RA400,2,vikram-singh-1,jonah-ng,jack-holinstat,joseph-bogert,282.29,12

@@ -1,0 +1,14 @@
+lineup,hdr,3,1300
+lineup,dat,R,RE200,1,ethan-guo-1,matthew-faust,giselle-lee,aiden-lee,114.85,234
+lineup,dat,R,RE200,2,maiti-oconnor,arjun-vora,briana-li,luca-digirolamo-1,135.17,96
+lineup,dat,I,A200,1,sammy-faust,135.69,24,2,kj-bogona,135.8,24,3,chiara-baldi-1,159.69,0
+lineup,dat,I,E200,1,giselle-lee,159.47,6,2,briana-li,163.66,0,3,oliver-laskow,161.83,1
+lineup,dat,I,A50,1,matthew-faust,25.02,72,2,aiden-lee,25.46,66
+lineup,dat,I,D100,1,ethan-guo-1,61.99,63,2,kj-bogona,70.43,24,3,briana-li,81.5,0
+lineup,dat,I,A100,1,matthew-faust,58.43,48,2,aiden-lee,60.43,37,3,luca-digirolamo-1,69.88,0
+lineup,dat,I,A500,1,giselle-lee,411.56,0,2,chiara-baldi-1,441.54,0,3,jay-lele-1,471.22,0
+lineup,dat,R,RA200,1,sammy-faust,ethan-guo-1,aiden-lee,matthew-faust,95.32,312
+lineup,dat,R,RA200,2,christian-lee-655835,kj-bogona,briana-li,luca-digirolamo-1,121.34,99
+lineup,dat,I,B100,1,ethan-guo-1,67.09,52,2,maiti-oconnor,71.7,34,3,noah-kornfeld,80,8
+lineup,dat,I,C100,1,oliver-laskow,82.14,17,2,sammy-faust,85.1,8,3,arjun-vora,92.79,0
+lineup,dat,R,RA400,1,kj-bogona,giselle-lee,maiti-oconnor,sammy-faust,263.16,75

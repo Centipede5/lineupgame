@@ -1,0 +1,15 @@
+lineup,hdr,3,847
+lineup,dat,R,RE200,1,kevin-gosnell,antonio-velez,thomas-kulesza,evan-torres-3,125.23,156
+lineup,dat,R,RE200,2,joshua-gutierrez-1,matheo-santos,matias-chiafalo,colin-capobianco,144.29,45
+lineup,dat,I,A200,1,joshua-gutierrez-1,174.99,0,2,matias-chiafalo,155.56,0
+lineup,dat,I,E200,1,matheo-santos,187.75,0,2,pietro-cascardo,217.16,0
+lineup,dat,I,A50,1,thomas-kulesza,25.01,72,2,evan-torres-3,23.78,91
+lineup,dat,I,D100,1,mikael-fernandez,79.68,0,2,matias-chiafalo,93.58,0
+lineup,dat,I,A100,1,joshua-gutierrez-1,68.69,0,2,colin-capobianco,67.95,1
+lineup,dat,I,A500,1,leo-tantalean,474.18,0,2,mikael-fernandez,470.6,0
+lineup,dat,R,RA200,1,kevin-gosnell,mikael-fernandez,evan-torres-3,thomas-kulesza,108.46,192
+lineup,dat,R,RA200,2,antonio-velez,matias-chiafalo,colin-capobianco,joshua-gutierrez-1,119.56,111
+lineup,dat,I,B100,1,kevin-gosnell,67.31,51,2,pietro-cascardo,100.65,0
+lineup,dat,I,C100,1,antonio-velez,83.24,14,2,matheo-santos,89,0
+lineup,dat,R,RA400,1,kevin-gosnell,leo-tantalean,evan-torres-3,thomas-kulesza,251.5,114
+lineup,dat,R,RA400,2,colin-capobianco,luca-santos,pietro-cascardo,matheo-santos,319.72,0

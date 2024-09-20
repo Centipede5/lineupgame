@@ -1,0 +1,13 @@
+lineup,hdr,3,1615.0
+lineup,dat,I,A200,1,orianna-jaimes-drayer,127.21,76.0,2.0,emma-collins-1,134.66,53.0,3,catherine-gaynor,138.02,43.0
+lineup,dat,I,E200,1,lilia-ushiki,142.85,76.0,2.0,isabella-tapkas,148.74,59.0,3,leah-goroway,163.78,22.0
+lineup,dat,I,A50,1,julia-rosenfeld,25.91,99.0,2.0,keira-riley,27.34,77.0,3,virginia-carlin,27.62,73.0
+lineup,dat,I,D100,1,mary-gillen,59.2,116.0,2.0,lilia-ushiki,63.53,90.0,3,keira-riley,72.92,44.0
+lineup,dat,I,A100,1,virginia-carlin,59.69,72.0,2.0,julia-rosenfeld,60.35,67.0,3,catherine-gaynor,61.37,61.0
+lineup,dat,I,A500,1,orianna-jaimes-drayer,339.24,77.0,2.0,allison-pittaro,362.55,50.0,3,claire-burns,365.87,47.0
+lineup,dat,I,B100,1,isabella-tapkas,64.2,85.0,2.0,claire-burns,68.68,59.0,3,leah-goroway,70.25,51.0
+lineup,dat,I,C100,1,mary-gillen,70.02,105.0,2.0,emma-collins-1,77.11,68.0,3,allison-pittaro,82.35,45.0
+relay,hdr,1425.0
+relay,RA200YF,2,mary-gillen,keira-riley,virginia-carlin,julia-rosenfeld,104.0,339.0,catherine-gaynor,nicole-ruiz,ashley-ostrander,orianna-jaimes-drayer,116.85,210.0,549.0
+relay,RE200YF,2,isabella-tapkas,mary-gillen,lilia-ushiki,julia-rosenfeld,114.93,333.0,keira-riley,emma-collins-1,virginia-carlin,allison-pittaro,128.27,210.0,543.0
+relay,RA400YF,2,orianna-jaimes-drayer,catherine-gaynor,isabella-tapkas,lilia-ushiki,245.14,222.0,claire-burns,jilliane-de-peralta,leah-goroway,emma-collins-1,268.86,111.0,333.0

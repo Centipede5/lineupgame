@@ -1,0 +1,13 @@
+lineup,hdr,3,688.0
+lineup,dat,I,A200,1,simran-tangri,144.88,25.0,2.0,riya-kohli,154.99,1.0,,,,
+lineup,dat,I,E200,1,sanya-kataria,166.73,15.0,,,,,,,,
+lineup,dat,I,A50,1,samiksha-sharma,28.84,57.0,2.0,melody-pinto,29.75,45.0,3,palak-oberoi,30.66,34.0
+lineup,dat,I,D100,1,anisha-ojha,62.66,95.0,2.0,sanya-kataria,78.34,23.0,3,nishika-solanki,83.17,6.0
+lineup,dat,I,A100,1,sanskriti-nayak,61.78,58.0,2.0,samiksha-sharma,65.98,33.0,3,melody-pinto,66.09,32.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,anisha-ojha,62.37,96.0,2.0,shwetha-venkatesh,79.61,9.0,3,riya-patel-10,81.66,1.0
+lineup,dat,I,C100,1,sanskriti-nayak,75.34,77.0,2.0,simran-tangri,82.16,45.0,3,shwetha-venkatesh,84.41,36.0
+relay,hdr,858.0
+relay,RE200YF,2,anisha-ojha,sanskriti-nayak,simran-tangri,samiksha-sharma,124.88,237.0,riya-patel-10,shwetha-venkatesh,sanya-kataria,suhani-sengupta,139.12,126.0,363.0
+relay,RA200YF,2,shwetha-venkatesh,palak-oberoi,julia-higham,melody-pinto,122.21,165.0,keya-ogale,anuja-sharma,riya-patel-10,riya-kohli,127.15,126.0,291.0
+relay,RA400YF,2,simran-tangri,samiksha-sharma,sanskriti-nayak,anisha-ojha,261.8,141.0,riya-kohli,sanya-kataria,nishika-solanki,melody-pinto,280.5,63.0,204.0

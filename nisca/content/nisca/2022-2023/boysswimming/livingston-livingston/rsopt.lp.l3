@@ -1,0 +1,13 @@
+lineup,hdr,3,1635.0
+lineup,dat,I,A200,1,andrei-hipol-1,118.77,71.0,2.0,robert-wang,126.72,47.0,3,levente-sarkany,127.72,45.0
+lineup,dat,I,E200,1,ting-lee,125.97,90.0,2.0,hayden-pun-1,140.86,48.0,3,justin-xie-1,142.55,44.0
+lineup,dat,I,A50,1,lucas-swee,23.24,99.0,2.0,daniel-li-1,23.33,98.0,3,george-xie,24.76,76.0
+lineup,dat,I,D100,1,sean-pun-1,60.31,72.0,2.0,justin-xie-1,61.34,66.0,3,robert-wang,66.19,42.0
+lineup,dat,I,A100,1,lucas-swee,50.87,98.0,2.0,daniel-li-1,55.48,66.0,3,owen-pourakis,56.33,61.0
+lineup,dat,I,A500,1,andrei-hipol-1,322.27,71.0,2.0,levente-sarkany,351.78,39.0,3,jeffery-yang,350.96,39.0
+lineup,dat,I,B100,1,owen-pourakis,60.23,83.0,2.0,hayden-pun-1,66.09,56.0,3,ivan-shuvalov-1,66.94,53.0
+lineup,dat,I,C100,1,ting-lee,62.23,108.0,2.0,eric-niu,66.45,84.0,3,ariel-dimarsky,67.47,79.0
+relay,hdr,1587.0
+relay,RE200YM,2,owen-pourakis,lucas-swee,ting-lee,daniel-li-1,103.03,339.0,ivan-shuvalov-1,ariel-dimarsky,sean-pun-1,levente-sarkany,105.07,318.0,657.0
+relay,RA200YM,2,daniel-li-1,ting-lee,justin-xie-1,lucas-swee,95.35,312.0,george-xie,kevin-zhang-598819,jeffery-yang,eric-niu,104.29,228.0,540.0
+relay,RA400YM,2,andrei-hipol-1,eric-niu,kevin-zhang-598819,levente-sarkany,227.39,216.0,jeffery-yang,sean-pun-1,robert-wang,ivan-shuvalov-1,236.42,174.0,390.0

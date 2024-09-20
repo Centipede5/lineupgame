@@ -1,0 +1,13 @@
+lineup,hdr,3,564.0
+lineup,dat,I,A200,1,daniel-seibel,134.84,26.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,will-updike,24.99,73.0,2.0,jack-meehan-4,26.08,58.0,3,darren-scott,26.68,50.0
+lineup,dat,I,D100,1,noah-minarick,58.56,82.0,,,,,,,,
+lineup,dat,I,A100,1,jack-meehan-4,57.48,54.0,2.0,victoria-cellucci,62.38,27.0,,,,
+lineup,dat,I,A500,1,daniel-seibel,358.31,32.0,,,,,,,,
+lineup,dat,I,B100,1,noah-minarick,66.79,53.0,2.0,victoria-cellucci,68.63,46.0,3,rachel-esposito-2,81.09,4.0
+lineup,dat,I,C100,1,will-updike,71.55,59.0,,,,,,,,
+relay,hdr,603.0
+relay,RE200YM,2,jack-meehan-4,darren-scott,noah-minarick,will-updike,114.13,237.0,rachel-esposito-2,emily-cannon,victoria-cellucci,cathy-bishop,140.15,66.0,303.0
+relay,RA200YM,2,jack-meehan-4,will-updike,darren-scott,noah-minarick,109.09,186.0,rachel-esposito-2,victoria-cellucci,emily-cannon,daniel-seibel,126.29,69.0,255.0
+relay,RA400YM,1,daniel-seibel,kaelynn-mikulski,darren-scott,cathy-bishop,271.75,45.0,,,,,,,45.0

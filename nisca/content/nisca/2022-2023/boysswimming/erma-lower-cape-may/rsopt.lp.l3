@@ -1,0 +1,13 @@
+lineup,hdr,3,477.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,kyle-satt,26.34,55.0,2.0,matt-eck,27.2,44.0,3,james-kronemeyer,27.66,39.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,justin-melli,48.34,118.0,2.0,james-kronemeyer,62.69,25.0,3,kallen-garagozzo,64.9,15.0
+lineup,dat,I,A500,1,kaitlyn-crouthamel-1,325.89,67.0,2.0,abigail-lagares,393.45,1.0,,,,
+lineup,dat,I,B100,1,abigail-lagares,68.72,45.0,2.0,addison-lagares,76.81,17.0,,,,
+lineup,dat,I,C100,1,kyle-satt,76.42,39.0,2.0,viktoria-simonsen-1,83.7,12.0,,,,
+relay,hdr,846.0
+relay,RE200YM,2,justin-melli,kevin-coulter,matt-eck,kyle-satt,121.5,183.0,abigail-lagares,viktoria-simonsen-1,kaitlyn-crouthamel-1,kallen-garagozzo,124.8,159.0,342.0
+relay,RA200YM,2,matt-eck,james-kronemeyer,kallen-garagozzo,justin-melli,108.71,189.0,viktoria-simonsen-1,jennette-ziemba,david-brown-10,kaitlyn-crouthamel-1,121.92,96.0,285.0
+relay,RA400YM,2,kaitlyn-crouthamel-1,james-kronemeyer,kyle-satt,justin-melli,234.52,183.0,kallen-garagozzo,colin-mcananey,addison-lagares,matt-eck,274.39,36.0,219.0

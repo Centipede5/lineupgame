@@ -1,0 +1,15 @@
+lineup,hdr,3,3875
+lineup,dat,R,RE200,1,garrett-gould,gabe-beverini,mitch-ferraoili,george-chamberlain,103.31,336
+lineup,dat,R,RE200,2,ian-dsilva,adam-ibrahim-1,orion-wang,anurag-bhat,108.56,285
+lineup,dat,I,A200,1,ansin-chen,110.73,98,2,dean-capizzi,116.44,79,3,john-thompson-3,116.52,78
+lineup,dat,I,E200,1,gabe-beverini,123.08,100,2,orion-wang,126.74,88,3,eric-shen-1,135.88,61
+lineup,dat,I,A50,1,garrett-gould,21.05,138,2,george-chamberlain,24.37,82,3,ian-dsilva,24.2,84
+lineup,dat,I,D100,1,garrett-gould,50.32,138,2,ansin-chen,56.05,97,3,dean-capizzi,59,79
+lineup,dat,I,A100,1,mitch-ferraoili,49.24,111,2,nathan-luo,53.7,78,3,anurag-bhat,54.08,75
+lineup,dat,I,A500,1,orion-wang,303.95,94,2,john-thompson-3,306.58,91,3,evan-kelly-8,336.49,55
+lineup,dat,R,RA200,1,garrett-gould,george-chamberlain,ansin-chen,dean-capizzi,92.23,345
+lineup,dat,R,RA200,2,caden-lake,anurag-bhat,wyatt-lake,orion-wang,99.61,270
+lineup,dat,I,B100,1,gabe-beverini,58.32,93,2,ian-dsilva,56.82,101,3,darshan-hariharan,62.54,72
+lineup,dat,I,C100,1,mitch-ferraoili,64.78,93,2,nathan-luo,73.87,49,3,adam-ibrahim-1,68.38,74
+lineup,dat,R,RA400,1,ansin-chen,dean-capizzi,gabe-beverini,mitch-ferraoili,208.05,312
+lineup,dat,R,RA400,2,anurag-bhat,evan-kelly-8,eric-shen-1,john-thompson-3,226.82,219

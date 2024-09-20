@@ -1,0 +1,17 @@
+lineup,hdr,3,1694
+lineup,dat,I,A200,1,ricardo-consano,107.07,112,2,alex-meyer-1,110.09,101,3,dan-fisher-502076,128.34,43
+lineup,dat,I,E200,1,lucas-abd,121.86,104,2,will-hershfeld,123.61,98,3,noah-abd,130.81,75
+lineup,dat,I,A50,1,chen-aidan,24.81,75,2,dan-fisher-502076,24.89,74,3,mateo-halka,24.87,74
+lineup,dat,I,D100,1,lucas-abd,54.6,107,2,will-hershfeld,54.89,105,3,alex-meyer-1,55.66,100
+lineup,dat,I,A100,1,antoni-halka,55.33,67,2,mateo-halka,57.56,53,3,douglas-hansen,57.78,52
+lineup,dat,I,A500,1,ricardo-consano,294.07,108,2,vedanth-srinivasan,365.39,25,3,matthew-lee-4,392.5,2
+lineup,dat,I,B100,1,douglas-hansen,65.03,61,2,vedanth-srinivasan,72.81,30,3,cameron-morgan-2,76.34,19
+lineup,dat,I,C100,1,chen-aidan,64.37,95,2,noah-abd,66.62,83,3,antoni-halka,78.38,31
+relay,hdr,1365
+relay,RE200YM,2,will-hershfeld,noah-abd,lucas-abd,ricardo-consano,103.47,3.3300000000000000e+02,alex-meyer-1,chen-aidan,mateo-halka,antoni-halka,107.92,2.9100000000000000e+02
+relay,RA200YM,2,alex-meyer-1,lucas-abd,douglas-hansen,ricardo-consano,95.5,3.1200000000000000e+02,antoni-halka,mateo-halka,chen-aidan,dan-fisher-502076,101.03,2.5500000000000000e+02
+relay,RA400YM,1,dan-fisher-502076,cameron-morgan-2,vedanth-srinivasan,douglas-hansen,236.49,1.7400000000000000e+02
+relay,hdr,1614
+relay,RE200YM,2,will-hershfeld,noah-abd,lucas-abd,ricardo-consano,103.47,3.3300000000000000e+02,alex-meyer-1,chen-aidan,mateo-halka,antoni-halka,107.92,2.9100000000000000e+02
+relay,RA200YM,2,antoni-halka,mateo-halka,chen-aidan,dan-fisher-502076,101.03,2.5500000000000000e+02,douglas-hansen,noah-abd,andrew-halka,clemente-brogca,107.33,2.0100000000000000e+02
+relay,RA400YM,2,lucas-abd,alex-meyer-1,will-hershfeld,ricardo-consano,199.38,3.6000000000000000e+02,dan-fisher-502076,cameron-morgan-2,vedanth-srinivasan,douglas-hansen,236.49,1.7400000000000000e+02

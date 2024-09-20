@@ -1,0 +1,11 @@
+lineup,hdr,3,396
+lineup,dat,I,A200,1,nico-giovanetti,147.49,0
+lineup,dat,I,E200,1,franco-giovanetti,159.57,6,2,jason-mele,180.94,0
+lineup,dat,I,A50,1,max-lauton,25.42,67,2,bobby-balchev,29.18,22
+lineup,dat,I,D100,1,max-lauton,69.16,29
+lineup,dat,I,A100,1,bobby-balchev,72.14,0,2,zak-azzana,77.7,0
+lineup,dat,I,A500,1,brady-witt,379.13,13
+lineup,dat,R,RA200,1,franco-giovanetti,nico-giovanetti,bobby-balchev,max-lauton,110.93,171
+lineup,dat,I,B100,1,franco-giovanetti,79.38,9,2,brady-witt,81.06,4
+lineup,dat,I,C100,1,zak-azzana,97.26,0,2,nico-giovanetti,80.53,23,3,jason-mele,80.76,22
+lineup,dat,R,RA400,1,brady-witt,bobby-balchev,jason-mele,nico-giovanetti,276.97,30

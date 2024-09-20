@@ -1,0 +1,13 @@
+lineup,hdr,3,2296.0
+lineup,dat,I,A200,1,derin-ozbas,106.28,115.0,2.0,john-eodice,115.32,82.0,3,ethan-myts,116.65,78.0
+lineup,dat,I,E200,1,veer-misra,120.84,107.0,2.0,laurent-banville,125.02,93.0,3,aaron-soybel,131.07,75.0
+lineup,dat,I,A50,1,joe-mcmheshey,21.38,132.0,2.0,jaden-wang,23.21,100.0,3,diego-burgos,23.75,91.0
+lineup,dat,I,D100,1,joe-mcmheshey,52.34,123.0,2.0,ryan-wargo-1,56.43,95.0,3,gavin-grouser,57.32,89.0
+lineup,dat,I,A100,1,derin-ozbas,48.55,116.0,2.0,jaden-wang,52.09,89.0,3,om-mahajan,52.15,89.0
+lineup,dat,I,A500,1,john-eodice,305.8,92.0,2.0,aaron-soybel,310.94,85.0,3,ethan-myts,313.37,82.0
+lineup,dat,I,B100,1,laurent-banville,56.99,100.0,2.0,ryan-wargo-1,59.78,85.0,3,om-mahajan,59.93,85.0
+lineup,dat,I,C100,1,veer-misra,61.46,112.0,2.0,kyle-colipano,64.62,94.0,3,viraj-misra,65.98,87.0
+relay,hdr,1926.0
+relay,RA200YM,2,derin-ozbas,jaden-wang,diego-burgos,joe-mcmheshey,90.36,366.0,sid-parvatrao,mark-ward,john-eodice,max-chen,98.01,285.0,651.0
+relay,RE200YM,2,om-mahajan,veer-misra,ryan-wargo-1,jaden-wang,103.48,333.0,laurent-banville,kyle-colipano,gavin-grouser,diego-burgos,106.34,306.0,639.0
+relay,RA400YM,2,derin-ozbas,john-eodice,veer-misra,joe-mcmheshey,199.77,357.0,max-chen,diego-burgos,om-mahajan,laurent-banville,214.15,279.0,636.0

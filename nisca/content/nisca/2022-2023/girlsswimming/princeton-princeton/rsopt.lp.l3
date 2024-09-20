@@ -1,0 +1,13 @@
+lineup,hdr,3,2169.0
+lineup,dat,I,A200,1,kyleigh-tangen,121.02,98.0,2.0,annie-flanagan,124.09,87.0,3,rachel-mcinerney,131.06,64.0
+lineup,dat,I,E200,1,courtney-weber-1,134.87,101.0,2.0,beatrice-cai,136.83,95.0,3,nia-zagar,138.97,88.0
+lineup,dat,I,A50,1,kyleigh-tangen,25.73,102.0,2.0,suri-skomra,27.01,82.0,3,nora-chen,27.87,70.0
+lineup,dat,I,D100,1,lauren-girouard,60.65,107.0,2.0,beatrice-cai,60.83,106.0,3,julia-godfrey,69.11,61.0
+lineup,dat,I,A100,1,annie-zhao-1,55.31,105.0,2.0,annie-flanagan,55.5,103.0,3,courtney-weber-1,57.58,87.0
+lineup,dat,I,A500,1,jessie-wang-1,324.5,97.0,2.0,sabine-ristad,325.91,95.0,3,rachel-mcinerney,345.48,70.0
+lineup,dat,I,B100,1,jessie-wang-1,62.67,94.0,2.0,sabine-ristad,64.15,85.0,3,lauren-girouard,64.13,85.0
+lineup,dat,I,C100,1,nia-zagar,68.61,113.0,2.0,annie-zhao-1,70.01,105.0,3,lola-jimenez,76.98,69.0
+relay,hdr,1698.0
+relay,RE200YF,2,sabine-ristad,nia-zagar,lauren-girouard,nora-chen,115.57,327.0,beatrice-cai,annie-zhao-1,julia-godfrey,suri-skomra,120.44,279.0,606.0
+relay,RA200YF,2,nia-zagar,annie-flanagan,annie-zhao-1,kyleigh-tangen,106.09,315.0,suri-skomra,nora-chen,emma-liu,vivian-lee-4,113.52,240.0,555.0
+relay,RA400YF,2,kyleigh-tangen,annie-flanagan,lauren-girouard,beatrice-cai,230.59,300.0,rachel-mcinerney,emma-liu,jessie-wang-1,sabine-ristad,242.21,237.0,537.0

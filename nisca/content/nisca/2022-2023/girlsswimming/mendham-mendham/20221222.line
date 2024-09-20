@@ -1,0 +1,15 @@
+lineup,hdr,3,285
+lineup,dat,R,RE200,1,veronica-szewczyk,brooke-pitluk,sofie-miltenburg,emma-prignano,147.76,69
+lineup,dat,R,RE200,2,leah-wagenbach,amelia-paone,elease-belenets,ruby-holmes,151.3,45
+lineup,dat,I,A200,1,analise-cardullo,159.57,0,2,julia-tasse,161.91,0
+lineup,dat,I,E200,1,emma-prignano,173.91,0
+lineup,dat,I,A50,1,julia-tasse,35.33,0,2,elease-belenets,29.47,49,3,lauryn-stevenson,45.58,0
+lineup,dat,I,D100,1,analise-cardullo,85.3,0,2,veronica-szewczyk,84.64,1
+lineup,dat,I,A100,1,brooke-pitluk,83.1,0,2,sofie-miltenburg,74.77,0,3,amelia-paone,81.06,0
+lineup,dat,I,A500,1,ruby-holmes,568.51,0,2,leah-wagenbach,456.03,0
+lineup,dat,R,RA200,1,brooke-pitluk,lauryn-stevenson,julia-tasse,leah-wagenbach,162.45,0
+lineup,dat,R,RA200,2,elease-belenets,sofie-miltenburg,analise-cardullo,emma-prignano,130.33,102
+lineup,dat,I,B100,1,amelia-paone,101.26,0,2,veronica-szewczyk,81.84,0
+lineup,dat,I,C100,1,emma-prignano,88.88,19
+lineup,dat,R,RA400,1,ruby-holmes,julia-tasse,amelia-paone,leah-wagenbach,397.59,0
+lineup,dat,R,RA400,2,analise-cardullo,brooke-pitluk,veronica-szewczyk,elease-belenets,316.93,0

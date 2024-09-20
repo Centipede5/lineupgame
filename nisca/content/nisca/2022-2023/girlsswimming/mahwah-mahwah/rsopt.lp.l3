@@ -1,0 +1,12 @@
+lineup,hdr,3,193.0
+lineup,dat,I,A200,1,molly-fear,147.01,20.0,,,,,,,,
+lineup,dat,I,E200,1,molly-fear,146.79,65.0,,,,,,,,
+lineup,dat,I,A50,1,ellie-meizys,29.1,53.0,2.0,marissa-jansen,32.52,14.0,,,,
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,ellie-meizys,65.13,38.0,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,ava-ufferfilge,93.82,3.0,,,,,,,,
+relay,hdr,210.0
+relay,RA200YF,1,turyana-varri,marissa-jansen,ellie-meizys,molly-fear,128.46,114.0,,,,,,,114.0
+relay,RE200YF,1,ellie-meizys,molly-fear,turyana-varri,marissa-jansen,143.51,96.0,,,,,,,96.0

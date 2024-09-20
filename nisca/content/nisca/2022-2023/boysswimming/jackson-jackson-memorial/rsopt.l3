@@ -1,0 +1,13 @@
+lineup,hdr,3,829
+lineup,dat,I,A200,1,josh-shufran,120.01,67,2,colin-davis-2,137.04,21,3,tyler-stein,141.04,11
+lineup,dat,I,E200,1,arden-brewster,158.28,8
+lineup,dat,I,A50,1,kyle-fosgreen,24.68,77,2,sebastian-bach,25.96,60,3,giedrius-makselis,26.26,56
+lineup,dat,I,D100,1,griffin-aronson,70.72,23,2,tyler-stein,74.95,6
+lineup,dat,I,A100,1,alexey-tselichtchev,51.13,96,2,colin-davis-2,58.65,47,3,alex-ariel,61.16,33
+lineup,dat,I,A500,1,josh-shufran,329.94,62
+lineup,dat,I,B100,1,kyle-fosgreen,66.28,55,2,griffin-aronson,72.68,31,3,elijah-bal,75.65,21
+lineup,dat,I,C100,1,alexey-tselichtchev,64.23,96,2,sebastian-bach,78.05,32,3,arden-brewster,79.45,27
+relay,hdr,1005
+relay,RE200YM,2,josh-shufran,alexey-tselichtchev,griffin-aronson,colin-davis-2,112.77,2.4900000000000000e+02,kyle-fosgreen,arden-brewster,tyler-stein,sameer-hamedeh,123.23,1.7100000000000000e+02
+relay,RA200YM,2,alexey-tselichtchev,colin-davis-2,griffin-aronson,alex-ariel,105.22,2.1900000000000000e+02,giedrius-makselis,tyler-stein,ryan-keely,nick-pearson-1,111.85,1.6500000000000000e+02
+relay,RA400YM,2,josh-shufran,robert-taylor-654573,kyle-fosgreen,sameer-hamedeh,241.26,1.5600000000000000e+02,christian-lucky,connor-spencer,giedrius-makselis,alex-ariel,271.82,4.5000000000000000e+01

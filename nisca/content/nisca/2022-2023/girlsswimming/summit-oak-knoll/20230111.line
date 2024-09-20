@@ -1,0 +1,15 @@
+lineup,hdr,3,523
+lineup,dat,R,RE200,1,clara-vales,ava-tiscornia,alanna-chobar,iman-ali,137.37,138
+lineup,dat,R,RE200,2,sarah-maher-1,mackenzie-motroni,keira-ardise,elizabeth-rogers,169.78,0
+lineup,dat,I,A200,1,kate-mccaffrey,190.07,0,2,mollie-ritter,175.45,0,3,desiree-mitchell-1,203,0
+lineup,dat,I,E200,1,mackenzie-motroni,203.59,0,2,iman-ali,150.41,55,3,clara-vales,173.98,0
+lineup,dat,I,A50,1,anne-egan,40.02,0,2,ava-tiscornia,28.42,62,3,elizabeth-rogers,32.11,18
+lineup,dat,I,D100,1,keira-ardise,103.44,0,2,alanna-chobar,76.95,28
+lineup,dat,I,A100,1,sarah-maher-1,83.18,0,2,mollie-ritter,71.59,3,3,kate-mccaffrey,84.28,0
+lineup,dat,I,A500,1,ava-tiscornia,421.13,0,2,iman-ali,349.49,65,3,alanna-chobar,422.66,0
+lineup,dat,R,RA200,1,mollie-ritter,elizabeth-rogers,keira-ardise,mackenzie-motroni,140.81,33
+lineup,dat,R,RA200,2,sarah-maher-1,anne-egan,desiree-mitchell-1,kate-mccaffrey,166.85,0
+lineup,dat,I,B100,1,elizabeth-rogers,86.65,0,2,anne-egan,122.94,0,3,sarah-maher-1,99.93,0
+lineup,dat,I,C100,1,mackenzie-motroni,88.99,19,2,clara-vales,89.3,18,3,keira-ardise,102.27,0
+lineup,dat,R,RA400,1,ava-tiscornia,alanna-chobar,clara-vales,iman-ali,275.58,84
+lineup,dat,R,RA400,2,kate-mccaffrey,anne-egan,desiree-mitchell-1,mollie-ritter,369.23,0

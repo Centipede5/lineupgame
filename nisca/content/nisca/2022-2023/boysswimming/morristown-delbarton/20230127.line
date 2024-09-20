@@ -1,0 +1,14 @@
+lineup,hdr,3,2409
+lineup,dat,R,RE200,1,jonny-lang,joseph-narduzzi,robert-alexy,kevin-lee-11,110.04,273
+lineup,dat,R,RE200,2,merric-hu,nicholas-yoo-1,michael-fialcowitz,finn-maguire,116.32,222
+lineup,dat,I,A200,1,jonah-kim-1,119.19,70,2,mark-sebastian,125.75,50,3,john-finkeldie,177.58,0
+lineup,dat,I,E200,1,femi-oshodi,134.79,64,2,jeffery-liu,151,24
+lineup,dat,I,A50,1,joseph-narduzzi,23.31,98,2,kevin-lee-11,25.21,70,3,finn-maguire,26.11,58
+lineup,dat,I,D100,1,robert-alexy,53.93,112,2,emmet-price,65.84,44,3,jonny-lang,73.97,10
+lineup,dat,I,A100,1,michael-fialcowitz,51.94,90,2,nicholas-yoo-1,55.5,66,3,brandon-low,57.01,57
+lineup,dat,I,A500,1,merric-hu,354.18,36,2,finn-maguire,383.27,10,3,owen-armstrong,433.83,0
+lineup,dat,R,RA200,1,kevin-lee-11,joseph-narduzzi,brandon-low,emmet-price,98.82,276
+lineup,dat,R,RA200,2,michael-fialcowitz,nicholas-yoo-1,mark-sebastian,jeffery-liu,99.92,267
+lineup,dat,I,B100,1,femi-oshodi,64.08,65,2,makovsky-alex,66.73,53,3,john-finkeldie,82.95,0
+lineup,dat,I,C100,1,michael-fialcowitz,67.22,80,2,jonah-kim-1,67.31,80,3,owen-armstrong,90.42,0
+lineup,dat,R,RA400,1,robert-alexy,brandon-low,emmet-price,jonny-lang,223.41,234

@@ -1,0 +1,13 @@
+lineup,hdr,3,647.0
+lineup,dat,I,A200,1,sean-robinson,112.36,93.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,nicholas-albano,28.04,34.0,2.0,hans-jaensch,29.18,22.0,3,exael-herrera,29.8,16.0
+lineup,dat,I,D100,1,raekwon-noel-deryck,50.57,136.0,2.0,priscilla-guerrero-sanchez,67.43,37.0,3,jayden-savage,71.84,18.0
+lineup,dat,I,A100,1,sean-robinson,50.05,104.0,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,raekwon-noel-deryck,51.76,133.0,2.0,priscilla-guerrero-sanchez,72.04,33.0,3,nicholas-albano,75.5,21.0
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,708.0
+relay,RE200YM,2,raekwon-noel-deryck,sean-robinson,priscilla-guerrero-sanchez,jayden-savage,113.74,243.0,calista-jaensch,emily-campagna,andrew-smith-23,hans-jaensch,141.7,60.0,303.0
+relay,RA200YM,2,priscilla-guerrero-sanchez,andrew-smith-23,hans-jaensch,jayden-savage,117.61,123.0,exael-herrera,cole-pridgen,calista-jaensch,nicholas-albano,120.69,102.0,225.0
+relay,RA400YM,1,sean-robinson,jayden-savage,andrew-smith-23,raekwon-noel-deryck,235.54,180.0,,,,,,,180.0

@@ -1,0 +1,17 @@
+lineup,hdr,3,488
+lineup,dat,I,A200,1,jan-przytula,133.11,30
+lineup,dat,I,E200
+lineup,dat,I,A50,1,andrew-russo-1,26.82,49,2,christopher-cena,26.81,49,3,luis-collazo-2,28.58,28
+lineup,dat,I,D100,1,omar-elhalo,71.65,19,2,robert-ochoa-1,74.73,7
+lineup,dat,I,A100,1,michal-drozd,54.12,75,2,robert-ochoa-1,59.63,41,3,jan-przytula,65.29,13
+lineup,dat,I,A500
+lineup,dat,I,B100,1,michal-drozd,64.2,64,2,christopher-cena,72.55,31,3,andrew-russo-1,75.45,21
+lineup,dat,I,C100,1,omar-elhalo,76.45,39,2,luis-collazo-2,80.84,22
+relay,hdr,1239
+relay,RE200YM,2,michal-drozd,gregory-moylan,luis-collazo-2,andrew-russo-1,100.23,3.6600000000000000e+02,youssef-hassan,ivan-borges-kushnir,noa-ramos-1,mohamed-ali-1,111.07,2.6400000000000000e+02
+relay,RA200YM,2,jawad-dawood,abanoub-youssef,guirguious-issa,gregory-moylan,99.61,2.7000000000000000e+02,robert-ochoa-1,luis-collazo-2,andrew-russo-1,christopher-cena,108.7,1.8900000000000000e+02
+relay,RA400YM,2,omar-elhalo,johan-williams,sebastian-reyes-7,josias-sanz,245.81,1.3800000000000000e+02,jan-przytula,youssef-hassan,noah-molesky,noa-ramos-1,282.76,1.2000000000000000e+01
+relay,hdr,1284
+relay,RE200YM,2,michal-drozd,gregory-moylan,luis-collazo-2,andrew-russo-1,100.23,3.6600000000000000e+02,youssef-hassan,ivan-borges-kushnir,noa-ramos-1,mohamed-ali-1,111.07,2.6400000000000000e+02
+relay,RA200YM,2,jawad-dawood,abanoub-youssef,guirguious-issa,gregory-moylan,99.61,2.7000000000000000e+02,michal-drozd,christopher-cena,omar-elhalo,robert-ochoa-1,110.8,1.7400000000000000e+02
+relay,RA400YM,2,omar-elhalo,johan-williams,sebastian-reyes-7,josias-sanz,245.81,1.3800000000000000e+02,andrew-russo-1,youssef-hassan,noah-molesky,christopher-cena,263.37,7.2000000000000000e+01

@@ -1,0 +1,13 @@
+lineup,hdr,3,992.0
+lineup,dat,I,A200,1,maddie-weaver,147.77,18.0,2.0,paula-zapateiro,154.76,1.0,,,,
+lineup,dat,I,E200,1,karen-kirkorian,143.34,75.0,2.0,paula-zapateiro,170.79,6.0,,,,
+lineup,dat,I,A50,1,ryan-zoelle,27.0,82.0,2.0,nicole-choi-596808,28.0,68.0,3,amelia-sileo,29.94,43.0
+lineup,dat,I,D100,1,karen-kirkorian,62.47,96.0,2.0,ryan-zoelle,68.59,64.0,3,emilia-liguori,82.64,8.0
+lineup,dat,I,A100,1,jessica-malocha,54.0,115.0,2.0,amanda-bramley,58.45,81.0,3,laila-shell,66.44,30.0
+lineup,dat,I,A500,1,maddie-weaver,401.82,11.0,,,,,,,,
+lineup,dat,I,B100,1,amanda-bramley,62.56,95.0,2.0,laila-shell,79.62,8.0,,,,
+lineup,dat,I,C100,1,jessica-malocha,67.52,120.0,2.0,nicole-choi-596808,82.06,46.0,3,juliet-cohen,87.44,25.0
+relay,hdr,885.0
+relay,RE200YF,2,amanda-bramley,jessica-malocha,ryan-zoelle,karen-kirkorian,116.44,318.0,maddie-weaver,juliet-cohen,emilia-liguori,nicole-choi-596808,140.0,120.0,438.0
+relay,RA400YF,1,karen-kirkorian,amanda-bramley,ryan-zoelle,jessica-malocha,236.65,267.0,,,,,,,267.0
+relay,RA200YF,2,laila-shell,maddie-weaver,emilia-liguori,nicole-choi-596808,120.83,174.0,juliet-cohen,juliana-vigilante,ava-zurbuch,amelia-sileo,145.13,6.0,180.0

@@ -1,0 +1,15 @@
+lineup,hdr,3,3552
+lineup,dat,R,RE200,1,mason-bushay,justin-yon,liam-kennedy-6,evan-falk,100.75,360
+lineup,dat,R,RE200,2,alex-savov,karim-aksenov,dan-tracey-599933,joe-russo-7,109.92,273
+lineup,dat,I,A200,1,zach-vassar,105.24,120,2,brian-falk,120.84,65,3,chris-pozza,132.63,32
+lineup,dat,I,E200,1,justin-yon,128.11,84,2,karim-aksenov,141.33,47,3,sam-smith-14,148.8,29
+lineup,dat,I,A50,1,liam-kennedy-6,22.74,107,2,evan-falk,23.26,99,3,dan-tracey-599933,24.38,81
+lineup,dat,I,D100,1,liam-kennedy-6,57.2,90,2,alex-savov,57.53,88,3,dan-tracey-599933,64,53
+lineup,dat,I,A100,1,mason-bushay,48.23,119,2,evan-falk,50.31,102,3,joe-russo-7,56.2,61
+lineup,dat,I,A500,1,zach-vassar,279.8,130,2,brian-falk,319.99,74,3,sam-smith-14,350.64,40
+lineup,dat,R,RA200,1,justin-yon,dan-tracey-599933,liam-kennedy-6,zach-vassar,94.88,318
+lineup,dat,R,RA200,2,karim-aksenov,ryan-kennedy-5,joe-russo-7,tyler-wimberg,103.22,237
+lineup,dat,I,B100,1,mason-bushay,53.53,121,2,alex-savov,56.53,103,3,chris-pozza,67.8,49
+lineup,dat,I,C100,1,justin-yon,65.04,92,2,karim-aksenov,70.56,64,3,grant-livingston,78.33,31
+lineup,dat,R,RA400,1,zach-vassar,evan-falk,alex-savov,mason-bushay,203.62,336
+lineup,dat,R,RA400,2,ryan-kennedy-5,tyler-wimberg,chris-pozza,evan-falk,243.31,147

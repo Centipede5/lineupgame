@@ -1,0 +1,15 @@
+lineup,hdr,3,2266
+lineup,dat,R,RE200,1,mckenna-jeans,colleen-gillen,amelia-condell,samantha-hagopian,137.61,138
+lineup,dat,R,RE200,2,lindsey-trela,gabby-suriani,alyssa-verducci,elaina-yick,144.75,87
+lineup,dat,I,A200,1,shea-trenery,120.09,101,2,carolyn-joe,127.74,75,3,jamie-trela,142.13,32
+lineup,dat,I,E200,1,ava-mustacciuolo,137.41,93,2,colleen-gillen,157.84,36,3,samantha-hagopian,153.35,47
+lineup,dat,I,A50,1,billie-sherratt,25.63,104,2,kiera-st-john,27.59,74,3,gabby-suriani,29.85,44
+lineup,dat,I,D100,1,shea-trenery,62.81,94,2,carolyn-joe,66.12,76,3,amelia-condell,72.15,48
+lineup,dat,I,A100,1,billie-sherratt,54.51,111,2,emma-amorim-vieira,64.84,39,3,lily-gaulin,70.06,11
+lineup,dat,I,A500,1,kiera-st-john,349.15,65,2,colleen-gillen,356.03,57,3,lindsey-trela,408.71,5
+lineup,dat,R,RA200,1,ava-mustacciuolo,billie-sherratt,kiera-st-john,shea-trenery,106.04,315
+lineup,dat,R,RA200,2,carolyn-joe,emma-amorim-vieira,amelia-condell,colleen-gillen,117.74,201
+lineup,dat,I,B100,1,ava-mustacciuolo,62.07,98,2,mckenna-jeans,72,42,3,alyssa-verducci,82.84,0
+lineup,dat,I,C100,1,samantha-hagopian,80.2,54,2,gabby-suriani,80.19,54,3,elaina-yick,99.96,0
+lineup,dat,R,RA400,1,carolyn-joe,emma-amorim-vieira,amelia-condell,jamie-trela,259.42,153
+lineup,dat,R,RA400,2,mckenna-jeans,lily-gaulin,lindsey-trela,alyssa-verducci,294.84,12

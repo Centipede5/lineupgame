@@ -1,0 +1,13 @@
+lineup,hdr,3,541.0
+lineup,dat,I,A200,1,emma-lazier,133.87,55.0,2.0,addison-cabrera-1,148.02,17.0,3,kyra-birchenough,153.61,4.0
+lineup,dat,I,E200,1,mackenzie-larue,161.71,26.0,2.0,madeline-crowell,170.92,6.0,,,,
+lineup,dat,I,A50,1,victoria-kozlak-1,28.3,64.0,2.0,faith-postma,29.47,49.0,3,mia-grisaffi,31.19,28.0
+lineup,dat,I,D100,1,victoria-kozlak-1,72.72,45.0,2.0,addison-cabrera-1,77.76,25.0,,,,
+lineup,dat,I,A100,1,emma-lazier,64.93,39.0,2.0,faith-postma,67.83,22.0,3,kyra-birchenough,69.09,16.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,madeline-crowell,80.55,52.0,2.0,mia-grisaffi,80.95,51.0,3,mackenzie-larue,82.97,42.0
+relay,hdr,624.0
+relay,RA200YF,2,mia-grisaffi,faith-postma,madeline-crowell,victoria-kozlak-1,122.36,162.0,kyra-birchenough,mackenzie-larue,addison-cabrera-1,fiona-gordon,127.71,120.0,282.0
+relay,RE200YF,2,faith-postma,madeline-crowell,addison-cabrera-1,emma-lazier,135.23,153.0,elizabeth-byra,mia-grisaffi,audrey-newsome,fiona-gordon,143.91,93.0,246.0
+relay,RA400YF,1,victoria-kozlak-1,emma-lazier,mackenzie-larue,kyra-birchenough,272.34,96.0,,,,,,,96.0

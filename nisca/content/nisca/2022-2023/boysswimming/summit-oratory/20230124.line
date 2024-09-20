@@ -1,0 +1,15 @@
+lineup,hdr,3,2446
+lineup,dat,R,RE200,1,dylan-zwally,paul-knecht,brice-spreeman,charlie-kline,110.8,267
+lineup,dat,R,RE200,2,luis-cueva,ronan-hamon,cathal-hislop,jack-larkin-610950,119.13,201
+lineup,dat,I,A200,1,charlie-kline,112.74,91,2,luke-gardner-1,122.75,59,3,ahadu-kebede,200.09,0
+lineup,dat,I,E200,1,paul-knecht,124.71,94,2,cathal-hislop,147.19,32,3,charlie-kline,138.46,54
+lineup,dat,I,A50,1,jack-larkin-610950,25.91,60,2,brice-spreeman,24.95,73,3,tim-gardner-1,31.5,0
+lineup,dat,I,D100,1,henry-crowther,57.9,86,2,dylan-zwally,58.96,80,3,aidan-wizeman,75.59,4
+lineup,dat,I,A100,1,will-foucher-1,50.5,101,2,conor-hefernan,55.59,65,3,ahadu-kebede,88.08,0
+lineup,dat,I,A500,1,brice-spreeman,340.8,50,2,ronan-hamon,412.29,0,3,ben-fernandoe,356.99,33
+lineup,dat,R,RA200,1,henry-crowther,charlie-kline,luke-gardner-1,will-foucher-1,97.69,288
+lineup,dat,R,RA200,2,jack-larkin-610950,luis-cueva,dylan-zwally,conor-hefernan,106.06,213
+lineup,dat,I,B100,1,conor-hefernan,68.47,46,2,luis-cueva,71.2,36,3,henry-crowther,66.59,54
+lineup,dat,I,C100,1,ben-fernandoe,78.98,29,2,aidan-wizeman,83.5,13,3,tim-gardner-1,111.11,0
+lineup,dat,R,RA400,1,paul-knecht,brice-spreeman,henry-crowther,will-foucher-1,224.69,228
+lineup,dat,R,RA400,2,conor-hefernan,ben-fernandoe,cathal-hislop,luke-gardner-1,233,189

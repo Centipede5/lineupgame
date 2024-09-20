@@ -1,0 +1,15 @@
+lineup,hdr,3,585
+lineup,dat,R,RE200,1,timothy-brown-1,joshua-catta-preta,lucas-pagoto-santos,caio-brito,131.11,120
+lineup,dat,R,RE200,2,chonn-hinton,elizaveta-silifonova,beatriz-jardim,daniel-wade,154.34,0
+lineup,dat,I,A200,1,daniel-wade,147.22,0,2,lian-diaz,155.43,0
+lineup,dat,I,E200,1,lucas-pagoto-santos,147.34,32,2,brenda-netto,175.78,0
+lineup,dat,I,A50,1,caio-brito,26.54,52,2,angielyn-sanchez,34.21,0
+lineup,dat,I,D100,1,timothy-brown-1,65.31,46,2,gabriel-pifano,97.09,0
+lineup,dat,I,A100,1,beatriz-jardim,73.53,0,2,jocette-rosario,86.75,0
+lineup,dat,I,A500,1,lian-diaz,465.56,0,2,joshua-catta-preta,485.44,0
+lineup,dat,R,RA200,1,caio-brito,daniel-wade,lucas-pagoto-santos,timothy-brown-1,106.32,210
+lineup,dat,R,RA200,2,elizaveta-silifonova,chonn-hinton,beatriz-jardim,gabriel-pifano,129.21,51
+lineup,dat,I,B100,1,jaylen-browne,94.44,0,2,brenda-netto,89.76,0
+lineup,dat,I,C100,1,elizaveta-silifonova,93.12,0,2,joshua-catta-preta,94.45,0,3,christopher-cepedes,87,2
+lineup,dat,R,RA400,1,lucas-pagoto-santos,daniel-wade,caio-brito,timothy-brown-1,263.81,72
+lineup,dat,R,RA400,2,chonn-hinton,beatriz-jardim,lian-diaz,zarahi-rodriguez,295.41,0

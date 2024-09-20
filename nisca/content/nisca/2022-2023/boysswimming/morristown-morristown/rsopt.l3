@@ -1,0 +1,16 @@
+lineup,hdr,3,1180
+lineup,dat,I,A200,1,jack-macmillan,112.32,93,2,jack-cotnoir,123.29,57,3,paul-eberhardt,139.47,15
+lineup,dat,I,E200,1,jack-macmillan,125.14,93,2,andrew-kosiak,140.44,49,3,joshua-susanto,158.54,8
+lineup,dat,I,A50,1,lincoln-stuek-1,22.38,114,2,owen-barone,23.6,93,3,nicholas-heusel,26.95,47
+lineup,dat,I,D100,1,jack-cotnoir,61.56,65,2,james-rodas-2,70.33,24,3,andrew-alexopoulas,74.12,9
+lineup,dat,I,A100,1,ben-goroway,52.11,89,2,owen-barone,54.12,75,3,paul-eberhardt,61.85,30
+lineup,dat,I,A500
+lineup,dat,I,B100,1,ben-goroway,58.92,90,2,andrew-kosiak,64.65,62,3,andrew-alexopoulas,75.73,21
+lineup,dat,I,C100,1,lincoln-stuek-1,64.48,95,2,james-rodas-2,77.92,33,3,joshua-susanto,82.11,18
+relay,hdr,1107
+relay,RE200YM,2,ben-goroway,jack-macmillan,lincoln-stuek-1,owen-barone,102.32,3.4500000000000000e+02,andrew-kosiak,james-rodas-2,andrew-alexopoulas,paul-eberhardt,122.17,1.7700000000000000e+02
+relay,RA200YM,2,jack-macmillan,owen-barone,ben-goroway,lincoln-stuek-1,91.72,3.5100000000000000e+02,andrew-kosiak,andrew-alexopoulas,james-rodas-2,jack-cotnoir,103.48,2.3400000000000000e+02
+relay,hdr,1191
+relay,RE200YM,2,ben-goroway,jack-macmillan,lincoln-stuek-1,owen-barone,102.32,3.4500000000000000e+02,andrew-kosiak,james-rodas-2,andrew-alexopoulas,paul-eberhardt,122.17,1.7700000000000000e+02
+relay,RA200YM,2,jack-macmillan,owen-barone,ben-goroway,lincoln-stuek-1,91.72,3.5100000000000000e+02,paul-eberhardt,joshua-susanto,andrew-alexopoulas,jack-cotnoir,110.9,1.7100000000000000e+02
+relay,RA400YM,1,jack-cotnoir,andrew-kosiak,joshua-susanto,james-rodas-2,243.39,1.4700000000000000e+02

@@ -1,0 +1,12 @@
+lineup,hdr,3,805
+lineup,dat,I,A200,1,peter-jarzab,114.02,87
+lineup,dat,I,E200,1,gabriel-dudley,159.43,6
+lineup,dat,I,A50,1,amadeusz-komajda,26.03,59,2,adam-zieba,28.99,24,3,dylan-garcia-1,28.97,24
+lineup,dat,I,D100,1,peter-jarzab,55.21,103,2,filip-salek,58.38,83,3,gabriel-ferreira-541290,64.16,52
+lineup,dat,I,A100,1,marleigh-mcdonald,61.44,32,2,amadeusz-komajda,61.63,31,3,alejandro-quesada,62,29
+lineup,dat,I,A500
+lineup,dat,I,B100,1,gabriel-ferreira-541290,60.2,83,2,marleigh-mcdonald,70.3,39,3,gabriela-martinez,80.22,7
+lineup,dat,I,C100,1,filip-salek,61.84,110,2,alejandro-quesada,77.18,36
+relay,hdr,687
+relay,RE200YM,2,marleigh-mcdonald,alejandro-quesada,filip-salek,gabriel-ferreira-541290,115.36,2.2800000000000000e+02,gabriela-martinez,amadeusz-komajda,andrew-velarde,dylan-garcia-1,137.34,8.1000000000000000e+01
+relay,RA200YM,2,gabriel-ferreira-541290,amadeusz-komajda,peter-jarzab,filip-salek,99.78,2.6700000000000000e+02,andrew-velarde,adam-zieba,alejandro-quesada,dylan-garcia-1,119.62,1.1100000000000000e+02

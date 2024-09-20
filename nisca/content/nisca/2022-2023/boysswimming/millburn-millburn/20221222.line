@@ -1,0 +1,15 @@
+lineup,hdr,3,1505
+lineup,dat,R,RE200,1,jonah-ladetsky,david-dedic,jayden-gulati,brandon-qiao,132.12,114
+lineup,dat,R,RE200,2,adam-assina,hayden-lin,timothy-shi,bayllen-li,125.86,153
+lineup,dat,I,A200,1,adam-assina,138.91,16,2,shreyas-chauhan,122.47,60,3,neel-ahuja,145.19,2
+lineup,dat,I,E200,1,orion-palumbo,161.41,2,2,john-allyn-2,142.54,44,3,jayden-gulati,160.44,4
+lineup,dat,I,A50,1,matthew-qiao,29.72,17,2,jonah-ladetsky,29.02,24,3,timothy-tham,27.92,36
+lineup,dat,I,D100,1,neel-ahuja,77.56,0,2,hayden-lin,59.81,75,3,orion-palumbo,76.39,1
+lineup,dat,I,A100,1,becker-kotob,68.5,0,2,david-dedic,62.73,25,3,brandon-qiao,67.44,3
+lineup,dat,I,A500,1,timothy-shi,324.2,69,2,john-allyn-2,352.32,38,3,yuno-lee,382.69,10
+lineup,dat,R,RA200,1,jonah-ladetsky,matthew-qiao,becker-kotob,shreyas-chauhan,116.34,132
+lineup,dat,R,RA200,2,bayllen-li,david-dedic,timothy-tham,orion-palumbo,116.4,132
+lineup,dat,I,B100,1,shreyas-chauhan,58.07,94,2,hayden-lin,57.85,96,3,jayden-gulati,75.09,23
+lineup,dat,I,C100,1,brandon-qiao,87.38,0,2,timothy-shi,84.41,10,3,adam-assina,73.97,49
+lineup,dat,R,RA400,1,neel-ahuja,bayllen-li,adam-assina,yuno-lee,261.78,78
+lineup,dat,R,RA400,2,john-allyn-2,timothy-shi,hayden-lin,shreyas-chauhan,231.22,198

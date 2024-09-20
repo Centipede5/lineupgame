@@ -1,0 +1,13 @@
+lineup,hdr,3,148
+lineup,dat,I,A200,1,nady-abdelmesih,131.54,34
+lineup,dat,I,E200,1,moad-berlarbi,145.47,36
+lineup,dat,I,A50,1,adam-alehiane,28.69,27,2,angel-salamanca,30.02,14,3,moad-berlarbi,30.85,6
+lineup,dat,I,D100
+lineup,dat,I,A100,1,adam-alehiane,65.8,10
+lineup,dat,I,A500,1,nady-abdelmesih,373.11,18
+lineup,dat,I,B100,1,angel-salamanca,81.77,3
+lineup,dat,I,C100
+relay,hdr,906
+relay,RE200YM,1,nady-abdelmesih,moad-berlarbi,angel-salamanca,adam-alehiane,107.08,3.0000000000000000e+02
+relay,RA200YM,1,jayden-martinez-5,aidan-araza,janeris-cada,ethan-ramos-661665,103.2,2.3700000000000000e+02
+relay,RA400YM,1,nady-abdelmesih,adam-alehiane,angel-salamanca,moad-berlarbi,198.02,3.6900000000000000e+02

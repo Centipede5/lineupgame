@@ -1,0 +1,12 @@
+lineup,hdr,3,48.0
+lineup,dat,I,A200,1,celia-santarsiero,146.4,21.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,emma-matthews-2,32.65,13.0,,,,,,,,
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,addison-mindas,71.65,3.0,,,,,,,,
+lineup,dat,I,A500,1,celia-santarsiero,401.8,11.0,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,201.0
+relay,RA200YF,2,lily-guzikowski,mareena-ferraiuolo,addison-mindas,celia-santarsiero,131.03,96.0,tatianna-febles-perez,brooke-mcginley-1,emma-matthews-2,olivia-kurtz,138.89,45.0,141.0
+relay,RE200YF,1,brielle-speck,addison-mindas,mareena-ferraiuolo,ena-stevens,148.94,60.0,,,,,,,60.0

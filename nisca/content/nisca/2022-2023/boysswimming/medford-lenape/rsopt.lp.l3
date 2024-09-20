@@ -1,0 +1,13 @@
+lineup,hdr,3,1118.0
+lineup,dat,I,A200,1,sawyer-lanni,113.34,89.0,2.0,jacob-swann-2,138.82,16.0,3,andrew-zangara,140.12,13.0
+lineup,dat,I,E200,1,vincent-vizzard,128.87,81.0,,,,,,,,
+lineup,dat,I,A50,1,brett-rowe,24.05,86.0,2.0,david-filip,25.2,70.0,3,william-buniva,28.26,32.0
+lineup,dat,I,D100,1,noah-hyun,60.09,73.0,2.0,justin-hermack,61.63,65.0,3,jacob-swann-2,65.84,44.0
+lineup,dat,I,A100,1,brett-rowe,54.14,75.0,2.0,carson-cristella,63.65,21.0,3,william-buniva,64.31,17.0
+lineup,dat,I,A500,1,vincent-vizzard,308.14,89.0,,,,,,,,
+lineup,dat,I,B100,1,sawyer-lanni,58.01,95.0,2.0,justin-hermack,66.93,53.0,3,alex-elamthuruthy,73.27,29.0
+lineup,dat,I,C100,1,noah-hyun,65.48,89.0,2.0,david-filip,70.05,66.0,3,justin-coffman,82.84,15.0
+relay,hdr,1299.0
+relay,RE200YM,2,noah-hyun,brett-rowe,justin-hermack,david-filip,110.86,267.0,andrew-zangara,justin-coffman,alex-elamthuruthy,carson-cristella,117.75,210.0,477.0
+relay,RA200YM,2,sawyer-lanni,david-filip,noah-hyun,vincent-vizzard,100.46,261.0,alex-elamthuruthy,william-buniva,carson-cristella,jacob-swann-2,110.95,171.0,432.0
+relay,RA400YM,2,vincent-vizzard,justin-hermack,brett-rowe,sawyer-lanni,212.55,288.0,alex-elamthuruthy,jacob-swann-2,andrew-zangara,carson-cristella,255.54,102.0,390.0

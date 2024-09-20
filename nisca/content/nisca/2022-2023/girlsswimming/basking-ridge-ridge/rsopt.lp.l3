@@ -1,0 +1,13 @@
+lineup,hdr,3,2295.0
+lineup,dat,I,A200,1,emily-wang-499195,114.45,123.0,2.0,samantha-oei,123.85,88.0,3,charlotte-geary,129.51,69.0
+lineup,dat,I,E200,1,emily-thompson-6,120.38,156.0,2.0,eszter-kiss,132.88,108.0,3,arissa-xiang,141.97,79.0
+lineup,dat,I,A50,1,giulia-beverini,25.06,113.0,2.0,maggie-luo,26.45,91.0,3,amelia-ellis,26.52,89.0
+lineup,dat,I,D100,1,emily-thompson-6,54.18,151.0,2.0,kinga-kiss,63.28,92.0,3,victoria-doucette,63.26,92.0
+lineup,dat,I,A100,1,eszter-kiss,53.85,117.0,2.0,maggie-luo,58.66,79.0,3,amelia-ellis,60.09,69.0
+lineup,dat,I,A500,1,emily-wang-499195,313.2,113.0,2.0,samantha-oei,330.62,89.0,3,niamh-osullivan,353.7,60.0
+lineup,dat,I,B100,1,giulia-beverini,62.1,98.0,2.0,victoria-doucette,64.36,84.0,3,arissa-xiang,66.88,69.0
+lineup,dat,I,C100,1,kinga-kiss,72.33,92.0,2.0,niamh-osullivan,72.56,91.0,3,charlotte-geary,74.13,83.0
+relay,hdr,1911.0
+relay,RE200YF,2,emily-wang-499195,emily-thompson-6,eszter-kiss,giulia-beverini,110.43,381.0,victoria-doucette,niamh-osullivan,kinga-kiss,maggie-luo,114.47,339.0,720.0
+relay,RA400YF,2,emily-wang-499195,samantha-oei,eszter-kiss,emily-thompson-6,220.02,363.0,keerthana-gopinath,emma-wallach,natalie-lake,anya-knudsen,237.8,258.0,621.0
+relay,RA200YF,2,giulia-beverini,samantha-oei,amelia-ellis,maggie-luo,105.95,315.0,niamh-osullivan,charlotte-geary,keerthana-gopinath,vivian-shen,111.91,255.0,570.0

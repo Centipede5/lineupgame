@@ -1,0 +1,13 @@
+lineup,hdr,3,1218
+lineup,dat,R,RE200,1,bobby-schmalzigan,aiden-rutz,duncan-abbott,george-urquhart,118.05,207
+lineup,dat,I,A200,1,duncan-abbott,134.34,27,2,bobby-schmalzigan,121.6,62
+lineup,dat,I,E200,1,jonathan-harvey,162.71,0
+lineup,dat,I,A50,1,daniel-denisov,28.84,26,2,george-urquhart,29.44,19
+lineup,dat,I,D100,1,raghav-dutt,62.43,61,2,duncan-abbott,60.95,68
+lineup,dat,I,A100,1,daniel-denisov,64.45,17,2,aiden-rutz,57.68,53
+lineup,dat,I,A500,1,eli-carlsruh,327.61,65
+lineup,dat,R,RA200,1,jonathan-harvey,raghav-dutt,daniel-denisov,eli-carlsruh,117.97,120
+lineup,dat,I,B100,1,raghav-dutt,79.61,9,2,jonathan-harvey,79.39,9,3,george-urquhart,71.68,34
+lineup,dat,I,C100,1,aiden-rutz,70.98,62,2,bobby-schmalzigan,65.64,88
+lineup,dat,R,RA400,1,jonathan-harvey,daniel-denisov,raghav-dutt,george-urquhart,264.82,69
+lineup,dat,R,RA400,2,duncan-abbott,eli-carlsruh,bobby-schmalzigan,aiden-rutz,225.89,222

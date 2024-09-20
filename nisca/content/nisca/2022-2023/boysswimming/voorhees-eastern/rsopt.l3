@@ -1,0 +1,17 @@
+lineup,hdr,3,1703
+lineup,dat,I,A200,1,riley-smith-6,111.75,95,2,bennett-kutikov,123.53,56,3,jonah-richardson,130.08,38
+lineup,dat,I,E200,1,josh-seidman,117.01,121,2,ryan-witts,131.13,74,3,jonah-kutikov,139.36,52
+lineup,dat,I,A50,1,rocco-mann,22.3,115,2,thomas-keating,25.47,66,3,jayden-ebstein,25.69,63
+lineup,dat,I,D100,1,josh-seidman,52.15,124,2,rocco-mann,55.32,102,3,justin-kravitz,62.86,58
+lineup,dat,I,A100,1,aaron-jost,54.96,69,2,jayden-ebstein,56.53,59,3,jonah-richardson,58.41,48
+lineup,dat,I,A500,1,ryan-witts,320.14,74,2,bennett-kutikov,333.05,59,3,ryan-bedi,356.63,34
+lineup,dat,I,B100,1,aaron-jost,60.83,80,2,evan-chernyanko,65.75,58,3,tristan-schneider,67.22,51
+lineup,dat,I,C100,1,riley-smith-6,63.26,102,2,jonah-kutikov,70.76,63,3,daehui-yi,75.48,42
+relay,hdr,1395
+relay,RE200YM,2,josh-seidman,riley-smith-6,rocco-mann,ryan-witts,101.82,3.5100000000000000e+02,aaron-jost,daehui-yi,justin-kravitz,thomas-keating,116.93,2.1600000000000000e+02
+relay,RA200YM,2,ryan-witts,aaron-jost,riley-smith-6,rocco-mann,96.92,2.9700000000000000e+02,jayden-ebstein,jonah-richardson,thomas-keating,bennett-kutikov,101.77,2.4900000000000000e+02
+relay,RA400YM,2,jayden-ebstein,ryan-bedi,evan-chernyanko,bennett-kutikov,240.96,1.5600000000000000e+02,thomas-keating,justin-kravitz,tristan-schneider,jonah-kutikov,248.48,1.2600000000000000e+02
+relay,hdr,1557
+relay,RE200YM,2,josh-seidman,riley-smith-6,rocco-mann,ryan-witts,101.82,3.5100000000000000e+02,aaron-jost,daehui-yi,justin-kravitz,thomas-keating,116.93,2.1600000000000000e+02
+relay,RA200YM,2,jayden-ebstein,jonah-richardson,thomas-keating,bennett-kutikov,101.77,2.4900000000000000e+02,ethan-shekhter,tristan-schneider,justin-kravitz,matt-tenberg,107.35,2.0100000000000000e+02
+relay,RA400YM,2,ryan-witts,riley-smith-6,rocco-mann,josh-seidman,202.73,3.4200000000000000e+02,jonah-kutikov,jonah-richardson,bennett-kutikov,aaron-jost,231.05,1.9800000000000000e+02

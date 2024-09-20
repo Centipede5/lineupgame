@@ -1,0 +1,13 @@
+lineup,hdr,3,1356.0
+lineup,dat,I,A200,1,hamish-wilson-webb,110.81,98.0,2.0,mason-keith-1,114.7,84.0,3,doug-pietruski,142.1,9.0
+lineup,dat,I,E200,1,luke-robinson-1,133.27,68.0,2.0,nate-martin-1,150.91,24.0,3,lucas-dupre,152.34,21.0
+lineup,dat,I,A50,1,william-yarde,25.3,68.0,2.0,roman-sullivan,26.17,57.0,3,joseph-kerner,26.35,55.0
+lineup,dat,I,D100,1,meda-dylan,60.64,70.0,2.0,henry-herbst-1,62.33,61.0,3,joseph-kerner,71.02,21.0
+lineup,dat,I,A100,1,mason-keith-1,49.88,106.0,2.0,william-yarde,57.5,54.0,3,doug-pietruski,61.38,32.0
+lineup,dat,I,A500,1,hamish-wilson-webb,320.91,73.0,2.0,yael-ben-aldi,338.95,52.0,3,meda-dylan,342.59,48.0
+lineup,dat,I,B100,1,yael-ben-aldi,60.07,84.0,2.0,henry-herbst-1,62.42,72.0,3,roman-sullivan,73.72,27.0
+lineup,dat,I,C100,1,luke-robinson-1,66.0,87.0,2.0,nate-martin-1,70.78,63.0,3,rod-martin,80.95,22.0
+relay,hdr,1233.0
+relay,RA200YM,2,hamish-wilson-webb,yael-ben-aldi,luke-robinson-1,mason-keith-1,95.24,312.0,nic-stellini,roman-sullivan,egan-ryan,meda-dylan,108.1,195.0,507.0
+relay,RA400YM,2,henry-herbst-1,nate-martin-1,meda-dylan,william-yarde,231.27,198.0,hamish-wilson-webb,yael-ben-aldi,luke-robinson-1,mason-keith-1,236.19,177.0,375.0
+relay,RE200YM,2,william-yarde,henry-herbst-1,rod-martin,roman-sullivan,119.82,195.0,doug-pietruski,nate-martin-1,joseph-kerner,finn-ryan-1,125.1,156.0,351.0

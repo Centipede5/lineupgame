@@ -1,0 +1,15 @@
+lineup,hdr,3,2104
+lineup,dat,R,RE200,1,james-haney,john-sahl-1,tommy-pham,kyle-graybill-3,101.42,354
+lineup,dat,R,RE200,2,jason-lieu,aaron-simpson-1,tommy-pham,jake-downing-2,122.6,174
+lineup,dat,I,A200,1,jake-downing-2,146.34,0,2,aaron-simpson-1,158.41,0,3,jackson-barrie,173.51,0
+lineup,dat,I,E200,1,jason-lieu,136.71,59,2,john-bulthuis-1,119.71,111
+lineup,dat,I,A50,1,tommy-pham,24.62,78,2,blaise-kurtz-1,26.87,48,3,josh-weinstock-1,32.11,0
+lineup,dat,I,D100,1,james-haney,51.92,126,2,kyle-graybill-3,66.89,39,3,jason-lieu,62.78,59
+lineup,dat,I,A100,1,john-sahl-1,49.79,106,2,jimmy-walsh-652977,59.8,40,3,brendan-cahill,65.36,12
+lineup,dat,I,A500,1,tommy-pham,352.61,38,2,john-bulthuis-1,394.85,0,3,jimmy-downing-2,383.01,10
+lineup,dat,R,RA200,1,brendan-cahill,josh-weinstock-1,jake-downing-2,jimmy-walsh-652977,112.37,162
+lineup,dat,R,RA200,2,aaron-simpson-1,jackson-barrie,omar-dewiar-1,jimmy-downing-2,118.64,117
+lineup,dat,I,B100,1,john-sahl-1,57.91,95,2,kyle-graybill-3,67.12,52,3,josh-weinstock-1,85.78,0
+lineup,dat,I,C100,1,james-haney,62.48,106,2,aaron-simpson-1,77.77,33,3,blaise-kurtz-1,89.37,0
+lineup,dat,R,RA400,1,kyle-graybill-3,jason-lieu,jake-downing-2,james-haney,234.18,186
+lineup,dat,R,RA400,2,john-sahl-1,tommy-pham,jimmy-walsh-652977,blaise-kurtz-1,255.84,99

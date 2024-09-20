@@ -1,0 +1,13 @@
+lineup,hdr,3,549.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,carina-costa,148.88,59.0,2.0,abagale-ranger,156.94,38.0,,,,
+lineup,dat,I,A50,1,kyla-richardson,27.42,76.0,2.0,tiffany-tran-521412,28.03,67.0,3,cate-laroche,29.32,50.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,tiffany-tran-521412,63.33,48.0,2.0,jade-mccoy,63.87,45.0,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,jade-mccoy,72.16,41.0,2.0,cate-laroche,76.67,21.0,,,,
+lineup,dat,I,C100,1,carina-costa,75.33,77.0,2.0,cece-capone,86.76,27.0,,,,
+relay,hdr,1038.0
+relay,RE200YF,2,jade-mccoy,carina-costa,abagale-ranger,kyla-richardson,118.56,297.0,cate-laroche,cece-capone,adrienna-foo,addison-maulone,136.9,141.0,438.0
+relay,RA200YF,2,tiffany-tran-521412,abagale-ranger,carina-costa,kyla-richardson,100.4,381.0,melanie-barahona,adrienna-foo,cece-capone,addison-maulone,138.73,45.0,426.0
+relay,RA400YF,2,kyla-richardson,abagale-ranger,cate-laroche,jade-mccoy,262.12,141.0,ava-mokienko,alexandria-simons,cece-capone,tiffany-tran-521412,288.93,33.0,174.0

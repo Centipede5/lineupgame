@@ -1,0 +1,15 @@
+lineup,hdr,3,1146
+lineup,dat,R,RE200,1,dylan-bucci,harrison-gelpke-1,joseph-doughney,ben-eventov,128.74,135
+lineup,dat,R,RE200,2,nick-celetano,greg-noll-1,devin-parry,aidan-parry,128.99,132
+lineup,dat,I,A200,1,luke-mcgrath,166.45,0,2,christian-destounis,121.66,62,3,declan-turbitt,170.38,0
+lineup,dat,I,E200,1,conor-mulharen,163.72,0,2,greg-noll-1,146.99,33,3,jacob-valle,168.15,0
+lineup,dat,I,A50,1,devin-parry,27.19,44,2,aidan-parry,27.21,44,3,dylan-bucci,26.7,50
+lineup,dat,I,D100,1,luke-mcgrath,76.48,1,2,christian-destounis,59.02,79,3,declan-turbitt,66.65,40
+lineup,dat,I,A100,1,devin-parry,62.35,27,2,aidan-parry,61.95,29,3,ben-eventov,63,24
+lineup,dat,I,A500,1,harrison-gelpke-1,439.94,0
+lineup,dat,R,RA200,1,declan-turbitt,luke-mcgrath,conor-mulharen,ben-eventov,118.3,120
+lineup,dat,R,RA200,2,aidan-parry,devin-parry,joseph-doughney,christian-destounis,119.45,111
+lineup,dat,I,B100,1,greg-noll-1,74.54,24,2,nick-celetano,64.75,62
+lineup,dat,I,C100,1,nick-celetano,79.47,27,2,declan-turbitt,84.78,9
+lineup,dat,R,RA400,1,christian-destounis,joseph-doughney,greg-noll-1,nick-celetano,257.78,93
+lineup,dat,R,RA400,2,anthony-petrucci,luke-mcgrath,conor-mulharen,harrison-gelpke-1,295.8,0

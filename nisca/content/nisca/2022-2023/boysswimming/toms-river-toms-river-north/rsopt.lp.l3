@@ -1,0 +1,13 @@
+lineup,hdr,3,768.0
+lineup,dat,I,A200,1,adam-mekrami,115.47,82.0,2.0,gabriel-vasslides,126.29,49.0,,,,
+lineup,dat,I,E200,1,steven-myslinski-benitiz,147.28,32.0,2.0,andreas-psillos,156.74,11.0,,,,
+lineup,dat,I,A50,1,andreas-psillos,25.49,66.0,2.0,ryan-wismar,26.58,52.0,3,braden-harmer-1,26.81,49.0
+lineup,dat,I,D100,1,gabriel-vasslides,64.65,49.0,,,,,,,,
+lineup,dat,I,A100,1,vladyk-zaytev,55.95,63.0,2.0,ryan-wismar,60.2,38.0,3,blake-jankowski-1,60.33,38.0
+lineup,dat,I,A500,1,adam-mekrami,302.32,96.0,,,,,,,,
+lineup,dat,I,B100,1,steven-myslinski-benitiz,64.26,64.0,2.0,blake-jankowski-1,77.65,15.0,3,josh-payne-1,80.15,7.0
+lineup,dat,I,C100,1,vladyk-zaytev,75.68,42.0,2.0,rj-offenburger,82.84,15.0,,,,
+relay,hdr,762.0
+relay,RA200YM,2,vladyk-zaytev,ryan-wismar,blake-jankowski-1,andreas-psillos,104.83,222.0,rj-offenburger,dwight-perez,dave-pavao,josh-payne-1,120.86,102.0,324.0
+relay,RE200YM,1,adam-mekrami,vladyk-zaytev,gabriel-vasslides,steven-myslinski-benitiz,116.25,222.0,,,,,,,222.0
+relay,RA400YM,2,steven-myslinski-benitiz,gabriel-vasslides,adam-mekrami,blake-jankowski-1,233.01,189.0,braden-harmer-1,rj-offenburger,andreas-psillos,dave-pavao,277.39,27.0,216.0

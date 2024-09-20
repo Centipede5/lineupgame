@@ -1,0 +1,15 @@
+lineup,hdr,3,1440
+lineup,dat,R,RE200,1,louis-conlin,alek-rodrigues-loureiro,mark-alexandrov,vincent-terzo,127.06,144
+lineup,dat,R,RE200,2,richard-fadeev,gregory-seib,van-lawler,quinten-mack,126.03,150
+lineup,dat,I,A200,1,rian-arora,141.13,11,2,ryan-knight,161.11,0,3,sean-mannion,128.96,41
+lineup,dat,I,E200,1,richard-fadeev,124.49,95,2,van-lawler,146.53,34,3,dylan-mangel,156.19,12
+lineup,dat,I,A50,1,john-pitarresi,26.06,58,2,chase-yarnall,30.5,9,3,charles-belisario,31.14,3
+lineup,dat,I,D100,1,vincent-terzo,55.72,100,2,louis-conlin,65.06,47,3,rian-arora,76,3
+lineup,dat,I,A100,1,quinten-mack,59.85,40,2,daniel-peritore,69.03,0,3,andrew-gullo,71.06,0
+lineup,dat,I,A500,1,sebastian-mercado-3,330.2,62,2,sean-mannion,366.31,25
+lineup,dat,R,RA200,1,vincent-terzo,daniel-peritore,sean-mannion,van-lawler,109,186
+lineup,dat,R,RA200,2,john-pitarresi,charles-belisario,dylan-mangel,ryan-knight,113.87,150
+lineup,dat,I,B100,1,mark-alexandrov,76.48,18,2,zeon-gogoi,72.33,32,3,alek-rodrigues-loureiro,65.3,59
+lineup,dat,I,C100,1,kieran-kavanagh,77.47,35,2,gregory-seib,98,0
+lineup,dat,R,RA400,1,rian-arora,ryan-knight,daniel-peritore,sebastian-mercado-3,262.47,75
+lineup,dat,R,RA400,2,zeon-gogoi,quinten-mack,andrew-gullo,charles-belisario,270.22,51

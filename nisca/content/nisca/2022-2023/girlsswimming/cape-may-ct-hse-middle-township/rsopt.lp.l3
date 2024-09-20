@@ -1,0 +1,13 @@
+lineup,hdr,3,259.0
+lineup,dat,I,A200,1,sofia-jurusz,145.69,23.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,madyn-mcananey,28.43,62.0,2.0,olivia-harkins,31.08,29.0,3,julianne-nagle,32.77,11.0
+lineup,dat,I,D100,1,reilly-deschenes,80.18,16.0,,,,,,,,
+lineup,dat,I,A100,1,madyn-mcananey,67.73,23.0,,,,,,,,
+lineup,dat,I,A500,1,sofia-jurusz,405.6,8.0,,,,,,,,
+lineup,dat,I,B100,1,olivia-harkins,76.84,20.0,,,,,,,,
+lineup,dat,I,C100,1,brooke-yarson,80.16,54.0,2.0,eliana-tallant,90.83,13.0,,,,
+relay,hdr,696.0
+relay,RA200YF,2,eliana-tallant,avery-campbell,madyn-mcananey,sofia-jurusz,115.62,222.0,reilly-deschenes,brooke-yarson,olivia-fonseca,paulina-rios,121.81,168.0,390.0
+relay,RE200YF,2,olivia-harkins,brooke-yarson,reilly-deschenes,madyn-mcananey,139.58,123.0,fiona-gale,casey-nagle,eliana-tallant,avery-campbell,153.23,33.0,156.0
+relay,RA400YF,1,sofia-jurusz,reilly-deschenes,casey-nagle,brooke-yarson,259.93,150.0,,,,,,,150.0

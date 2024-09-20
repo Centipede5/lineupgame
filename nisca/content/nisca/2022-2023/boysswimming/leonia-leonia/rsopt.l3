@@ -1,0 +1,13 @@
+lineup,hdr,3,1294
+lineup,dat,I,A200,1,vincent-kim,116.95,77,2,nicholas-szeto,133.12,30
+lineup,dat,I,E200,1,ryan-choi-1,120.22,109,2,matthew-chang-549416,123.6,98,3,brian-do-1,129.78,78
+lineup,dat,I,A50,1,taka-nakahara,23.9,89,2,abir-bhattacharya,24.84,75,3,matthew-kalender,28.05,34
+lineup,dat,I,D100,1,matthew-chang-549416,54.19,110,2,abir-bhattacharya,60.56,71,3,jaeho-kim,64.34,51
+lineup,dat,I,A100,1,taka-nakahara,57.53,53,2,jason-lee-11,64.09,18,3,matthew-kalender,66.52,7
+lineup,dat,I,A500,1,vincent-kim,316.37,78
+lineup,dat,I,B100,1,ryan-choi-1,55.98,106,2,jason-lee-11,65.76,57,3,jaeho-kim,69.16,44
+lineup,dat,I,C100,1,brian-do-1,66.86,82,2,aquila-bernal,79.5,27
+relay,hdr,1149
+relay,RE200YM,2,matthew-chang-549416,brian-do-1,vincent-kim,ryan-choi-1,105.66,3.1200000000000000e+02,jason-lee-11,aquila-bernal,desmond-casteel-1,jaeho-kim,120.46,1.8900000000000000e+02
+relay,RA200YM,2,vincent-kim,taka-nakahara,ryan-choi-1,matthew-chang-549416,95.06,3.1500000000000000e+02,aquila-bernal,jaeho-kim,matthew-kalender,abir-bhattacharya,111.57,1.6800000000000000e+02
+relay,RA400YM,1,abir-bhattacharya,taka-nakahara,aquila-bernal,brian-do-1,239.08,1.6500000000000000e+02

@@ -1,0 +1,17 @@
+id,sex,swim-date,stroke,distance,course,time,powerpoints,powerpoints1,powerpoints2
+brooke-labarge,M,20230120,A,200,Y,120.13,67.0,67.0,67.0
+normandie-beversluis,M,20230109,A,200,Y,126.27,49.0,49.0,49.0
+sienna-delcorsano,M,20221221,E,200,Y,162.28,0.0,0.0,0.0
+michael-riely,M,20230120,E,200,Y,135.44,62.0,62.0,62.0
+brooke-labarge,M,20230120,A,50,Y,26.96,47.0,47.0,47.0
+normandie-beversluis,M,20221221,A,50,Y,26.15,57.0,57.0,57.0
+michael-riely,M,20221221,A,50,Y,26.02,59.0,59.0,59.0
+daniel-wilson-6,M,20221221,A,50,Y,27.25,44.0,44.0,44.0
+jack-perreault,M,20230120,A,50,Y,24.56,79.0,79.0,79.0
+brooke-labarge,M,20221221,D,100,Y,69.59,27.0,27.0,27.0
+sienna-delcorsano,M,20230109,D,100,Y,72.56,15.0,15.0,15.0
+michael-riely,M,20230120,D,100,Y,58.7,81.0,81.0,81.0
+normandie-beversluis,M,20230120,A,100,Y,57.3,55.0,55.0,55.0
+daniel-wilson-6,M,20230109,A,100,Y,66.68,7.0,7.0,7.0
+jack-perreault,M,20230120,A,100,Y,53.37,80.0,80.0,80.0
+william-spreeman,M,20230120,A,500,Y,346.6,44.0,44.0,44.0

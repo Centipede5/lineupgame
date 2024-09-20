@@ -1,0 +1,13 @@
+lineup,hdr,3,536.0
+lineup,dat,I,A200,1,ian-celi,114.79,84.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,ian-celi,23.78,91.0,2.0,james-grullon,25.03,72.0,3,wilson-encarnacion,26.95,47.0
+lineup,dat,I,D100,1,erin-celik,62.23,62.0,2.0,jayden-cazares,66.94,39.0,3,dylan-itrube,69.92,26.0
+lineup,dat,I,A100,1,erin-celik,54.24,74.0,2.0,james-grullon,62.09,28.0,3,wilson-encarnacion,65.43,12.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,dylan-itrube,82.43,1.0,,,,,,,,
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,726.0
+relay,RA200YM,2,ian-celi,erin-celik,james-grullon,jayden-cazares,101.75,249.0,alvero-car,dominic-zambrano,brian-moreno-1,justin-gaitan,125.3,75.0,324.0
+relay,RE200YM,2,ian-celi,erin-celik,jayden-cazares,james-grullon,118.41,204.0,cesar-chiriboga,tomas-loaiza,dylan-itrube,wilson-encarnacion,136.22,90.0,294.0
+relay,RA400YM,1,dylan-itrube,wilson-encarnacion,jayden-cazares,alvero-car,253.91,108.0,,,,,,,108.0

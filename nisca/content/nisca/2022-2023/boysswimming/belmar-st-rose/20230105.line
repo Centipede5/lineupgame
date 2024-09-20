@@ -1,0 +1,15 @@
+lineup,hdr,3,2041
+lineup,dat,R,RE200,1,jeffrey-hanlon,bryce-lemoult,jack-harmon,logan-maypother,112.64,252
+lineup,dat,R,RE200,2,jimmy-loftus,james-vitale-1,sean-westhoven,blake-nitche,131.45,117
+lineup,dat,I,A200,1,jeffrey-hanlon,123.75,56,2,james-magrini-1,148.72,0,3,brian-mckeon,187.04,0
+lineup,dat,I,E200,1,bryce-lemoult,137.07,58,2,sean-westhoven,167.84,0,3,lucas-ferlise,217.01,0
+lineup,dat,I,A50,1,edward-annitto,23,103,2,jack-harmon,24.21,84,3,jimmy-loftus,27.06,46
+lineup,dat,I,D100,1,logan-maypother,57.98,85,2,jack-harmon,63.74,54,3,sean-westhoven,80.63,0
+lineup,dat,I,A100,1,edward-annitto,54.74,71,2,blake-nitche,70.63,0,3,lucas-ferlise,72.48,0
+lineup,dat,I,A500,1,dante-dentino,293.83,108,2,jeffrey-hanlon,335.07,56,3,alex-kleiberg,452.65,0
+lineup,dat,R,RA200,1,dante-dentino,bryce-lemoult,james-magrini-1,jack-harmon,98.69,279
+lineup,dat,R,RA200,2,edward-annitto,logan-maypother,jeffrey-hanlon,brody-timpone,100.66,261
+lineup,dat,I,B100,1,logan-maypother,63.93,65,2,bryce-lemoult,69.2,44,3,jimmy-loftus,75.16,22
+lineup,dat,I,C100,1,dante-dentino,59.79,123,2,james-magrini-1,80.55,23,3,brody-timpone,86.74,2
+lineup,dat,R,RA400,1,edward-annitto,brody-timpone,jimmy-loftus,dante-dentino,246.98,132
+lineup,dat,R,RA400,2,sean-westhoven,lucas-ferlise,blake-nitche,james-magrini-1,290.86,0

@@ -1,0 +1,13 @@
+lineup,hdr,3,1025.0
+lineup,dat,I,A200,1,hannah-ewing,125.21,83.0,2.0,lindsay-driever,125.2,83.0,3,phoebe-hirsh,138.04,43.0
+lineup,dat,I,E200,1,sasha-steele,140.71,83.0,2.0,phoebe-hirsh,154.83,43.0,3,tyna-davis,155.35,42.0
+lineup,dat,I,A50,1,maren-wheeler,28.13,66.0,2.0,lena-forysiak,29.14,53.0,3,alexa-kahn,30.53,36.0
+lineup,dat,I,D100,1,lena-forysiak,76.79,29.0,,,,,,,,
+lineup,dat,I,A100,1,sasha-steele,57.53,87.0,2.0,marin-ievers,62.06,56.0,,,,
+lineup,dat,I,A500,1,hannah-ewing,335.13,83.0,2.0,lindsay-driever,339.91,77.0,,,,
+lineup,dat,I,B100,1,marin-ievers,69.31,56.0,2.0,tyna-davis,71.03,47.0,,,,
+lineup,dat,I,C100,1,maren-wheeler,79.26,58.0,,,,,,,,
+relay,hdr,888.0
+relay,RA200YF,2,phoebe-hirsh,maren-wheeler,tyna-davis,hannah-ewing,115.5,222.0,alexa-clayton,serena-nguyen,rachel-huang-654635,alexa-kahn,134.19,75.0,297.0
+relay,RE200YF,2,marin-ievers,maren-wheeler,lindsay-driever,sasha-steele,125.03,237.0,alexa-kahn,serena-nguyen,lena-forysiak,alexa-clayton,148.96,60.0,297.0
+relay,RA400YF,2,sasha-steele,tyna-davis,hannah-ewing,lindsay-driever,246.29,216.0,lena-forysiak,natalie-ewing,marin-ievers,phoebe-hirsh,277.26,78.0,294.0

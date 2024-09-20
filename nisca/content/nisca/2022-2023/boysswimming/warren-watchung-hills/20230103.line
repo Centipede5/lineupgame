@@ -1,0 +1,15 @@
+lineup,hdr,3,2473
+lineup,dat,R,RE200,1,zachary-kusch,quentin-tao,garrett-palfy,lucas-standridge,108.88,282
+lineup,dat,R,RE200,2,giovanni-acciani,ian-chiu,shaan-dave,shayan-bayat,118.77,201
+lineup,dat,I,A200,1,michael-ekert,111.22,97,2,aidan-han,133.24,30,3,daniel-pincus,172.41,0
+lineup,dat,I,E200,1,zachary-kusch,121.87,104,2,ian-chiu,134.88,64,3,alexander-geppert,145.37,37
+lineup,dat,I,A50,1,lucas-standridge,23.35,97,2,robert-young-504036,24.5,80,3,cj-barrita,28.08,34
+lineup,dat,I,D100,1,garrett-palfy,55.23,103,2,david-youssef,72.17,17,3,ethan-nguyen-2,74.09,9
+lineup,dat,I,A100,1,lucas-standridge,49.23,111,2,giovanni-acciani,60.27,38,3,philip-youssef,58.89,46
+lineup,dat,I,A500,1,robert-young-504036,314.07,81,2,shayan-bayat,356.45,34,3,ashwin-bompalli,393.62,1
+lineup,dat,R,RA200,1,michael-ekert,ian-chiu,quentin-tao,garrett-palfy,99.2,273
+lineup,dat,R,RA200,2,alexander-geppert,shaan-dave,ethan-nguyen-2,giovanni-acciani,112.95,156
+lineup,dat,I,B100,1,zachary-kusch,54.65,114,2,giovanni-acciani,71.37,35,3,omar-saad,81.34,4
+lineup,dat,I,C100,1,quentin-tao,62.05,109,2,david-youssef,85.17,7,3,daniel-pincus,102.09,0
+lineup,dat,R,RA400,1,robert-young-504036,shayan-bayat,michael-ekert,lucas-standridge,225,225
+lineup,dat,R,RA400,2,shaan-dave,philip-youssef,ashwin-bompalli,alexander-geppert,259.88,84

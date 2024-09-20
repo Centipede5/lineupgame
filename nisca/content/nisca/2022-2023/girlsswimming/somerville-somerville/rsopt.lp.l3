@@ -1,0 +1,13 @@
+lineup,hdr,3,572.0
+lineup,dat,I,A200,1,jazmin-ortiz-quinonez,139.21,40.0,2.0,kayla-kovacs,154.08,3.0,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,jazmin-ortiz-quinonez,28.53,61.0,2.0,fontaine-gatti,29.65,46.0,3,kameron-przybylski,30.88,32.0
+lineup,dat,I,D100,1,ava-pektor,64.76,83.0,2.0,kayla-kovacs,78.64,22.0,,,,
+lineup,dat,I,A100,1,jessica-oetiz-quinonez,59.8,71.0,2.0,fontaine-gatti,67.02,27.0,3,kameron-przybylski,70.97,6.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,ava-pektor,74.2,82.0,2.0,jessica-oetiz-quinonez,76.12,73.0,3,bella-paglia,87.19,26.0
+relay,hdr,705.0
+relay,RA200YF,2,jessica-oetiz-quinonez,jazmin-ortiz-quinonez,ava-pektor,fontaine-gatti,113.4,240.0,kaylie-fabriczi,kayla-kappmeier,kameron-przybylski,kayla-kovacs,129.6,108.0,348.0
+relay,RE200YF,2,jessica-oetiz-quinonez,ava-pektor,jazmin-ortiz-quinonez,fontaine-gatti,125.08,237.0,cecilia-smola,mina-batra,kayla-kappmeier,bella-paglia,148.36,63.0,300.0
+relay,RA400YF,1,kayla-kovacs,kaylie-fabriczi,kayla-kappmeier,kameron-przybylski,282.53,57.0,,,,,,,57.0

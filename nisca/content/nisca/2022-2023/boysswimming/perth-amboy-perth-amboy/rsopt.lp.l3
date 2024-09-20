@@ -1,0 +1,13 @@
+lineup,hdr,3,245.0
+lineup,dat,I,A200,1,matthew-quezada,127.05,46.0,2.0,nicholas-velasquez-2,138.04,18.0,,,,
+lineup,dat,I,E200,1,anthony-quezada,140.07,50.0,,,,,,,,
+lineup,dat,I,A50,1,dalisha-romero,28.94,25.0,,,,,,,,
+lineup,dat,I,D100,1,anthony-quezada,67.11,38.0,2.0,jacqueline-alberto,71.65,19.0,,,,
+lineup,dat,I,A100,1,javon-hill-655353,68.03,1.0,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,matthew-quezada,69.17,44.0,,,,,,,,
+lineup,dat,I,C100,1,dalisha-romero,86.37,4.0,,,,,,,,
+relay,hdr,258.0
+relay,RE200YM,1,matthew-quezada,anthony-quezada,javon-hill-655353,daniel-velasquez-1,134.38,99.0,,,,,,,99.0
+relay,RA200YM,1,joshua-preza,javon-hill-655353,nicholas-velasquez-2,dalisha-romero,121.81,96.0,,,,,,,96.0
+relay,RA400YM,1,joshua-preza,nicholas-velasquez-2,dalisha-romero,matthew-quezada,266.29,63.0,,,,,,,63.0

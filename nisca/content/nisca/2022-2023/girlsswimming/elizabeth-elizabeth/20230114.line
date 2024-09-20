@@ -1,0 +1,15 @@
+lineup,hdr,3,634
+lineup,dat,R,RE200,1,sofia-lopez-duque,shayna-allen,sara-ocampo-garcia,maria-medranda,139.31,123
+lineup,dat,R,RE200,2,ingrid-osorio,joyce-naguib,alejandra-maldonado,keisha-henriquez-frias,154.17,30
+lineup,dat,I,A200,1,nathaly-benegas,170.25,0,2,luna-suarez,204.4,0
+lineup,dat,I,E200,1,nagwa-elbadawi,188.66,0,2,sara-ocampo-garcia,171,6,3,annie-tassi,211.41,0
+lineup,dat,I,A50,1,maria-medranda,28.34,63,2,nagwa-elbadawi,33.58,3,3,emely-serrano,41.73,0
+lineup,dat,I,D100,1,sofia-lopez-duque,91,0,2,sara-ocampo-garcia,66.31,75,3,ingrid-osorio,109.78,0
+lineup,dat,I,A100,1,joyce-naguib,66.09,32,2,alejandra-maldonado,73.01,0,3,nathaly-benegas,82.53,0
+lineup,dat,I,A500,1,keisha-henriquez-frias,473.76,0,2,lolita-abreu,489,0
+lineup,dat,R,RA200,1,maria-medranda,joyce-naguib,shayna-allen,sara-ocampo-garcia,122.87,159
+lineup,dat,R,RA200,2,annie-tassi,nathaly-benegas,luna-suarez,keisha-henriquez-frias,144.19,12
+lineup,dat,I,B100,1,sofia-lopez-duque,67.2,67,2,alejandra-maldonado,90.15,0,3,ingrid-osorio,95.06,0
+lineup,dat,I,C100,1,maria-medranda,85.14,33,2,shayna-allen,88.05,22,3,joyce-naguib,92.03,9
+lineup,dat,R,RA400,1,nagwa-elbadawi,keisha-henriquez-frias,alejandra-maldonado,sofia-lopez-duque,303.05,0
+lineup,dat,R,RA400,2,nathaly-benegas,annie-tassi,lolita-abreu,ingrid-osorio,338.51,0

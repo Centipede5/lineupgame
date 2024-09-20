@@ -1,0 +1,13 @@
+lineup,hdr,3,2448.0
+lineup,dat,I,A200,1,will-heinze-1,108.45,107.0,2.0,tristen-whitworth,110.37,100.0,3,jonah-briggs,112.45,92.0
+lineup,dat,I,E200,1,evan-briggs,121.67,104.0,2.0,issac-rivers,124.82,94.0,3,michael-florentino-1,126.0,90.0
+lineup,dat,I,A50,1,thomas-gaughan,22.43,113.0,2.0,sebastian-arteaga,23.76,91.0,3,nick-valente,25.06,72.0
+lineup,dat,I,D100,1,david-slowinski,53.01,118.0,2.0,chase-thomas-2,53.76,113.0,3,fabio-yipez,56.54,94.0
+lineup,dat,I,A100,1,frankie-prekop,48.7,115.0,2.0,evan-briggs,49.02,113.0,3,thomas-gaughan,49.67,107.0
+lineup,dat,I,A500,1,will-heinze-1,287.01,118.0,2.0,jonah-briggs,300.77,99.0,3,tristen-whitworth,300.89,98.0
+lineup,dat,I,B100,1,frankie-prekop,50.72,140.0,2.0,michael-florentino-1,57.63,97.0,3,fabio-yipez,60.58,81.0
+lineup,dat,I,C100,1,david-slowinski,61.33,113.0,2.0,issac-rivers,62.88,104.0,3,evan-merkov,68.2,75.0
+relay,hdr,2007.0
+relay,RE200YM,2,frankie-prekop,issac-rivers,chase-thomas-2,david-slowinski,98.31,387.0,michael-florentino-1,evan-merkov,fabio-yipez,alp-ayata-1,107.21,297.0,684.0
+relay,RA400YM,2,thomas-gaughan,evan-briggs,issac-rivers,frankie-prekop,198.4,366.0,jonah-briggs,will-heinze-1,michael-florentino-1,tristen-whitworth,208.83,306.0,672.0
+relay,RA200YM,2,chase-thomas-2,evan-briggs,thomas-gaughan,david-slowinski,90.71,363.0,alp-ayata-1,andrew-kelly-653105,conor-rogers,sebastian-arteaga,97.86,288.0,651.0

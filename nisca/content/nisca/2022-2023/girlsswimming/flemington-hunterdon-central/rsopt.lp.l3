@@ -1,0 +1,13 @@
+lineup,hdr,3,1637.0
+lineup,dat,I,A200,1,alexandra-somers,119.33,104.0,2.0,isabella-chanin,131.19,64.0,3,dhyana-abeysinghe,135.91,49.0
+lineup,dat,I,E200,1,tori-castro-gutierrez,137.72,92.0,2.0,delaney-klaus-1,143.84,73.0,3,chloe-lee-3,148.26,61.0
+lineup,dat,I,A50,1,gabrielle-hughes,24.84,117.0,2.0,delaney-klaus-1,25.41,107.0,3,advika-patange,29.08,53.0
+lineup,dat,I,D100,1,tori-castro-gutierrez,59.96,111.0,2.0,abigail-rivenbark,70.64,54.0,3,swetha-fernando,77.15,27.0
+lineup,dat,I,A100,1,gabrielle-hughes,58.14,83.0,2.0,dhyana-abeysinghe,60.56,66.0,3,advika-patange,63.54,47.0
+lineup,dat,I,A500,1,alexandra-somers,318.11,106.0,2.0,tayna-wintermute,340.96,75.0,3,isabella-chanin,355.31,58.0
+lineup,dat,I,B100,1,tayna-wintermute,63.49,89.0,2.0,chloe-lee-3,65.53,77.0,3,alexis-bara-1,70.0,52.0
+lineup,dat,I,C100,1,abigail-rivenbark,84.77,35.0,2.0,riya-gupta-2,87.5,24.0,3,anvi-fenn,90.64,13.0
+relay,hdr,1362.0
+relay,RE200YF,2,alexandra-somers,chloe-lee-3,tori-castro-gutierrez,gabrielle-hughes,116.39,318.0,tayna-wintermute,abigail-rivenbark,isabella-chanin,delaney-klaus-1,127.68,213.0,531.0
+relay,RA200YF,2,dhyana-abeysinghe,delaney-klaus-1,isabella-chanin,gabrielle-hughes,107.57,300.0,anvi-fenn,abigail-rivenbark,swetha-fernando,advika-patange,122.08,165.0,465.0
+relay,RA400YF,2,tori-castro-gutierrez,tayna-wintermute,dhyana-abeysinghe,alexandra-somers,236.25,267.0,chloe-lee-3,swetha-fernando,anvi-fenn,advika-patange,272.07,99.0,366.0

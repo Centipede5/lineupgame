@@ -1,0 +1,13 @@
+lineup,hdr,3,1538.0
+lineup,dat,I,A200,1,aleksandar-dragic,126.6,48.0,2.0,daniel-karamanougian,134.16,28.0,3,justin-hong-1,137.72,19.0
+lineup,dat,I,E200,1,joseph-bae,124.69,94.0,2.0,paolo-maselli,129.65,79.0,3,joon-park-654731,138.41,54.0
+lineup,dat,I,A50,1,jason-han-1,24.06,86.0,2.0,joseph-yoon,24.78,76.0,3,sean-acheson,25.88,61.0
+lineup,dat,I,D100,1,joseph-bae,52.78,120.0,2.0,joon-park-654731,59.45,77.0,3,joseph-yoon,63.94,53.0
+lineup,dat,I,A100,1,danny-paltag,52.44,87.0,2.0,aleksandar-dragic,56.87,57.0,3,justin-hong-1,58.83,46.0
+lineup,dat,I,A500,1,eren-aydin,306.63,91.0,2.0,daniel-karamanougian,352.9,38.0,3,yumin-hwang,373.54,18.0
+lineup,dat,I,B100,1,danny-paltag,63.45,68.0,2.0,sean-acheson,70.09,40.0,3,yumin-hwang,71.25,36.0
+lineup,dat,I,C100,1,eren-aydin,63.97,98.0,2.0,paolo-maselli,66.37,85.0,3,jason-han-1,67.44,79.0
+relay,hdr,1602.0
+relay,RE200YM,2,danny-paltag,jason-han-1,joseph-bae,eren-aydin,106.31,306.0,aleksandar-dragic,paolo-maselli,joon-park-654731,joseph-yoon,108.75,285.0,591.0
+relay,RA200YM,2,paolo-maselli,danny-paltag,joseph-bae,jason-han-1,94.62,321.0,yumin-hwang,daniel-karamanougian,sean-acheson,justin-hong-1,103.37,234.0,555.0
+relay,RA400YM,2,aleksandar-dragic,joon-park-654731,daniel-karamanougian,eren-aydin,224.02,231.0,sean-acheson,justin-hong-1,yumin-hwang,luke-na,225.25,225.0,456.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,525.0
+lineup,dat,I,A200,1,mallory-mitchell-1,150.47,11.0,,,,,,,,
+lineup,dat,I,E200,1,alex-burke-2,153.97,45.0,,,,,,,,
+lineup,dat,I,A50,1,imani-kiss,26.55,89.0,2.0,chelsea-kipnis,29.19,52.0,3,taylor-cerco,29.82,44.0
+lineup,dat,I,D100,1,alex-burke-2,66.0,77.0,,,,,,,,
+lineup,dat,I,A100,1,luella-fetter,59.87,71.0,2.0,maria-dmitriyeva,69.73,13.0,3,jane-alto,72.0,1.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,imani-kiss,69.59,54.0,,,,,,,,
+lineup,dat,I,C100,1,luella-fetter,83.87,38.0,2.0,jane-alto,88.19,22.0,3,maria-dmitriyeva,92.34,8.0
+relay,hdr,723.0
+relay,RA200YF,2,taylor-cerco,maria-dmitriyeva,luella-fetter,jane-alto,119.94,183.0,sophia-manganiello-1,lucy-wood,anna-pittarelli,alexandra-revolinsky,125.49,138.0,321.0
+relay,RE200YF,2,imani-kiss,taylor-cerco,alex-burke-2,luella-fetter,128.81,204.0,reese-corcoran,jane-alto,chelsea-kipnis,alexandra-revolinsky,146.96,72.0,276.0
+relay,RA400YF,1,mallory-mitchell-1,chelsea-kipnis,alex-burke-2,taylor-cerco,265.06,126.0,,,,,,,126.0

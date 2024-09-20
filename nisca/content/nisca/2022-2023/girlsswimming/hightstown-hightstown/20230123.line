@@ -1,0 +1,15 @@
+lineup,hdr,3,668
+lineup,dat,R,RE200,1,elizabeth-molinelli,samantha-acque,andrea-lopez-2,jazmin-urgiles,141.23,111
+lineup,dat,R,RE200,2,kelly-lindner,yvelin-caba,prisha-patel-1,samantha-tenezaca-sasaguay,161.66,0
+lineup,dat,I,A200,1,kelly-lindner,149.71,13,2,andrea-lopez-2,144.58,26,3,melannie-acuria,202.15,0
+lineup,dat,I,E200,1,ashmi-mehta,166.21,16,2,aaneya-patel,192.29,0
+lineup,dat,I,A50,1,lillian-fleming,35.61,0,2,jazmin-urgiles,28.63,59,3,yvelin-caba,35.49,0
+lineup,dat,I,D100,1,prisha-patel-1,87.59,0,2,elizabeth-molinelli,68.73,63,3,aaneya-patel,79.23,19
+lineup,dat,I,A100,1,jazmin-urgiles,72.8,0,2,samantha-acque,66.76,28,3,samantha-heras,99.17,0
+lineup,dat,I,A500,1,andrea-lopez-2,386.41,25,2,prisha-patel-1,457.41,0,3,yvelin-caba,506.17,0
+lineup,dat,R,RA200,1,prisha-patel-1,kelly-lindner,jazmin-urgiles,ashmi-mehta,135.49,66
+lineup,dat,R,RA200,2,aaneya-patel,melannie-acuria,lillian-fleming,yvelin-caba,142.24,24
+lineup,dat,I,B100,1,ashmi-mehta,77.98,15,2,kelly-lindner,80.95,3,3,anusha-gupta,100.48,0
+lineup,dat,I,C100,1,elizabeth-molinelli,77.92,64,2,samantha-acque,82.12,46,3,samantha-tenezaca-sasaguay,100.39,0
+lineup,dat,R,RA400,1,ashmi-mehta,elizabeth-molinelli,andrea-lopez-2,samantha-acque,282.11,57
+lineup,dat,R,RA400,2,lillian-fleming,samantha-tenezaca-sasaguay,melannie-acuria,aaneya-patel,288.75,33

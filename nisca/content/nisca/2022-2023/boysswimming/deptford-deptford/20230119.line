@@ -1,0 +1,15 @@
+lineup,hdr,3,175
+lineup,dat,R,RE200,1,ethan-tamayo,julia-rafferty,hanna-shein,sean-cooper-499686,137,84
+lineup,dat,R,RE200,2,charlie-marsteller,caitlin-reynolds,delaney-fahey,brianna-samson,173.6,0
+lineup,dat,I,A200,1,ethan-tamayo,150.44,0,2,jackie-hoffman,168.65,0,3,nina-mullins,203.6,0
+lineup,dat,I,E200,1,julia-rafferty,169.3,0,2,delaney-fahey,177.48,0
+lineup,dat,I,A50,1,charlie-marsteller,31.3,2,2,cheyann-cooper,33.97,0
+lineup,dat,I,D100,1,hanna-shein,83.15,0
+lineup,dat,I,A100,1,sean-cooper-499686,63.19,23,2,charlie-marsteller,73.65,0,3,brianna-samson,83.57,0
+lineup,dat,I,A500,1,ethan-tamayo,424.36,0
+lineup,dat,R,RA200,1,hanna-shein,cheyann-cooper,brianna-samson,charlie-marsteller,142.68,0
+lineup,dat,R,RA200,2,jackie-hoffman,nina-mullins,caitlin-reynolds,yameenah-tazewell-babb,162.19,0
+lineup,dat,I,B100,1,sean-cooper-499686,78.27,13,2,hanna-shein,87.97,0
+lineup,dat,I,C100,1,nina-mullins,138.08,0,2,julia-rafferty,84.33,10,3,delaney-fahey,85.15,7
+lineup,dat,R,RA400,1,sean-cooper-499686,delaney-fahey,julia-rafferty,ethan-tamayo,274.41,36
+lineup,dat,R,RA400,2,jackie-hoffman,cheyann-cooper,brianna-samson,caitlin-reynolds,316.44,0

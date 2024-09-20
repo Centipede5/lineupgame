@@ -1,0 +1,17 @@
+lineup,hdr,3,1323
+lineup,dat,I,A200,1,michael-carter-3,119.94,67,2,evan-richelson,132.72,31,3,kevin-oshea-1,136.65,22
+lineup,dat,I,E200,1,kevin-carr-1,128.29,83,2,chase-adams-522235,128.94,81,3,alexander-berlinski,139.09,52
+lineup,dat,I,A50,1,thomas-myler,22.47,112,2,russell-olsen,24.62,78,3,tyler-scher,25.87,61
+lineup,dat,I,D100,1,chase-adams-522235,54.68,106,2,dom-cardace,62.37,61,3,jacob-dill,68.39,32
+lineup,dat,I,A100,1,thomas-myler,53.22,81,2,russell-olsen,57.32,55,3,kevin-oshea-1,60.28,38
+lineup,dat,I,A500,1,michael-carter-3,340.26,51
+lineup,dat,I,B100,1,kevin-carr-1,61.29,78,2,alexander-berlinski,63.15,69,3,jacob-dill,72.45,32
+lineup,dat,I,C100,1,dom-cardace,69.5,69,2,jeremy-carr,77.84,33,3,evan-richelson,78.44,31
+relay,hdr,1125
+relay,RE200YM,2,alexander-berlinski,kevin-carr-1,chase-adams-522235,thomas-myler,106.75,3.0300000000000000e+02,kevin-oshea-1,jeremy-carr,jacob-dill,joseph-musto,134.03,1.0200000000000000e+02
+relay,RA200YM,2,chase-adams-522235,dom-cardace,kevin-carr-1,michael-carter-3,102.06,2.4600000000000000e+02,russell-olsen,tyler-scher,kevin-oshea-1,evan-richelson,107.94,1.9500000000000000e+02
+relay,RA400YM,2,michael-carter-3,tyler-scher,alexander-berlinski,thomas-myler,230.75,2.0100000000000000e+02,jacob-dill,evan-richelson,dom-cardace,russell-olsen,261.79,7.8000000000000000e+01
+relay,hdr,1143
+relay,RE200YM,2,alexander-berlinski,kevin-carr-1,dom-cardace,thomas-myler,110.03,2.7300000000000000e+02,kevin-oshea-1,jeremy-carr,jacob-dill,joseph-musto,134.03,1.0200000000000000e+02
+relay,RA200YM,2,chase-adams-522235,dom-cardace,kevin-carr-1,michael-carter-3,102.06,2.4600000000000000e+02,russell-olsen,tyler-scher,kevin-oshea-1,evan-richelson,107.94,1.9500000000000000e+02
+relay,RA400YM,2,thomas-myler,alexander-berlinski,michael-carter-3,chase-adams-522235,223,2.3400000000000000e+02,russell-olsen,tyler-scher,jacob-dill,evan-richelson,257.84,9.3000000000000000e+01

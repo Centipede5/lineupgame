@@ -1,0 +1,13 @@
+lineup,hdr,3,380
+lineup,dat,I,A200,1,alex-berry,142.29,9,2,gabby-chopek,144.31,4
+lineup,dat,I,E200,1,hayden-mulherin,149.51,27
+lineup,dat,I,A50,1,lily-mahabir,26.83,49,2,alison-thompson,27.27,43,3,konner-plummer,27.46,41
+lineup,dat,I,D100,1,alex-berry,76.31,2
+lineup,dat,I,A100,1,alison-thompson,57.61,53,2,lourdes-dimapilis,60.96,34,3,konner-plummer,66.93,5
+lineup,dat,I,A500
+lineup,dat,I,B100,1,hayden-mulherin,66.84,53,2,lourdes-dimapilis,74.72,24
+lineup,dat,I,C100,1,lily-mahabir,77.2,36
+relay,hdr,681
+relay,RE200YM,2,hayden-mulherin,lily-mahabir,lourdes-dimapilis,alison-thompson,124.41,1.6200000000000000e+02,robert-goslin,lilliana-defabrites,david-laird,konner-plummer,147.72,2.7000000000000000e+01
+relay,RA200YM,2,lily-mahabir,alex-berry,konner-plummer,alison-thompson,112.96,1.5600000000000000e+02,robert-goslin,david-laird,mia-miller-1,noah-stetler,129.83,4.8000000000000000e+01
+relay,RA400YM,2,noah-stetler,cheyanna-snyder,rebecca-love-1,shelby-sharp,228.15,2.1300000000000000e+02,alex-berry,gabby-chopek,lourdes-dimapilis,hayden-mulherin,262.83,7.5000000000000000e+01

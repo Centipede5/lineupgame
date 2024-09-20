@@ -1,0 +1,13 @@
+lineup,hdr,3,2513
+lineup,dat,I,A200,1,kiernan-leary,104.79,121,2,jack-butler-1,108.67,106,3,evan-whitaker,114.68,85
+lineup,dat,I,E200,1,nick-volkov,120.08,110,2,conor-doogan,123.37,99,3,alexander-ruckel-bekefi,130.85,75
+lineup,dat,I,A50,1,luke-condon,21.2,135,2,max-maycher,22.53,111,3,john-donnelly-550807,22.64,109
+lineup,dat,I,D100,1,bryce-wilkens,51.53,129,2,william-babik,55.77,99,3,jaxon-sevilla,57.55,88
+lineup,dat,I,A100,1,luke-condon,47.35,127,2,max-maycher,49.74,107,3,john-donnelly-550807,50.73,99
+lineup,dat,I,A500,1,kiernan-leary,293.6,109,2,nick-volkov,295.1,107,3,jack-butler-1,297.07,104
+lineup,dat,I,B100,1,bryce-wilkens,52.69,127,2,evan-whitaker,57.98,95,3,alexander-ruckel-bekefi,60.25,83
+lineup,dat,I,C100,1,josh-hairegal,63.09,103,2,conor-doogan,63.67,99,3,melloy-matthew,66.09,86
+relay,hdr,2142
+relay,RE200YM,2,luke-condon,conor-doogan,bryce-wilkens,max-maycher,96.37,4.0800000000000000e+02,william-babik,josh-hairegal,jaxon-sevilla,chris-small,103.89,3.3000000000000000e+02
+relay,RA200YM,2,max-maycher,jaxon-sevilla,luke-condon,john-donnelly-550807,90.18,3.6900000000000000e+02,conor-doogan,alexander-ruckel-bekefi,chris-small,kiernan-leary,92.32,3.4500000000000000e+02
+relay,RA400YM,2,nick-volkov,john-donnelly-550807,kiernan-leary,bryce-wilkens,194.8,3.8700000000000000e+02,noah-kuzloski,jack-butler-1,evan-whitaker,alexander-ruckel-bekefi,209.48,3.0300000000000000e+02

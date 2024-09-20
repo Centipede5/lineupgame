@@ -1,0 +1,15 @@
+lineup,hdr,3,2210
+lineup,dat,R,RE200,1,parth-unawane,derek-ling,ted-baruli,nate-reitikh,119.06,201
+lineup,dat,R,RE200,2,alec-cameron,marc-zborovsky,preston-zhong,jeffrey-shapiro,131.26,117
+lineup,dat,I,A200,1,gabriel-castro,127,47,2,kyle-ludzki,130.51,37,3,reilly-bogues,148.63,0
+lineup,dat,I,E200,1,alex-gorakine,122.69,101,2,parth-unawane,150.76,24,3,preston-zhong,166.76,0
+lineup,dat,I,A50,1,nate-reitikh,24.31,83,2,ted-baruli,25.03,72,3,derek-ling,26.08,58
+lineup,dat,I,D100,1,chris-li-1,55.56,101,2,gil-shenoy,64.26,51,3,parth-unawane,82.44,0
+lineup,dat,I,A100,1,gabriel-castro,56.52,59,2,ted-baruli,57.2,55,3,nate-reitikh,58.65,47
+lineup,dat,I,A500,1,alex-gorakine,282.69,125,2,roee-mayer,396.65,0,3,marc-zborovsky,463.01,0
+lineup,dat,R,RA200,1,chris-li-1,nate-reitikh,gabriel-castro,alex-gorakine,98.94,276
+lineup,dat,R,RA200,2,alec-cameron,derek-ling,preston-zhong,jeffrey-shapiro,112.14,162
+lineup,dat,I,B100,1,chris-li-1,61.13,79,2,kyle-ludzki,65.94,57,3,reilly-bogues,74.2,26
+lineup,dat,I,C100,1,derek-ling,74.09,48,2,preston-zhong,77.83,33,3,gil-shenoy,84.8,9
+lineup,dat,R,RA400,1,alex-gorakine,gabriel-castro,ted-baruli,chris-li-1,220.59,246
+lineup,dat,R,RA400,2,alec-cameron,parth-unawane,reilly-bogues,kyle-ludzki,257.2,96

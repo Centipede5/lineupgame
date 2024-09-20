@@ -1,0 +1,14 @@
+lineup,hdr,3,1378
+lineup,dat,R,RE200,1,bryce-gestrich,grant-lin-1,nathan-koenig,daniel-lin,139.29,72
+lineup,dat,I,A200,1,jason-milgram,132.97,31,2,brian-pohl,162.41,0,3,daniel-lin,180.16,0
+lineup,dat,I,E200,1,mark-milgram,133.86,67,2,grant-lin-1,166.88,0
+lineup,dat,I,A50,1,ethan-tai,25.01,72,2,elvin-tai,25.06,72,3,sean-flanigan,26.45,53
+lineup,dat,I,D100,1,hunter-kuenzel,52.75,120,2,harrison-eng,60.2,73,3,bryce-gestrich,88.07,0
+lineup,dat,I,A100,1,ethan-tai,56.09,62,2,sean-flanigan,61.56,31,3,akarsh-kollu,89.51,0
+lineup,dat,I,A500,1,mark-milgram,336.24,55,2,jason-milgram,359.36,31,3,nathan-koenig,443.65,0
+lineup,dat,R,RA200,1,elvin-tai,ethan-tai,sean-flanigan,nathan-koenig,108.63,189
+lineup,dat,R,RA200,2,jeffrey-kelley,akarsh-kollu,brian-pohl,daniel-lin,143.24,0
+lineup,dat,I,B100,1,hunter-kuenzel,53.92,119,2,harrison-eng,63.95,65,3,bryce-gestrich,79.7,8
+lineup,dat,I,C100,1,elvin-tai,69.17,70,2,grant-lin-1,82.21,17,3,daniel-lin,93.81,0
+lineup,dat,R,RA400,1,harrison-eng,jason-milgram,mark-milgram,hunter-kuenzel,237.39,171
+lineup,dat,R,RA400,2,sean-flanigan,bryce-gestrich,brian-pohl,jeffrey-kelley,310.02,0

@@ -1,0 +1,13 @@
+lineup,hdr,3,437.0
+lineup,dat,I,A200,1,caroline-astarita,136.56,48.0,,,,,,,,
+lineup,dat,I,E200,1,caroline-astarita,153.28,47.0,,,,,,,,
+lineup,dat,I,A50,1,kailyn-koonce,27.61,73.0,2.0,gianella-tapia,30.13,40.0,3,kyriaki-kakadelis,30.32,38.0
+lineup,dat,I,D100,1,bridget-broncales,75.22,35.0,2.0,makenzie-keegan-1,84.22,2.0,,,,
+lineup,dat,I,A100,1,bridget-broncales,63.52,47.0,2.0,elizabeth-astarita,65.93,33.0,3,riley-tum-suden,69.22,15.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,kailyn-koonce,78.98,59.0,,,,,,,,
+relay,hdr,630.0
+relay,RA200YF,2,caroline-astarita,bridget-broncales,elizabeth-astarita,kailyn-koonce,116.86,210.0,kyriaki-kakadelis,makenzie-keegan-1,domna-kakadelis,gianella-tapia,129.54,108.0,318.0
+relay,RA400YF,2,bridget-broncales,caroline-astarita,elizabeth-astarita,kailyn-koonce,260.02,150.0,kyriaki-kakadelis,riley-tum-suden,mackenzie-hastings,gianella-tapia,294.84,12.0,162.0
+relay,RE200YF,1,elizabeth-astarita,keira-lam,olivia-cruz-1,gianella-tapia,135.62,150.0,,,,,,,150.0

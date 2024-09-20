@@ -1,0 +1,14 @@
+lineup,hdr,3,983
+lineup,dat,R,RE200,1,abby-hogan,gina-yip-1,mia-decerbo-1,victoria-espinosa,123.71,249
+lineup,dat,I,A200,1,gina-yip-1,126,80,2,callie-hanbridge,160.1,0,3,paxton-sullivan,186,0
+lineup,dat,I,E200,1,abby-hogan,167.37,14,2,anna-weisblum,186,0,3,katy-donohue,187.12,0
+lineup,dat,I,A50,1,victoria-espinosa,28.94,55,2,gaby-sagona,30.3,38,3,ashley-chen-657293,33.22,7
+lineup,dat,I,D100,1,mia-decerbo-1,74.31,38,2,paxton-sullivan,99.19,0
+lineup,dat,I,A100,1,victoria-espinosa,64.97,38,2,gaby-sagona,72.59,0,3,priya-aggarwal,81,0
+lineup,dat,I,A500,1,callie-hanbridge,444.84,0,2,katy-donohue,481.61,0,3,anna-weisblum,508.13,0
+lineup,dat,R,RA200,1,gaby-sagona,katy-donohue,ashley-chen-657293,callie-hanbridge,133.44,81
+lineup,dat,R,RA200,2,paxton-sullivan,swetangeli-patel,anna-weisblum,priya-aggarwal,155.93,0
+lineup,dat,I,B100,1,abby-hogan,70.56,49,2,mia-decerbo-1,77.15,19,3,priya-aggarwal,96,0
+lineup,dat,I,C100,1,gina-yip-1,70.47,102,2,swetangeli-patel,93.76,3,3,ashley-chen-657293,108,0
+lineup,dat,R,RA400,1,victoria-espinosa,abby-hogan,mia-decerbo-1,gina-yip-1,250,198
+lineup,dat,R,RA400,2,gaby-sagona,ashley-chen-657293,katy-donohue,callie-hanbridge,294.87,12

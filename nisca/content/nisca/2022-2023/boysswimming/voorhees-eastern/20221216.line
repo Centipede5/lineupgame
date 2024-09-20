@@ -1,0 +1,15 @@
+lineup,hdr,3,2460
+lineup,dat,R,RE200,1,josh-seidman,ryan-witts,aaron-jost,rocco-mann,105.19,318
+lineup,dat,R,RE200,2,ethan-shekhter,daehui-yi,justin-kravitz,jonah-kutikov,121.23,183
+lineup,dat,I,A200,1,bennett-kutikov,123.53,56,2,jayden-ebstein,131.44,35,3,tristan-schneider,134.66,26
+lineup,dat,I,E200,1,ryan-witts,131.13,74,2,jonah-kutikov,139.36,52,3,ryan-bedi,163.25,0
+lineup,dat,I,A50,1,rocco-mann,22.3,115,2,aaron-jost,24.8,75,3,chase-lenhart,27.36,42
+lineup,dat,I,D100,1,josh-seidman,52.15,124,2,ethan-shekhter,73.89,10,3,jayden-ebstein,72.28,16
+lineup,dat,I,A100,1,rocco-mann,50.32,102,2,tristan-schneider,62.18,28
+lineup,dat,I,A500,1,bennett-kutikov,333.05,59,2,justin-kravitz,387.22,6,3,matthew-cummings-1,483.21,0
+lineup,dat,R,RA200,1,jayden-ebstein,ethan-shekhter,bennett-kutikov,aaron-jost,104.49,225
+lineup,dat,R,RA200,2,ryan-bedi,justin-kravitz,jonah-richardson,tristan-schneider,108.99,186
+lineup,dat,I,B100,1,josh-seidman,53.69,120,2,jonah-kutikov,63.8,66,3,ryan-bedi,70.2,40
+lineup,dat,I,C100,1,ryan-witts,68.76,72,2,daehui-yi,75.48,42,3,samuel-zak,79.15,28
+lineup,dat,R,RA400,1,ryan-witts,aaron-jost,rocco-mann,josh-seidman,210.84,297
+lineup,dat,R,RA400,2,bennett-kutikov,jonah-richardson,tristan-schneider,jonah-kutikov,266.41,63

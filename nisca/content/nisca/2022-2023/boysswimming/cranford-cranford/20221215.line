@@ -1,0 +1,15 @@
+lineup,hdr,3,2190
+lineup,dat,R,RE200,1,dominic-lotito,henry-warren,charlie-otten-1,michael-minchak,110.5,270
+lineup,dat,R,RE200,2,garret-hanlon,james-breslin-2,jack-zambito-1,danny-kennedy-3,120.66,189
+lineup,dat,I,A200,1,liam-soyka,124.03,55,2,charlie-otten-1,126.36,48,3,aidan-wilson-3,168.45,0
+lineup,dat,I,E200,1,arturo-gomez,136.34,60,2,dominic-lotito,136.16,60,3,zachary-breslin,158.61,7
+lineup,dat,I,A50,1,michael-minchak,23.48,95,2,henry-warren,24.9,74
+lineup,dat,I,D100,1,liam-soyka,61.84,64,2,jack-zambito-1,71.56,19,3,cornelius-mcgovern,76.58,1
+lineup,dat,I,A100,1,michael-minchak,52.93,83,2,arturo-gomez,56.36,60,3,garret-hanlon,59.97,40
+lineup,dat,I,A500,1,henry-warren,332.22,59,2,charlie-otten-1,371.56,20,3,danny-kennedy-3,397.89,0
+lineup,dat,R,RA200,1,dominic-lotito,liam-soyka,arturo-gomez,henry-warren,101.14,255
+lineup,dat,R,RA200,2,cornelius-mcgovern,jack-zambito-1,james-breslin-2,garret-hanlon,108.28,192
+lineup,dat,I,B100,1,dominic-lotito,61.18,78,2,cornelius-mcgovern,73.12,29
+lineup,dat,I,C100,1,james-breslin-2,74.83,45,2,zachary-breslin,89.32,0,3,zachary-ryan,92.63,0
+lineup,dat,R,RA400,1,arturo-gomez,liam-soyka,charlie-otten-1,michael-minchak,217.61,261
+lineup,dat,R,RA400,2,danny-kennedy-3,jack-zambito-1,garret-hanlon,cornelius-mcgovern,248.38,126

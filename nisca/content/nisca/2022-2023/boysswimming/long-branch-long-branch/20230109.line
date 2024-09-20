@@ -1,0 +1,11 @@
+lineup,hdr,2,110
+lineup,dat,I,A200,1,perkins-jordan,217.75,0
+lineup,dat,I,E200
+lineup,dat,I,A50,1,joseph-fenn,26.21,56,2,ayden-roman-gil,41.4,0
+lineup,dat,I,D100,1,joseph-fenn,66.93,39
+lineup,dat,I,A100,1,joseph-fenn,64.81,15,2,ayden-roman-gil,99.54,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,brian-carranza-1,joseph-fenn,perkins-jordan,ayden-roman-gil,151.58,0
+lineup,dat,I,B100,1,brian-carranza-1,131.12,0
+lineup,dat,I,C100,1,perkins-jordan,109.59,0
+lineup,dat,R,RA400,1,brian-carranza-1,joseph-fenn,perkins-jordan,ayden-roman-gil,321.28,0

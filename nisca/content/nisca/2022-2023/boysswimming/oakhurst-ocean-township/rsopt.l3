@@ -1,0 +1,13 @@
+lineup,hdr,3,979
+lineup,dat,I,A200,1,nick-kelly-6,122.09,61,2,liam-kilcullen,130.41,37,3,matt-stewart-596433,144.72,3
+lineup,dat,I,E200,1,raphael-oliviera,140.01,50,2,andrew-cohen-502167,156.65,11,3,adam-johnson,156.86,11
+lineup,dat,I,A50,1,justin-zimmerer,23.07,102,2,john-kelly-10,26.11,58,3,jake-stewart,26.69,50
+lineup,dat,I,D100,1,nick-kelly-6,58.02,85,2,milo-montalvo,63.14,57,3,adam-johnson,75.23,5
+lineup,dat,I,A100,1,colin-zimmerer,49.06,112,2,justin-zimmerer,56.54,59,3,jake-stewart,62.63,26
+lineup,dat,I,A500,1,andrew-cohen-502167,380.43,12
+lineup,dat,I,B100,1,colin-zimmerer,60.31,83,2,liam-kilcullen,66.72,53,3,andrew-brawer,77.72,14
+lineup,dat,I,C100,1,raphael-oliviera,72.22,56,2,robert-ogorman,81.17,21,3,john-shotter,83.4,13
+relay,hdr,1095
+relay,RE200YM,2,colin-zimmerer,raphael-oliviera,milo-montalvo,justin-zimmerer,109.35,2.7900000000000000e+02,andrew-cohen-502167,robert-ogorman,adam-johnson,john-kelly-10,129.63,1.2900000000000000e+02
+relay,RA200YM,2,nick-kelly-6,milo-montalvo,raphael-oliviera,john-kelly-10,105.6,2.1600000000000000e+02,jake-stewart,matt-stewart-596433,adam-johnson,john-shotter,109.25,1.8600000000000000e+02
+relay,RA400YM,2,colin-zimmerer,justin-zimmerer,john-kelly-10,nick-kelly-6,233.84,1.8600000000000000e+02,liam-kilcullen,milo-montalvo,matt-stewart-596433,jake-stewart,256.24,9.9000000000000000e+01

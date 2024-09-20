@@ -1,0 +1,15 @@
+lineup,hdr,3,1364
+lineup,dat,R,RE200,1,marta-gershanok,jenna-kim-1,elaine-kim,rebecca-storch,123.12,255
+lineup,dat,R,RE200,2,ellice-choi,hannah-kim-6,olivia-chung-2,celine-jeon,150.12,54
+lineup,dat,I,A200,1,trianha-puente,126.93,77
+lineup,dat,I,E200,1,elaine-kim,143.25,75,2,jenna-kim-1,160.93,28
+lineup,dat,I,A50,1,rebecca-storch,28.18,65,2,olivia-chung-2,33.13,8,3,macy-tewfik,42.63,0
+lineup,dat,I,D100,1,marta-gershanok,63.23,92,2,jenna-kim-1,66.62,74
+lineup,dat,I,A100,1,rebecca-storch,61.9,57,2,hannah-kim-6,76.81,0,3,ellice-choi,87.76,0
+lineup,dat,I,A500,1,trianha-puente,349.99,64
+lineup,dat,R,RA200,1,elaine-kim,olivia-chung-2,rebecca-storch,trianha-puente,115.69,219
+lineup,dat,R,RA200,2,hannah-kim-6,celine-jeon,macy-tewfik,ellice-choi,148,0
+lineup,dat,I,B100,1,marta-gershanok,62.7,94
+lineup,dat,I,C100,1,elaine-kim,74.18,82
+lineup,dat,R,RA400,1,trianha-puente,jenna-kim-1,olivia-chung-2,marta-gershanok,266.87,120
+lineup,dat,R,RA400,2,hannah-kim-6,macy-tewfik,ellice-choi,celine-jeon,391.87,0

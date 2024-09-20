@@ -1,0 +1,11 @@
+lineup,hdr,3,335.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,ryan-mcgee-561471,27.56,40.0,2.0,samuel-fertal-1,28.99,24.0,3.0,polvalski-michael,29.35,20.0
+lineup,dat,I,D100,1,charles-rennard,52.2,124.0,,,,,,,,
+lineup,dat,I,A100,1,charles-rennard,49.15,112.0,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,samuel-fertal-1,82.95,15.0,,,,,,,,
+relay,hdr,351.0
+relay,RE200YM,1,ryan-mcgee-561471,samuel-fertal-1,charles-rennard,polvalski-michael,122.47,177.0,,,,,,,177.0
+relay,RA200YM,1,samuel-fertal-1,polvalski-michael,charles-rennard,ryan-mcgee-561471,110.83,174.0,,,,,,,174.0

@@ -1,0 +1,15 @@
+lineup,hdr,3,3510
+lineup,dat,R,RE200,1,henry-mcfadden,trever-cottrell,quinten-gagner,charles-derivaux,100.88,360
+lineup,dat,R,RE200,2,sinjin-spellmeyer,gabe-guerrieri,brant-nicholls,josh-hogan-1,111.18,264
+lineup,dat,I,A200,1,trever-cottrell,105.06,120,2,quinn-clancey,111.49,96,3,eli-hougah,122.41,60
+lineup,dat,I,E200,1,henry-mcfadden,111.77,141,2,josh-hogan-1,129.29,80,3,sinjin-spellmeyer,135.66,62
+lineup,dat,I,A50,1,charles-derivaux,22.4,113,2,gabe-guerrieri,23.67,92,3,quinten-gagner,24.09,86
+lineup,dat,I,D100,1,henry-mcfadden,48.48,154,2,brant-nicholls,61.06,68
+lineup,dat,I,A100,1,quinn-clancey,50.53,101,2,quinten-gagner,54.89,70,3,connor-jankowski,62.36,27
+lineup,dat,I,A500,1,trever-cottrell,293.48,109,2,grey-sullivan,373.43,18,3,eli-hougah,384.43,9
+lineup,dat,R,RA200,1,charles-derivaux,gabe-guerrieri,quinten-gagner,quinn-clancey,96.32,303
+lineup,dat,R,RA200,2,connor-jankowski,eli-hougah,jayden-cordova,henry-dyreyes,108.01,195
+lineup,dat,I,B100,1,sinjin-spellmeyer,61.06,79,2,brant-nicholls,62.2,73,3,josh-hogan-1,63.01,70
+lineup,dat,I,C100,1,charles-derivaux,62.21,108,2,gabe-guerrieri,70.94,62,3,grey-sullivan,76.62,38
+lineup,dat,R,RA400,1,quinn-clancey,josh-hogan-1,henry-mcfadden,trever-cottrell,196.31,378
+lineup,dat,R,RA400,2,jayden-cordova,sinjin-spellmeyer,brant-nicholls,eli-hougah,237.07,174

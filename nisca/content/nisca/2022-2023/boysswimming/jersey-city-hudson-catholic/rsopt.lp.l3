@@ -1,0 +1,13 @@
+lineup,hdr,3,589.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,1,oskar-mejia,117.27,120.0,,,,,,,,
+lineup,dat,I,A50,1,john-saquipulla,27.32,43.0,2.0,diego-wharton,28.38,31.0,3.0,waylon-faulkner,28.5,29.0
+lineup,dat,I,D100,1,jamar-josephs,54.82,106.0,,,,,,,,
+lineup,dat,I,A100,1,jamar-josephs,49.1,112.0,2.0,deen-bhatti,62.22,28.0,3.0,diego-wharton,67.56,3.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,deen-bhatti,72.14,33.0,2.0,waylon-faulkner,71.91,33.0,,,,
+lineup,dat,I,C100,1,oskar-mejia,74.17,48.0,2.0,john-saquipulla,86.43,3.0,,,,
+relay,hdr,384.0
+relay,RA400YM,1,diego-wharton,deen-bhatti,raymond-tutiven-1,angel-lozado,232.34,192.0,,,,,,,192.0
+relay,RE200YM,1,oskar-mejia,jamar-josephs,john-saquipulla,deen-bhatti,124.68,159.0,,,,,,,159.0
+relay,RA200YM,1,darcy-green,diego-wharton,raymond-tutiven-1,angel-lozado,132.42,33.0,,,,,,,33.0

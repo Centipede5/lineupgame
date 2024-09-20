@@ -1,0 +1,13 @@
+lineup,hdr,3,989.0
+lineup,dat,I,A200,1,maria-petruzzi,126.11,80.0,2.0,aya-shental,129.24,70.0,3,natalie-kretov,136.18,49.0
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,alicia-ying,27.21,79.0,2.0,kristin-chang,29.51,48.0,3,isabel-abreu,29.85,44.0
+lineup,dat,I,D100,1,joelle-rush,63.1,93.0,2.0,gabriella-de-grazio,68.2,66.0,,,,
+lineup,dat,I,A100,1,aya-shental,59.09,76.0,2.0,alicia-ying,59.19,75.0,3,natalie-kretov,61.56,59.0
+lineup,dat,I,A500,1,maria-petruzzi,331.53,87.0,2.0,giuliana-de-grazio,376.24,36.0,,,,
+lineup,dat,I,B100,1,joelle-rush,64.75,81.0,2.0,isabel-abreu,75.98,24.0,3,giuliana-de-grazio,78.03,15.0
+lineup,dat,I,C100,1,mackenzie-goldfeder,92.59,7.0,,,,,,,,
+relay,hdr,1071.0
+relay,RE200YF,2,joelle-rush,maria-petruzzi,gabriella-de-grazio,aya-shental,123.51,252.0,giuliana-de-grazio,mackenzie-goldfeder,gisele-zhornist,kristin-chang,132.5,174.0,426.0
+relay,RA200YF,2,aya-shental,maria-petruzzi,gabriella-de-grazio,alicia-ying,111.88,255.0,kristin-chang,gisele-zhornist,isabel-abreu,natalie-kretov,124.61,144.0,399.0
+relay,RA400YF,2,joelle-rush,isabel-abreu,gabriella-de-grazio,alicia-ying,249.38,201.0,giuliana-de-grazio,kristin-chang,mackenzie-goldfeder,natalie-kretov,285.3,45.0,246.0

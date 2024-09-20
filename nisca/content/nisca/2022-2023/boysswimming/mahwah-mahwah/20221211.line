@@ -1,0 +1,13 @@
+lineup,hdr,3,999
+lineup,dat,R,RE200,1,zachary-oconnell,kiran-aman,yesum-lee,peyton-egg,115.1,231
+lineup,dat,I,A200,1,matthew-mazzoleni,167.56,0,2,peyton-egg,121.68,62,3,dhruv-tandon,180,0
+lineup,dat,I,E200,1,zachary-oconnell,142.47,44,2,wade-barton,163.38,0,3,kiran-aman,146.19,35
+lineup,dat,I,A50,1,liam-fitzgerald-3,33.43,0,2,peyton-egg,23.45,96,3,akshat-singh,32.34,0
+lineup,dat,I,D100,1,yesum-lee,57.45,89
+lineup,dat,I,A100,1,akshat-singh,83.13,0,2,eugene-lee-5,74.66,0
+lineup,dat,I,A500,1,yesum-lee,305.57,92,2,wade-barton,412.69,0
+lineup,dat,R,RA200,1,akshat-singh,liam-fitzgerald-3,matthew-mazzoleni,eugene-lee-5,146.63,0
+lineup,dat,I,B100,1,liam-fitzgerald-3,111.51,0,2,zachary-oconnell,61.93,75,3,dhruv-tandon,107.11,0
+lineup,dat,I,C100,1,matthew-mazzoleni,91.5,0,2,kiran-aman,73.03,53,3,eugene-lee-5,114.49,0
+lineup,dat,R,RA400,1,zachary-oconnell,kiran-aman,peyton-egg,yesum-lee,225.79,222
+lineup,dat,R,RA400,2,wade-barton,dhruv-tandon,matthew-mazzoleni,eugene-lee-5,316.83,0

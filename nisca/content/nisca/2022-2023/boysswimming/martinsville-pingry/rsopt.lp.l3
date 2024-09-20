@@ -1,0 +1,13 @@
+lineup,hdr,3,2309.0
+lineup,dat,I,A200,1,roman-jones,101.86,134.0,2.0,derek-cheng,104.88,121.0,3,ziv-shah,114.47,85.0
+lineup,dat,I,E200,1,max-ruffer,122.05,103.0,2.0,kyle-wang-1,135.16,63.0,3,rehman-tariq,136.84,58.0
+lineup,dat,I,A50,1,ian-konops,23.42,96.0,2.0,john-grissenger,23.89,89.0,3,rehman-tariq,24.0,87.0
+lineup,dat,I,D100,1,roman-jones,47.78,160.0,2.0,riley-delacruz-1,53.4,115.0,3,julian-zassenhaus,59.72,75.0
+lineup,dat,I,A100,1,derek-cheng,47.28,127.0,2.0,james-thomas-5,50.88,98.0,3,ian-konops,52.57,86.0
+lineup,dat,I,A500,1,max-ruffer,293.7,109.0,2.0,ziv-shah,307.31,90.0,3,owen-smith-8,328.61,64.0
+lineup,dat,I,B100,1,riley-delacruz-1,55.09,112.0,2.0,owen-smith-8,59.1,89.0,3,alex-terpstra,63.44,68.0
+lineup,dat,I,C100,1,john-grissenger,63.1,103.0,2.0,james-thomas-5,63.73,99.0,3,tobin-huang,67.68,78.0
+relay,hdr,1848.0
+relay,RE200YM,2,roman-jones,john-grissenger,riley-delacruz-1,james-thomas-5,99.19,378.0,owen-smith-8,tobin-huang,julian-zassenhaus,kyle-wang-1,108.03,291.0,669.0
+relay,RA400YM,2,riley-delacruz-1,ian-konops,derek-cheng,roman-jones,200.61,354.0,ziv-shah,tobin-huang,owen-smith-8,kyle-wang-1,220.55,246.0,600.0
+relay,RA200YM,2,ian-konops,rehman-tariq,julian-zassenhaus,derek-cheng,96.58,300.0,kyle-wang-1,john-grissenger,tobin-huang,james-thomas-5,98.69,279.0,579.0

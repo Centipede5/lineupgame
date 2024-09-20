@@ -1,0 +1,13 @@
+lineup,hdr,3,572
+lineup,dat,I,A200,1,jazmin-ortiz-quinonez,139.21,40,2,kayla-kovacs,154.08,3
+lineup,dat,I,E200
+lineup,dat,I,A50,1,jazmin-ortiz-quinonez,28.53,61,2,fontaine-gatti,29.65,46,3,kameron-przybylski,30.88,32
+lineup,dat,I,D100,1,ava-pektor,64.76,83,2,kayla-kovacs,78.64,22
+lineup,dat,I,A100,1,jessica-oetiz-quinonez,59.8,71,2,fontaine-gatti,67.02,27,3,kameron-przybylski,70.97,6
+lineup,dat,I,A500
+lineup,dat,I,B100
+lineup,dat,I,C100,1,ava-pektor,74.2,82,2,jessica-oetiz-quinonez,76.12,73,3,bella-paglia,87.19,26
+relay,hdr,705
+relay,RE200YF,2,jessica-oetiz-quinonez,ava-pektor,jazmin-ortiz-quinonez,fontaine-gatti,125.08,2.3700000000000000e+02,cecilia-smola,mina-batra,kayla-kappmeier,bella-paglia,148.36,6.3000000000000000e+01
+relay,RA200YF,2,jessica-oetiz-quinonez,jazmin-ortiz-quinonez,ava-pektor,fontaine-gatti,113.4,2.4000000000000000e+02,kaylie-fabriczi,kayla-kappmeier,kameron-przybylski,kayla-kovacs,129.6,1.0800000000000000e+02
+relay,RA400YF,1,kayla-kovacs,kaylie-fabriczi,kayla-kappmeier,kameron-przybylski,282.53,5.7000000000000000e+01

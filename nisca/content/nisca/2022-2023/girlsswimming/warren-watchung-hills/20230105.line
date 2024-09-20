@@ -1,0 +1,15 @@
+lineup,hdr,3,3006
+lineup,dat,R,RE200,1,charlotte-holliday,madeline-goret,shaye-bundonis,brenda-zhang,115.46,327
+lineup,dat,R,RE200,2,gabrielle-minieri,claudia-tao,madeleine-koller,jia-khandagale,144.15,90
+lineup,dat,I,A200,1,zoe-arakelian,119.84,102,2,rebecca-clemente,125.08,83,3,ayla-freire,139.55,39
+lineup,dat,I,E200,1,charlotte-holliday,132.91,108,2,shaye-bundonis,144.01,73,3,alessandra-abeijon,159.02,33
+lineup,dat,I,A50,1,mya-uku,25.99,98,2,kaylee-yue,27.47,75,3,priyasha-sabharwal,30.3,38
+lineup,dat,I,D100,1,brenda-zhang,62.81,94,2,madeline-goret,62.28,97,3,sara-liu,67.23,71
+lineup,dat,I,A100,1,zoe-arakelian,55.81,101,2,mya-uku,57.56,87,3,ayla-freire,62.67,52
+lineup,dat,I,A500,1,rebecca-clemente,336.33,81,2,shaye-bundonis,343.58,72,3,madeleine-koller,385.51,26
+lineup,dat,R,RA200,1,brenda-zhang,mya-uku,rebecca-clemente,zoe-arakelian,104.89,327
+lineup,dat,R,RA200,2,madeline-goret,kaylee-yue,alessandra-abeijon,ayla-freire,115.28,225
+lineup,dat,I,B100,1,charlotte-holliday,58.85,120,2,sara-liu,76.86,20,3,gabrielle-minieri,81.04,3
+lineup,dat,I,C100,1,brenda-zhang,73.26,87,2,madeline-goret,70.15,104,3,kaylee-yue,77.98,64
+lineup,dat,R,RA400,1,rebecca-clemente,mya-uku,zoe-arakelian,charlotte-holliday,230.77,297
+lineup,dat,R,RA400,2,claudia-tao,alexis-perez-548757,gabrielle-minieri,sara-liu,294.85,12

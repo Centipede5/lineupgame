@@ -1,0 +1,12 @@
+lineup,hdr,3,0
+lineup,dat,I,A200,1,juan-rivera-660760,213.11,0
+lineup,dat,I,E200
+lineup,dat,I,A50,1,gabriel-couvertier,32.77,0,2,elias-garcia-2,32.33,0,3,julaicey-acevado,37.9,0
+lineup,dat,I,D100
+lineup,dat,I,A100,1,elias-garcia-2,80.66,0,2,diana-ramirez,86.65,0,3,julaicey-acevado,88.76,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,diana-ramirez,gabriel-couvertier,julaicey-acevado,elias-garcia-2,148.94,0
+lineup,dat,R,RA200,2,lauren-huerta,jinell-reaid-green,juan-rivera-660760,jose-avendano,188.81,0
+lineup,dat,I,B100,1,jinell-reaid-green,124.36,0,2,lauren-huerta,104.87,0,3,diana-ramirez,121.14,0
+lineup,dat,I,C100
+lineup,dat,R,RA400,1,diana-ramirez,lauren-huerta,julaicey-acevado,jinell-reaid-green,393,0

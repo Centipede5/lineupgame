@@ -1,0 +1,13 @@
+lineup,hdr,3,2347.0
+lineup,dat,I,A200,1,charles-schreiner,102.71,130.0,2.0,dylan-dewitt,106.19,116.0,3,max-smilevski,108.54,107.0
+lineup,dat,I,E200,1,charlie-seiverd,123.14,100.0,2.0,max-smilevski,128.71,82.0,3,aerick-mallari-1,132.53,70.0
+lineup,dat,I,A50,1,wojciechowicz-michael,22.65,109.0,2.0,michael-wojciechowicz,22.75,107.0,3,dj-williams-4,24.05,86.0
+lineup,dat,I,D100,1,alex-smilevski,53.65,114.0,2.0,will-nguyen,59.58,76.0,3,dj-williams-4,61.71,64.0
+lineup,dat,I,A100,1,leo-smilevski-1,47.88,122.0,2.0,michael-wojciechowicz,50.25,103.0,3,wojciechowicz-michael,51.01,97.0
+lineup,dat,I,A500,1,dylan-dewitt,283.42,124.0,2.0,charles-schreiner,286.12,120.0,3,corey-lin,314.44,81.0
+lineup,dat,I,B100,1,charlie-seiverd,55.01,112.0,2.0,corey-lin,57.36,98.0,3,adam-schreiner,58.66,91.0
+lineup,dat,I,C100,1,alex-smilevski,64.92,92.0,2.0,will-nguyen,67.28,80.0,3,aerick-mallari-1,70.19,66.0
+relay,hdr,1977.0
+relay,RA200YM,2,charles-schreiner,will-nguyen,michael-wojciechowicz,leo-smilevski-1,90.41,366.0,corey-lin,max-smilevski,dylan-dewitt,alex-smilevski,93.47,333.0,699.0
+relay,RE200YM,2,charles-schreiner,charlie-seiverd,alex-smilevski,leo-smilevski-1,99.48,375.0,adam-schreiner,will-nguyen,dj-williams-4,william-seaman-1,108.22,288.0,663.0
+relay,RA400YM,2,max-smilevski,michael-wojciechowicz,dylan-dewitt,leo-smilevski-1,197.3,372.0,dj-williams-4,adam-schreiner,corey-lin,charlie-seiverd,221.16,243.0,615.0

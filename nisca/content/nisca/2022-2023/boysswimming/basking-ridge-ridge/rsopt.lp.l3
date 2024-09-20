@@ -1,0 +1,13 @@
+lineup,hdr,3,2305.0
+lineup,dat,I,A200,1,mitch-ferraoili,106.09,116.0,2.0,ansin-chen,110.73,98.0,3,john-thompson-3,116.52,78.0
+lineup,dat,I,E200,1,gabe-beverini,123.08,100.0,2.0,kevin-cao-549702,123.31,99.0,3,owen-luo,130.35,77.0
+lineup,dat,I,A50,1,garrett-gould,21.05,138.0,2.0,nathan-luo,24.03,87.0,3,anurag-bhat,24.05,86.0
+lineup,dat,I,D100,1,garrett-gould,50.32,138.0,2.0,orion-wang,56.78,93.0,3,dean-capizzi,59.0,79.0
+lineup,dat,I,A100,1,dean-capizzi,51.32,95.0,2.0,ian-dsilva,53.19,81.0,3,nathan-luo,53.7,78.0
+lineup,dat,I,A500,1,mitch-ferraoili,288.45,116.0,2.0,orion-wang,303.95,94.0,3,john-thompson-3,306.58,91.0
+lineup,dat,I,B100,1,ansin-chen,56.54,103.0,2.0,ian-dsilva,56.82,101.0,3,darshan-hariharan,62.54,72.0
+lineup,dat,I,C100,1,kevin-cao-549702,61.72,111.0,2.0,gabe-beverini,63.54,100.0,3,adam-ibrahim-1,68.38,74.0
+relay,hdr,1968.0
+relay,RE200YM,2,garrett-gould,kevin-cao-549702,mitch-ferraoili,gabe-beverini,96.7,405.0,kaden-luo,noureldien-mekawe,ryan-mannino,raul-sommerhalder,107.21,297.0,702.0
+relay,RA400YM,2,mitch-ferraoili,dean-capizzi,ansin-chen,garrett-gould,195.76,381.0,john-thompson-3,ian-dsilva,orion-wang,kevin-cao-549702,214.63,276.0,657.0
+relay,RA200YM,2,gabe-beverini,ansin-chen,orion-wang,dean-capizzi,93.5,333.0,george-chamberlain,youssef-elnawawi,evan-kelly-8,anurag-bhat,98.82,276.0,609.0

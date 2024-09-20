@@ -1,0 +1,13 @@
+lineup,hdr,3,926.0
+lineup,dat,I,A200,1,angelia-choi,129.75,68.0,2.0,sibora-muca,138.88,41.0,3,adriana-coccaro,142.68,31.0
+lineup,dat,I,E200,1,isabella-pattie,147.97,62.0,,,,,,,,
+lineup,dat,I,A50,1,sienna-tang,29.01,54.0,2.0,ryan-beyer,29.25,51.0,3,kyra-ovnanian,29.26,51.0
+lineup,dat,I,D100,1,alexa-guidetti,65.63,79.0,2.0,madison-verhage,76.75,29.0,3,nicole-choo,82.0,10.0
+lineup,dat,I,A100,1,sibora-muca,63.37,48.0,2.0,ryan-beyer,68.28,20.0,3,christina-quinones,69.9,12.0
+lineup,dat,I,A500,1,isabella-pattie,342.44,74.0,2.0,angelia-choi,351.91,62.0,3,madison-verhage,383.91,28.0
+lineup,dat,I,B100,1,adriana-coccaro,73.89,33.0,,,,,,,,
+lineup,dat,I,C100,1,alexa-guidetti,75.62,75.0,2.0,sienna-tang,80.84,51.0,3,alyce-fernandez,81.91,47.0
+relay,hdr,837.0
+relay,RE200YF,2,madison-verhage,alexa-guidetti,isabella-pattie,angelia-choi,128.6,207.0,adriana-coccaro,sienna-tang,christina-quinones,kyra-ovnanian,134.7,159.0,366.0
+relay,RA200YF,2,kyra-ovnanian,shai-cohen,alyce-fernandez,nicole-choo,127.03,126.0,ryan-beyer,christina-quinones,isabella-da-coasta,christy-beshara,128.2,117.0,243.0
+relay,RA400YF,2,alexa-guidetti,isabella-pattie,angelia-choi,sienna-tang,254.44,177.0,shai-cohen,ryan-beyer,madison-verhage,alyce-fernandez,283.64,51.0,228.0

@@ -1,0 +1,15 @@
+lineup,hdr,3,1783
+lineup,dat,R,RE200,1,colin-smith-7,austin-olexa,kevin-mendez-avila,cameron-johnson-547087,124.75,159
+lineup,dat,R,RE200,2,samir-bailey,aaryan-shroff,ayush-shroff,bobby-rodriguez,168.48,0
+lineup,dat,I,A200,1,jack-drake,107.09,112,2,kevin-mendez-avila,157.28,0,3,isaiah-pierre,158.63,0
+lineup,dat,I,E200,1,nicholas-berger,123.5,98,2,colin-smith-7,140.5,49,3,cameron-johnson-547087,170.12,0
+lineup,dat,I,A50,1,kyle-vieira-1,23.66,92,2,austin-olexa,25.84,61,3,lucas-lau-1,28.28,32
+lineup,dat,I,D100,1,jack-drake,52.62,121,2,kevin-mendez-avila,77.15,0,3,joshua-rojas,114.19,0
+lineup,dat,I,A100,1,kyle-vieira-1,55.26,67,2,ethan-henry,54.76,71,3,cameron-johnson-547087,66.67,7
+lineup,dat,I,A500,1,colin-smith-7,351.19,39,2,lucas-lau-1,404.44,0,3,joshua-rojas,477.31,0
+lineup,dat,R,RA200,1,kyle-vieira-1,nicholas-berger,ethan-henry,jack-drake,91.75,351
+lineup,dat,R,RA200,2,kevin-mendez-avila,isaiah-pierre,vincent-todd,lucas-lau-1,120.63,102
+lineup,dat,I,B100
+lineup,dat,I,C100,1,ethan-henry,62.34,107,2,isaiah-pierre,92.24,0,3,samir-bailey,100.87,0
+lineup,dat,R,RA400,1,jack-drake,kyle-vieira-1,ethan-henry,nicholas-berger,220.6,246
+lineup,dat,R,RA400,2,colin-smith-7,cameron-johnson-547087,vincent-todd,austin-olexa,264.32,69

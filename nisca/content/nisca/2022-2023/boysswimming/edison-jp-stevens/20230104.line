@@ -1,0 +1,15 @@
+lineup,hdr,3,2806
+lineup,dat,R,RE200,1,sean-stanik,anthony-chiu,ishaan-anand,aman-nimse,112.04,255
+lineup,dat,R,RE200,2,jayden-zheng,kartik-narula,ishan-kataria,udaykarthik-gujulva,113.55,243
+lineup,dat,I,A200,1,ishaan-anand,121.2,63,2,arnav-landge,130.52,37,3,akarsh-choudhary,126.12,49
+lineup,dat,I,E200,1,sean-stanik,132.28,71,2,anthony-chiu,133.68,67,3,sanvith-gottam,143.65,41
+lineup,dat,I,A50,1,aman-nimse,23.77,91,2,jayden-zheng,24.58,79,3,udaykarthik-gujulva,25.27,69
+lineup,dat,I,D100,1,ishaan-anand,60.57,71,2,ishan-kataria,62.44,61,3,ishaan-gupte,64.81,49
+lineup,dat,I,A100,1,aman-nimse,55.68,65,2,arnav-landge,55.65,65,3,jeremy-lin,55.87,64
+lineup,dat,I,A500,1,sean-stanik,306.36,91,2,kartik-narula,350.62,40,3,udaykarthik-gujulva,367.28,24
+lineup,dat,R,RA200,1,arnav-landge,udaykarthik-gujulva,ishaan-gupte,jayden-zheng,102.39,243
+lineup,dat,R,RA200,2,kevin-yu,justin-jiang-1,akarsh-choudhary,sanvith-gottam,101.34,252
+lineup,dat,I,B100,1,sanvith-gottam,63.52,67,2,akarsh-choudhary,65.3,59
+lineup,dat,I,C100,1,anthony-chiu,67.17,80,2,kartik-narula,72.54,55,3,chinmay-prabhu,76.69,38
+lineup,dat,R,RA400,1,aman-nimse,arnav-landge,anthony-chiu,sean-stanik,218.79,255
+lineup,dat,R,RA400,2,ishaan-gupte,jeremy-lin,kartik-narula,ishaan-anand,239.42,162

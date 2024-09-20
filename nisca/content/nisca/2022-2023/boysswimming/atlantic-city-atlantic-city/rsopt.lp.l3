@@ -1,0 +1,13 @@
+lineup,hdr,3,1221.0
+lineup,dat,I,A200,1,john-bulthuis-1,142.18,9.0,,,,,,,,
+lineup,dat,I,E200,1,john-bulthuis-1,119.71,111.0,2.0,john-sahl-1,126.32,89.0,,,,
+lineup,dat,I,A50,1,kyle-graybill-3,22.48,112.0,2.0,jake-downing-2,25.45,66.0,3,blaise-kurtz-1,26.87,48.0
+lineup,dat,I,D100,1,james-haney,51.92,126.0,2.0,tommy-pham,59.43,77.0,3,jimmy-walsh-652977,67.45,36.0
+lineup,dat,I,A100,1,john-sahl-1,49.79,106.0,2.0,kyle-graybill-3,52.65,85.0,3,blaise-kurtz-1,62.63,26.0
+lineup,dat,I,A500,1,jimmy-downing-2,383.01,10.0,,,,,,,,
+lineup,dat,I,B100,1,james-haney,52.13,130.0,2.0,jason-lieu,62.03,74.0,3,tommy-pham,64.22,64.0
+lineup,dat,I,C100,1,aaron-simpson-1,77.77,33.0,2.0,josh-weinstock-1,81.77,19.0,,,,
+relay,hdr,1395.0
+relay,RE200YM,2,james-haney,john-sahl-1,tommy-pham,kyle-graybill-3,101.42,354.0,jimmy-walsh-652977,aaron-simpson-1,jason-lieu,jake-downing-2,116.6,219.0,573.0
+relay,RA200YM,2,kyle-graybill-3,jason-lieu,john-sahl-1,james-haney,91.21,357.0,omar-dewiar-1,jimmy-walsh-652977,blaise-kurtz-1,jake-downing-2,108.05,195.0,552.0
+relay,RA400YM,2,jake-downing-2,jimmy-walsh-652977,tommy-pham,jason-lieu,228.41,210.0,anna-tran-1,jodie-perrera,sam-perrera,zuzzanna-tursk,267.16,60.0,270.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,631.0
+lineup,dat,I,A200,1,shay-wiley,134.46,27.0,2.0,ryleigh-mcdonald,137.99,18.0,,,,
+lineup,dat,I,E200,1,braden-sheehan,121.23,106.0,,,,,,,,
+lineup,dat,I,A50,1,hunter-jewell,24.9,74.0,2.0,ryleigh-mcdonald,29.61,18.0,3,sydney-jewell,30.31,11.0
+lineup,dat,I,D100,1,braden-sheehan,54.26,109.0,2.0,reagan-sheehan,68.51,32.0,,,,
+lineup,dat,I,A100,1,hunter-jewell,56.89,57.0,2.0,jade-wiley,63.35,22.0,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,shay-wiley,66.79,53.0,2.0,jade-wiley,69.04,44.0,3,kennedy-davis-1,77.87,14.0
+lineup,dat,I,C100,1,reagan-sheehan,76.7,38.0,2.0,melody-lofgren,85.06,8.0,,,,
+relay,hdr,657.0
+relay,RE200YM,2,shay-wiley,reagan-sheehan,braden-sheehan,hunter-jewell,114.32,237.0,kennedy-davis-1,melody-lofgren,khaliah-duckett,sydney-jewell,145.53,39.0,276.0
+relay,RA400YM,2,braden-sheehan,jade-wiley,shay-wiley,hunter-jewell,236.31,177.0,melody-lofgren,cara-coppolino,ashley-blakelock,megan-quinn-510866,267.1,60.0,237.0
+relay,RA200YM,2,ryleigh-mcdonald,jade-wiley,melody-lofgren,reagan-sheehan,119.86,108.0,ashley-blakelock,sydney-jewell,cara-coppolino,kennedy-davis-1,131.53,36.0,144.0

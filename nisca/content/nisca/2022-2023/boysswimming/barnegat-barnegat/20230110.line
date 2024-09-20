@@ -1,0 +1,13 @@
+lineup,hdr,3,1200
+lineup,dat,R,RE200,1,ryan-grant-5,christopher-schumann-1,tyler-finkle,christopher-deleeuw,115.79,225
+lineup,dat,R,RE200,2,chase-bringoli,andrew-nguyen-1,anthony-burton-1,william-rollis,139.53,69
+lineup,dat,I,A200,1,christopher-deleeuw,120.26,66,2,anthony-burton-1,158.72,0
+lineup,dat,I,E200,1,ryan-grant-5,149.41,27,2,andrew-nguyen-1,194.39,0
+lineup,dat,I,A50,1,tyler-finkle,23.37,97,2,william-rollis,27.11,45,3,chase-bringoli,29.23,22
+lineup,dat,I,D100,1,tyler-finkle,64.41,51
+lineup,dat,I,A100,1,christopher-schumann-1,56.15,62,2,william-rollis,64.44,17,3,zackary-kielb,83.03,0
+lineup,dat,I,A500,1,christopher-deleeuw,330.27,62
+lineup,dat,R,RA200,1,anthony-burton-1,chase-bringoli,andrew-nguyen-1,william-rollis,125.96,69
+lineup,dat,I,B100,1,ryan-grant-5,66.7,54,2,anthony-burton-1,75.61,21
+lineup,dat,I,C100,1,christopher-schumann-1,73.37,51,2,chase-bringoli,82.44,16,3,andrew-nguyen-1,86.7,3
+lineup,dat,R,RA400,1,tyler-finkle,ryan-grant-5,christopher-schumann-1,christopher-deleeuw,221.29,243

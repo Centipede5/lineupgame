@@ -1,0 +1,16 @@
+lineup,hdr,3,582
+lineup,dat,I,A200,1,colin-mejias,116.09,80
+lineup,dat,I,E200,1,yanovsky-vasily,132.41,71
+lineup,dat,I,A50,1,mejias-keegan,28.06,34,2,philip-schidlovsky,28.49,29,3,maria-madigan,28.82,26
+lineup,dat,I,D100,1,malachi-wang,61.9,63
+lineup,dat,I,A100,1,malachi-wang,57.01,57,2,maria-madigan,63.27,22
+lineup,dat,I,A500,1,colin-mejias,310.02,86
+lineup,dat,I,B100,1,anita-axelson,81.27,4
+lineup,dat,I,C100,1,yanovsky-vasily,65.94,87,2,joshua-jen-1,80.48,23
+relay,hdr,549
+relay,RE200YM,2,colin-mejias,yanovsky-vasily,malachi-wang,maria-madigan,117.9,2.1000000000000000e+02,anita-axelson,joshua-jen-1,bella-scannapieco,philip-schidlovsky,140.81,6.3000000000000000e+01
+relay,RA200YM,2,malachi-wang,maria-madigan,yanovsky-vasily,colin-mejias,107.66,1.9800000000000000e+02,anita-axelson,mejias-keegan,joshua-jen-1,philip-schidlovsky,124.5,7.8000000000000000e+01
+relay,hdr,567
+relay,RE200YM,2,colin-mejias,yanovsky-vasily,malachi-wang,maria-madigan,117.9,2.1000000000000000e+02,anita-axelson,joshua-jen-1,bella-scannapieco,philip-schidlovsky,140.81,6.3000000000000000e+01
+relay,RA200YM,2,maria-madigan,anita-axelson,philip-schidlovsky,mejias-keegan,115.38,1.3800000000000000e+02,edwards-adeline,joshua-jen-1,bella-scannapieco,william-lyu,133.69,2.7000000000000000e+01
+relay,RA400YM,1,colin-mejias,mejias-keegan,anita-axelson,malachi-wang,248.31,1.2900000000000000e+02

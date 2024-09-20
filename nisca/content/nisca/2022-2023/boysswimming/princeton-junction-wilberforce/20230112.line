@@ -1,0 +1,15 @@
+lineup,hdr,3,883
+lineup,dat,R,RE200,1,malachi-wang,joshua-jen-1,colin-mejias,maria-madigan,124.32,162
+lineup,dat,R,RE200,2,mejias-keegan,philip-schidlovsky,bella-scannapieco,edwards-adeline,144.39,45
+lineup,dat,I,A200,1,anita-axelson,148.05,0
+lineup,dat,I,E200,1,colin-mejias,133.1,69
+lineup,dat,I,A50,1,mejias-keegan,28.06,34,2,philip-schidlovsky,28.49,29,3,william-lyu,31.04,4
+lineup,dat,I,D100,1,malachi-wang,61.9,63
+lineup,dat,I,A100,1,maria-madigan,63.27,22,2,bella-scannapieco,75.93,0,3,edwards-adeline,76.91,0
+lineup,dat,I,A500,1,colin-mejias,310.02,86
+lineup,dat,R,RA200,1,maria-madigan,anita-axelson,philip-schidlovsky,mejias-keegan,115.38,138
+lineup,dat,R,RA200,2,edwards-adeline,joshua-jen-1,bella-scannapieco,william-lyu,133.69,27
+lineup,dat,I,B100,1,malachi-wang,70.37,39,2,anita-axelson,81.27,4
+lineup,dat,I,C100,1,joshua-jen-1,80.48,23,2,maria-madigan,84.69,9
+lineup,dat,R,RA400,1,colin-mejias,mejias-keegan,anita-axelson,malachi-wang,248.31,129
+lineup,dat,R,RA400,2,bella-scannapieco,edwards-adeline,joshua-jen-1,philip-schidlovsky,301.33,0

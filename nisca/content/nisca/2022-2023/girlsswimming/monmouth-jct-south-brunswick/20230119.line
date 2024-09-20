@@ -1,0 +1,15 @@
+lineup,hdr,3,1983
+lineup,dat,R,RE200,1,anna-ruzhanski,emma-vindigni-1,trisha-verma,erina-rejo,120.28,279
+lineup,dat,R,RE200,2,divya-tase,aanya-shridhar,aagrimaa-mehra,devna-ashok,134.51,159
+lineup,dat,I,A200,1,trisha-verma,134.54,53,2,ria-badgujar,140.27,37,3,ritika-pal,145.97,22
+lineup,dat,I,E200,1,emma-vindigni-1,148.94,59,2,aanya-shridhar,157.19,37,3,aagrimaa-mehra,163.35,23
+lineup,dat,I,A50,1,anna-ruzhanski,26.17,95,2,erina-rejo,28.75,58,3,gargi-randive-2,28.37,63
+lineup,dat,I,D100,1,trisha-verma,63.38,91,2,rishika-puthli,80.45,15,3,vibha-mitti,82.38,8
+lineup,dat,I,A100,1,erina-rejo,65.19,37,2,gargi-randive-2,66.36,30,3,divya-tase,71.44,4
+lineup,dat,I,A500,1,emma-vindigni-1,366.81,45,2,ritika-pal,389.83,22,3,sana-jain,411.02,3
+lineup,dat,R,RA200,1,anna-ruzhanski,trisha-verma,erina-rejo,emma-vindigni-1,109.38,279
+lineup,dat,R,RA200,2,ria-badgujar,devna-ashok,rishika-midha,gargi-randive-2,120,183
+lineup,dat,I,B100,1,anna-ruzhanski,65.56,77,2,ria-badgujar,73.75,34,3,divya-tase,75.27,27
+lineup,dat,I,C100,1,aanya-shridhar,78.28,63,2,aagrimaa-mehra,81.5,48,3,rishika-midha,86.94,27
+lineup,dat,R,RA400,1,gargi-randive-2,devna-ashok,ria-badgujar,aanya-shridhar,273.75,90
+lineup,dat,R,RA400,2,vibha-mitti,sana-jain,ritika-pal,divya-tase,293.48,15

@@ -1,0 +1,15 @@
+lineup,hdr,3,3667
+lineup,dat,R,RE200,1,charlie-kulp,jack-bigham,ryan-snarr,charles-powers,99.24,375
+lineup,dat,R,RE200,2,ransom-chang,trevor-ledon,liam-sweeney,jack-kulp,117.6,210
+lineup,dat,I,A200,1,eric-hoie,114.69,84,2,tirian-chang,117.49,75,3,declan-robertson,128.52,42
+lineup,dat,I,E200,1,yannick-rodrigo-candappa,139.35,52,2,ransom-chang,133.91,66,3,dylan-mulligan,143.19,42
+lineup,dat,I,A50,1,atticus-chang,22.12,118,2,simon-strysak,24.01,87,3,hunter-bigham,26.66,51
+lineup,dat,I,D100,1,ryan-snarr,51.07,133,2,tirian-chang,55.23,103,3,aidan-ryu,62.67,59
+lineup,dat,I,A100,1,atticus-chang,54.04,75,2,charles-powers,52.21,88,3,eric-hoie,48.87,114
+lineup,dat,I,A500,1,simon-strysak,296.18,105,2,jack-kulp,303.87,94,3,yannick-rodrigo-candappa,330.41,61
+lineup,dat,R,RA200,1,charlie-kulp,eric-hoie,atticus-chang,ryan-snarr,97.07,294
+lineup,dat,R,RA200,2,tirian-chang,alex-tripp,emerson-greeve,ransom-chang,97.64,288
+lineup,dat,I,B100,1,charlie-kulp,55,112,2,charles-powers,64.19,64,3,dylan-mulligan,65.81,57
+lineup,dat,I,C100,1,jack-bigham,60.1,121,2,ransom-chang,63.46,101,3,trevor-ledon,69.62,68
+lineup,dat,R,RA400,1,atticus-chang,eric-hoie,ryan-snarr,charlie-kulp,198.01,369
+lineup,dat,R,RA400,2,emerson-greeve,declan-robertson,brett-davis,aidan-ryu,240.02,159

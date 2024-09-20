@@ -1,0 +1,14 @@
+lineup,hdr,3,812
+lineup,dat,R,RE200,1,owen-elkin,daniel-kelly-7,joshua-oring,constantine-rutigliano,138.34,78
+lineup,dat,R,RE200,2,jack-tanen,amir-rakimov,warren-hsu,joseph-huang,121.32,183
+lineup,dat,I,A200,1,justin-john-2,172.07,0,2,constantine-rutigliano,200.78,0
+lineup,dat,I,E200,1,joshua-oring,174.5,0,2,warren-hsu,135.19,63
+lineup,dat,I,A50,1,marco-gualda,30.12,13,2,joseph-huang,30.84,6,3,constantine-rutigliano,35.5,0
+lineup,dat,I,D100,1,joshua-oring,84.21,0
+lineup,dat,I,A100,1,daniel-kelly-7,69.45,0,2,jack-tanen,66.51,7,3,marco-gualda,71.42,0
+lineup,dat,I,A500,1,joseph-huang,464.39,0,2,warren-hsu,313.88,81,3,amir-rakimov,329,63
+lineup,dat,R,RA200,1,daniel-kelly-7,marco-gualda,justin-john-2,jack-tanen,121.06,99
+lineup,dat,I,B100,1,justin-john-2,119.51,0,2,owen-elkin,76.88,17
+lineup,dat,I,C100,1,daniel-kelly-7,82.19,17,2,amir-rakimov,70.98,62
+lineup,dat,R,RA400,1,marco-gualda,justin-john-2,joshua-oring,constantine-rutigliano,317.53,0
+lineup,dat,R,RA400,2,warren-hsu,owen-elkin,joseph-huang,amir-rakimov,249.87,123

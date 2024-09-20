@@ -1,0 +1,14 @@
+lineup,hdr,3,748
+lineup,dat,R,RE200,1,andrew-cohen-502167,robert-ogorman,milo-montalvo,john-kelly-10,127.49,141
+lineup,dat,R,RE200,2,jake-stewart,lettieri-bodhi,adam-johnson,matt-stewart-596433,137.48,81
+lineup,dat,I,A200,1,andrew-brawer,155.09,0,2,luke-rousell,148,0,3,alex-falco,176.35,0
+lineup,dat,I,E200,1,andrew-cohen-502167,156.65,11,2,adam-johnson,156.86,11
+lineup,dat,I,A50,1,jake-stewart,26.69,50,2,john-kelly-10,26.11,58,3,matt-stewart-596433,28.98,24
+lineup,dat,I,D100,1,milo-montalvo,63.14,57,2,adam-johnson,75.23,5
+lineup,dat,I,A100,1,alex-falco,78.25,0,2,matt-stewart-596433,66.52,7,3,jake-stewart,62.63,26
+lineup,dat,I,A500,1,andrew-cohen-502167,380.43,12,2,robert-ogorman,398.06,0
+lineup,dat,R,RA200,1,lettieri-bodhi,milo-montalvo,john-kelly-10,adam-johnson,114.2,147
+lineup,dat,I,B100,1,andrew-brawer,77.72,14,2,avery-ogorman,89.58,0
+lineup,dat,I,C100,1,robert-ogorman,81.17,21,2,lettieri-bodhi,85,8
+lineup,dat,R,RA400,1,milo-montalvo,jake-stewart,andrew-cohen-502167,luke-rousell,262.63,75
+lineup,dat,R,RA400,2,andrew-brawer,lettieri-bodhi,john-kelly-10,alex-falco,300.4,0

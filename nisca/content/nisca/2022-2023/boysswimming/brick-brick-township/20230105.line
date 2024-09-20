@@ -1,0 +1,15 @@
+lineup,hdr,3,277
+lineup,dat,R,RE200,1,myles-laughlin,thomas-delia-1,kyle-kachoogian,thomas-george-2,136.95,84
+lineup,dat,R,RE200,2,george-khalil,ryan-miller-18,deaglan-connolly,vincent-baracia,159.01,0
+lineup,dat,I,A200,1,aden-rella,142.51,8,2,thomas-george-2,154.93,0,3,vincent-baracia,163.72,0
+lineup,dat,I,E200,1,kyle-kachoogian,159.85,5,2,ryan-paramonte,215.39,0
+lineup,dat,I,A50,1,zachary-hoheb,28.33,31,2,ian-ammeraal,32.94,0,3,isaac-soriano,54,0
+lineup,dat,I,D100,1,kyle-kachoogian,76.68,0,2,myles-laughlin,86.24,0,3,deaglan-connolly,77.51,0
+lineup,dat,I,A100,1,ian-ammeraal,80.59,0,2,santiago-valencia,82.23,0,3,nicholas-esteves,86.05,0
+lineup,dat,I,A500,1,aden-rella,386.04,7,2,vincent-vargas-1,458.45,0,3,ryan-paramonte,422.33,0
+lineup,dat,R,RA200,1,kyle-kachoogian,thomas-george-2,zachary-hoheb,aden-rella,120.22,105
+lineup,dat,R,RA200,2,ian-ammeraal,deaglan-connolly,zachary-hoheb,vincent-baracia,132.29,33
+lineup,dat,I,B100,1,vincent-vargas-1,84.66,0,2,george-khalil,88.84,0,3,ryan-miller-18,102.98,0
+lineup,dat,I,C100,1,thomas-delia-1,86.36,4,2,nicholas-esteves,95.27,0
+lineup,dat,R,RA400,1,zachary-hoheb,thomas-george-2,thomas-delia-1,myles-laughlin,297.54,0
+lineup,dat,R,RA400,2,deaglan-connolly,ryan-paramonte,george-khalil,vincent-vargas-1,312.61,0

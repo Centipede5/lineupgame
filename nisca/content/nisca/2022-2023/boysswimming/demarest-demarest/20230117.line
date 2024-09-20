@@ -1,0 +1,15 @@
+lineup,hdr,3,1954
+lineup,dat,R,RE200,1,eric-slutsky,zeno-park,eric-hwang,kaan-yaprak-1,115.88,225
+lineup,dat,R,RE200,2,rohan-srinivasan,andrew-lee-16,yoav-redhef,arda-karaburun,125.18,156
+lineup,dat,I,A200,1,roy-sung,116.48,78,2,mustafa-elgalad,142.32,8,3,yali-twito,174.67,0
+lineup,dat,I,E200,1,eric-hwang,139.63,51,2,rohan-srinivasan,139.94,50,3,andrew-lee-16,164.06,0
+lineup,dat,I,A50,1,kaan-yaprak-1,22.34,114,2,eric-slutsky,24.21,84,3,yoav-redhef,25.5,66
+lineup,dat,I,D100,1,eric-hwang,53.24,116,2,yoav-redhef,64.44,50
+lineup,dat,I,A100,1,kaan-yaprak-1,50.63,100,2,zeno-park,59.75,41,3,arda-karaburun,75.89,0
+lineup,dat,I,A500,1,roy-sung,309.74,87,2,mustafa-elgalad,420.43,0
+lineup,dat,R,RA200,1,kaan-yaprak-1,zeno-park,yoav-redhef,roy-sung,98.31,282
+lineup,dat,R,RA200,2,andrew-lee-16,yali-twito,mustafa-elgalad,arda-karaburun,129.14,51
+lineup,dat,I,B100,1,eric-slutsky,60.82,80,2,rohan-srinivasan,62.84,70
+lineup,dat,I,C100,1,zeno-park,72.88,53,2,andrew-lee-16,84.56,9
+lineup,dat,R,RA400,1,roy-sung,rohan-srinivasan,mustafa-elgalad,eric-hwang,234.81,183
+lineup,dat,R,RA400,2,paul-minhyeok,arhaan-gandhi,ottavio-sousa,yali-twito,369.38,0

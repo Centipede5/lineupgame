@@ -1,0 +1,14 @@
+lineup,hdr,3,1321
+lineup,dat,R,RE200,1,kris-rao,varun-krishna,maheep-singh,kelson-lowrie,122.47,177
+lineup,dat,R,RE200,2,andrew-van-beveren,john-ward-653850,ethan-anthony,aarush-rai,136.88,84
+lineup,dat,I,A200,1,andrew-van-beveren,138.43,17,2,kelson-lowrie,133.53,29,3,algirdas-simoliunas,180.32,0
+lineup,dat,I,E200,1,varun-krishna,143.69,41,2,kris-rao,156.56,12,3,aarush-rai,189.5,0
+lineup,dat,I,A50,1,matthew-menotti,22.57,110,2,maheep-singh,28.15,33,3,om-hatalkar,31.76,0
+lineup,dat,I,D100,1,maheep-singh,67.97,34,2,john-ward-653850,71.56,19
+lineup,dat,I,A100,1,matthew-menotti,50.88,98,2,ethan-anthony,60.06,39,3,om-hatalkar,73.08,0
+lineup,dat,I,A500,1,andrew-van-beveren,394.32,0,2,kelson-lowrie,416.78,0,3,aarush-rai,431.58,0
+lineup,dat,R,RA200,1,maheep-singh,kris-rao,matthew-menotti,varun-krishna,106.58,207
+lineup,dat,R,RA200,2,john-ward-653850,aarush-rai,om-hatalkar,andrew-van-beveren,124.5,78
+lineup,dat,I,B100,1,kris-rao,64.38,63,2,john-ward-653850,83.28,0,3,algirdas-simoliunas,89.26,0
+lineup,dat,I,C100,1,varun-krishna,71.94,58,2,ethan-anthony,78.66,30
+lineup,dat,R,RA400,1,kelson-lowrie,ethan-anthony,matthew-menotti,varun-krishna,232.7,192

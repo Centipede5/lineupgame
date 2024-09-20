@@ -1,0 +1,17 @@
+lineup,hdr,3,2388
+lineup,dat,I,A200,1,kyle-lee-4,108.62,106,2,roy-dafinoiu,111.03,97,3,ellis-tritter,114.16,86
+lineup,dat,I,E200,1,andrew-lee-14,121.58,105,2,ellis-tritter,127.59,85,3,jason-park,128.97,81
+lineup,dat,I,A50,1,jason-yi,23.28,98,2,edward-kim-4,23.71,92,3,brandon-gao,24.7,77
+lineup,dat,I,D100,1,aaron-baltaytis,49.34,146,2,hayoung-choe,52.51,122,3,edward-kim-4,58.25,84
+lineup,dat,I,A100,1,aaron-baltaytis,46.38,135,2,caleb-lee,52.31,87,3,david-shin-1,54.27,74
+lineup,dat,I,A500,1,roy-dafinoiu,298.52,102,2,kyle-lee-4,299.49,100,3,david-shin-1,310.69,85
+lineup,dat,I,B100,1,hayoung-choe,52.44,128,2,caleb-lee,62.18,74,3,matthew-collado,64.01,65
+lineup,dat,I,C100,1,jason-yi,58.52,131,2,andrew-lee-14,59.83,123,3,jason-park,62.69,105
+relay,hdr,1956
+relay,RE200YM,2,hayoung-choe,jason-yi,aaron-baltaytis,andrew-lee-14,94.54,4.2900000000000000e+02,caleb-lee,jason-park,edward-kim-4,ellis-tritter,106.23,3.0600000000000000e+02
+relay,RA200YM,2,aaron-baltaytis,jason-yi,roy-dafinoiu,andrew-lee-14,88.82,3.8700000000000000e+02,caleb-lee,brandon-gao,matthew-collado,kyle-lee-4,97,2.9400000000000000e+02
+relay,RA400YM,2,roy-dafinoiu,edward-kim-4,ellis-tritter,hayoung-choe,209.46,3.0300000000000000e+02,brandon-gao,matthew-collado,jason-park,kyle-lee-4,222.51,2.3700000000000000e+02
+relay,hdr,1962
+relay,RE200YM,2,hayoung-choe,jason-yi,aaron-baltaytis,andrew-lee-14,94.54,4.2900000000000000e+02,caleb-lee,jason-park,edward-kim-4,ellis-tritter,106.23,3.0600000000000000e+02
+relay,RA200YM,2,jason-park,edward-kim-4,roy-dafinoiu,jason-yi,94.95,3.1800000000000000e+02,caleb-lee,brandon-gao,matthew-collado,kyle-lee-4,97,2.9400000000000000e+02
+relay,RA400YM,2,roy-dafinoiu,hayoung-choe,andrew-lee-14,aaron-baltaytis,202.85,3.3900000000000000e+02,ellis-tritter,matthew-collado,david-shin-1,kyle-lee-4,214.79,2.7600000000000000e+02

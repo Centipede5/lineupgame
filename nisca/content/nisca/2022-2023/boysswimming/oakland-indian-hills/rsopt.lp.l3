@@ -1,0 +1,11 @@
+lineup,hdr,3,450.0
+lineup,dat,I,A200,1,steven-roche,116.22,79.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,bruno-cavero,23.34,98.0,2.0,rowan-guller,26.44,53.0,3.0,bar-shir,29.31,21.0
+lineup,dat,I,D100,1,rowan-guller,69.95,26.0,,,,,,,,
+lineup,dat,I,A100,1,bar-shir,67.31,4.0,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,steven-roche,64.89,93.0,2.0,bruno-cavero,68.08,76.0,,,,
+relay,hdr,327.0
+relay,RE200YM,1,steven-roche,bruno-cavero,rowan-guller,bar-shir,120.26,192.0,,,,,,,192.0
+relay,RA200YM,1,george-kass,bar-shir,rowan-guller,steven-roche,115.93,135.0,,,,,,,135.0

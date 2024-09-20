@@ -1,0 +1,13 @@
+lineup,hdr,3,1142.0
+lineup,dat,I,A200,1,jesse-bown,125.32,51.0,2.0,christopher-douglass,133.37,30.0,,,,
+lineup,dat,I,E200,1,gerard-traynor,122.26,102.0,,,,,,,,
+lineup,dat,I,A50,1,myles-smalls,23.24,99.0,2.0,alex-locke-1,26.21,56.0,3,sebastian-zambrano-595723,27.39,42.0
+lineup,dat,I,D100,1,adam-bailey,55.87,99.0,2.0,samia-ghazaz,63.79,54.0,3,derek-pham,65.9,44.0
+lineup,dat,I,A100,1,adam-bailey,50.89,98.0,2.0,myles-smalls,52.8,84.0,3,harry-hsieh,64.9,15.0
+lineup,dat,I,A500,1,stephanie-ruales-1,369.49,22.0,2.0,christopher-douglass,370.06,21.0,,,,
+lineup,dat,I,B100,1,gerard-traynor,54.26,117.0,2.0,derek-pham,65.09,60.0,3,isabella-destefano-3,73.8,27.0
+lineup,dat,I,C100,1,jesse-bown,70.45,64.0,2.0,ali-mohommad,72.0,57.0,,,,
+relay,hdr,1320.0
+relay,RA200YM,2,ali-mohommad,alex-locke-1,myles-smalls,adam-bailey,92.13,348.0,matthew-christensen,harry-hsieh,brayden-allen,chayse-bailey,112.57,159.0,507.0
+relay,RE200YM,2,gerard-traynor,jesse-bown,adam-bailey,cameron-dauria,110.77,267.0,derek-pham,ali-mohommad,alex-locke-1,sebastian-zambrano-595723,118.06,207.0,474.0
+relay,RA400YM,2,myles-smalls,alex-locke-1,jesse-bown,gerard-traynor,233.84,186.0,christopher-douglass,chayse-bailey,derek-pham,ali-mohommad,241.77,153.0,339.0

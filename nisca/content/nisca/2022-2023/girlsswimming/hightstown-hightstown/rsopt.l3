@@ -1,0 +1,13 @@
+lineup,hdr,3,667
+lineup,dat,I,A200,1,riya-patel-502109,147.66,18,2,kelly-lindner,149.71,13
+lineup,dat,I,E200,1,andrea-lopez-2,148,61,2,ashmi-mehta,166.21,16
+lineup,dat,I,A50,1,brianna-saragih,25.14,112,2,jazmin-urgiles,28.63,59,3,kelly-lindner,28.66,59
+lineup,dat,I,D100,1,andrea-lopez-2,76.81,29,2,ashmi-mehta,78.2,23,3,aaneya-patel,79.23,19
+lineup,dat,I,A100,1,elizabeth-molinelli,57.94,84,2,samantha-acque,66.76,28,3,brianna-saragih,67.7,23
+lineup,dat,I,A500,1,riya-patel-502109,399.84,13
+lineup,dat,I,B100
+lineup,dat,I,C100,1,elizabeth-molinelli,77.92,64,2,samantha-acque,82.12,46
+relay,hdr,507
+relay,RE200YF,2,elizabeth-molinelli,samantha-acque,andrea-lopez-2,brianna-saragih,133.59,1.6800000000000000e+02,prisha-patel-1,ashmi-mehta,riya-patel-502109,kelly-lindner,148.61,6.3000000000000000e+01
+relay,RA200YF,2,brianna-saragih,samantha-acque,andrea-lopez-2,elizabeth-molinelli,120.62,1.7700000000000000e+02,prisha-patel-1,kelly-lindner,jazmin-urgiles,ashmi-mehta,135.49,6.6000000000000000e+01
+relay,RA400YF,1,lillian-fleming,samantha-tenezaca-sasaguay,melannie-acuria,aaneya-patel,288.75,3.3000000000000000e+01

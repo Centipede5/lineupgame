@@ -1,0 +1,13 @@
+lineup,hdr,3,310
+lineup,dat,I,A200,1,baney-montoya,154.63,0,2,ismael-gavino,160.8,0,3,isaac-deoliviera,169.06,0
+lineup,dat,I,E200
+lineup,dat,I,A50,1,anthony-white-4,27.42,42,2,liam-murphy-10,28.53,29,3,ethan-ruiz-652848,34.32,0
+lineup,dat,I,D100,1,drew-bancroft,63.65,54
+lineup,dat,I,A100,1,anthony-white-4,62.47,26,2,ismael-gavino,70.61,0,3,lucas-guerrero,93.37,0
+lineup,dat,I,A500,1,baney-montoya,438.14,0,2,isaac-deoliviera,470.88,0,3,jacob-peraza-1,577.96,0
+lineup,dat,R,RA200,1,drew-bancroft,liam-murphy-10,anthony-white-4,jacob-peraza-1,120.58,102
+lineup,dat,R,RA200,2,baney-montoya,isaac-deoliviera,ethan-ruiz-652848,ismael-gavino,149.25,0
+lineup,dat,I,B100,1,liam-murphy-10,76.41,18,2,ethan-ruiz-652848,92.15,0,3,drake-mabasa,105.94,0
+lineup,dat,I,C100
+lineup,dat,R,RA400,1,liam-murphy-10,drew-bancroft,jacob-peraza-1,anthony-white-4,274.06,39
+lineup,dat,R,RA400,2,ismael-gavino,ethan-ruiz-652848,drake-mabasa,baney-montoya,340.38,0

@@ -1,0 +1,13 @@
+lineup,hdr,3,669
+lineup,dat,I,A200,1,jennie-mullarkey,140.43,37,2,urvi-sinha,145.57,23
+lineup,dat,I,E200,1,sarah-rodrigues,131.86,112
+lineup,dat,I,A50,1,madeline-voinov,28.71,58,2,avery-derstine,29.04,54,3,erin-potter,31.62,23
+lineup,dat,I,D100,1,jennie-mullarkey,72.63,46
+lineup,dat,I,A100,1,madeline-voinov,64.09,44,2,alexandra-farina,70.97,6
+lineup,dat,I,A500,1,urvi-sinha,395,17
+lineup,dat,I,B100,1,sarah-rodrigues,57.77,128,2,avery-derstine,76.95,20
+lineup,dat,I,C100,1,maya-kolen,76.66,70,2,caileigh-odonnell,88.92,19,3,erin-potter,90.96,12
+relay,hdr,774
+relay,RE200YF,2,sarah-rodrigues,jennie-mullarkey,maya-kolen,madeline-voinov,125.5,2.3400000000000000e+02,lauren-toole,sadie-kirz,caileigh-odonnell,erin-potter,144.88,8.7000000000000000e+01
+relay,RA200YF,2,avery-derstine,urvi-sinha,erin-potter,sarah-rodrigues,115.41,2.2200000000000000e+02,lauren-toole,alexandra-farina,sadie-kirz,madeline-voinov,120.9,1.7400000000000000e+02
+relay,RA400YF,1,maya-kolen,sadie-kirz,caileigh-odonnell,urvi-sinha,281.9,5.7000000000000000e+01

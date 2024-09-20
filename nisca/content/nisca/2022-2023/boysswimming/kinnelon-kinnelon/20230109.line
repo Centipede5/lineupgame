@@ -1,0 +1,15 @@
+lineup,hdr,3,2708
+lineup,dat,R,RE200,1,will-kilponen,marco-lucci,benjamin-papendick,john-papendick,105.45,315
+lineup,dat,R,RE200,2,noah-montalvo,everett-feinhals,kyle-barsch,samuel-ankner,125.96,153
+lineup,dat,I,A200,1,connelly-max,111.77,95,2,david-zoltek,109.96,101,3,kyle-barsch,147.57,0
+lineup,dat,I,E200,1,benjamin-papendick,126.09,90,2,ron-feldman,149.72,26,3,noah-montalvo,159.91,5
+lineup,dat,I,A50,1,marco-lucci,23.14,101,2,curreri-william,24.03,87,3,kyle-barsch,26.14,57
+lineup,dat,I,D100,1,will-kilponen,52.38,123,2,ron-feldman,67.19,38
+lineup,dat,I,A100,1,david-zoltek,49.82,106,2,john-papendick,51.15,96,3,curreri-william,57.56,53
+lineup,dat,I,A500,1,connelly-max,324.69,68,2,everett-feinhals,383.31,10
+lineup,dat,R,RA200,1,benjamin-papendick,marco-lucci,david-zoltek,connelly-max,94.84,318
+lineup,dat,R,RA200,2,samuel-ankner,ron-feldman,curreri-william,everett-feinhals,113.75,150
+lineup,dat,I,B100,1,will-kilponen,58.22,94,2,john-papendick,60.13,84,3,noah-montalvo,75.37,22
+lineup,dat,I,C100,1,benjamin-papendick,66.31,85,2,marco-lucci,66.65,83,3,everett-feinhals,81.9,18
+lineup,dat,R,RA400,1,connelly-max,david-zoltek,ron-feldman,will-kilponen,222.33,240
+lineup,dat,R,RA400,2,kyle-barsch,noah-montalvo,samuel-ankner,curreri-william,258.89,90

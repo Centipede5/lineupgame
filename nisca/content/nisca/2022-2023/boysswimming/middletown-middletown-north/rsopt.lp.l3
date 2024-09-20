@@ -1,0 +1,13 @@
+lineup,hdr,3,428.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,matthew-novak,25.19,70.0,2.0,christopher-sheehan,27.06,46.0,3,jeremy-morales,29.03,24.0
+lineup,dat,I,D100,1,chase-rogers,60.19,73.0,2.0,bryan-reimertz,62.74,59.0,3,jeremy-morales,73.38,12.0
+lineup,dat,I,A100,1,jackson-florio,66.65,7.0,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,chase-rogers,62.23,73.0,2.0,bryan-reimertz,65.81,57.0,,,,
+lineup,dat,I,C100,1,jackson-florio,85.14,7.0,,,,,,,,
+relay,hdr,591.0
+relay,RA400YM,1,chase-rogers,matthew-novak,jeremy-morales,christopher-sheehan,226.71,219.0,,,,,,,219.0
+relay,RA200YM,2,chase-rogers,josh-recinos,christopher-sheehan,matthew-novak,117.11,126.0,jackson-florio,andrew-gonzalez-7,jeremy-morales,bryan-reimertz,122.05,93.0,219.0
+relay,RE200YM,1,bryan-reimertz,jackson-florio,matthew-novak,christopher-sheehan,125.66,153.0,,,,,,,153.0

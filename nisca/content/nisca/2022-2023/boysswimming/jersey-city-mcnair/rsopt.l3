@@ -1,0 +1,13 @@
+lineup,hdr,3,827
+lineup,dat,I,A200,1,ethan-michaud,118.77,71,2,ishaan-gunjati,129.22,40
+lineup,dat,I,E200,1,matthew-natsvlishvili,126.49,89
+lineup,dat,I,A50,1,veer-lad,26.63,51,2,kayir-maples,29.59,18,3,ignacio-manzanero-1,31.1,4
+lineup,dat,I,D100,1,ethan-michaud,57.3,90,2,vikram-pradeep,64.94,48
+lineup,dat,I,A100,1,ishaan-gunjati,58.88,46
+lineup,dat,I,A500,1,jeet-lad,334.32,57
+lineup,dat,I,B100,1,vikram-pradeep,63.07,69,2,sathvick-ram,71.4,35
+lineup,dat,I,C100,1,matthew-natsvlishvili,66.05,86,2,jeet-lad,69.55,69,3,veer-lad,72.72,54
+relay,hdr,756
+relay,RE200YM,2,jeet-lad,matthew-natsvlishvili,veer-lad,ignacio-manzanero-1,119.61,1.9500000000000000e+02,sathvick-ram,vikram-pradeep,ishaan-gunjati,kayir-maples,129.56,1.2900000000000000e+02
+relay,RA200YM,2,matthew-natsvlishvili,ignacio-manzanero-1,ishaan-gunjati,ethan-michaud,107.77,1.9800000000000000e+02,some-brian,sathvick-ram,kayir-maples,saket-ram-1,128.86,5.1000000000000000e+01
+relay,RA400YM,1,ethan-michaud,veer-lad,vikram-pradeep,jeet-lad,234.29,1.8300000000000000e+02

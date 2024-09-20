@@ -1,0 +1,13 @@
+lineup,hdr,3,417
+lineup,dat,I,A200,1,jacob-ditzel,132.65,31
+lineup,dat,I,E200,1,stephen-ciaston,158.71,7,2,jake-loveland,158.84,7
+lineup,dat,I,A50,1,kenneth-trautwiler,24.71,77,2,shane-trautweiler,28.15,33,3,matt-marotta-2,29,24
+lineup,dat,I,D100,1,sean-mcclung,67.09,38,2,jake-loveland,72.83,14
+lineup,dat,I,A100,1,jacob-ditzel,59.01,45,2,kenneth-trautwiler,63.31,22,3,brian-mcclung,64.88,15
+lineup,dat,I,A500
+lineup,dat,I,B100,1,stephen-ciaston,68.78,45
+lineup,dat,I,C100,1,sean-mcclung,71.7,59
+relay,hdr,795
+relay,RE200YM,2,stephen-ciaston,sean-mcclung,jake-loveland,kenneth-trautwiler,118.09,2.0700000000000000e+02,dylan-bauer-1,sean-bauer,brian-mcclung,shane-trautweiler,118.59,2.0400000000000000e+02
+relay,RA200YM,2,kenneth-trautwiler,sean-mcclung,shane-trautweiler,brian-mcclung,106.51,2.0700000000000000e+02,nicholas-correia-1,john-zigrest,mathew-lapierre,matt-marotta-2,124.4,7.8000000000000000e+01
+relay,RA400YM,2,shane-trautweiler,brian-mcclung,jacob-ditzel,stephen-ciaston,263.65,7.2000000000000000e+01,jake-loveland,nicholas-correia-1,matt-marotta-2,braedyn-cwiklinski,278.09,2.7000000000000000e+01

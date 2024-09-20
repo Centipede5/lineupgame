@@ -1,0 +1,13 @@
+lineup,hdr,3,989.0
+lineup,dat,I,A200,1,calhoun-chelsea,124.34,86.0,2.0,jessics-demming,141.19,35.0,3,sydney-newshell,143.68,28.0
+lineup,dat,I,E200,1,brianna-maier,144.66,71.0,2.0,julia-hynes,152.58,49.0,,,,
+lineup,dat,I,A50,1,allyson-moore-1,28.12,66.0,2.0,haley-denick,28.65,59.0,3,cara-smith,29.91,43.0
+lineup,dat,I,D100,1,calhoun-chelsea,64.3,86.0,2.0,sarah-markham,73.03,44.0,3,keira-petro,78.4,22.0
+lineup,dat,I,A100,1,haley-denick,62.88,51.0,2.0,jessics-demming,63.43,48.0,3,lindsey-harris,68.15,21.0
+lineup,dat,I,A500,1,ellen-shaffer,359.45,54.0,,,,,,,,
+lineup,dat,I,B100,1,ellen-shaffer,68.31,61.0,2.0,brianna-maier,72.14,41.0,3,raiza-batario,75.41,26.0
+lineup,dat,I,C100,1,julia-hynes,82.96,42.0,2.0,raiza-batario,83.98,38.0,3,lyla-dion,89.22,18.0
+relay,hdr,1101.0
+relay,RE200YF,2,ellen-shaffer,haley-denick,calhoun-chelsea,allyson-moore-1,113.05,354.0,sophia-everingham,julia-hynes,sarah-markham,cara-smith,136.06,147.0,501.0
+relay,RA200YF,2,cara-smith,haley-denick,ellen-shaffer,calhoun-chelsea,113.74,237.0,keira-petro,sarah-markham,sydney-newshell,allyson-moore-1,117.75,201.0,438.0
+relay,RA400YF,2,allyson-moore-1,jessics-demming,brianna-maier,cara-smith,272.8,96.0,keira-petro,sydney-newshell,lindsey-harris,julia-hynes,280.26,66.0,162.0

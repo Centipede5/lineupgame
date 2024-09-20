@@ -1,0 +1,13 @@
+lineup,hdr,3,595
+lineup,dat,R,RE200,1,ismael-del-toro,justin-vera,iker-vera,richarly-zambrano,156.77,0
+lineup,dat,R,RE200,2,gabe-charbonneau,brian-pazdan,michael-killian,colin-mccormick,118.79,201
+lineup,dat,I,A200,1,justin-vera,189.15,0,2,ismael-del-toro,154.54,0
+lineup,dat,I,E200,1,iker-vera,175.97,0,2,michael-killian,173.66,0
+lineup,dat,I,A50,1,colin-mccormick,24.39,81,2,richardy-zambrano,36.9,0,3,richarly-zambrano,35.31,0
+lineup,dat,I,D100,1,justin-vera,109.32,0,2,iker-vera,79.97,0
+lineup,dat,I,A100
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,justin-vera,richarly-zambrano,ismael-del-toro,iker-vera,134,24
+lineup,dat,R,RA200,2,gabe-charbonneau,michael-killian,brian-pazdan,colin-mccormick,105.78,213
+lineup,dat,I,B100,1,ismael-del-toro,92.19,0,2,richarly-zambrano,87.2,0
+lineup,dat,I,C100,1,brian-pazdan,75.52,42,2,colin-mccormick,77.66,34

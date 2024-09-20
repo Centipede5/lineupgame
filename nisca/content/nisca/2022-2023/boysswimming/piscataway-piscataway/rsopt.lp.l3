@@ -1,0 +1,13 @@
+lineup,hdr,3,1114.0
+lineup,dat,I,A200,1,william-thomas-3,119.47,69.0,,,,,,,,
+lineup,dat,I,E200,1,william-thomas-3,124.38,95.0,2.0,olivia-willemsen,134.71,64.0,3,luke-harmsen,148.27,30.0
+lineup,dat,I,A50,1,lucca-doflor,24.31,83.0,2.0,erick-lozada-paredes,25.61,64.0,3,damien-varghese,27.92,36.0
+lineup,dat,I,D100,1,justin-gamble,59.38,77.0,2.0,lucca-doflor,61.2,67.0,3,taylor-huggup,70.66,23.0
+lineup,dat,I,A100,1,isaiah-rivers-warrick,58.51,48.0,2.0,damien-varghese,64.02,19.0,3,jessica-fernandes,64.17,18.0
+lineup,dat,I,A500,1,olivia-willemsen,330.19,62.0,2.0,justin-gamble,331.32,60.0,3,joseph-fay-601667,353.08,37.0
+lineup,dat,I,B100,1,peter-rishi,66.62,54.0,2.0,erick-lozada-paredes,67.77,49.0,3,taylor-huggup,69.34,43.0
+lineup,dat,I,C100,1,joseph-fay-601667,72.06,57.0,2.0,jessica-fernandes,78.37,31.0,3,isaiah-rivers-warrick,79.19,28.0
+relay,hdr,1122.0
+relay,RE200YM,2,kenneth-hua,erick-lozada-paredes,luke-harmsen,santiago-cardenas-andrade,114.83,234.0,katie-engels,jessica-fernandes,taylor-huggup,olivia-willemsen,123.67,168.0,402.0
+relay,RA200YM,2,william-thomas-3,justin-gamble,isaiah-rivers-warrick,lucca-doflor,101.18,255.0,tara-kehair,mira-kehair,margaret-davis,muaz-jawad-ahmed-hussainy,119.93,108.0,363.0
+relay,RA400YM,2,william-thomas-3,erick-lozada-paredes,justin-gamble,lucca-doflor,222.89,237.0,isaiah-rivers-warrick,luke-harmsen,damien-varghese,joseph-fay-601667,250.39,120.0,357.0

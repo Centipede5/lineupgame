@@ -1,0 +1,13 @@
+lineup,hdr,3,324.0
+lineup,dat,I,A200,1,kaya-piskorzewski,150.69,11.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,sara-schager,28.68,59.0,2.0,alyson-sojak,29.04,54.0,3,natalia-webb,31.5,25.0
+lineup,dat,I,D100,1,hailee-lutz,65.69,78.0,,,,,,,,
+lineup,dat,I,A100,1,alyson-sojak,67.06,27.0,2.0,emily-mcavoy,69.42,14.0,3,natalia-webb,71.69,3.0
+lineup,dat,I,A500,1,kaya-piskorzewski,408.19,6.0,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,1,kylei-grant,86.98,26.0,2.0,emalie-menegus,88.36,21.0,,,,
+relay,hdr,690.0
+relay,RA200YF,2,alyson-sojak,kaya-piskorzewski,hailee-lutz,sara-schager,118.32,198.0,gwen-schaab,maira-lopes,lillie-silverman,jillian-seno,123.85,150.0,348.0
+relay,RE200YF,2,emily-mcavoy,kylei-grant,hailee-lutz,sara-schager,131.22,186.0,priscilla-pires,emalie-menegus,elizabeth-wattez,natalia-webb,154.94,24.0,210.0
+relay,RA400YF,2,hailee-lutz,kaya-piskorzewski,sara-schager,alyson-sojak,266.9,120.0,julia-brown-5,elizabeth-wattez,kylei-grant,emily-mcavoy,294.41,12.0,132.0

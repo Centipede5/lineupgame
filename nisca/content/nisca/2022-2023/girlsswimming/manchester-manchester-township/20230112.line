@@ -1,0 +1,12 @@
+lineup,hdr,3,474
+lineup,dat,I,A200,1,cassandra-villanueva,145.53,23
+lineup,dat,I,E200,1,alexis-cervenak-1,232.43,0
+lineup,dat,I,A50,1,samantha-villanueva-1,28.84,57,2,cassandra-villanueva,28.36,63,3,emma-waite,31.89,21
+lineup,dat,I,D100,1,addison-both,84.04,3
+lineup,dat,I,A100,1,mia-marsango,76.19,0,2,emma-waite,73.4,0,3,olivia-cugliari,91.7,0
+lineup,dat,I,A500,1,neva-child,389.69,22
+lineup,dat,R,RA200,1,neva-child,alexis-cervenak-1,samantha-villanueva-1,addison-both,125.57,138
+lineup,dat,R,RA200,2,emma-waite,riley-hayes-2,olivia-cugliari,mia-marsango,138.74,45
+lineup,dat,I,B100,1,alexis-cervenak-1,105.41,0
+lineup,dat,I,C100,1,riley-hayes-2,122.81,0
+lineup,dat,R,RA400,1,neva-child,addison-both,samantha-villanueva-1,cassandra-villanueva,271.3,102

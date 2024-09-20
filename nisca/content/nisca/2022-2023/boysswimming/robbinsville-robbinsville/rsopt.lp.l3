@@ -1,0 +1,13 @@
+lineup,hdr,3,959.0
+lineup,dat,I,A200,1,luke-brennan-1,106.65,114.0,2.0,connor-nolan-604063,134.99,26.0,3,grant-paulus-2,136.94,21.0
+lineup,dat,I,E200,1,jonathan-lee-9,134.99,63.0,2.0,megan-dera-2,135.44,62.0,3,jason-gracias,160.05,5.0
+lineup,dat,I,A50,1,jayan-doshi,26.82,49.0,2.0,megan-dera-2,26.92,47.0,3,emily-volchansky,27.78,37.0
+lineup,dat,I,D100,1,emily-volchansky,66.36,41.0,,,,,,,,
+lineup,dat,I,A100,1,diego-martell,58.07,50.0,2.0,grant-paulus-2,60.62,36.0,3,suhani-agarwal,64.91,15.0
+lineup,dat,I,A500,1,luke-brennan-1,281.83,126.0,2.0,henderson-han,352.77,38.0,3,angie-brown-602323,379.62,13.0
+lineup,dat,I,B100,1,connor-nolan-604063,68.19,47.0,2.0,ariel-bernard-1,68.56,46.0,3,diego-martell,71.34,36.0
+lineup,dat,I,C100,1,henderson-han,75.56,42.0,2.0,jason-gracias,79.79,26.0,3,angie-brown-602323,81.61,19.0
+relay,hdr,762.0
+relay,RA200YM,2,henderson-han,grant-paulus-2,jonathan-lee-9,luke-brennan-1,106.79,204.0,jason-gracias,aarav-pendse,jayan-doshi,diego-martell,117.7,123.0,327.0
+relay,RA400YM,2,grant-paulus-2,luke-brennan-1,connor-nolan-604063,henderson-han,232.8,192.0,aarav-pendse,jonathan-lee-9,anirudh-dusi,harish-iyer,266.18,63.0,255.0
+relay,RE200YM,1,connor-nolan-604063,jason-gracias,jonathan-lee-9,diego-martell,121.92,180.0,,,,,,,180.0

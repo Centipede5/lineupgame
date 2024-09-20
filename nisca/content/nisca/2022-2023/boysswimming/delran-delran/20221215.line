@@ -1,0 +1,15 @@
+lineup,hdr,3,1224
+lineup,dat,R,RE200,1,campbell-willard,tyler-grose,kayla-torrente,james-hatzold,120.32,192
+lineup,dat,R,RE200,2,erin-dunlap,corinne-langowski,andrea-dunlap,amelia-cooper-1,142.54,54
+lineup,dat,I,A200,1,jack-williams-549758,130.49,37,2,maria-scotto-di-perta,140.9,12,3,alexandra-robinson,157.8,0
+lineup,dat,I,E200,1,james-menie,148.22,30,2,raegan-langowski,166.43,0,3,lina-guzlan,182.18,0
+lineup,dat,I,A50,1,tyler-grose,25.72,63,2,james-hatzold,28.19,33,3,kayla-torrente,28.5,29
+lineup,dat,I,D100,1,james-menie,69.01,30,2,jude-guzlan-1,69.92,26,3,corinne-langowski,92.77,0
+lineup,dat,I,A100,1,jack-williams-549758,58.76,46,2,raegan-langowski,69.45,0,3,maria-scotto-di-perta,61.87,29
+lineup,dat,I,A500,1,campbell-willard,348.49,42,2,kayla-torrente,417.34,0,3,amelia-cooper-1,402.78,0
+lineup,dat,R,RA200,1,tyler-grose,raegan-langowski,james-menie,jack-williams-549758,112.09,162
+lineup,dat,R,RA200,2,erin-dunlap,jude-guzlan-1,alexandra-robinson,maria-scotto-di-perta,116,135
+lineup,dat,I,B100,1,campbell-willard,59.75,86,2,james-hatzold,73.13,29,3,lina-guzlan,82.06,2
+lineup,dat,I,C100,1,tyler-grose,78.34,31,2,amelia-cooper-1,85.69,6,3,corinne-langowski,89.07,0
+lineup,dat,R,RA400,1,james-menie,campbell-willard,jack-williams-549758,tyler-grose,246.77,132
+lineup,dat,R,RA400,2,kayla-torrente,alexandra-robinson,maria-scotto-di-perta,raegan-langowski,280.96,18

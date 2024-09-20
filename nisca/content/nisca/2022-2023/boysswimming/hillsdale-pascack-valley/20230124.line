@@ -1,0 +1,13 @@
+lineup,hdr,3,1703
+lineup,dat,R,RE200,1,brian-yang,nathan-jeong,kyle-hanna,juan-zapateiro,121.08,186
+lineup,dat,I,A200,1,kyle-hanna,130.07,38,2,stephen-sammarco,166.64,0
+lineup,dat,I,E200,1,brian-yang,132.46,71,2,nathan-jeong,140.43,49
+lineup,dat,I,A50,1,zachary-berde,22.99,103,2,harry-fominykh,22.59,110,3,alex-monastersky-1,23.4,97
+lineup,dat,I,D100,1,brian-yang,62.73,59,2,harry-fominykh,62.34,61,3,sean-bramley,65.79,44
+lineup,dat,I,A100,1,zachary-berde,51.68,92,2,alex-monastersky-1,54.26,74,3,juan-zapateiro,57.45,54
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,zachary-berde,nathan-jeong,kyle-hanna,alex-monastersky-1,106.15,210
+lineup,dat,I,B100,1,juan-zapateiro,70.31,39,2,sean-bramley,69.53,42,3,stephen-sammarco,99.26,0
+lineup,dat,I,C100,1,nathan-jeong,71.7,59,2,kyle-hanna,82.87,15
+lineup,dat,R,RA400,1,alex-monastersky-1,harry-fominykh,brian-yang,zachary-berde,212.52,288
+lineup,dat,R,RA400,2,sean-bramley,william-bramley,stephen-sammarco,jack-svorec,282.16,12

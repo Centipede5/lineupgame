@@ -1,0 +1,13 @@
+lineup,hdr,3,1601.0
+lineup,dat,I,A200,1,julia-lo,122.71,92.0,2.0,brittany-roman,137.69,44.0,3,elliana-macaluso,139.91,38.0
+lineup,dat,I,E200,1,francesca-cordero,135.13,101.0,2.0,danna-tapia,139.37,87.0,3,samantha-mckatten,158.32,35.0
+lineup,dat,I,A50,1,abigail-chetnik,27.93,69.0,2.0,marcela-sperzel,28.54,61.0,3,elizabeth-fishman,28.62,59.0
+lineup,dat,I,D100,1,julia-lo,60.43,108.0,2.0,danna-tapia,61.56,102.0,3,mya-vargas,68.48,64.0
+lineup,dat,I,A100,1,ashaly-dominguez,58.84,78.0,2.0,leah-ciabattoni,59.08,76.0,3,anna-diaz,59.98,70.0
+lineup,dat,I,A500,1,ashaly-dominguez,345.7,70.0,2.0,anna-diaz,362.65,50.0,3,elizabeth-fishman,364.38,48.0
+lineup,dat,I,B100,1,leah-ciabattoni,66.56,71.0,2.0,naiara-castrillion,69.3,56.0,3,vivien-pajuelo,72.29,41.0
+lineup,dat,I,C100,1,francesca-cordero,71.26,98.0,2.0,ashley-castillo,82.7,43.0,3,vivien-pajuelo,83.4,40.0
+relay,hdr,1449.0
+relay,RE200YF,2,leah-ciabattoni,ashley-castillo,mya-vargas,ashaly-dominguez,118.2,300.0,elliana-macaluso,marcela-sperzel,laura-kubacka,abigail-chetnik,126.03,228.0,528.0
+relay,RA200YF,2,julia-lo,samantha-mckatten,francesca-cordero,danna-tapia,110.15,273.0,marcela-sperzel,abigail-chetnik,elizabeth-fishman,willow-phelps,116.67,210.0,483.0
+relay,RA400YF,2,ashaly-dominguez,julia-lo,leah-ciabattoni,danna-tapia,235.71,270.0,genevieve-smith,dayaneira-chacon,elliana-macaluso,emily-simone,255.98,168.0,438.0

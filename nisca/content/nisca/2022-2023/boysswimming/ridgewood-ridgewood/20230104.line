@@ -1,0 +1,15 @@
+lineup,hdr,3,3332
+lineup,dat,R,RE200,1,sam-skibo,brandon-ho-1,aaron-nam,michael-granin,106.38,306
+lineup,dat,R,RE200,2,nathan-colosimo,patrick-glynn,peter-lambert,soyo-funada,112.56,252
+lineup,dat,I,A200,1,jack-glynn,117.13,76,2,jonathan-tom,123.12,58,3,michael-cheng-1,130.09,38
+lineup,dat,I,E200,1,aaron-nam,133.21,68,2,patrick-glynn,130.68,76,3,peter-lambert,137.94,55
+lineup,dat,I,A50,1,michael-granin,22.09,119,2,soyo-funada,24.19,84,3,cameron-fischer,24.44,81
+lineup,dat,I,D100,1,sam-skibo,52.63,121,2,brandon-ho-1,59.87,74,3,peter-lambert,61.34,66
+lineup,dat,I,A100,1,michael-granin,48.78,115,2,nathan-colosimo,53.38,80,3,soyo-funada,54.46,73
+lineup,dat,I,A500,1,jack-glynn,315.08,80,2,jonathan-tom,335.32,56,3,colin-fischer,357.38,33
+lineup,dat,R,RA200,1,soyo-funada,brandon-ho-1,patrick-glynn,jack-glynn,99.29,273
+lineup,dat,R,RA200,2,hayes-williams,cameron-fischer,bruce-dickson,jonathan-tom,103.64,234
+lineup,dat,I,B100,1,sam-skibo,57.07,100,2,michael-cheng-1,66.33,55,3,cameron-fischer,70.44,39
+lineup,dat,I,C100,1,brandon-ho-1,66.31,85,2,nathan-colosimo,68.34,75,3,bruce-dickson,70.95,62
+lineup,dat,R,RA400,1,jack-glynn,nathan-colosimo,sam-skibo,michael-granin,210.25,300
+lineup,dat,R,RA400,2,jonathan-tom,peter-lambert,hayes-williams,cameron-fischer,231.51,198

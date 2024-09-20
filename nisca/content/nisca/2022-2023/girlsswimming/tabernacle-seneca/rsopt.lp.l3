@@ -1,0 +1,12 @@
+lineup,hdr,3,187.0
+lineup,dat,I,A200,,,,,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,emmy-keller,28.4,62.0,2.0,josephine-perrin,30.68,34.0,3,kaylee-rottkamp,32.2,17.0
+lineup,dat,I,D100,1,nicollette-mejia-ranno,80.16,16.0,,,,,,,,
+lineup,dat,I,A100,,,,,,,,,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,emmy-keller,73.56,35.0,2.0,eliza-martinez,79.09,11.0,,,,
+lineup,dat,I,C100,1,josephine-perrin,91.5,10.0,2.0,carli-sinn,93.9,2.0,,,,
+relay,hdr,360.0
+relay,RA200YF,2,emmy-keller,eliza-martinez,kaylee-rottkamp,josephine-perrin,125.53,138.0,carli-sinn,elliana-ostroff,nicollette-mejia-ranno,carissa-staiger,139.0,42.0,180.0
+relay,RE200YF,2,emmy-keller,carli-sinn,nicollette-mejia-ranno,josephine-perrin,136.83,141.0,eliza-martinez,kaylee-rottkamp,elliana-ostroff,carissa-staiger,152.51,39.0,180.0

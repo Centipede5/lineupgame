@@ -1,0 +1,15 @@
+lineup,hdr,3,2200
+lineup,dat,R,RE200,1,hayden-lin,timothy-shi,owen-kane,adam-assina,109.84,273
+lineup,dat,R,RE200,2,mehal-gupta,henry-cai-1,eric-song-600008,timothy-tham,122.44,177
+lineup,dat,I,A200,1,jonah-ladetsky,146.97,0,2,owen-kane,116.84,77,3,yuno-lee,133.56,29
+lineup,dat,I,E200,1,john-allyn-2,142.54,44,2,hayden-lin,128.34,83,3,sachidanandan-aaditya,150.41,25
+lineup,dat,I,A50,1,orion-palumbo,29.04,24,2,timothy-shi,23.27,99,3,adam-assina,25.18,70
+lineup,dat,I,D100,1,eric-song-600008,66.02,43,2,owen-kane,55.77,99,3,henry-cai-1,68.67,31
+lineup,dat,I,A100,1,jayden-gulati,63.16,23,2,john-allyn-2,56.79,58,3,adam-assina,60.93,34
+lineup,dat,I,A500,1,mehal-gupta,350.12,40,2,timothy-shi,324.2,69,3,sachidanandan-aaditya,395.35,0
+lineup,dat,R,RA200,1,eric-song-600008,jayden-gulati,john-allyn-2,adam-assina,107.97,195
+lineup,dat,R,RA200,2,orion-palumbo,yuno-lee,jonah-ladetsky,timothy-tham,115.59,138
+lineup,dat,I,B100,1,mehal-gupta,63.69,67,2,hayden-lin,57.85,96,3,eric-song-600008,79.31,10
+lineup,dat,I,C100,1,jayden-gulati,81.16,21,2,henry-cai-1,75.53,42,3,yuno-lee,79.34,27
+lineup,dat,R,RA400,1,owen-kane,henry-cai-1,john-allyn-2,timothy-shi,234.09,186
+lineup,dat,R,RA400,2,timothy-tham,sachidanandan-aaditya,hayden-lin,mehal-gupta,250.59,120

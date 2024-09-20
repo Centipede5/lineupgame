@@ -1,0 +1,13 @@
+lineup,hdr,3,473.0
+lineup,dat,I,A200,1,phoebe-alward,131.93,33.0,,,,,,,,
+lineup,dat,I,E200,,,,,,,,,,,,
+lineup,dat,I,A50,1,chris-soyring,26.8,49.0,2.0,ella-price,27.67,39.0,3,sebastian-frio,28.41,30.0
+lineup,dat,I,D100,1,simonini-gabby-1,69.51,28.0,,,,,,,,
+lineup,dat,I,A100,1,christian-hubbard,57.68,53.0,2.0,phoebe-alward,58.77,46.0,3,taylor-caylen,59.52,42.0
+lineup,dat,I,A500,1,sebastian-frio,375.36,16.0,,,,,,,,
+lineup,dat,I,B100,1,christian-hubbard,63.74,66.0,2.0,taylor-caylen,67.56,50.0,3,simonini-gabby-1,78.84,11.0
+lineup,dat,I,C100,1,ella-price,84.5,10.0,,,,,,,,
+relay,hdr,729.0
+relay,RE200YM,2,ella-berger-2,ella-price,sebastian-frio,phoebe-alward,119.67,195.0,christian-hubbard,chris-soyring,simonini-gabby-1,taylor-caylen,121.03,186.0,381.0
+relay,RA200YM,2,gibson-young,ava-foster,sebastian-frio,chris-soyring,119.6,111.0,rachael-irizarry-2,lila-camp,simonini-gabby-1,ella-price,121.83,96.0,207.0
+relay,RA400YM,1,phoebe-alward,taylor-caylen,christian-hubbard,chris-soyring,244.66,141.0,,,,,,,141.0

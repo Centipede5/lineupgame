@@ -1,0 +1,11 @@
+lineup,hdr,3,356
+lineup,dat,R,RE200,1,sebastian-wolf,julian-hough,tyler-davis-13,payam-ekrami,135.37,93
+lineup,dat,I,A200,1,julian-hough,142.27,9
+lineup,dat,I,E200
+lineup,dat,I,A50,1,payam-ekrami,25.61,64
+lineup,dat,I,D100,1,tyler-davis-13,70.43,24
+lineup,dat,I,A100,1,sebastian-wolf,71.97,0,2,payam-ekrami,62.43,27,3,dilan-lalla,72.53,0
+lineup,dat,I,A500
+lineup,dat,R,RA200,1,tyler-davis-13,dilan-lalla,julian-hough,payam-ekrami,120.81,102
+lineup,dat,I,B100,1,sebastian-wolf,90.8,0,2,tyler-davis-13,70.94,37
+lineup,dat,I,C100,1,dilan-lalla,100.63,0,2,julian-hough,87.93,0

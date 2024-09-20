@@ -1,0 +1,12 @@
+lineup,hdr,3,795
+lineup,dat,R,RE200,1,brendan-mansfield,akhil-anandan,nathan-welter,jack-tinik,121.67,180
+lineup,dat,I,A200,1,louden-jobes,141.52,10,2,akhil-anandan,148.49,0
+lineup,dat,I,E200,1,nathan-welter,148.29,30,2,brendan-mansfield,152.69,20
+lineup,dat,I,A50,1,malachi-matson,35.92,0,2,jack-tinik,26.14,57,3,alexander-dehays,28.98,24
+lineup,dat,I,D100,1,brendan-mansfield,65.67,45
+lineup,dat,I,A100,1,alexander-dehays,66.84,6,2,jack-tinik,58.79,46,3,kevin-devlin,59.39,43
+lineup,dat,I,A500,1,louden-jobes,405.91,0
+lineup,dat,R,RA200,1,nathan-welter,kevin-devlin,louden-jobes,akhil-anandan,111.03,171
+lineup,dat,I,B100,1,nathan-welter,66,56,2,kevin-devlin,81.03,5
+lineup,dat,I,C100,1,akhil-anandan,75.7,42
+lineup,dat,R,RA400,1,brendan-mansfield,louden-jobes,kevin-devlin,jack-tinik,267.05,60

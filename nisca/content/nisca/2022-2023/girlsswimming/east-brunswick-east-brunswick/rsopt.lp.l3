@@ -1,0 +1,13 @@
+lineup,hdr,3,1575.0
+lineup,dat,I,A200,1,kaileigh-kennedy-1,123.79,88.0,2.0,lillian-saroka,136.94,46.0,3,srijita-sarkar,140.93,35.0
+lineup,dat,I,E200,1,katherine-kennedy,135.16,101.0,2.0,megan-tseng,150.36,55.0,3,evelyn-kennedy,155.46,42.0
+lineup,dat,I,A50,1,katie-ryan,24.73,119.0,2.0,victoria-stewart,28.01,68.0,3,julianna-maragoto,29.3,51.0
+lineup,dat,I,D100,1,katie-ryan,58.36,122.0,2.0,lauren-capiello,65.97,77.0,3,chloe-tong,71.77,49.0
+lineup,dat,I,A100,1,mckenna-modzelewski,61.24,62.0,2.0,victoria-stewart,61.87,57.0,3,lillian-saroka,62.93,51.0
+lineup,dat,I,A500,1,kaileigh-kennedy-1,324.55,97.0,2.0,sertap-chabanov,374.33,38.0,3,nicole-pelo,378.37,33.0
+lineup,dat,I,B100,1,lauren-capiello,68.48,60.0,2.0,mckenna-modzelewski,70.84,48.0,3,sertap-chabanov,71.77,43.0
+lineup,dat,I,C100,1,katherine-kennedy,71.05,99.0,2.0,megan-tseng,75.17,77.0,3,evelyn-kennedy,79.41,57.0
+relay,hdr,1425.0
+relay,RE200YF,2,lauren-capiello,katherine-kennedy,katie-ryan,kaileigh-kennedy-1,114.84,333.0,sertap-chabanov,chloe-tong,megan-tseng,julianna-maragoto,127.88,213.0,546.0
+relay,RA400YF,2,lauren-capiello,mckenna-modzelewski,victoria-stewart,katie-ryan,243.61,228.0,kaileigh-kennedy-1,sophia-may-2,lillian-saroka,katherine-kennedy,244.19,225.0,453.0
+relay,RA200YF,2,megan-tseng,mckenna-modzelewski,lillian-saroka,victoria-stewart,113.85,237.0,evelyn-kennedy,sophia-may-2,julianna-maragoto,srijita-sarkar,119.06,189.0,426.0

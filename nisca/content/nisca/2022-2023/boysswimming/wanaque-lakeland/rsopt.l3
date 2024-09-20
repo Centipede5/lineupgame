@@ -1,0 +1,12 @@
+lineup,hdr,3,337
+lineup,dat,I,A200
+lineup,dat,I,E200,1,owen-schouten,146.21,35
+lineup,dat,I,A50,1,michael-jakubaszek,26.52,52,2,steven-bracken,26.92,47
+lineup,dat,I,D100,1,owen-schouten,67.41,37,2,owen-kane-1,74.62,8
+lineup,dat,I,A100,1,michael-jakubaszek,61.41,32,2,steven-bracken,61.62,31,3,benjamin-lighty,65.23,13
+lineup,dat,I,A500
+lineup,dat,I,B100,1,benjamin-lighty,73.93,26
+lineup,dat,I,C100,1,owen-kane-1,78.9,29,2,antino-ferretti,79.44,27
+relay,hdr,354
+relay,RE200YM,1,benjamin-lighty,owen-kane-1,owen-schouten,michael-jakubaszek,120.37,1.9200000000000000e+02
+relay,RA200YM,1,michael-jakubaszek,owen-kane-1,owen-schouten,steven-bracken,112.1,1.6200000000000000e+02

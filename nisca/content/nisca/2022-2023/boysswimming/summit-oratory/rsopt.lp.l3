@@ -1,0 +1,13 @@
+lineup,hdr,3,1680.0
+lineup,dat,I,A200,1,charlie-kline,112.74,91.0,2.0,conor-hefernan,120.88,64.0,3,luke-gardner-1,122.75,59.0
+lineup,dat,I,E200,1,paul-knecht,124.71,94.0,2.0,henry-crowther,129.71,79.0,3,brice-spreeman,134.19,66.0
+lineup,dat,I,A50,1,will-foucher-1,23.08,102.0,2.0,luis-cueva,25.75,62.0,3,jack-larkin-610950,25.91,60.0
+lineup,dat,I,D100,1,henry-crowther,57.9,86.0,2.0,dylan-zwally,58.96,80.0,3,cathal-hislop,64.92,48.0
+lineup,dat,I,A100,1,will-foucher-1,50.5,101.0,2.0,luke-gardner-1,55.03,69.0,3,luis-cueva,58.57,47.0
+lineup,dat,I,A500,1,charlie-kline,308.58,88.0,2.0,conor-hefernan,327.01,65.0,3,ben-fernandoe,356.99,33.0
+lineup,dat,I,B100,1,paul-knecht,58.71,91.0,2.0,brice-spreeman,60.38,82.0,3,dylan-zwally,60.72,81.0
+lineup,dat,I,C100,1,ronan-hamon,73.13,52.0,2.0,cathal-hislop,73.53,51.0,3,ben-fernandoe,78.98,29.0
+relay,hdr,1500.0
+relay,RA200YM,2,charlie-kline,dylan-zwally,brice-spreeman,henry-crowther,98.63,279.0,luis-cueva,jack-larkin-610950,luke-gardner-1,conor-hefernan,100.13,264.0,543.0
+relay,RA400YM,2,will-foucher-1,paul-knecht,henry-crowther,charlie-kline,209.71,303.0,conor-hefernan,ben-fernandoe,cathal-hislop,luke-gardner-1,233.0,189.0,492.0
+relay,RE200YM,2,dylan-zwally,paul-knecht,brice-spreeman,will-foucher-1,111.14,264.0,luis-cueva,ronan-hamon,cathal-hislop,jack-larkin-610950,119.13,201.0,465.0

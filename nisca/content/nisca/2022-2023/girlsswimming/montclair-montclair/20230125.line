@@ -1,0 +1,15 @@
+lineup,hdr,3,2860
+lineup,dat,R,RE200,1,sarah-miller-11,reagan-gilligan,carly-frank-2,lily-miklaszewski,123.22,252
+lineup,dat,R,RE200,2,sophie-merrifield,keria-gilligan,madison-daynes,madeline-young,125.06,237
+lineup,dat,I,A200,1,reagan-gilligan,121.83,95,2,sefina-morrison,132.16,61,3,sarah-miller-11,132.32,60
+lineup,dat,I,E200,1,avery-dollard,139.19,87,2,madeline-young,146.03,67,3,madison-daynes,149.87,56
+lineup,dat,I,A50,1,lily-miklaszewski,25.67,103,2,caitlin-foung,26.04,97,3,lauren-wall,27,82
+lineup,dat,I,D100,1,carly-frank-2,60.79,106,2,avery-dollard,60.48,108,3,maya-gutierrez,73.38,42
+lineup,dat,I,A100,1,lily-miklaszewski,56.57,95,2,caitlin-foung,57.11,91,3,keria-gilligan,58.91,77
+lineup,dat,I,A500,1,oona-mcnamara,419.36,0,2,raili-bourne,394.79,18,3,alexandra-jacobstein,408.81,5
+lineup,dat,R,RA200,1,keria-gilligan,sefina-morrison,avery-dollard,caitlin-foung,113.12,243
+lineup,dat,R,RA200,2,maya-gutierrez,lauren-wall,maria-basinger,sophie-merrifield,118.09,198
+lineup,dat,I,B100,1,keria-gilligan,69.19,56,2,sophie-gyan,70.73,48,3,ellen-last,71.4,45
+lineup,dat,I,C100,1,madeline-young,81.75,47,2,isabella-mastromarino,92.24,8,3,maria-basinger,87.13,26
+lineup,dat,R,RA400,1,reagan-gilligan,lily-miklaszewski,caitlin-foung,carly-frank-2,237.8,258
+lineup,dat,R,RA400,2,sarah-miller-11,sophie-merrifield,madeline-young,avery-dollard,251.29,192

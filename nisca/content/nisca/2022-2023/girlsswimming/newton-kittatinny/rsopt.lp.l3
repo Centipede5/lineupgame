@@ -1,0 +1,13 @@
+lineup,hdr,3,856.0
+lineup,dat,I,A200,1,salome-calderone,147.27,19.0,,,,,,,,
+lineup,dat,I,E200,1,clare-schwartz-1,135.81,98.0,,,,,,,,
+lineup,dat,I,A50,1,iris-wikander-1,27.57,74.0,2.0,madelyn-haug-1,28.17,66.0,3,lily-johnson-3,29.27,51.0
+lineup,dat,I,D100,1,brenna-philson,71.18,52.0,2.0,peyton-berg,73.04,44.0,3,carly-wikander,77.73,25.0
+lineup,dat,I,A100,1,clare-schwartz-1,55.66,102.0,2.0,molly-riva,61.41,60.0,3,madelyn-haug-1,64.83,39.0
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,1,molly-riva,69.38,55.0,2.0,kathryn-zaremba,73.22,36.0,3,kayla-makowski,77.03,19.0
+lineup,dat,I,C100,1,peyton-berg,82.37,45.0,2.0,iris-wikander-1,82.88,42.0,3,katie-sills,86.35,29.0
+relay,hdr,981.0
+relay,RE200YF,2,molly-riva,peyton-berg,clare-schwartz-1,iris-wikander-1,121.03,273.0,kathryn-zaremba,katie-sills,brenna-philson,salome-calderone,138.2,132.0,405.0
+relay,RA200YF,2,peyton-berg,brenna-philson,madelyn-haug-1,lily-johnson-3,117.24,207.0,carly-wikander,kathryn-zaremba,mari-robins,salome-calderone,125.33,138.0,345.0
+relay,RA400YF,2,molly-riva,iris-wikander-1,madelyn-haug-1,clare-schwartz-1,254.63,174.0,brenna-philson,kathryn-zaremba,salome-calderone,lily-johnson-3,282.63,57.0,231.0

@@ -1,0 +1,17 @@
+lineup,hdr,3,443
+lineup,dat,I,A200
+lineup,dat,I,E200
+lineup,dat,I,A50,1,daniel-kelly-7,26.92,47,2,aslan-aydin,28.71,27,3,joshua-oring,29,24
+lineup,dat,I,D100,1,warren-hsu,59.96,74
+lineup,dat,I,A100,1,amir-rakimov,55.97,63,2,danny-franzen,63.05,23,3,jack-tanen,66.51,7
+lineup,dat,I,A500,1,warren-hsu,313.88,81,2,amir-rakimov,329,63
+lineup,dat,I,B100,1,owen-elkin,76.88,17
+lineup,dat,I,C100,1,daniel-kelly-7,82.19,17
+relay,hdr,576
+relay,RE200YM,2,jack-tanen,amir-rakimov,warren-hsu,joseph-huang,121.32,1.8300000000000000e+02,owen-elkin,daniel-kelly-7,joshua-oring,aslan-aydin,132.9,1.0800000000000000e+02
+relay,RA200YM,2,aslan-aydin,jack-tanen,danny-franzen,warren-hsu,112.51,1.5900000000000000e+02,misha-callaway,justin-john-2,joseph-huang,owen-elkin,123.2,8.7000000000000000e+01
+relay,RA400YM,1,daniel-kelly-7,joseph-huang,owen-elkin,amir-rakimov,273.61,3.9000000000000000e+01
+relay,hdr,663
+relay,RE200YM,2,jack-tanen,amir-rakimov,warren-hsu,joseph-huang,121.32,1.8300000000000000e+02,owen-elkin,daniel-kelly-7,joshua-oring,aslan-aydin,132.9,1.0800000000000000e+02
+relay,RA200YM,2,jack-tanen,marco-gualda,aslan-aydin,daniel-kelly-7,114.79,1.4400000000000000e+02,misha-callaway,justin-john-2,joseph-huang,owen-elkin,123.2,8.7000000000000000e+01
+relay,RA400YM,1,danny-franzen,joshua-oring,amir-rakimov,warren-hsu,244.68,1.4100000000000000e+02

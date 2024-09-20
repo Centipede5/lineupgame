@@ -1,0 +1,14 @@
+lineup,hdr,3,1612
+lineup,dat,R,RE200,1,sandra-liu,camille-yap,richa-choudhary,sophia-yu,139,126
+lineup,dat,I,A200,1,aditi-pavuluri,140.44,37,2,aria-mallick,143.19,29,3,raiya-shah,151.31,9
+lineup,dat,I,E200,1,maddie-domantay,146.8,65,2,claire-lin,159.1,33,3,aashna-singh-1,168.11,12
+lineup,dat,I,A50,1,sanjana-dhar,27,82,2,camille-yap,28.93,55,3,lily-yuan,29.59,47
+lineup,dat,I,D100,1,aditi-pavuluri,68.77,63,2,sanjana-dhar,72.86,45,3,richa-choudhary,85.06,0
+lineup,dat,I,A100,1,maddie-domantay,59.87,71,2,aria-mallick,63.94,45,3,camille-yap,65.94,33
+lineup,dat,I,A500,1,sophia-yu,397.37,15,2,richa-choudhary,416,0,3,lily-yuan,418.56,0
+lineup,dat,R,RA200,1,aashna-singh-1,camille-yap,aria-mallick,claire-lin,115.97,216
+lineup,dat,R,RA200,2,sandra-liu,raiya-shah,richa-choudhary,lily-yuan,126.09,132
+lineup,dat,I,B100,1,sandra-liu,77.17,19,2,sophia-yu,66.63,70
+lineup,dat,I,C100,1,aashna-singh-1,78.73,60,2,claire-lin,81.56,48,3,raiya-shah,82.96,42
+lineup,dat,R,RA400,1,aditi-pavuluri,claire-lin,sanjana-dhar,maddie-domantay,246.56,213
+lineup,dat,R,RA400,2,aria-mallick,lily-yuan,sophia-yu,raiya-shah,285.13,45

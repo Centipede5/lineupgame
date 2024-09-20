@@ -1,0 +1,11 @@
+lineup,hdr,3,789
+lineup,dat,R,RE200,1,sophia-fontaine-1,matthew-faust,briana-li,maiti-oconnor,128.54,135
+lineup,dat,I,A200,1,kj-bogona,135.8,24,2,sammy-faust,135.69,24,3,giselle-lee,140.36,13
+lineup,dat,I,E200,1,ethan-guo-1,144.58,39,2,sophia-fontaine-1,143.44,41,3,oliver-laskow,161.83,1
+lineup,dat,I,A50,1,matthew-faust,25.02,72,2,aiden-lee,25.46,66
+lineup,dat,I,D100,1,kj-bogona,70.43,24,2,giselle-lee,71.23,20
+lineup,dat,I,A100,1,aiden-lee,60.43,37,2,maiti-oconnor,68.56,0
+lineup,dat,I,A500,1,sophia-fontaine-1,361.66,29,2,ethan-guo-1,403.25,0,3,chiara-baldi-1,441.54,0
+lineup,dat,R,RA200,1,sammy-faust,aiden-lee,giselle-lee,matthew-faust,107.91,195
+lineup,dat,I,B100,1,briana-li,74.98,23,2,sammy-faust,77.65,15
+lineup,dat,I,C100,1,matthew-faust,83.19,14,2,oliver-laskow,82.14,17

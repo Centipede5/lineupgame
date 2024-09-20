@@ -1,0 +1,12 @@
+lineup,hdr,3,473
+lineup,dat,I,A200
+lineup,dat,I,E200,1,chris-green-599338,123.68,98,2,alex-newcombe,126.55,88
+lineup,dat,I,A50,1,william-toth,24.23,84,2,james-mann-1,31.04,4
+lineup,dat,I,D100,1,jack-chew,72.16,17
+lineup,dat,I,A100,1,william-toth,55.94,63
+lineup,dat,I,A500,1,chris-green-599338,306.13,91
+lineup,dat,I,B100,1,jack-chew,74.78,24
+lineup,dat,I,C100,1,alex-newcombe,86.12,4
+relay,hdr,627
+relay,RE200YM,2,jack-chew,chris-green-599338,william-toth,aidan-collins,121.09,1.8600000000000000e+02,gia-danastasio,geneivieve-driscoll,ana-yucis,sara-yucis,122.9,1.7400000000000000e+02
+relay,RA200YM,2,aidan-collins,jack-chew,william-toth,chris-green-599338,111.91,1.6500000000000000e+02,olivia-burgo,kaitlyn-capalbo,sara-yucis,ana-yucis,120.63,1.0200000000000000e+02

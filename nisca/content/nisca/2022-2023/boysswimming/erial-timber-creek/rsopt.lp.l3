@@ -1,0 +1,13 @@
+lineup,hdr,3,224.0
+lineup,dat,I,A200,1,jasmine-lewis-530947,132.88,31.0,,,,,,,,
+lineup,dat,I,E200,1,kyle-clark-blanding,149.61,27.0,2.0,sydney-griffin,152.63,20.0,,,,
+lineup,dat,I,A50,1,thomas-steele,27.63,39.0,2.0,jack-klingelsmith,28.61,28.0,3,jackson-ballard,29.6,18.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,jasmine-lewis-530947,58.28,49.0,2.0,thomas-steele,65.48,12.0,,,,
+lineup,dat,I,A500,,,,,,,,,,,,
+lineup,dat,I,B100,,,,,,,,,,,,
+lineup,dat,I,C100,,,,,,,,,,,,
+relay,hdr,378.0
+relay,RE200YM,2,colin-pritchard-1,sydney-griffin,makayla-lumpkin,alaina-wilson,130.6,123.0,mason-rowe,jill-lofton,grace-garriel,emily-dwyer,140.48,66.0,189.0
+relay,RA200YM,1,thomas-steele,sydney-griffin,jack-klingelsmith,jasmine-lewis-530947,113.39,153.0,,,,,,,153.0
+relay,RA400YM,1,emily-dwyer,sydney-griffin,jack-klingelsmith,jasmine-lewis-530947,274.47,36.0,,,,,,,36.0

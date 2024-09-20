@@ -1,0 +1,13 @@
+lineup,hdr,3,307
+lineup,dat,I,A200,1,kevin-zapet,138.19,18
+lineup,dat,I,E200
+lineup,dat,I,A50,1,yunes-sabeur,25.53,65,2,ty-castellanos,27.2,44,3,riad-taire,27.2,44
+lineup,dat,I,D100
+lineup,dat,I,A100,1,riad-taire,60.1,39,2,kevin-zapet,61.39,32,3,ty-castellanos,67.15,4
+lineup,dat,I,A500
+lineup,dat,I,B100,1,yunes-sabeur,65,61
+lineup,dat,I,C100
+relay,hdr,939
+relay,RE200YM,1,ty-castellanos,riad-taire,yunes-sabeur,mason-castillo-1,101.8,3.5100000000000000e+02
+relay,RA200YM,1,ali-elbaz,mason-castillo-1,kristian-taino,ankur-patel,101.71,2.4900000000000000e+02
+relay,RA400YM,1,kevin-zapet,ty-castellanos,ankur-patel,riad-taire,203.33,3.3900000000000000e+02

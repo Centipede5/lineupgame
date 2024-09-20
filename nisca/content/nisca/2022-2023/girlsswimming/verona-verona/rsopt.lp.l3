@@ -1,0 +1,13 @@
+lineup,hdr,3,464.0
+lineup,dat,I,A200,1,dionisia-yanniotis,142.15,32.0,,,,,,,,
+lineup,dat,I,E200,1,katie-repoli,169.33,9.0,,,,,,,,
+lineup,dat,I,A50,1,kate-carlson,27.07,81.0,2.0,sophie-beaubouef,27.33,77.0,3,julia-komninos,28.63,59.0
+lineup,dat,I,D100,,,,,,,,,,,,
+lineup,dat,I,A100,1,sophie-beaubouef,58.6,80.0,2.0,kate-carlson,61.17,63.0,,,,
+lineup,dat,I,A500,1,dionisia-yanniotis,413.22,1.0,,,,,,,,
+lineup,dat,I,B100,1,julia-komninos,71.18,46.0,,,,,,,,
+lineup,dat,I,C100,1,katie-repoli,89.98,16.0,,,,,,,,
+relay,hdr,483.0
+relay,RA200YF,2,sophie-beaubouef,kate-carlson,katie-repoli,emma-baschieri,119.36,189.0,caitlyn-heimerle,elin-attal,francesca-bopp,isabella-bopp,125.41,138.0,327.0
+relay,RE200YF,1,julia-komninos,katie-repoli,sophie-beaubouef,nolani-lloyd,136.91,141.0,,,,,,,141.0
+relay,RA400YF,1,kate-carlson,kimberly-horton,dionisia-yanniotis,nolani-lloyd,293.28,15.0,,,,,,,15.0

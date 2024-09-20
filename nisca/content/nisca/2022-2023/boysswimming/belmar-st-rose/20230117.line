@@ -1,0 +1,15 @@
+lineup,hdr,3,1310
+lineup,dat,R,RE200,1,jeffrey-hanlon,bryce-lemoult,jack-harmon,edward-annitto,111.99,255
+lineup,dat,R,RE200,2,jimmy-loftus,james-magrini-1,sean-westhoven,brian-mckeon,137.96,78
+lineup,dat,I,A200,1,bryce-lemoult,122.88,58,2,james-magrini-1,148.72,0,3,blake-nitche,160.63,0
+lineup,dat,I,E200,1,jack-harmon,146.28,34,2,sean-westhoven,167.84,0,3,alex-kleiberg,194.78,0
+lineup,dat,I,A50,1,edward-annitto,23,103,2,brody-timpone,27.55,40,3,lucas-ferlise,30.56,9
+lineup,dat,I,D100,1,jack-harmon,63.74,54
+lineup,dat,I,A100,1,edward-annitto,54.74,71,2,jimmy-loftus,65.69,11,3,blake-nitche,70.63,0
+lineup,dat,I,A500,1,jeffrey-hanlon,335.07,56,2,brody-timpone,425.91,0,3,lucas-ferlise,452.2,0
+lineup,dat,R,RA200,1,sean-westhoven,james-magrini-1,jimmy-loftus,brody-timpone,109.14,186
+lineup,dat,R,RA200,2,brian-mckeon,james-vitale-1,alex-kleiberg,blake-nitche,129.87,48
+lineup,dat,I,B100,1,bryce-lemoult,69.2,44,2,jimmy-loftus,75.16,22,3,alex-kleiberg,88.52,0
+lineup,dat,I,C100,1,jeffrey-hanlon,72.34,56,2,james-magrini-1,80.55,23,3,james-vitale-1,85.5,6
+lineup,dat,R,RA400,1,edward-annitto,jack-harmon,jeffrey-hanlon,bryce-lemoult,241.17,156
+lineup,dat,R,RA400,2,brian-mckeon,lucas-ferlise,james-vitale-1,brody-timpone,307.79,0

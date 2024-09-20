@@ -1,0 +1,15 @@
+lineup,hdr,3,570
+lineup,dat,R,RE200,1,lauren-wines,christopher-barrcia-1,joe-esposito-600188,chase-boucher,134.4,99
+lineup,dat,R,RE200,2,liam-arney,shane-silvestro,phoenix-staines,wayne-schellhas,143.63,48
+lineup,dat,I,A200,1,charles-gomez,164.31,0,2,aidan-dougherty-1,167.61,0,3,delilah-doolin,185.05,0
+lineup,dat,I,E200,1,maxim-costiuc,165.24,0,2,joe-esposito-600188,166.34,0,3,nicholas-marino-1,158.21,8
+lineup,dat,I,A50,1,chase-boucher,27.53,40,2,landon-dobleman,28.23,32,3,charles-gomez,30.35,11
+lineup,dat,I,D100,1,lauren-wines,80.5,0,2,phoenix-staines,83.95,0,3,nicholas-marino-1,89.87,0
+lineup,dat,I,A100,1,chase-boucher,66,10,2,liam-arney,70.63,0,3,julian-rich,78.59,0
+lineup,dat,I,A500,1,landon-dobleman,375.39,16,2,joe-esposito-600188,389.49,4,3,aidan-dougherty-1,457.8,0
+lineup,dat,R,RA200,1,christopher-barrcia-1,shane-silvestro,chase-boucher,landon-dobleman,119.06,114
+lineup,dat,R,RA200,2,wayne-schellhas,charles-gomez,lauren-wines,louis-fanelle,127.65,60
+lineup,dat,I,B100,1,maxim-costiuc,85.55,0,2,olivia-cooper-1,92.6,0
+lineup,dat,I,C100,1,christopher-barrcia-1,76.51,38,2,shane-silvestro,80.66,23,3,phoenix-staines,82.52,16
+lineup,dat,R,RA400,1,joe-esposito-600188,maxim-costiuc,landon-dobleman,christopher-barrcia-1,270.1,51
+lineup,dat,R,RA400,2,charles-gomez,shaun-kilpatrick,liam-arney,shane-silvestro,288.74,0

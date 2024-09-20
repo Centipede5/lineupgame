@@ -1,0 +1,15 @@
+lineup,hdr,3,3031
+lineup,dat,R,RE200,1,jayne-mansukani,maddie-waggoner,caitlin-barr,alex-cha,111.38,372
+lineup,dat,R,RE200,2,lia-sanfilippo,eleni-waldhauser,jordan-luetke,emma-holmgren,126.27,225
+lineup,dat,I,A200,1,maddie-waggoner,112.97,129,2,stephanie-shawaryn,121.72,95,3,eva-chas,137.9,44
+lineup,dat,I,E200,1,jordan-luetke,153.27,47,2,shelby-devose,160,31,3,lia-sanfilippo,156.81,38
+lineup,dat,I,A50,1,caitlin-barr,26,98,2,emma-holmgren,28.35,63,3,michelle-shi,29.85,44
+lineup,dat,I,D100,1,jayne-mansukani,65.18,81,2,alex-cha,65.89,77,3,jordan-luetke,67.8,68
+lineup,dat,I,A100,1,caitlin-barr,56.99,91,2,eleni-waldhauser,60.14,69,3,karli-omlor,65.98,33
+lineup,dat,I,A500,1,stephanie-shawaryn,331.4,88,2,alex-faino,386.56,25,3,caroline-corbin,404.2,9
+lineup,dat,R,RA200,1,maddie-waggoner,alex-cha,caitlin-barr,stephanie-shawaryn,104.78,330
+lineup,dat,R,RA200,2,emma-holmgren,jordan-luetke,eva-chas,shelby-devose,116.22,216
+lineup,dat,I,B100,1,maddie-waggoner,58.79,121,2,jayne-mansukani,62.43,96,3,lia-sanfilippo,68.23,62
+lineup,dat,I,C100,1,alex-cha,76.91,69,2,emily-chalbert,78.59,61,3,eleni-waldhauser,79.33,58
+lineup,dat,R,RA400,1,stephanie-shawaryn,jayne-mansukani,eleni-waldhauser,lia-sanfilippo,252.79,183
+lineup,dat,R,RA400,2,alex-faino,eva-chas,shelby-devose,caroline-corbin,269.45,108

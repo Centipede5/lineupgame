@@ -1,0 +1,12 @@
+lineup,hdr,3,189
+lineup,dat,I,A200,1,hadley-martin,141.65,33
+lineup,dat,I,E200
+lineup,dat,I,A50,1,erika-pokorny,29.77,45,2,lindsay-roux,31.53,24
+lineup,dat,I,D100,1,hadley-martin,74.13,39,2,karen-tsang,83.33,5
+lineup,dat,I,A100,1,erika-pokorny,66.9,27,2,paula-cobian-ramos,69.73,13
+lineup,dat,I,A500
+lineup,dat,I,B100,1,paula-cobian-ramos,80.97,3
+lineup,dat,I,C100
+relay,hdr,366
+relay,RE200YF,2,hadley-martin,emily-dolan-550493,paula-cobian-ramos,erika-pokorny,137.97,1.3500000000000000e+02,prunelle-grandlcaude,ava-albanese,karen-tsang,lindsay-roux,152.8,3.6000000000000000e+01
+relay,RA200YF,2,hadley-martin,karen-tsang,lindsay-roux,paula-cobian-ramos,124.84,1.4400000000000000e+02,ava-albanese,madeline-mistretta,sofia-sharples,emily-dolan-550493,137.92,5.1000000000000000e+01

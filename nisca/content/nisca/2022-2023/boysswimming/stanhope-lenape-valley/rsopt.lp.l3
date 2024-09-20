@@ -1,0 +1,13 @@
+lineup,hdr,3,827.0
+lineup,dat,I,A200,1,teddy-mills,126.87,47.0,2.0,grayson-petrie,129.91,39.0,3,david-sabol-1,133.0,31.0
+lineup,dat,I,E200,1,brendan-lynch-550300,143.72,41.0,2.0,jourdan-franco,147.38,32.0,3,michael-signorile,157.72,9.0
+lineup,dat,I,A50,1,dylan-cotter,26.5,53.0,2.0,timmy-walsh,27.28,43.0,3,james-shertz,27.53,40.0
+lineup,dat,I,D100,1,brendan-lynch-550300,61.65,65.0,2.0,noah-mcclung,70.54,23.0,,,,
+lineup,dat,I,A100,1,teddy-mills,56.39,60.0,2.0,david-sabol-1,57.73,52.0,3,james-shertz,61.29,32.0
+lineup,dat,I,A500,1,grayson-petrie,353.26,37.0,2.0,jourdan-franco,359.16,31.0,,,,
+lineup,dat,I,B100,1,michael-signorile,64.48,63.0,2.0,dylan-cotter,65.27,60.0,3,tyler-casper,73.25,29.0
+lineup,dat,I,C100,1,timmy-walsh,76.19,40.0,,,,,,,,
+relay,hdr,990.0
+relay,RE200YM,2,dylan-cotter,jourdan-franco,brendan-lynch-550300,grayson-petrie,118.71,204.0,michael-signorile,timmy-walsh,noah-mcclung,james-shertz,123.16,171.0,375.0
+relay,RA200YM,2,dylan-cotter,david-sabol-1,james-shertz,teddy-mills,110.46,177.0,nickolas-jikia,mathias-alvez,tyler-casper,noah-mcclung,113.14,156.0,333.0
+relay,RA400YM,2,grayson-petrie,teddy-mills,jourdan-franco,brendan-lynch-550300,232.59,192.0,tyler-casper,michael-signorile,timmy-walsh,david-sabol-1,258.1,90.0,282.0

@@ -1,0 +1,13 @@
+lineup,hdr,3,892.0
+lineup,dat,I,A200,1,samantha-guadanino,123.86,88.0,2.0,lasenki-wijegunawardhana,144.96,25.0,,,,
+lineup,dat,I,E200,1,anjali-gupta-1,145.21,69.0,2.0,vivien-turpek,160.78,29.0,,,,
+lineup,dat,I,A50,1,saloni-agshiker,27.38,77.0,2.0,nikhita-gadde,28.38,63.0,3,paige-simpson,30.46,37.0
+lineup,dat,I,D100,1,anjali-gupta-1,71.0,53.0,2.0,nisha-patel-600683,79.63,18.0,,,,
+lineup,dat,I,A100,1,saloni-agshiker,61.28,61.0,2.0,anuva-kota,63.68,46.0,3,akshita-krishnakumar,68.45,19.0
+lineup,dat,I,A500,1,vivien-turpek,386.85,25.0,,,,,,,,
+lineup,dat,I,B100,1,mia-chonillo,74.45,31.0,2.0,lasenki-wijegunawardhana,75.06,28.0,,,,
+lineup,dat,I,C100,1,samantha-guadanino,71.14,99.0,2.0,paige-simpson,78.09,63.0,3,anuva-kota,78.58,61.0
+relay,hdr,927.0
+relay,RE200YF,2,anjali-gupta-1,paige-simpson,samantha-guadanino,saloni-agshiker,124.14,246.0,lasenki-wijegunawardhana,nikhita-gadde,nisha-patel-600683,vivien-turpek,133.42,168.0,414.0
+relay,RA200YF,2,paige-simpson,anjali-gupta-1,samantha-guadanino,saloni-agshiker,113.68,237.0,akshita-krishnakumar,nikhita-gadde,mia-chonillo,anuva-kota,121.08,174.0,411.0
+relay,RA400YF,1,lasenki-wijegunawardhana,vivien-turpek,anuva-kota,nikhita-gadde,271.07,102.0,,,,,,,102.0

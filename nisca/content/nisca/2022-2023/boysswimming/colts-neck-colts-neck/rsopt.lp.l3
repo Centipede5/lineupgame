@@ -1,0 +1,13 @@
+lineup,hdr,3,1225.0
+lineup,dat,I,A200,1,liam-barr,119.78,68.0,2.0,chris-lalli,123.61,56.0,3,josue-elias-linares-1,142.74,8.0
+lineup,dat,I,E200,1,jonathan-lalli,132.29,71.0,2.0,matthew-vulpescu,138.78,53.0,3,jeff-karpelson,146.08,35.0
+lineup,dat,I,A50,1,ben-amster,24.74,76.0,2.0,josef-gur,25.45,66.0,3,ivan-stepanyan,25.67,63.0
+lineup,dat,I,D100,1,jonathan-lalli,58.11,85.0,2.0,ben-amstislavski,64.79,49.0,3,gabriel-smith-2,66.0,43.0
+lineup,dat,I,A100,1,junho-jeong,54.48,73.0,2.0,josue-elias-linares-1,63.31,22.0,3,john-vota,63.43,22.0
+lineup,dat,I,A500,1,chris-lalli,311.2,85.0,2.0,liam-barr,331.61,60.0,,,,
+lineup,dat,I,B100,1,jeff-karpelson,64.16,64.0,2.0,matthew-vulpescu,66.33,55.0,3,gabriel-smith-2,75.31,22.0
+lineup,dat,I,C100,1,junho-jeong,72.79,54.0,2.0,ben-amstislavski,73.45,51.0,3,ben-amster,75.0,44.0
+relay,hdr,1227.0
+relay,RA200YM,2,ben-amster,chris-dalby,ben-amstislavski,jonathan-lalli,101.7,249.0,junho-jeong,liam-barr,chris-lalli,matthew-vulpescu,102.33,243.0,492.0
+relay,RE200YM,2,matthew-vulpescu,jeff-karpelson,ben-amstislavski,josef-gur,114.52,234.0,ben-amster,chris-dalby,gabriel-smith-2,ivan-stepanyan,125.45,156.0,390.0
+relay,RA400YM,2,liam-barr,junho-jeong,chris-lalli,jonathan-lalli,222.48,237.0,josue-elias-linares-1,josef-gur,john-vota,ivan-stepanyan,253.62,108.0,345.0

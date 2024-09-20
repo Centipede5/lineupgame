@@ -1,0 +1,13 @@
+lineup,hdr,3,925.0
+lineup,dat,I,A200,1,maddy-hay,131.18,64.0,2.0,ella-scarpelli,133.16,58.0,,,,
+lineup,dat,I,E200,1,aliya-nagaria,144.35,72.0,,,,,,,,
+lineup,dat,I,A50,1,venise-mandana,26.01,98.0,2.0,kayleigh-fontana,31.28,27.0,3,madison-hall-1,32.09,18.0
+lineup,dat,I,D100,1,aliya-nagaria,64.12,87.0,2.0,maddy-hay,69.06,62.0,,,,
+lineup,dat,I,A100,1,venise-mandana,56.22,97.0,2.0,erin-beaudry,59.52,73.0,3,olivia-casella,59.65,72.0
+lineup,dat,I,A500,1,ella-scarpelli,360.75,52.0,,,,,,,,
+lineup,dat,I,B100,1,erin-beaudry,68.03,63.0,2.0,olivia-casella,68.29,61.0,3,kayleigh-fontana,79.2,10.0
+lineup,dat,I,C100,1,alyssa-cino,91.71,10.0,2.0,byham-liv,94.27,1.0,,,,
+relay,hdr,975.0
+relay,RA200YF,2,venise-mandana,erin-beaudry,olivia-casella,aliya-nagaria,108.76,288.0,kayleigh-fontana,ferone-jaclyn,nicolette-galletti,madison-hall-1,128.72,114.0,402.0
+relay,RE200YF,2,ella-scarpelli,erin-beaudry,maddy-hay,olivia-casella,124.54,240.0,kayleigh-fontana,alyssa-cino,jill-howard,madison-hall-1,146.17,78.0,318.0
+relay,RA400YF,1,maddy-hay,aliya-nagaria,ella-scarpelli,venise-mandana,238.64,255.0,,,,,,,255.0

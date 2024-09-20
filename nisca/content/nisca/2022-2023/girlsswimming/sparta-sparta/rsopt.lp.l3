@@ -1,0 +1,13 @@
+lineup,hdr,3,901.0
+lineup,dat,I,A200,1,molly-englehardt,128.63,72.0,2.0,catherine-gaines-2,134.46,54.0,3,lauren-pojedinec-1,149.97,13.0
+lineup,dat,I,E200,1,molly-englehardt,153.83,46.0,2.0,kristen-silipena-1,154.66,44.0,3,zoey-szekula-1,169.43,9.0
+lineup,dat,I,A50,1,erin-takach,26.72,86.0,2.0,amelia-stasiorek-2,27.3,78.0,3,madelyn-galicia-1,31.72,22.0
+lineup,dat,I,D100,1,catherine-gaines-2,65.48,80.0,2.0,maureen-gaines-1,75.01,36.0,3,ella-duphiney-1,78.92,21.0
+lineup,dat,I,A100,1,olivia-flanz-2,63.91,45.0,2.0,zoey-szekula-1,65.16,37.0,3,alicia-gaines-1,68.92,17.0
+lineup,dat,I,A500,1,kristen-silipena-1,375.59,36.0,2.0,lauren-pojedinec-1,413.93,1.0,,,,
+lineup,dat,I,B100,1,amelia-stasiorek-2,68.33,61.0,2.0,erin-takach,70.47,50.0,3,maureen-gaines-1,76.84,20.0
+lineup,dat,I,C100,1,olivia-flanz-2,79.86,55.0,2.0,ella-duphiney-1,89.2,18.0,,,,
+relay,hdr,984.0
+relay,RA200YF,2,molly-englehardt,kristen-silipena-1,olivia-flanz-2,catherine-gaines-2,111.84,255.0,gwen-dinardo-2,olivia-pasquariello-1,lauren-pojedinec-1,zoey-szekula-1,125.98,135.0,390.0
+relay,RE200YF,2,amelia-stasiorek-2,olivia-flanz-2,maureen-gaines-1,erin-takach,126.96,219.0,madelyn-galicia-1,ella-duphiney-1,gwen-dinardo-2,alicia-gaines-1,143.01,99.0,318.0
+relay,RA400YF,2,catherine-gaines-2,kristen-silipena-1,amelia-stasiorek-2,erin-takach,249.06,201.0,maureen-gaines-1,lauren-pojedinec-1,alicia-gaines-1,zoey-szekula-1,277.79,75.0,276.0

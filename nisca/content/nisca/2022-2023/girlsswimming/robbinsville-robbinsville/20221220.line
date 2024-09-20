@@ -1,0 +1,15 @@
+lineup,hdr,3,1378
+lineup,dat,R,RE200,1,angie-brown-602323,megan-dera-1,ariel-bernard,ria-chidare,123.4,252
+lineup,dat,R,RE200,2,kaitlyn-larocco,catalina-vasquez,hannah-myers-1,dani-leeds,198.75,0
+lineup,dat,I,A200,1,angie-brown-602323,128,74,2,jessica-hoplock,169.64,0,3,kaitlyn-larocco,241.23,0
+lineup,dat,I,E200,1,suhani-agarwal,166.14,16,2,dani-leeds,208.45,0,3,catalina-vasquez,231.9,0
+lineup,dat,I,A50,1,isabella-stoldt,28.23,65,2,ariel-bernard,25.83,100,3,vivian-galluccio,32.86,10
+lineup,dat,I,D100,1,megan-dera-1,59.72,113,2,ria-chidare,83.74,4
+lineup,dat,I,A100,1,sara-pandey,74.28,0,2,ariel-bernard,56.07,99,3,jessica-hoplock,79.2,0
+lineup,dat,I,A500,1,angie-brown-602323,355.42,58,2,vivian-galluccio,537.92,0
+lineup,dat,R,RA200,1,dani-leeds,sara-pandey,jessica-hoplock,vivian-galluccio,139.29,42
+lineup,dat,R,RA200,2,isabella-stoldt,ria-chidare,suhani-agarwal,ariel-bernard,116.26,216
+lineup,dat,I,B100,1,ria-chidare,84.78,0,2,megan-dera-1,62.55,95,3,sara-pandey,85.16,0
+lineup,dat,I,C100,1,catalina-vasquez,98.11,0,2,isabella-stoldt,84.56,36,3,hannah-myers-1,127.97,0
+lineup,dat,R,RA400,1,dani-leeds,jessica-hoplock,vivian-galluccio,sara-pandey,327.53,0
+lineup,dat,R,RA400,2,angie-brown-602323,suhani-agarwal,isabella-stoldt,megan-dera-1,249.52,198

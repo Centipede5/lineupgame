@@ -1,0 +1,13 @@
+lineup,hdr,3,243
+lineup,dat,I,A200,1,gavin-grant,154,0,2,tess-roman,157.32,0
+lineup,dat,I,E200,1,mike-rodriguez-550972,177.65,0,2,sarah-haroun,271.23,0
+lineup,dat,I,A50,1,andrew-krumaker,27.08,46,2,amanda-savati-1,56,0,3,phillip-cappuccio,31.08,4
+lineup,dat,I,D100,1,tess-roman,93.22,0,2,jordan-finnerty-1,81.23,0
+lineup,dat,I,A100,1,andrew-krumaker,60.12,39,2,lulu-rynk-1,78.12,0,3,josie-long,85.34,0
+lineup,dat,I,A500,1,sarah-haroun,599.99,0,2,melanie-torres,539.92,0
+lineup,dat,R,RA200,1,gavin-grant,jordan-constantino,tess-roman,andrew-krumaker,117.32,126
+lineup,dat,R,RA200,2,lulu-rynk-1,jordan-constantino,melanie-torres,josie-long,147.43,0
+lineup,dat,I,B100,1,jordan-constantino,98.65,0,2,mike-rodriguez-550972,108.23,0,3,anthony-garufi,114.34,0
+lineup,dat,I,C100,1,jordan-finnerty-1,85.13,7,2,gavin-grant,81.23,21,3,amanda-savati-1,131.22,0
+lineup,dat,R,RA400,1,josie-long,lulu-rynk-1,jordan-constantino,melanie-torres,341.28,0
+lineup,dat,R,RA400,2,sarah-haroun,anthony-garufi,gavin-grant,mike-rodriguez-550972,361.12,0
