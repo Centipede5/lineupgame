@@ -13,6 +13,9 @@ async function getLeaderboard(){
     data.push({name: 'Coaches Best Lineup', score: 4668,color: 'bg-warning'})
     data.push({name: 'Heuristic Lineup', score: 4509,color: 'bg-info'})
 
+    // sort data by score
+    data.sort((a, b) => b['score'] - a['score'])
+
 
     var table = document.createElement('table')
     table.className = "table table-bordered"
