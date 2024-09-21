@@ -44,6 +44,25 @@
         </div>
     </nav>
     
+    <!-- Centered open modal with spinner saying Loading ... -->
+    <div class="modal fade" id="loadingModal" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <div class="d-flex justify-content-center">
+                        <div class="spinner-border" role="status">
+                            <span class="sr-only">Loading...</span>
+                        </div>
+                    </div>
+                    <div class="d-flex justify-content-center">
+                        <p>Loading ...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
     <!-- Table -->
     <div id="main">
     </div>  
@@ -56,8 +75,14 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/1.0.40/jquery.csv.min.js" integrity="sha512-Y8iWYJDo6HiTo5xtml1g4QqHtl/PO1w+dmUpQfQSOTqKNsMhExfyPN2ncNAe9JuJUSKzwK/b6oaNPop4MXzkwg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="countUp.umd.js" ></script>
+    <script src="utils.js"></script>
     <script src="leaderboard.js"></script>
     <script>
+        var loadingModal = new bootstrap.Modal(document.getElementById('loadingModal'), {
+            keyboard: false
+        });
+        //loadingModal.show();
+
         var countUp;
         window.addEventListener("load",function(){
             countUp = new countUp.CountUp('powerpoint', 0, {duration: 0.5});

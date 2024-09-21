@@ -1,10 +1,18 @@
-const TEAM_NAME = 'Princeton'
+const TEAM_NAME = 'Westfield'
 
 // get leaderboard/TEAM_NAME from server and display it in a table
 
 async function getLeaderboard(){
     const response = await fetch('/leaderboard/'+TEAM_NAME)
-    const data = await response.json()
+    const data = await response.json();
+    /*
+    add the following data:
+    Heuristic Lineup: 4509
+    Coaches Best Lineup: 4668
+    */
+    data.push({name: 'Coaches Best Lineup', score: 4668,color: 'bg-warning'})
+    data.push({name: 'Heuristic Lineup', score: 4509,color: 'bg-info'})
+
 
     var table = document.createElement('table')
     table.className = "table table-bordered"
@@ -29,6 +37,9 @@ async function getLeaderboard(){
         tbody.appendChild(tr)
         var td = document.createElement('td')
         td.innerHTML = row['name']
+        if(row['color']){
+            td.className = row['color']
+        }
         tr.appendChild(td)
         var td = document.createElement('td')
         td.innerHTML = row['score']
