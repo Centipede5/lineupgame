@@ -3,12 +3,12 @@ const TEAM_NAME = 'Westfield'
 // get leaderboard/TEAM_NAME from server and display it in a table
 
 async function getLeaderboard(){
-    const response = await fetch('/leaderboard/'+TEAM_NAME)
+    const response = await fetch(HOST+'/leaderboard/'+TEAM_NAME)
     const data = await response.json();
     /*
-    add the following data:
-    Heuristic Lineup: 4509
-    Coaches Best Lineup: 4668
+        Add the following data:
+        Heuristic Lineup: 4509
+        Coaches Best Lineup: 4668
     */
     data.push({name: 'Coaches Best Lineup', score: 4668,color: 'bg-warning'})
     data.push({name: 'Heuristic Lineup', score: 4509,color: 'bg-info'})

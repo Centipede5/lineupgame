@@ -60,7 +60,7 @@ async function submitLineup(){
     const key = await sha256(keyComponents);
 
     // POST request to the server
-    const response = await fetch('/leaderboard', {
+    const response = await fetch(HOST+'/leaderboard', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json'

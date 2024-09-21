@@ -18,7 +18,7 @@ var relayTimes = {}
 // read TEAM_LINEUP file using fetch and $.csv.toArray(
 async function readLineup(team_folder){
 
-    const relayLineup = await fetch('westfield-RELAYS.L1/westfield-RELAYS.L1').then(res => res.text())
+    const relayLineup = await fetch(HOST+'/westfield-RELAYS.L1/westfield-RELAYS.L1').then(res => res.text())
     var relayData = await $.csv.toObjects(relayLineup);
     window.relayData = relayData
     // if relayData.set == time then convert it from set,event,num,swimmer1,swimmer2,swimmer3,swimmer4,time,powerpoints to set,name,event,time 
@@ -40,7 +40,7 @@ async function readLineup(team_folder){
         }
     });
 
-    const lineup = await fetch(team_folder+'/values.csv').then(res => res.text())
+    const lineup = await fetch(HOST+team_folder+'/values.csv').then(res => res.text())
     var data = await $.csv.toObjects(lineup);
 
     data = data.map(d => {
