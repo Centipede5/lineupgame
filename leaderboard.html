@@ -22,10 +22,10 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
               <li class="nav-item">
-                <a class="nav-link" href="/">Play</a>
+                <a class="nav-link" href="index.html">Play</a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="/leaderboard.html">Leaderboard</a>
+                <a class="nav-link" href="leaderboard.html">Leaderboard</a>
               </li>
             </ul>
         </div>
@@ -47,6 +47,8 @@
     <script src="countUp.umd.js" ></script>
     <script src="leaderboard.js"></script>
     <script>
+       var HOST = 'https://251fad54-a747-4112-88ae-53f42e39d447-00-15ql871g4bbz0.riker.replit.dev'
+
         var countUp;
         window.addEventListener("load",function(){
             countUp = new countUp.CountUp('powerpoint', 0, {duration: 0.5});
